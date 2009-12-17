@@ -13,11 +13,20 @@ require 'fastercsv'
 #
 #p ip_data.city(ip)
 
-data_path = '/data/ripd/GeoLiteCity_20091201/'
+# Main data path
+#data_path = '/data/ripd/GeoLiteCity_20091201/'
+
+# Test data path
+data_path = '/data/temp/minidata/'
+
 ip_locations = data_path + 'GeoLiteCity-USLocation.csv'
+ip_blocks = data_path + 'GeoLiteCity-Blocks.csv'
+
+loc_hash = Hash.new(0)
 
 FasterCSV.foreach(ip_locations) do |row|
-  if row[3] == "Austin"
-    p row
-  end
+  loc_hash[row[0]] = row[1..-1]
+  p row
 end
+
+p loc_hash['1609']
