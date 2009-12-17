@@ -26,7 +26,10 @@ loc_hash = Hash.new(0)
 
 FasterCSV.foreach(ip_locations) do |row|
   loc_hash[row[0]] = row[1..-1]
-  p row
 end
 
-p loc_hash['1609']
+FasterCSV.foreach(ip_blocks) do |row|
+  if loc_hash.key?(row[2])
+    p row[0..1] + loc_hash[row[2]]
+  end
+end
