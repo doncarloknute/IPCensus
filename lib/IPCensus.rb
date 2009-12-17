@@ -21,6 +21,7 @@ data_path = '/data/temp/minidata/'
 
 ip_locations = data_path + 'GeoLiteCity-USLocation.csv'
 ip_blocks = data_path + 'GeoLiteCity-Blocks.csv'
+ip_output = data_path + 'USBlocksLocation.csv'
 
 loc_hash = Hash.new(0)
 
@@ -30,6 +31,8 @@ end
 
 FasterCSV.foreach(ip_blocks) do |row|
   if loc_hash.key?(row[2])
-    p row[0..1] + loc_hash[row[2]]
+    FasterCSV.open(ip_output, "a") do |csv|
+      csv << row[0..1] + loc_hash[row[2]]
+    end
   end
 end
