@@ -67,8 +67,8 @@ end
 # Write out the matching ZIPLIKE numbers with their corresponding Logical Record Number
 geozip_hash.sort.each do |entry|
   outrow = []
-  outrow[0] = entry[0]
-  outrow[1] = entry[1][0]
+  outrow[0] = entry[0] #ZIPlike number
+  outrow[1] = entry[1][0] #logical record number
   FasterCSV.open(zip_logrec, "a", options = tab_sep) do |csv|
     csv << outrow
   end
