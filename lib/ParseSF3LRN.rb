@@ -5,7 +5,7 @@ require 'fastercsv'
 data_path = '/data/IPCensus/'
 
 # Census data path
-census_path = '/data/ripd/www2.census.gov/census_2000/datasets/Summary_File_3/O_National/'
+census_path = '/data/ripd/www2.census.gov/census_2000/datasets/Summary_File_3/0_National/'
 
 # Test data path
 #data_path = '/data/temp/minidata/'
