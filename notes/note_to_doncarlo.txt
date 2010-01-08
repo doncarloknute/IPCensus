@@ -1,0 +1,16 @@
+
+ git remote add -f -m master mrflip git@github.com:mrflip/IPCensus.git
+ git checkout --track -b mrflip_master mrflip/master
+
+go into your github, choose admin, add me as collab
+
+ -----
+ rails
+ extlib
+ cheat
+ xmlsimple
+ imw
+ highline
+ configliere
+ monkeyshines
+ 
