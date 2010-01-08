@@ -561,7 +561,7 @@ sub ParseSumFileLayout {
 		if ($line =~ /^\s+(LABEL\s+)?([A-Z0-9]+)='(.*)'[\s;]*$/) {
 			if ($title eq "") { next; }
 			if ($title =~ /IMPUTATION/) { next; }
-			if ($universe =~ /who is|who are|white|black|hispanic|asian|american indian|native hawaiian|some other race|two or more races/i) { next; } # skip race-by-race tables
+			# if ($universe =~ /who is|who are|white|black|hispanic|asian|american indian|native hawaiian|some other race|two or more races/i) { next; } # skip race-by-race tables
 
 			my ($id, $name) = ($2, $3);
 
@@ -786,7 +786,7 @@ sub GenerateSchema {
 \@prefix census: <http://www.rdfabout.com/rdf/schema/census/> .
 EOF
 
-	foreach my $sf (1, 3) {
+	foreach my $sf (1,3) {
 		my $predtype;
 		if ($sf == 1) { $predtype = "100pct"; }
 		elsif ($sf == 3) { $predtype = "samp"; }
