@@ -1,0 +1,298 @@
+diff -ur table_layouts_source/sf1/SF101.Sas table_layouts/sf1/SF101.Sas
+--- table_layouts_source/sf1/SF101.Sas	2007-08-09 09:25:25.000000000 -0400
++++ table_layouts/sf1/SF101.Sas	2007-08-09 09:24:41.000000000 -0400
+@@ -31,7 +31,7 @@
+          P002003='        Inside urbanized areas'
+          P002004='        Inside urban clusters'
+          P002005='      Rural'
+-         P002006='      Not defined for this file'
++#         P002006='      Not defined for this file'
+      
+          /*RACE [71]*/
+          /*Universe: Total population*/
+diff -ur table_layouts_source/sf1/SF113.Sas table_layouts/sf1/SF113.Sas
+--- table_layouts_source/sf1/SF113.Sas	2007-08-09 09:25:48.000000000 -0400
++++ table_layouts/sf1/SF113.Sas	2007-08-09 09:24:47.000000000 -0400
+@@ -18,7 +18,7 @@
+          CIFSN='Characteristic Iteration File Sequence Number'
+          LOGRECNO='Logical Record Number'  
+ 
+-         /*NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES, AND WITH ONE OR MORE NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED GROUPS
++         /*NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES, AND WITH ONE OR MORE NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER CATEGORIES FOR SELECTED GROUPS [0000]*/
+          /*Universe: Total Native Hawaiian and Other Pacific Islander categories tallied and people with no specific Native Hawaiian and Other Pacific Islander category reported*/
+      
+          PCT010001='Total Native Hawaiian and Other Pacific Islander categories tallied:'
+diff -ur table_layouts_source/sf3/SF301.SAS table_layouts/sf3/SF301.SAS
+--- table_layouts_source/sf3/SF301.SAS	2007-08-09 09:24:59.000000000 -0400
++++ table_layouts/sf3/SF301.SAS	2007-08-09 09:24:26.000000000 -0400
+@@ -18,20 +18,25 @@
+          CIFSN='Characteristic Iteration File Sequence Number'
+          LOGRECNO='Logical Record Number'  
+ 
+-         /*TOTAL POPULATION [1]*/
+-         /*Universe:  Total population*/
+-
+-         P001001='Total'
+-     
+-         /*UNWEIGHTED SAMPLE COUNT OF THE POPULATION [1]*/         
+-         /*Universe:  Total population*/
+-
+-         P002001='Total'
+-     
+-         /*100-PERCENT COUNT OF THE POPULATION [1]*/     
+-         /*Universe:  Total population*/
+-
+-         P003001='Total'
++# JT: This is given in the SF1 file, so we don't really want it twice
++#         /*TOTAL POPULATION [1]*/
++#         /*Universe:  Total population*/
++#
++#         P001001='Total'
++
++# JT: This gives us the sample sized used for SF3, but we don't really
++# care, and especially we don't want it to appear in the RDF as
++# "totalPopulation".     
++#         /*UNWEIGHTED SAMPLE COUNT OF THE POPULATION [1]*/         
++#         /*Universe:  Total population*/
++#
++#         P002001='Total'
++    
++# JT: Seems to simply duplicate P001001.
++#         /*100-PERCENT COUNT OF THE POPULATION [1]*/     
++#         /*Universe:  Total population*/
++#
++#         P003001='Total'
+      
+          /*PERCENT OF THE POPULATION IN SAMPLE [1]*/      
+          /*Universe:  Total population*/
+diff -ur table_layouts_source/sf3/SF304.SAS table_layouts/sf3/SF304.SAS
+--- table_layouts_source/sf3/SF304.SAS	2007-08-09 09:25:19.000000000 -0400
++++ table_layouts/sf3/SF304.SAS	2007-08-09 09:24:38.000000000 -0400
+@@ -97,7 +97,8 @@
+          P040021='      Other service only'
+      
+          /*AGE BY TYPES OF DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER WITH DISABILITIES [19]*/                  
+-         /*Universe:  Total disabilities tallied for the civilian noninstitutionalized population 5 years and over with disabilities*/
++#         /*Universe:  Total disabilities tallied for the civilian noninstitutionalized population 5 years and over with disabilities*/
++         /*Universe:  cn5population with disabilities*/
+ 
+          P041001='Total disabilities tallied:'
+          P041002='      Total disabilities tallied for people 5 to 15 years:'
+@@ -120,7 +121,7 @@
+          P041019='        Go-outside-home disability'
+      
+          /*SEX BY AGE BY DISABILITY STATUS BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [49]*/                         
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P042001='Total:'
+          P042002='      Male:'
+diff -ur table_layouts_source/sf3/SF308.SAS table_layouts/sf3/SF308.SAS
+--- table_layouts_source/sf3/SF308.SAS	2007-08-09 09:24:59.000000000 -0400
++++ table_layouts/sf3/SF308.SAS	2007-08-09 09:24:26.000000000 -0400
+@@ -179,7 +179,7 @@
+          P103002='      Living with own grandchildren under 18 years:'
+          P103003='        Grandparent responsible for own grandchildren under 18 years:'
+      
+-         /*          Length of time --*/
++#         /*          Length of time --*/
+ 
+          P103004='            Imputed'
+          P103005='            Not imputed'
+@@ -308,49 +308,49 @@
+          P118003='      Not imputed'
+      
+          /*IMPUTATION OF DISABILITY ITEMS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]*/                
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P119001='Total:'
+          P119002='      No disability items imputed'
+          P119003='      One or more disability items imputed'
+      
+          /*IMPUTATION OF SENSORY DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]*/                  
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P120001='Total:'
+          P120002='      Imputed'
+          P120003='      Not imputed'
+      
+          /*IMPUTATION OF PHYSICAL DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]*/                 
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P121001='Total:'
+          P121002='      Imputed'
+          P121003='      Not imputed'
+      
+          /*IMPUTATION OF MENTAL DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]*/                 
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P122001='Total:'
+          P122002='      Imputed'
+          P122003='      Not imputed'
+      
+          /*IMPUTATION OF SELF-CARE DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]*/                  
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          P123001='Total:'
+          P123002='      Imputed'
+          P123003='      Not imputed'
+      
+          /*IMPUTATION OF GO-OUTSIDE-HOME DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 16 YEARS AND OVER [3]*/                    
+-         /*Universe:  Civilian noninstitutionalized population 16 years and over*/
++         /*Universe:  cnpopulation 16 years and over*/
+ 
+          P124001='Total:'
+          P124002='      Imputed'
+          P124003='      Not imputed'
+      
+          /*IMPUTATION OF EMPLOYMENT DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 16 TO 64 YEARS [3]*/                 
+-         /*Universe:  Civilian noninstitutionalized population 16 to 64 years*/
++         /*Universe:  cnpopulation 16 to 64 years*/
+ 
+          P125001='Total:'
+          P125002='      Imputed'
+diff -ur table_layouts_source/sf3/SF319.SAS table_layouts/sf3/SF319.SAS
+--- table_layouts_source/sf3/SF319.SAS	2007-08-09 09:25:07.000000000 -0400
++++ table_layouts/sf3/SF319.SAS	2007-08-09 09:24:32.000000000 -0400
+@@ -283,14 +283,14 @@
+          PCT007162='          75 to 84 years'
+          PCT007163='          85 years and over'
+      
+-         /*GRANDPARENTS LIVING WITH OWN GRANDCHILDREN UNDER 18 YEARS BY RESPONSIBILITY FOR OWN GRANDCHILDREN BY LENGTH OF TIME RESPONSIBLE FOR GRANDCHILDREN FOR THE POPULATION 30 YEARS AND OVER IN                                                    
++         /*GRANDPARENTS LIVING WITH OWN GRANDCHILDREN UNDER 18 YEARS BY RESPONSIBILITY FOR OWN GRANDCHILDREN BY LENGTH OF TIME RESPONSIBLE FOR GRANDCHILDREN FOR THE POPULATION 30 YEARS AND OVER IN  ... [000]*/
+          /*Universe:  Population 30 years and over in households*/
+ 
+          PCT008001='Total:'
+          PCT008002='      Living with own grandchildren under 18 years:'
+          PCT008003='        Grandparent responsible for own grandchildren under 18 years:'
+      
+-         /*          Length of time --*/
++#         /*          Length of time --*/
+ 
+          PCT008004='            Less than 6 months'
+          PCT008005='            6 to 11 months'
+diff -ur table_layouts_source/sf3/SF322.SAS table_layouts/sf3/SF322.SAS
+--- table_layouts_source/sf3/SF322.SAS	2007-08-09 09:25:01.000000000 -0400
++++ table_layouts/sf3/SF322.SAS	2007-08-09 09:24:27.000000000 -0400
+@@ -19,7 +19,8 @@
+          LOGRECNO='Logical Record Number'  
+ 
+          /*ANCESTRY (TOTAL CATEGORIES TALLIED) FOR PEOPLE WITH ONE OR MORE ANCESTRY CATEGORIES REPORTED [109]*/                        
+-         /*Universe:  Total ancestry categories tallied for people with one or more ancestry categories reported*/
++#         /*Universe:  Total ancestry categories tallied for people with one or more ancestry categories reported*/
++         /*Universe:  People with ancestry reported*/
+ 
+          PCT018001='Total specified ancestries tallied:'
+          PCT018002='      Acadian/Cajun'
+diff -ur table_layouts_source/sf3/SF324.SAS table_layouts/sf3/SF324.SAS
+--- table_layouts_source/sf3/SF324.SAS	2007-08-09 09:25:08.000000000 -0400
++++ table_layouts/sf3/SF324.SAS	2007-08-09 09:24:33.000000000 -0400
+@@ -106,7 +106,7 @@
+          PCT025083='          Graduate or professional degree'
+      
+          /*SEX BY AGE BY TYPES OF DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [101]*/                  
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          PCT026001='Total:'
+          PCT026002='      Male:'
+@@ -211,7 +211,7 @@
+          PCT026101='          No disability'
+      
+          /*SEX BY AGE BY SENSORY DISABILITY BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [49]*/                          
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          PCT027001='Total:'
+          PCT027002='      Male:'
+diff -ur table_layouts_source/sf3/SF325.SAS table_layouts/sf3/SF325.SAS
+--- table_layouts_source/sf3/SF325.SAS	2007-08-09 09:24:56.000000000 -0400
++++ table_layouts/sf3/SF325.SAS	2007-08-09 09:24:24.000000000 -0400
+@@ -68,7 +68,7 @@
+          PCT028049='          No physical disability'
+      
+          /*SEX BY AGE BY MENTAL DISABILITY BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [49]*/                         
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          PCT029001='Total:'
+          PCT029002='      Male:'
+@@ -121,7 +121,7 @@
+          PCT029049='          No mental disability'
+      
+          /*SEX BY AGE BY SELF-CARE DISABILITY BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [49]*/                          
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over*/
++         /*Universe:  cn5population*/
+ 
+          PCT030001='Total:'
+          PCT030002='      Male:'
+@@ -174,7 +174,7 @@
+          PCT030049='          No self-care disability'
+      
+          /*SEX BY AGE BY GO-OUTSIDE-HOME DISABILITY BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 16 YEARS AND OVER [43]*/                            
+-         /*Universe:  Civilian noninstitutionalized population 16 years and over*/
++         /*Universe:  cnpopulation 16 years and over*/
+ 
+          PCT031001='Total:'
+          PCT031002='      Male:'
+@@ -221,7 +221,7 @@
+          PCT031043='          No go-outside-home disability'
+      
+          /*SEX BY AGE BY EMPLOYMENT DISABILITY BY EMPLOYMENT STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 16 TO 64 YEARS [31]*/                         
+-         /*Universe:  Civilian noninstitutionalized population 16 to 64 years*/
++         /*Universe:  cnpopulation 16 to 64 years*/
+ 
+          PCT032001='Total:'
+          PCT032002='      Male:'
+diff -ur table_layouts_source/sf3/SF326.SAS table_layouts/sf3/SF326.SAS
+--- table_layouts_source/sf3/SF326.SAS	2007-08-09 09:24:56.000000000 -0400
++++ table_layouts/sf3/SF326.SAS	2007-08-09 09:24:24.000000000 -0400
+@@ -19,7 +19,8 @@
+          LOGRECNO='Logical Record Number'  
+ 
+          /*SEX BY DISABILITY STATUS BY SCHOOL ENROLLMENT BY EDUCATIONAL ATTAINMENT FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 18 TO 34 YEARS [47]*/                            
+-         /*Universe:  Civilian noninstitutionalized population 18 to 34 years*/
++#         /*Universe:  Civilian noninstitutionalized population 18 to 34 years*/
++         /*Universe:  cnpopulation 18 to 34 years*/
+ 
+          PCT033001='Total:'
+          PCT033002='      Male:'
+@@ -70,7 +71,8 @@
+          PCT033047='            Graduate or professional degree'
+      
+          /*SEX BY AGE BY DISABILITY STATUS BY POVERTY STATUS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [59]*/                       
+-         /*Universe:  Civilian noninstitutionalized population 5 years and over for whom poverty status is determined*/
++#         /*Universe:  Civilian noninstitutionalized population 5 years and over for whom poverty status is determined*/
++         /*Universe:  cn5population for whom poverty status is determined*/
+ 
+          PCT034001='Total:'
+          PCT034002='      Male:'
+diff -ur table_layouts_source/sf3/SF368.SAS table_layouts/sf3/SF368.SAS
+--- table_layouts_source/sf3/SF368.SAS	2007-08-09 09:25:00.000000000 -0400
++++ table_layouts/sf3/SF368.SAS	2007-08-09 09:24:26.000000000 -0400
+@@ -139,7 +139,7 @@
+ 
+          HCT017001='Total:'
+      
+-         /*      Household income in 1999 --*/
++#         /*      Household income in 1999 --*/
+ 
+          HCT017002='        Less than $10,000:'
+          HCT017003='          Value less than $10,000'
+diff -ur table_layouts_source/sf3/SF369.SAS table_layouts/sf3/SF369.SAS
+--- table_layouts_source/sf3/SF369.SAS	2007-08-09 09:24:58.000000000 -0400
++++ table_layouts/sf3/SF369.SAS	2007-08-09 09:24:25.000000000 -0400
+@@ -23,7 +23,7 @@
+ 
+          HCT018001='Total:'
+      
+-         /*      Household income in 1999 --*/
++#         /*      Household income in 1999 --*/
+ 
+          HCT018002='        Less than $10,000:'
+          HCT018003='          With cash rent:'
