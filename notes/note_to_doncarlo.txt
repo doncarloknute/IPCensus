@@ -1,16 +1,28 @@
+# Commandline and development tools
+sudo gem install --no-rdoc --no-ri extlib activesupport cheat wirble rake sake thor highline configliere whenever
 
- git remote add -f -m master mrflip git@github.com:mrflip/IPCensus.git
- git checkout --track -b mrflip_master mrflip/master
+# Web frameworks
+sudo gem install --no-rdoc --no-ri rails rack sinatra shotgun monk thin 
 
-go into your github, choose admin, add me as collab
+# Queueing, monitoring and distributed DB
+sudo gem install --no-rdoc --no-ri beanstalk-client god godhead memcache-client resque mongomapper ohm redis eventmachine
 
- -----
- rails
- extlib
- cheat
- xmlsimple
- imw
- highline
- configliere
- monkeyshines
- 
+# Cloud
+sudo gem install --no-rdoc --no-ri right_aws amazon-ec2 aws-s3 poolparty ohai chef
+
+# HTTP and Scraping 
+sudo gem install --no-rdoc --no-ri rest-client right_http_connection typhoeus oauth curb ruby-openid feedzirra mechanize
+
+# Parsing and data formats
+sudo gem install --no-rdoc --no-ri hpricot fastercsv json yajl-ruby libxml-ruby nokogiri xml-simple htmlentities addressable uuidtools
+sudo gem install oniguruma -- --with-opt-dir=/sw
+sudo gem install idn       -- --with-idn-dir=/sw
+
+# Infochimps libs
+sudo gem install --no-rdoc --no-ri imw monkeyshines edamame wukong flood_monkey
+
+# datamapper
+sudo gem install --no-rdoc --no-ri datamapper data_objects dm-ar-finders dm-cli dm-more do_mysql do_sqlite3
+
+# Testing and Metrics Frameworks
+sudo gem install --no-rdoc --no-ri rspec rspec-rails machinist rcov rdoc reek roodi ruby-prof jeweler yard ZenTest spork cucumber flay flog webrat 
