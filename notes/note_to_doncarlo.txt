@@ -1,28 +1,28 @@
 # Commandline and development tools
-sudo gem install --no-rdoc --no-ri extlib activesupport cheat wirble rake sake thor highline configliere whenever
+sudo gem install extlib activesupport cheat wirble rake sake thor highline configliere whenever
 
 # Web frameworks
-sudo gem install --no-rdoc --no-ri rails rack sinatra shotgun monk thin 
+sudo gem install rails rack sinatra shotgun monk thin 
 
 # Queueing, monitoring and distributed DB
-sudo gem install --no-rdoc --no-ri beanstalk-client god godhead memcache-client resque mongomapper ohm redis eventmachine
+sudo gem install beanstalk-client god godhead memcache-client resque mongomapper ohm redis eventmachine
 
 # Cloud
-sudo gem install --no-rdoc --no-ri right_aws amazon-ec2 aws-s3 poolparty ohai chef
+sudo gem install right_aws amazon-ec2 aws-s3 poolparty ohai chef
 
 # HTTP and Scraping 
-sudo gem install --no-rdoc --no-ri rest-client right_http_connection typhoeus oauth curb ruby-openid feedzirra mechanize
+sudo gem install rest-client right_http_connection typhoeus oauth curb ruby-openid feedzirra mechanize
 
 # Parsing and data formats
-sudo gem install --no-rdoc --no-ri hpricot fastercsv json yajl-ruby libxml-ruby nokogiri xml-simple htmlentities addressable uuidtools
+sudo gem install hpricot fastercsv json yajl-ruby libxml-ruby nokogiri xml-simple htmlentities addressable uuidtools
 sudo gem install oniguruma -- --with-opt-dir=/sw
 sudo gem install idn       -- --with-idn-dir=/sw
 
 # Infochimps libs
-sudo gem install --no-rdoc --no-ri imw monkeyshines edamame wukong flood_monkey
+sudo gem install imw monkeyshines edamame wukong flood_monkey
 
 # datamapper
-sudo gem install --no-rdoc --no-ri datamapper data_objects dm-ar-finders dm-cli dm-more do_mysql do_sqlite3
+sudo gem install datamapper data_objects dm-ar-finders dm-cli dm-more do_mysql do_sqlite3
 
 # Testing and Metrics Frameworks
-sudo gem install --no-rdoc --no-ri rspec rspec-rails machinist rcov rdoc reek roodi ruby-prof jeweler yard ZenTest spork cucumber flay flog webrat 
+sudo gem install rspec rspec-rails machinist rcov rdoc reek roodi ruby-prof jeweler yard ZenTest spork cucumber flay flog webrat 
