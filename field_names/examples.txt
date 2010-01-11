@@ -1,0 +1,31 @@
+
+     P025001='Total:'
+     P025002='      Living in an MSA/PMSA in 2000:'
+     P025003='        Same house in 1995'
+     P025004='        Different house in 1995:'
+     P025005='          In United States in 1995:'
+     P025006='            Same MSA/PMSA in 1995:'
+     P025007='              Central city'
+     P025008='              Remainder of this MSA/PMSA'
+     P025009='            Different MSA/PMSA in 1995:'
+     P025010='              Central city'
+     P025011='              Remainder of different MSA/PMSA'
+     P025012='            Not in an MSA/PMSA in 1995'
+     P025013='          In Puerto Rico in 1995:'
+     P025014='            Same MSA/PMSA in 1995:'
+     P025015='              Central city'
+
+lt5y
+gt18y
+18to24y
+Usd10000to15000
+Usd10kto15k
+
+	PopLt5y_tot
+	Pop5o_Msa2000
+	Pop5o_Msa2000_Sh1995
+	Pop5o_Msa2000_Dh1995_Us1995
+	
+	Pop5o_Msa2000_Dh1995_Us1995_SMsa1995_City
+	Pop5o_Msa2000_Dh1995_Us1995_SMsa1995_Other
+	Pop5o_Msa2000_Dh1995_Us1995_DMsa1995_City
