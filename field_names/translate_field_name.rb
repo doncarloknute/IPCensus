@@ -146,8 +146,8 @@ File.open(raw_counts).each do |line|
       p [orig_line, line]
     end
   end
-  if line =~ /[Tt]otal\s/
-    line.gsub!(/[Tt]otal\s/, 'Tot')
+  if line =~ /[Tt]otal\s?/
+    line.gsub!(/[Tt]otal\s?/, 'Tot')
     if line == orig_line
       p [orig_line, line]
     end
@@ -164,9 +164,9 @@ File.open(raw_counts).each do |line|
       p [orig_line, line]
     end
   end
-  if orig_line != line 
-    puts orig_line + "\t" + line 
-  else 
+  if orig_line == line 
+#    puts orig_line + "\t" + line 
+#  else 
     puts orig_line
   end
 end
