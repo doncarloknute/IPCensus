@@ -18,11 +18,8 @@ raw_counts = 'raw_with_counts.tsv'
 
 File.open(raw_counts).each do |line|
   line.chomp!
-  fixed_line = ''
+  orig_line = line.dup
   if line =~ /(\$\d+),(\d+)/
-    #p line
-    # line.gsub!(/\$(\d+),(\d+) to \$(\d+),(\d+)/, 'Usd\1kto\3k')
-    orig_line = line.dup
     [
       [/\$?(\d+)(?:,\d+)? to \$?(\d+)(?:,\d+) or loss/, 'Usd\1kto\2korL'], # eg $1 to $2,499 or loss
       [/\$?(\d+)(?:,\d+)? to \$?(\d+)(?:,\d+)/,         Proc.new{ "Usd#{$1}kto#{$2.to_i+1}k"}], # eg $10,000 to $12,499
@@ -31,27 +28,150 @@ File.open(raw_counts).each do |line|
     ].each do |regex, repl|
       line.gsub_bs!(regex, repl) and break
     end
-    if true || line == orig_line
+    if line == orig_line
       p [orig_line, line]
     end
     # puts line
   end
   if line =~ /[Hh]ouseholder\s?/
-    fixed_line = line.gsub(/[Hh]ouseholder\s?/, 'Hh')
-    if line == fixed_line
-      p [line, fixed_line]
+    line.gsub!(/[Hh]ouseholder\s?/, 'Hh')
+    if line == orig_line
+      p [orig_line, line]
     end
-    puts fixed_line
+    # puts line
   end
   if line =~ /(\d\d) to (\d\d) years/
-    if fixed_line == ''
-      fixed_line = line.gsub(/(\d\d) to (\d\d) years/, '\1to\2y')
-    else
-      fixed_line.gsub!(/(\d\d) to (\d\d) years/, '\1to\2y')
+    line.gsub!(/(\d\d) to (\d\d) years/, '\1to\2y')
+    if line == orig_line
+      p [orig_line, line]
     end
-    if line == fixed_line
-      p [line, fixed_line]
-    end
-    puts fixed_line
+    # puts line
   end
+  if line =~ /(\d\d) to (\d\d) weeks/
+    line.gsub!(/(\d\d) to (\d\d) weeks/, '\1to\2w')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /(\d\d) to (\d\d) minutes/
+    line.gsub!(/(\d\d) to (\d\d) minutes/, '\1to\2min')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /(\d?\d) year(s?)/
+    line.gsub!(/(\d?\d) year(s?)/, '\1y')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /(\sof\s|\sfor\s|\sa\s)/
+    line.gsub!(/(\sof\s|\sfor\s|\sa\s)/, '')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /[Uu]nder\s|[Ll]ess than\s/
+    line.gsub!(/[Uu]nder\s|[Ll]ess than\s/, 'Lt')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /[Mm]ore than\s/
+    line.gsub!(/[Mm]ore than\s/, 'Gt')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /\spercent\s?/
+    line.gsub!(/\spercent\s?/, 'pct')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /\sto\s/
+    line.gsub!(/\sto\s/, 'to')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /[Ii]ncome\s?/
+    line.gsub!(/[Ii]ncome\s?/, 'Inc')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Aggregate\s/
+    line.gsub!(/Aggregate\s/, 'Agg')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Different\s/
+    line.gsub!(/Different\s/, 'Diff')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Enrolled\s/
+    line.gsub!(/Enrolled\s/, 'Erld')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Living\s/
+    line.gsub!(/Living\s/, 'Lvng')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Other\s/
+    line.gsub!(/Other\s/, 'Oth')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Speak\s/
+    line.gsub!(/Speak\s/, 'Spk')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /[Tt]otal\s/
+    line.gsub!(/[Tt]otal\s/, 'Tot')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /With\s/
+    line.gsub!(/With\s/, 'Wth')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  if line =~ /Worked\s/
+    line.gsub!(/Worked\s/, 'Wrkd')
+    if line == orig_line
+      p [orig_line, line]
+    end
+    # puts line
+  end
+  puts orig_line + "\t" + line if orig_line != line
 end
