@@ -188,11 +188,11 @@
  1	AggIntDivRentInc1999                                                  	Aggregate interest, dividends, or net rental income in 1999           
  1	AggNFamHHInc1999:                                                     	Aggregate nonfamily household income in 1999:                         
  1	AggOthInc1999                                                         	Aggregate other types of income in 1999                               
- 1	Aggpublic assistance Incin 1999                                       	Aggregate public assistance income in 1999                            
- 1	Aggretirement Incin 1999                                              	Aggregate retirement income in 1999                                   
- 1	Aggself-employment Incin 1999                                         	Aggregate self-employment income in 1999                              
- 1	Aggtravel timetowork (in minutes):                                    	Aggregate travel time to work (in minutes):                           
- 1	Aggwage or salary Incin 1999                                          	Aggregate wage or salary income in 1999                               
+ 1	AggPubAssInc1999                                                    	Aggregate public assistance income in 1999                            
+ 1	AggRetInc1999                                                        	Aggregate retirement income in 1999                                   
+ 1	AggSelfEmplInc1999                                                   	Aggregate self-employment income in 1999                              
+ 1	AggTravTimeWork:                                                     	Aggregate travel time to work (in minutes):                           
+ 1	AggWageSalInc1999                                                    	Aggregate wage or salary income in 1999                               
  2	Occ003                                                                	Agriculture, forestry, fishing and hunting                            
  4	AgForFishHuntMin:                                                     	Agriculture, forestry, fishing and hunting, and mining:               
  2	AgForFishHunt:                                                        	Agriculture, forestry, fishing and hunting:                           
@@ -284,24 +284,24 @@
  1	Ferry                                                                	Ferryboat                                                             
  2	Occ020                                                              	Finance and insurance                                                 
  2	FinInsRealEstRentLeas:                                              	Finance, insurance, real estate and rental and leasing:               
- 2	Financial specialists                                                 	Financial specialists                                                 
- 2	Fire fighting, prevention, and law enforcement workers, including supervisors	Fire fighting, prevention, and law enforcement workers, including supervisors
- 2	Food preparation and serving related occupations                      	Food preparation and serving related occupations                      
- 1	Foreign born:                                                         	Foreign born:                                                         
- 1	Foreign country or at sea                                             	Foreign country or at sea                                             
- 2	Go-outside-home disability                                            	Go-outside-home disability                                            
- 1	Grandchild                                                            	Grandchild                                                            
- 1	Grandparent not responsibleown grandchildren Lt18y                    	Grandparent not responsible for own grandchildren under 18 years      
- 1	Grandparent responsibleown grandchildren Lt18y:                       	Grandparent responsible for own grandchildren under 18 years:         
- 2	Health care and social assistance                                     	Health care and social assistance                                     
- 2	Health diagnosing and treating practitioners and technical occupations	Health diagnosing and treating practitioners and technical occupations
- 2	Health technologists and technicians                                  	Health technologists and technicians                                  
- 2	Healthcare practitioners and technical occupations:                   	Healthcare practitioners and technical occupations:                   
- 2	Healthcare support occupations                                        	Healthcare support occupations                                        
- 2	High school graduate                                                  	High school graduate                                                  
- 2	High school graduate (includes equivalency)                           	High school graduate (includes equivalency)                           
- 1	High school graduate:                                                 	High school graduate:                                                 
- 1	Hispanic or Latino:                                                   	Hispanic or Latino:                                                   
+ 2	Occ021                                                              	Financial specialists                                                 
+ 2	Occ022                                                              	Fire fighting, prevention, and law enforcement workers, including supervisors
+ 2	Occ023                                                              	Food preparation and serving related occupations                      
+ 1	FrgnBrn:                                                             	Foreign born:                                                         
+ 1	FrgnCntrySea                                                        	Foreign country or at sea                                             
+ 2	GoOutDisab                                                           	Go-outside-home disability                                            
+ 1	GndChild                                                            	Grandchild                                                            
+ 1	GndPrntNotRespOwnGndChildLt18y                                      	Grandparent not responsible for own grandchildren under 18 years      
+ 1	GndPrntRespOwnGndChildLt18y:                                         	Grandparent responsible for own grandchildren under 18 years:         
+ 2	Occ024                                                              	Health care and social assistance                                     
+ 2	Occ025                                                              	Health diagnosing and treating practitioners and technical occupations
+ 2	Occ026                                                              	Health technologists and technicians                                  
+ 2	HlthCarePractTechOcc:                                                	Healthcare practitioners and technical occupations:                   
+ 2	Occ027                                                              	Healthcare support occupations                                        
+ 2	HighSchGrad                                                          	High school graduate                                                  
+ 2	HighSchGradEquiv                                                    	High school graduate (includes equivalency)                           
+ 1	HighSchGrad:                                                        	High school graduate:                                                 
+ 1	HispLat:                                                            	Hispanic or Latino:                                                   
  2	Hh15to24y                                                             	Householder 15 to 24 years                                            
  1	Hh15to64y:                                                            	Householder 15 to 64 years:                                           
  4	Hh25to34y                                                             	Householder 25 to 34 years                                            
@@ -316,87 +316,87 @@
  1	Hh55to64y:                                                            	Householder 55 to 64 years:                                           
  4	Hh65to74y                                                             	Householder 65 to 74 years                                            
  1	Hh65to74y:                                                            	Householder 65 to 74 years:                                           
-10	Hh65y and over                                                        	Householder 65 years and over                                         
- 1	Hh65y and over:                                                       	Householder 65 years and over:                                        
+10	HhGte65y                                                             	Householder 65 years and over                                         
+ 1	HhGte65y:                                                           	Householder 65 years and over:                                        
  2	Hh75to84y                                                             	Householder 75 to 84 years                                            
- 2	Hh75y and over                                                        	Householder 75 years and over                                         
- 1	Hh75y and over:                                                       	Householder 75 years and over:                                        
- 2	Hh85y and over                                                        	Householder 85 years and over                                         
- 2	Hhliving alone                                                        	Householder living alone                                              
- 2	Hhnot living alone                                                    	Householder not living alone                                          
+ 2	HhGte75y                                                             	Householder 75 years and over                                         
+ 1	HhGte75y:                                                           	Householder 75 years and over:                                        
+ 2	HhGte85y                                                            	Householder 85 years and over                                         
+ 2	HhLivAlne                                                           	Householder living alone                                              
+ 2	HhNotLivAlne                                                        	Householder not living alone                                          
 12	HhLt25y                                                               	Householder under 25 years                                            
  1	HhLt25y:                                                              	Householder under 25 years:                                           
  2	Hh:                                                                   	Householder:                                                          
- 2	Husband and wife worked                                               	Husband and wife worked                                               
- 1	Husband in labor force:                                               	Husband in labor force:                                               
- 1	Husband not in labor force:                                           	Husband not in labor force:                                           
-38	Imputed                                                               	Imputed                                                               
- 3	Imputed:                                                              	Imputed:                                                              
- 1	In 2-person carpool                                                   	In 2-person carpool                                                   
- 1	In 3-person carpool                                                   	In 3-person carpool                                                   
- 1	In 4-person carpool                                                   	In 4-person carpool                                                   
- 1	In 5- or 6-person carpool                                             	In 5- or 6-person carpool                                             
- 1	In 7-or-more-person carpool                                           	In 7-or-more-person carpool                                           
- 6	In Armed Forces                                                       	In Armed Forces                                                       
- 1	In Armed Forces:                                                      	In Armed Forces:                                                      
- 3	In Puerto Rico in 1995:                                               	In Puerto Rico in 1995:                                               
- 3	In United States in 1995:                                             	In United States in 1995:                                             
- 2	In an MSA/PMSA in 1995:                                               	In an MSA/PMSA in 1995:                                               
- 2	In family households:                                                 	In family households:                                                 
- 2	In group quarters:                                                    	In group quarters:                                                    
- 2	In households:                                                        	In households:                                                        
- 4	In labor force                                                        	In labor force                                                        
- 8	In labor force:                                                       	In labor force:                                                       
- 6	In married-couple families                                            	In married-couple families                                            
- 1	In married-couple families:                                           	In married-couple families:                                           
- 2	In nonfamily households:                                              	In nonfamily households:                                              
- 7	In other families:                                                    	In other families:                                                    
- 4	Incin 1999 at or above poverty level:                                 	Income in 1999 at or above poverty level:                             
- 4	Incin 1999 below poverty level:                                       	Income in 1999 below poverty level:                                   
- 2	Information                                                           	Information                                                           
- 1	Inside urban clusters                                                 	Inside urban clusters                                                 
- 1	Inside urbanized areas                                                	Inside urbanized areas                                                
- 2	Installation, maintenance, and repair occupations                     	Installation, maintenance, and repair occupations                     
- 2	Institutionalized population                                          	Institutionalized population                                          
- 1	Korean War and World War II, no Vietnam era                           	Korean War and World War II, no Vietnam era                           
- 1	Korean War, no Vietnam era, no World War II                           	Korean War, no Vietnam era, no World War II                           
- 1	Language status imputed                                               	Language status imputed                                               
- 1	Language status not imputed                                           	Language status not imputed                                           
- 2	Legal occupations                                                     	Legal occupations                                                     
+ 2	HusbWifeWork                                                        	Husband and wife worked                                               
+ 1	HusbLaborFor:                                                       	Husband in labor force:                                               
+ 1	HusbNotLaborFor:                                                    	Husband not in labor force:                                           
+38	Imp                                                                   	Imputed                                                               
+ 3	Imp:                                                                 	Imputed:                                                              
+ 1	2pCarPool                                                            	In 2-person carpool                                                   
+ 1	3pCarPool                                                           	In 3-person carpool                                                   
+ 1	4pCarPool                                                           	In 4-person carpool                                                   
+ 1	5or6pCarPool                                                         	In 5- or 6-person carpool                                             
+ 1	Gte7pCarPool                                                        	In 7-or-more-person carpool                                           
+ 6	ArmForce                                                              	In Armed Forces                                                       
+ 1	ArmForce:                                                           	In Armed Forces:                                                      
+ 3	PtoRico1995:                                                          	In Puerto Rico in 1995:                                               
+ 3	InUS1995:                                                           	In United States in 1995:                                             
+ 2	InMSA/PMSA1995:                                                     	In an MSA/PMSA in 1995:                                               
+ 2	FamHH:                                                              	In family households:                                                 
+ 2	GrpQuart:                                                           	In group quarters:                                                    
+ 2	InHH:                                                                	In households:                                                        
+ 4	InLaborFor                                                          	In labor force                                                        
+ 8	InLaborFor:                                                         	In labor force:                                                       
+ 6	MarriedCplFam                                                         	In married-couple families                                            
+ 1	MarriedCplFam:                                                      	In married-couple families:                                           
+ 2	NonFamHH:                                                            	In nonfamily households:                                              
+ 7	OthFam:                                                              	In other families:                                                    
+ 4	Inc1999GtePovLev:                                                    	Income in 1999 at or above poverty level:                             
+ 4	Inc1999LtPovLev:                                                     	Income in 1999 below poverty level:                                   
+ 2	Occ028                                                              	Information                                                           
+ 1	UrbClust                                                             	Inside urban clusters                                                 
+ 1	UrbArea                                                              	Inside urbanized areas                                                
+ 2	Occ029                                                              	Installation, maintenance, and repair occupations                     
+ 2	InstPop                                                               	Institutionalized population                                          
+ 1	KorWarWWIINoViet                                                     	Korean War and World War II, no Vietnam era                           
+ 1	KorWarNoVietNoWWII                                                    	Korean War, no Vietnam era, no World War II                           
+ 1	LangStatImp                                                          	Language status imputed                                               
+ 1	LangStatNotImp                                                       	Language status not imputed                                           
+ 2	Occ030                                                              	Legal occupations                                                     
 10	LtUsd10k                                                              	Less than $10,000                                                     
  3	LtUsd200k                                                             	Less than $200,000                                                    
- 2	Lt30 minutes:                                                         	Less than 30 minutes:                                                 
- 1	Lt5 minutes                                                           	Less than 5 minutes                                                   
- 2	Life, physical, and social science occupations                        	Life, physical, and social science occupations                        
- 4	Linguistically isolated                                               	Linguistically isolated                                               
- 4	Lvngalone                                                             	Living alone                                                          
- 1	Lvngincentral city:                                                   	Living in a central city:                                             
- 1	Lvnginplace:                                                          	Living in a place:                                                    
- 1	Lvngin an MSA/PMSA in 2000:                                           	Living in an MSA/PMSA in 2000:                                        
- 1	Lvngin an MSA/PMSA:                                                   	Living in an MSA/PMSA:                                                
- 1	Lvngin remainderan MSA/PMSA:                                          	Living in remainder of an MSA/PMSA:                                   
- 1	Lvngin the 12 selected states:                                        	Living in the 12 selected states:                                     
- 2	Lvngwith father:                                                      	Living with father:                                                   
- 2	Lvngwith mother:                                                      	Living with mother:                                                   
- 2	Lvngwith one parent:                                                  	Living with one parent:                                               
- 2	Lvngwith own grandchildren Lt18y:                                     	Living with own grandchildren under 18 years:                         
- 2	Lvngwith two parents:                                                 	Living with two parents:                                              
- 6	Local government workers                                              	Local government workers                                              
+ 2	Lt30min:                                                             	Less than 30 minutes:                                                 
+ 1	Lt5min                                                               	Less than 5 minutes                                                   
+ 2	Occ031                                                              	Life, physical, and social science occupations                        
+ 4	LingIso                                                             	Linguistically isolated                                               
+ 4	LvngAlone                                                             	Living alone                                                          
+ 1	LvngCentCity:                                                        	Living in a central city:                                             
+ 1	LvngPlace:                                                          	Living in a place:                                                    
+ 1	LvngMSA/PMSA2000:                                                    	Living in an MSA/PMSA in 2000:                                        
+ 1	LvngMSA/PMSA:                                                        	Living in an MSA/PMSA:                                                
+ 1	LvngRemainMSA/PMSA:                                                 	Living in remainder of an MSA/PMSA:                                   
+ 1	Lvng12SelSt:                                                        	Living in the 12 selected states:                                     
+ 2	LvngWithFath:                                                         	Living with father:                                                   
+ 2	LvngWithMoth:                                                        	Living with mother:                                                   
+ 2	LvngWith1par:                                                        	Living with one parent:                                               
+ 2	LvngWithOwnGrdCldLt18y:                                             	Living with own grandchildren under 18 years:                         
+ 2	LvngWith2par:                                                       	Living with two parents:                                              
+ 6	Occ032                                                              	Local government workers                                              
  4	Male                                                                  	Male                                                                  
- 4	Male Hh                                                               	Male householder                                                      
- 9	Male Hh, no wife present                                              	Male householder, no wife present                                     
-12	Male Hh, no wife present:                                             	Male householder, no wife present:                                    
- 4	Male Hh:                                                              	Male householder:                                                     
+ 4	MaleHh                                                               	Male householder                                                      
+ 9	MaleHhNoWife                                                         	Male householder, no wife present                                     
+12	MaleHhNoWife:                                                        	Male householder, no wife present:                                    
+ 4	MaleHh:                                                              	Male householder:                                                     
 12	Male:                                                                 	Male:                                                                 
- 2	Management occupations, except farmers and farm managers              	Management occupations, except farmers and farm managers              
- 2	Managementcompanies and enterprises                                   	Management of companies and enterprises                               
- 2	Management, business, and financial operations occupations:           	Management, business, and financial operations occupations:           
- 2	Management, professional, and related occupations:                    	Management, professional, and related occupations:                    
- 2	Manufacturing                                                         	Manufacturing                                                         
- 2	Married, spouse absent:                                               	Married, spouse absent:                                               
- 2	Married, spouse present                                               	Married, spouse present                                               
- 3	Married-couple family                                                 	Married-couple family                                                 
-11	Married-couple family:                                                	Married-couple family:                                                
+ 2	Occ033                                                               	Management occupations, except farmers and farm managers              
+ 2	Occ034                                                              	Management of companies and enterprises                               
+ 2	MgmtBusFinOp:                                                       	Management, business, and financial operations occupations:           
+ 2	MgmtProRel:                                                          	Management, professional, and related occupations:                    
+ 2	Occ035                                                              	Manufacturing                                                         
+ 2	MarriedSpAbs:                                                       	Married, spouse absent:                                               
+ 2	MarriedSpPres                                                        	Married, spouse present                                               
+ 3	MarriedCplFam                                                       	Married-couple family                                                 
+11	MarriedCplFam:                                                       	Married-couple family:                                                
  2	Master's degree                                                       	Master's degree                                                       
  2	Material moving workers                                               	Material moving workers                                               
  1	May 1975toJuly 1990 only:                                             	May 1975 to July 1990 only:                                           
