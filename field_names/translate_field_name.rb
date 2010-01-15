@@ -1,5 +1,3 @@
-require 'rubygems'
-require 'fastercsv'
 
 # /(\$\d+),(\d+)[^\d]/
 # /(\$\d+),(\d+),(\d+)[^\d]/
@@ -16,9 +14,12 @@ end
 
 raw_counts = 'raw_with_counts.tsv'
 
+out_file = File.open("mod_raw_with_counts.tsv", "w")
+
 File.open(raw_counts).each do |line|
   line.chomp!
   orig_line = line.dup
+  line.gsub!(/\d+\t/, '')
   if line =~ /(\$\d+),(\d+)/
     [
       [/\$?(\d+)(?:,\d+)? to \$?(\d+)(?:,\d+) or loss/, 'Usd\1kto\2korL'], # eg $1 to $2,499 or loss
@@ -163,10 +164,7 @@ File.open(raw_counts).each do |line|
     if line == orig_line
       p [orig_line, line]
     end
-  end
-  if orig_line == line 
-#    puts orig_line + "\t" + line 
-#  else 
-    puts orig_line
-  end
+  end 
+  puts orig_line + "\t" + line 
+  out_file << orig_line + "\t" + line + "\n"
 end
