@@ -1,631 +1,631 @@
-2	$1 to $2,499 or loss	Usd1kto2korL
-2	$10,000 to $12,499	Usd$10kto1k
-10	$10,000 to $14,999	Usd$10kto1k
-2	$100,000 or more	Usd100korM
-10	$100,000 to $124,999	Usd$100kto1k
-2	$12,500 to $14,999	Usd$12kto501k
-10	$125,000 to $149,999	Usd$125kto1k
-2	$15,000 to $17,499	Usd$15kto1k
-10	$15,000 to $19,999	Usd$15kto1k
-10	$150,000 to $199,999	Usd$150kto1k
-2	$17,500 to $19,999	Usd$17kto501k
-2	$2,500 to $4,999	Usd$2kto501k
-2	$20,000 to $22,499	Usd$20kto1k
-10	$20,000 to $24,999	Usd$20kto1k
-13	$200,000 or more	Usd200korM
-2	$22,500 to $24,999	Usd$22kto501k
-12	$25,000 to $29,999	Usd$25kto1k
-12	$30,000 to $34,999	Usd$30kto1k
-12	$35,000 to $39,999	Usd$35kto1k
-12	$40,000 to $44,999	Usd$40kto1k
-12	$45,000 to $49,999	Usd$45kto1k
-2	$5,000 to $7,499	Usd$5kto1k
-2	$50,000 to $54,999	Usd$50kto1k
-10	$50,000 to $59,999	Usd$50kto1k
-2	$55,000 to $64,999	Usd$55kto1k
-10	$60,000 to $74,999	Usd$60kto1k
-2	$65,000 to $74,999	Usd$65kto1k
-2	$7,500 to $9,999	Usd$7kto501k
-12	$75,000 to $99,999	Usd$75kto1k
-6	1 to 13 weeks	1to13w
-3	1 worker	1wrkr
-2	1 year	1y
-1	1-person household	1pHH
-1	1-person household:	1pHH:
-1	1.00 to 1.24	1.00to1.24
-1	1.25 to 1.49	1.25to1.49
-1	1.50 and over:	Gte1.50:
-1	1.50 to 1.74	1.50to1.74
-1	1.75 to 1.84	1.75to1.84
-1	1.85 to 1.99	1.85to1.99
-1	10 to 14 minutes	10to14min
-1	10 to less than 25 percent of total earnings for individual imputed	10toLt25pctTotIndEarn
-3	10 to less than 25 percent of total income for family imputed	10toLt25pctTotIncFam
-1	10 to less than 25 percent of total income for household imputed	10toLt25pctTotIncHH
-3	10 to less than 25 percent of total income for individual imputed	10toLt25pctTotIncInd
-1	10 to less than 25 percent of total income for nonfamily household imputed	10toLt25pctTotIncNFamHH
-2	10 years	10y
-1	100 percent of total earnings for individual imputed	100pctTotIndEarn
-3	100 percent of total income for family imputed	100pctTotIncFam
-1	100 percent of total income for household imputed	100pctTotIncHH
-3	100 percent of total income for individual imputed	100pctTotIncInd
-1	100 percent of total income for nonfamily household imputed	100pctTotIncNFamHH
-1	10:00 a.m. to 10:59 a.m.	10AMto11AM
-2	10th grade	10thGr
-2	11 years	11y
-1	11:00 a.m. to 11:59 a.m.	11AMto12AM
-2	11th grade	11thGr
-3	12 and 13 years	12and13y
-2	12 to 17 years	12to17y
-2	12 years	12y
-1	12:00 a.m. to 4:59 a.m.	12AMto5AM
-1	12:00 p.m. to 3:59 p.m.	12PMto4PM
-2	12th grade, no diploma	12thGrNoDip
-2	13 years	13y
-6	14 to 26 weeks	14to26w
-5	14 years	14y
-3	15 to 17 years	15to17y
-1	15 to 19 minutes	15to19min
-2	15 years	15y
-2	16 to 20 years:	16to20y:
-2	16 years	16y
-2	17 years	17y
-2	18 to 64 years	18to64y
-3	18 to 64 years:	18to64y:
-2	18 years	18y
-2	19 years	19y
-1	1965 to 1969	1965to1969
-1	1970 to 1974	1970to1974
-1	1975 to 1979	1975to1979
-1	1980 to 1984	1980to1984
-1	1985 to 1989	1985to1989
-1	1990 to 1994	1990to1994
-1	1995 to March 2000	1995toMar2000
-2	2 workers	2wrkr
-1	2 workers:	2wrkr:
-2	2 years	2y
-1	2-or-more-person household:	Gte2pHH:
-2	2-person household	2pHH
-1	2.00 and over	Gte2.00
-1	20 to 24 minutes	20to24min
-2	20 years	20y
-2	21 to 64 years:	21to64y:
-2	21 years	21y
-2	22 to 24 years	22to24y
-1	25 to 29 minutes	25to29min
-2	25 to 29 years	25to29y
-1	25 to less than 50 percent of total earnings for individual imputed	25toLt50pctTotIndEarn
-3	25 to less than 50 percent of total income for family imputed	25toLt50pctTotIncFam
-1	25 to less than 50 percent of total income for household imputed	25toLt50pctTotIncHH
-3	25 to less than 50 percent of total income for individual imputed	25toLt50pctTotIncInd
-1	25 to less than 50 percent of total income for nonfamily household imputed	25toLt50pctTotIncNFamHH
-6	27 to 39 weeks	27to39w
-3	3 and 4 years	3and4y
-2	3 or more workers	Gte3wrkr
-1	3 or more workers:	Gte3wrkr:
-2	3 years	3y
-2	3-person household	3pHH
-1	30 to 34 minutes	30to34min
-2	30 to 34 years	30to34y
-2	30 to 44 minutes:	30to44min:
-1	35 to 39 minutes	35to39min
-2	35 to 39 years	35to39y
-2	4 years	4y
-2	4-person household	4pHH
-1	40 to 44 minutes	40to44min
-2	40 to 44 years	40to44y
-6	40 to 47 weeks	40to47w
-2	45 to 49 years	45to49y
-1	45 to 59 minutes	45to59min
-2	45 to 59 minutes:	45to59min:
-6	48 and 49 weeks	48and49w
-1	4:00 p.m. to 11:59 p.m.	4PMto12PM
-2	5 to 15 years:	5to15y:
-6	5 to 17 years only	5to17yOnly
-1	5 to 17 years:	5to17y:
-1	5 to 9 minutes	5to9min
-7	5 years	5y
-2	5-person household	5pHH
-1	50 to .74	50to.74
-6	50 to 52 weeks	50to52w
-2	50 to 54 years	50to54y
-1	50 to less than 100 percent of total earnings for individual imputed	50toLt100pctTotIndEarn
-3	50 to less than 100 percent of total income for family imputed	50toLt100pctTotIncFam
-1	50 to less than 100 percent of total income for household imputed	50toLt100pctTotIncHH
-3	50 to less than 100 percent of total income for individual imputed	50toLt100pctTotIncInd
-1	50 to less than 100 percent of total income for nonfamily household imputed	50toLt100pctTotIncNF
-2	55 to 59 years	55to59y
-1	5:00 a.m. to 5:29 a.m.	5AMto6AM
-1	5:30 a.m. to 5:59 a.m.	5AMto6AM
-2	5th and 6th grade	5thand6thGr
-5	6 to 11 years	6to11y
-6	6 to 17 years only	6to17yOnly
-1	6 to 17 years only:	6to17yOnly:
-1	6 to 17 years:	6to17y:
-2	6 years	6y
-2	6-person household	6pHH
-2	60 and 61 years	60 and 61y
-2	60 or more minutes:	Gte60min:
-1	60 to 89 minutes	60to89min
-2	62 to 64 years	62to64y
-2	65 and 66 years	65and66y
-2	65 to 74 years	65to74y
-4	65 to 74 years:	65to74y:
-3	65 years and over:	Gte65y:
-2	67 to 69 years	67to69y
-1	6:00 a.m. to 6:29 a.m.	6AMto7AM
-1	6:30 a.m. to 6:59 a.m.	6AMto7AM
-2	7 years	7y
-2	7-or-more-person household	Gte7pHH
-2	70 to 74 years	70to74y
-1	75 to .99	75to.99
-2	75 to 79 years	75to79y
-2	75 years and over	Gte75y
-4	75 years and over:	Gte75y:
-1	7:00 a.m. to 7:29 a.m.	7AMto8AM
-1	7:30 a.m. to 7:59 a.m.	7AMto8AM
-2	7th and 8th grade	7thand8thGr
-2	8 years	8y
-2	80 to 84 years	80to84y
-2	85 years and over	Gte85y
-1	8:00 a.m. to 8:29 a.m.	8AMto9AM
-1	8:30 a.m. to 8:59 a.m.	8AMto9AM
-2	9 years	9y
-1	90 or more minutes	Gte90min
-1	9:00 a.m. to 9:59 a.m.	9AMto10AM
-2	9th grade	9thGr
-2	Accommodation and food services	Occ001
-2	Administrative and support and waste management services	Occ002
-1	Adopted	Adptd
-1	Aggregate Income in 1999	AggInc1999
-1	Aggregate Social Security income in 1999	AggSSInc1999
-1	Aggregate Supplemental Security Income in 1999	AggSupSecInc1999
-1	Aggregate earnings in 1999	AggEarn1999
-1	Aggregate earnings in 1999:	AggEarn1999:
-1	Aggregate family income in 1999:	AggFamInc1999:
-2	Aggregate household income in 1999:	AggHHInc1999:
-1	Aggregate income deficit in 1999:	AggIncDef1999:
-1	Aggregate interest, dividends, or net rental income in 1999	AggIntDivRentInc1999
-1	Aggregate nonfamily household income in 1999:	AggNFamHHInc1999:
-1	Aggregate other types of income in 1999	AggOthInc1999
-1	Aggregate public assistance income in 1999	Aggpublic assistance Incin 1999
-1	Aggregate retirement income in 1999	Aggretirement Incin 1999
-1	Aggregate self-employment income in 1999	Aggself-employment Incin 1999
-1	Aggregate travel time to work (in minutes):	Aggtravel timetowork (in minutes):
-1	Aggregate wage or salary income in 1999	Aggwage or salary Incin 1999
-2	Agriculture, forestry, fishing and hunting	Occ003
-4	Agriculture, forestry, fishing and hunting, and mining:	AgForFishHuntMin:
-2	Agriculture, forestry, fishing and hunting:	AgForFishHunt:
-2	Aircraft and traffic control occupations	Occ004
-2	All geographic parts imputed	AllGeoPart
-2	All industries except agriculture, forestry, fishing and hunting, and mining:	AllIndExcAgForFishHuntMin:
-3	American Indian and Alaska Native alone	AmIndAkNatAlone
-2	Architects, surveyors, cartographers, and engineers	Architects, surveyors, cartographers, and engineers
-2	Architecture and engineering occupations:	Architecture and engineering occupations:
-2	Arts, design, entertainment, sports, and media occupations	Arts, design, entertainment, sports, and media occupations
-2	Arts, entertainment, and recreation	Arts, entertainment, and recreation
-2	Arts, entertainment, recreation, accommodation and food services:	Arts, entertainment, recreation, accommodation and food services:
-3	Asian alone	Asian alone
-1	Asian and Pacific Island languages:	Asian and Pacific Island languages:
-2	Associate degree	Associate degree
-1	August 1990 or later (including Persian Gulf War):	August 1990 or later (including Persian Gulf War):
-2	Bachelor's degree	Bachelor's degree
-1	Before 1965	Before 1965
-1	Bicycle	Bicycle
-3	Black or African American alone	Black or African American alone
-1	Born abroad of American parent(s)	Born abroadAmerican parent(s)
-1	Born in other state in the United States:	Born in other state in the United States:
-1	Born in state of residence	Born in stateresidence
-1	Born outside the United States:	Born outside the United States:
-2	Both parents in labor force	Both parents in labor force
-1	Brother or sister	Brother or sister
-2	Building and grounds cleaning and maintenance occupations	Building and grounds cleaning and maintenance occupations
-1	Bus or trolley bus	Bus or trolley bus
-2	Business and financial operations occupations:	Business and financial operations occupations:
-2	Business operations specialists	Business operations specialists
-3	Car, truck, or van:	Car, truck, or van:
-1	Carpooled	Carpooled
-1	Carpooled:	Carpooled:
-11	Central city	Central city
-1	Child:	Child:
-7	Civilian:	Civilian:
-2	Community and social services occupations	Community and social services occupations
-2	Computer and mathematical occupations	Computer and mathematical occupations
-2	Construction	Construction
-2	Construction and extraction occupations:	Construction and extraction occupations:
-2	Construction trades workers	Construction trades workers
-2	Construction, extraction, and maintenance occupations:	Construction, extraction, and maintenance occupations:
-4	Did not work at home:	Did not work at home:
-4	Did not work in 1999	Did not work in 1999
-2	Different MSA/PMSA in 1995:	DiffMSA/PMSA in 1995:
-1	Different county:	Diffcounty:
-3	Different house in 1995:	Diffhouse in 1995:
-1	Different house:	Diffhouse:
-1	Different municipio	Diffmunicipio
-1	Different state:	Diffstate:
-2	Divorced	Divorced
-2	Doctorate degree	Doctorate degree
-9	Dollar value of zero imputed	Dollar valuezero imputed
-2	Drafters, engineering, and mapping technicians	Drafters, engineering, and mapping technicians
-2	Drove alone	Drove alone
-2	Education, training, and library occupations	Education, training, and library occupations
-2	Educational services	Educational services
-2	Educational, health and social services:	Educational, health and social services:
-2	Elsewhere in 1995	Elsewhere in 1995
-1	Elsewhere in 1995:	Elsewhere in 1995:
-13	Employed	Employed
-9	Employed or in Armed Forces	Employed or in Armed Forces
-1	Employed or in Armed Forces:	Employed or in Armed Forces:
-6	Employee of private company	Employeeprivate company
-1	Employment disability	Employment disability
-1	English	English
-2	Enrolled in college, undergraduate years:	Erldin college, undergraduate years:
-2	Enrolled in grade 1 to grade 4:	Erldin grade 1tograde 4:
-2	Enrolled in grade 5 to grade 8:	Erldin grade 5tograde 8:
-2	Enrolled in grade 9 to grade 12:	Erldin grade 9tograde 12:
-2	Enrolled in graduate or professional school:	Erldin graduate or professional school:
-2	Enrolled in kindergarten:	Erldin kindergarten:
-2	Enrolled in nursery school, preschool:	Erldin nursery school, preschool:
-2	Enrolled in school:	Erldin school:
-2	Extraction workers	Extraction workers
-9	Family households:	Family households:
-1	Farm	Farm
-2	Farmers and farm managers	Farmers and farm managers
-2	Farming, fishing, and forestry occupations	Farming, fishing, and forestry occupations
-2	Father only in labor force	Father only in labor force
-1	February 1955 to July 1964 only	February 1955toJuly 1964 only
-6	Federal government workers	Federal government workers
-4	Female	Female
-4	Female householder	Female Hh
-9	Female householder, no husband present	Female Hh, no husband present
-12	Female householder, no husband present:	Female Hh, no husband present:
-4	Female householder:	Female Hh:
-12	Female:	Female:
-1	Ferryboat	Ferryboat
-2	Finance and insurance	Finance and insurance
-2	Finance, insurance, real estate and rental and leasing:	Finance, insurance, real estate and rental and leasing:
-2	Financial specialists	Financial specialists
-2	Fire fighting, prevention, and law enforcement workers, including supervisors	Fire fighting, prevention, and law enforcement workers, including supervisors
-2	Food preparation and serving related occupations	Food preparation and serving related occupations
-1	Foreign born:	Foreign born:
-1	Foreign country or at sea	Foreign country or at sea
-2	Go-outside-home disability	Go-outside-home disability
-1	Grandchild	Grandchild
-1	Grandparent not responsible for own grandchildren under 18 years	Grandparent not responsibleown grandchildren Lt18y
-1	Grandparent responsible for own grandchildren under 18 years:	Grandparent responsibleown grandchildren Lt18y:
-2	Health care and social assistance	Health care and social assistance
-2	Health diagnosing and treating practitioners and technical occupations	Health diagnosing and treating practitioners and technical occupations
-2	Health technologists and technicians	Health technologists and technicians
-2	Healthcare practitioners and technical occupations:	Healthcare practitioners and technical occupations:
-2	Healthcare support occupations	Healthcare support occupations
-2	High school graduate	High school graduate
-2	High school graduate (includes equivalency)	High school graduate (includes equivalency)
-1	High school graduate:	High school graduate:
-1	Hispanic or Latino:	Hispanic or Latino:
-2	Householder 15 to 24 years	Hh15to24y
-1	Householder 15 to 64 years:	Hh15to64y:
-4	Householder 25 to 34 years	Hh25to34y
-1	Householder 25 to 34 years:	Hh25to34y:
-10	Householder 25 to 44 years	Hh25to44y
-4	Householder 35 to 44 years	Hh35to44y
-1	Householder 35 to 44 years:	Hh35to44y:
-4	Householder 45 to 54 years	Hh45to54y
-1	Householder 45 to 54 years:	Hh45to54y:
-10	Householder 45 to 64 years	Hh45to64y
-4	Householder 55 to 64 years	Hh55to64y
-1	Householder 55 to 64 years:	Hh55to64y:
-4	Householder 65 to 74 years	Hh65to74y
-1	Householder 65 to 74 years:	Hh65to74y:
-10	Householder 65 years and over	Hh65y and over
-1	Householder 65 years and over:	Hh65y and over:
-2	Householder 75 to 84 years	Hh75to84y
-2	Householder 75 years and over	Hh75y and over
-1	Householder 75 years and over:	Hh75y and over:
-2	Householder 85 years and over	Hh85y and over
-2	Householder living alone	Hhliving alone
-2	Householder not living alone	Hhnot living alone
-12	Householder under 25 years	HhLt25y
-1	Householder under 25 years:	HhLt25y:
-2	Householder:	Hh:
-2	Husband and wife worked	Husband and wife worked
-1	Husband in labor force:	Husband in labor force:
-1	Husband not in labor force:	Husband not in labor force:
-38	Imputed	Imputed
-3	Imputed:	Imputed:
-1	In 2-person carpool	In 2-person carpool
-1	In 3-person carpool	In 3-person carpool
-1	In 4-person carpool	In 4-person carpool
-1	In 5- or 6-person carpool	In 5- or 6-person carpool
-1	In 7-or-more-person carpool	In 7-or-more-person carpool
-6	In Armed Forces	In Armed Forces
-1	In Armed Forces:	In Armed Forces:
-3	In Puerto Rico in 1995:	In Puerto Rico in 1995:
-3	In United States in 1995:	In United States in 1995:
-2	In an MSA/PMSA in 1995:	In an MSA/PMSA in 1995:
-2	In family households:	In family households:
-2	In group quarters:	In group quarters:
-2	In households:	In households:
-4	In labor force	In labor force
-8	In labor force:	In labor force:
-6	In married-couple families	In married-couple families
-1	In married-couple families:	In married-couple families:
-2	In nonfamily households:	In nonfamily households:
-7	In other families:	In other families:
-4	Income in 1999 at or above poverty level:	Incin 1999 at or above poverty level:
-4	Income in 1999 below poverty level:	Incin 1999 below poverty level:
-2	Information	Information
-1	Inside urban clusters	Inside urban clusters
-1	Inside urbanized areas	Inside urbanized areas
-2	Installation, maintenance, and repair occupations	Installation, maintenance, and repair occupations
-2	Institutionalized population	Institutionalized population
-1	Korean War and World War II, no Vietnam era	Korean War and World War II, no Vietnam era
-1	Korean War, no Vietnam era, no World War II	Korean War, no Vietnam era, no World War II
-1	Language status imputed	Language status imputed
-1	Language status not imputed	Language status not imputed
-2	Legal occupations	Legal occupations
-10	Less than $10,000	LtUsd10k
-3	Less than $200,000	LtUsd200k
-2	Less than 30 minutes:	Lt30 minutes:
-1	Less than 5 minutes	Lt5 minutes
-2	Life, physical, and social science occupations	Life, physical, and social science occupations
-4	Linguistically isolated	Linguistically isolated
-4	Living alone	Lvngalone
-1	Living in a central city:	Lvngincentral city:
-1	Living in a place:	Lvnginplace:
-1	Living in an MSA/PMSA in 2000:	Lvngin an MSA/PMSA in 2000:
-1	Living in an MSA/PMSA:	Lvngin an MSA/PMSA:
-1	Living in remainder of an MSA/PMSA:	Lvngin remainderan MSA/PMSA:
-1	Living in the 12 selected states:	Lvngin the 12 selected states:
-2	Living with father:	Lvngwith father:
-2	Living with mother:	Lvngwith mother:
-2	Living with one parent:	Lvngwith one parent:
-2	Living with own grandchildren under 18 years:	Lvngwith own grandchildren Lt18y:
-2	Living with two parents:	Lvngwith two parents:
-6	Local government workers	Local government workers
-4	Male	Male
-4	Male householder	Male Hh
-9	Male householder, no wife present	Male Hh, no wife present
-12	Male householder, no wife present:	Male Hh, no wife present:
-4	Male householder:	Male Hh:
-12	Male:	Male:
-2	Management occupations, except farmers and farm managers	Management occupations, except farmers and farm managers
-2	Management of companies and enterprises	Managementcompanies and enterprises
-2	Management, business, and financial operations occupations:	Management, business, and financial operations occupations:
-2	Management, professional, and related occupations:	Management, professional, and related occupations:
-2	Manufacturing	Manufacturing
-2	Married, spouse absent:	Married, spouse absent:
-2	Married, spouse present	Married, spouse present
-3	Married-couple family	Married-couple family
-11	Married-couple family:	Married-couple family:
-2	Master's degree	Master's degree
-2	Material moving workers	Material moving workers
-1	May 1975 to July 1990 only:	May 1975toJuly 1990 only:
-1	Median family income in 1999	Median family Incin 1999
-1	Median household income in 1999	Median household Incin 1999
-1	Median nonfamily household income in 1999	Median nonfamily household Incin 1999
-3	Mental disability	Mental disability
-2	Midwest	Midwest
-2	Mining	Mining
-2	Mining:	Mining:
-1	More than 0 to less than 10 percent of total earnings for individual imputed	Gt0toLt10pctTotearningsindividual imputed
-3	More than 0 to less than 10 percent of total income for family imputed	Gt0toLt10pctTotIncfamily imputed
-1	More than 0 to less than 10 percent of total income for household imputed	Gt0toLt10pctTotInchousehold imputed
-3	More than 0 to less than 10 percent of total income for individual imputed	Gt0toLt10pctTotIncindividual imputed
-1	More than 0 to less than 10 percent of total income for nonfamily household imputed	Gt0toLt10pctTotIncnonfamily household imputed
-2	Mother only in labor force	Mother only in labor force
-2	Motor vehicle operators	Motor vehicle operators
-1	Motorcycle	Motorcycle
-3	Native Hawaiian and Other Pacific Islander alone	Native Hawaiian and OthPacific Islander alone
-1	Native:	Native:
-1	Natural-born	Natural-born
-4	Naturalized citizen	Naturalized citizen
-2	Neither parent in labor force	Neither parent in labor force
-2	Never married	Never married
-1	No Social Security income	No Social Security Inc
-1	No Supplemental Security Income (SSI)	No Supplemental Security Inc(SSI)
-1	No Vietnam era service:	No Vietnam era service:
-6	No disability	No disability
-1	No disability items imputed	No disability items imputed
-4	No disability:	No disability:
-1	No earnings	No earnings
-1	No earnings imputed	No earnings imputed
-8	No income imputed	No Incimputed
-1	No interest, dividends, or net rental income	No interest, dividends, or net rental Inc
-2	No items imputed	No items imputed
-1	No other types of income	No other typesInc
-12	No own children under 18 years	No own children Lt18y
-1	No own children under 18 years:	No own children Lt18y:
-1	No public assistance income	No public assistance Inc
-9	No related children under 18 years	No related children Lt18y
-1	No retirement income	No retirement Inc
-2	No schooling completed	No schooling completed
-1	No self-employment income	No self-employment Inc
-1	No wage or salary income	No wage or salary Inc
-3	No workers	No workers
-9	Nonfamily households:	Nonfamily households:
-1	Nonfarm	Nonfarm
-2	Noninstitutionalized population	Noninstitutionalized population
-4	Nonrelatives	Nonrelatives
-4	Nonveteran	Nonveteran
-2	Northeast	Northeast
-1	Not Hispanic or Latino:	Not Hispanic or Latino:
-4	Not a citizen	Notcitizen
-8	Not employed	Not employed
-2	Not enrolled in school	Not enrolled in school
-2	Not enrolled in school:	Not enrolled in school:
-2	Not high school graduate	Not high school graduate
-1	Not high school graduate:	Not high school graduate:
-41	Not imputed	Not imputed
-4	Not in an MSA/PMSA in 1995	Not in an MSA/PMSA in 1995
-15	Not in labor force	Not in labor force
-4	Not linguistically isolated	Not linguistically isolated
-4	Not living alone	Not living alone
-1	Not living in a place	Not living inplace
-1	Not living in an MSA/PMSA in 2000:	Not living in an MSA/PMSA in 2000:
-1	Not living in an MSA/PMSA:	Not living in an MSA/PMSA:
-1	Not living in the 12 selected states	Not living in the 12 selected states
-2	Not living with own grandchildren under 18 years	Not living with own grandchildren Lt18y
-2	Now married:	Now married:
-2	Nursery to 4th grade	Nurseryto4th grade
-2	Office and administrative support occupations	Office and administrative support occupations
-2	One or more but not all geographic parts imputed	One or more but not all geographic parts imputed
-1	One or more disability items imputed	One or more disability items imputed
-2	One or more items imputed	One or more items imputed
-4	Other	Other
-1	Other Indo-European languages:	OthIndo-European languages:
-1	Other May 1975 to July 1990 service	OthMay 1975toJuly 1990 service
-14	Other family:	Othfamily:
-1	Other languages:	Othlanguages:
-9	Other means	Othmeans
-2	Other means (including those who worked at home)	Othmeans (including those who worked at home)
-2	Other protective service workers, including supervisors	Othprotective service workers, including supervisors
-2	Other relatives	Othrelatives
-1	Other service only	Othservice only
-2	Other services (except public administration)	Othservices (except public administration)
-2	Parent	Parent
-1	Per capita income in 1999	Per capita Incin 1999
-1	Percent of the population in sample	Percentthe population in sample
-2	Personal care and service occupations	Personal care and service occupations
-3	Physical disability	Physical disability
-6	Private for-profit wage and salary workers:	Private for-profit wage and salary workers:
-6	Private not-for-profit wage and salary workers	Private not-for-profit wage and salary workers
-14	Private school	Private school
-2	Production occupations	Production occupations
-2	Production, transportation, and material moving occupations:	Production, transportation, and material moving occupations:
-2	Professional and related occupations:	Professional and related occupations:
-2	Professional school degree	Professional school degree
-2	Professional, scientific, and technical services	Professional, scientific, and technical services
-2	Professional, scientific, management, administrative, and waste management services:	Professional, scientific, management, administrative, and waste management services:
-2	Protective service occupations:	Protective service occupations:
-2	Public administration	Public administration
-14	Public school	Public school
-8	Public transportation	Public transportation
-1	Public transportation:	Public transportation:
-1	Puerto Rico	Puerto Rico
-2	Rail, water and other transportation occupations	Rail, water and other transportation occupations
-1	Railroad	Railroad
-2	Real estate and rental and leasing	Real estate and rental and leasing
-3	Remainder of MSA/PMSA	RemainderMSA/PMSA
-4	Remainder of different MSA/PMSA	Remainderdifferent MSA/PMSA
-4	Remainder of this MSA/PMSA	Remainderthis MSA/PMSA
-2	Retail trade	Retail trade
-1	Rural:	Rural:
-2	Sales and office occupations:	Sales and office occupations:
-2	Sales and related occupations	Sales and related occupations
-2	Same MSA/PMSA in 1995:	Same MSA/PMSA in 1995:
-1	Same county	Same county
-1	Same house	Same house
-3	Same house in 1995	Same house in 1995
-1	Same municipio	Same municipio
-1	Same state	Same state
-3	Self-care disability	Self-care disability
-6	Self-employed in own incorporated business	Self-employed in own incorporated business
-6	Self-employed workers in own not incorporated business	Self-employed workers in own not incorporated business
-3	Sensory disability	Sensory disability
-2	Separated	Separated
-1	September 1980 to July 1990 only:	September 1980toJuly 1990 only:
-2	Served 2 or more years	Served 2 or more years
-1	Served September 1980 or later only:	Served September 1980 or later only:
-1	Served in Vietnam era	Served in Vietnam era
-1	Served prior to September 1980	Served priortoSeptember 1980
-2	Served under 2 years	Served Lt2y
-2	Service occupations:	Service occupations:
-2	Some college, 1 or more years, no degree	Some college, 1 or more years, no degree
-2	Some college, less than 1 year	Some college, Lt1y
-3	Some other race alone	Some other race alone
-2	South	South
-1	Spanish:	Spanish:
-3	Speak Asian and Pacific Island languages:	SpkAsian and Pacific Island languages:
-12	Speak English "not at all"	SpkEnglish "not at all"
-12	Speak English "not well"	SpkEnglish "not well"
-12	Speak English "very well"	SpkEnglish "very well"
-12	Speak English "well"	SpkEnglish "well"
-3	Speak Spanish:	SpkSpanish:
-5	Speak only English	Spkonly English
-3	Speak other Indo-European languages:	Spkother Indo-European languages:
-5	Speak other languages:	Spkother languages:
-2	Spouse	Spouse
-6	State government workers	State government workers
-1	Step	Step
-1	Streetcar or trolley car (público in Puerto Rico)	Streetcar or trolley car (público in Puerto Rico)
-1	Subway or elevated	Subway or elevated
-2	Supervisors, construction and extraction workers	Supervisors, construction and extraction workers
-2	Supervisors, transportation and material moving workers	Supervisors, transportation and material moving workers
-1	Taxicab	Taxicab
-2	Total	Tot
-1	Total disabilities tallied for people 16 to 64 years:	Totdisabilities talliedpeople 16to64y:
-1	Total disabilities tallied for people 5 to 15 years:	Totdisabilities talliedpeople 5to15y:
-1	Total disabilities tallied for people 65 years and over:	Totdisabilities talliedpeople 65y and over:
-1	Total disabilities tallied:	Totdisabilities tallied:
-109	Total:	Tot:
-2	Transportation and material moving occupations:	Transportation and material moving occupations:
-2	Transportation and warehousing	Transportation and warehousing
-2	Transportation and warehousing, and utilities:	Transportation and warehousing, and utilities:
-3	Two or more races	Two or more races
-2	U.S. Island Areas	U.S. Island Areas
-1	Under .50	Lt.50
-2	Under 1 year	Lt1y
-1	Under 1.50:	Lt1.50:
-3	Under 3 years	Lt3y
-2	Under 5 years	Lt5y
-6	Under 5 years and 5 to 17 years	Lt5y and 5to17y
-6	Under 5 years only	Lt5y only
-6	Under 6 years and 6 to 17 years	Lt6y and 6to17y
-1	Under 6 years and 6 to 17 years:	Lt6y and 6to17y:
-6	Under 6 years only	Lt6y only
-1	Under 6 years only:	Lt6y only:
-1	Under 6 years:	Lt6y:
-2	Under 65 years:	Lt65y:
-14	Unemployed	Unemployed
-1	Unemployed:	Unemployed:
-6	Unpaid family workers	Unpaid family workers
-6	Unrelated individuals	Unrelated individuals
-1	Urban:	Urban:
-2	Usually worked 1 to 14 hours per week:	Usually worked 1to14 hours per week:
-2	Usually worked 15 to 34 hours per week:	Usually worked 15to34 hours per week:
-2	Usually worked 35 or more hours per week:	Usually worked 35 or more hours per week:
-2	Utilities	Utilities
-4	Veteran	Veteran
-1	Vietnam era and Korean War, no World War II, no August 1990 or later	Vietnam era and Korean War, no World War II, no August 1990 or later
-1	Vietnam era, Korean War, and World War II, no August 1990 or later	Vietnam era, Korean War, and World War II, no August 1990 or later
-1	Vietnam era, no Korean War, no World War II, no August 1990 or later	Vietnam era, no Korean War, no World War II, no August 1990 or later
-1	Walked	Walked
-2	West	West
-3	White alone	White alone
-2	Wholesale trade	Wholesale trade
-2	Widowed	Widowed
-3	Wife in labor force:	Wife in labor force:
-3	Wife not in labor force	Wife not in labor force
-1	With Social Security income	WthSocial Security Inc
-1	With Supplemental Security Income (SSI)	WthSupplemental Security Inc(SSI)
-6	With a disability	Withdisability
-4	With a disability:	Withdisability:
-1	With earnings	Wthearnings
-1	With interest, dividends, or net rental income	Wthinterest, dividends, or net rental Inc
-1	With other types of income	Wthother typesInc
-9	With own children under 18 years	Wthown children Lt18y
-4	With own children under 18 years:	Wthown children Lt18y:
-1	With public assistance income	Wthpublic assistance Inc
-9	With related children under 18 years:	Wthrelated children Lt18y:
-1	With retirement income	Wthretirement Inc
-1	With self-employment income	Wthself-employment Inc
-1	With wage or salary income	Wthwage or salary Inc
-5	Worked at home	Wrkdat home
-4	Worked in 1999:	Wrkdin 1999:
-2	Worked in MSA/PMSA of residence:	Wrkdin MSA/PMSAresidence:
-2	Worked in a different MSA/PMSA:	Wrkdindifferent MSA/PMSA:
-1	Worked in an MSA/PMSA:	Wrkdin an MSA/PMSA:
-1	Worked in county of residence	Wrkdin countyresidence
-1	Worked in minor civil division of residence	Wrkdin minor civil divisionresidence
-1	Worked in place of residence	Wrkdin placeresidence
-1	Worked in state of residence:	Wrkdin stateresidence:
-2	Worked outside MSA/PMSA of residence:	Wrkdoutside MSA/PMSAresidence:
-3	Worked outside any MSA/PMSA	Wrkdoutside any MSA/PMSA
-1	Worked outside county of residence	Wrkdoutside countyresidence
-1	Worked outside minor civil division of residence	Wrkdoutside minor civil divisionresidence
-1	Worked outside place of residence	Wrkdoutside placeresidence
-1	Worked outside state of residence	Wrkdoutside stateresidence
-1	World War II, no Korean War, no Vietnam era	World War II, no Korean War, no Vietnam era
-1	Year of entry 1980 to 1989:	Yearentry 1980to1989:
-1	Year of entry 1990 to March 2000:	Yearentry 1990toMarch 2000:
-1	Year of entry before 1980:	Yearentry before 1980:
+2	Usd1kto2korL              	$1 to $2,499 or loss       
+2	Usd$10kto1k              	$10,000 to $12,499       
+10	Usd$10kto1k              	$10,000 to $14,999       
+2	Usd100korM              	$100,000 or more       
+10	Usd$100kto1k              	$100,000 to $124,999       
+2	Usd$12kto501k              	$12,500 to $14,999       
+10	Usd$125kto1k              	$125,000 to $149,999       
+2	Usd$15kto1k              	$15,000 to $17,499       
+10	Usd$15kto1k              	$15,000 to $19,999       
+10	Usd$150kto1k              	$150,000 to $199,999       
+2	Usd$17kto501k              	$17,500 to $19,999       
+2	Usd$2kto501k              	$2,500 to $4,999       
+2	Usd$20kto1k              	$20,000 to $22,499       
+10	Usd$20kto1k              	$20,000 to $24,999       
+13	Usd200korM              	$200,000 or more       
+2	Usd$22kto501k       	$22,500 to $24,999
+12	Usd$25kto1k       	$25,000 to $29,999
+12	Usd$30kto1k       	$30,000 to $34,999
+12	Usd$35kto1k       	$35,000 to $39,999
+12	Usd$40kto1k       	$40,000 to $44,999
+12	Usd$45kto1k       	$45,000 to $49,999
+2	Usd$5kto1k       	$5,000 to $7,499
+2	Usd$50kto1k       	$50,000 to $54,999
+10	Usd$50kto1k       	$50,000 to $59,999
+2	Usd$55kto1k       	$55,000 to $64,999
+10	Usd$60kto1k       	$60,000 to $74,999
+2	Usd$65kto1k       	$65,000 to $74,999
+2	Usd$7kto501k       	$7,500 to $9,999
+12	Usd$75kto1k       	$75,000 to $99,999
+6	1to13w       	1 to 13 weeks
+3	1wrkr       	1 worker
+2	1y       	1 year
+1	1pHH       	1-person household
+1	1pHH:       	1-person household:
+1	1.00to1.24       	1.00 to 1.24
+1	1.25to1.49       	1.25 to 1.49
+1	Gte1.50:       	1.50 and over:
+1	1.50to1.74       	1.50 to 1.74
+1	1.75to1.84       	1.75 to 1.84
+1	1.85to1.99       	1.85 to 1.99
+1	10to14min       	10 to 14 minutes
+1	10toLt25pctTotIndEarn       	10 to less than 25 percent of total earnings for individual imputed
+3	10toLt25pctTotIncFam       	10 to less than 25 percent of total income for family imputed
+1	10toLt25pctTotIncHH       	10 to less than 25 percent of total income for household imputed
+3	10toLt25pctTotIncInd       	10 to less than 25 percent of total income for individual imputed
+1	10toLt25pctTotIncNFamHH       	10 to less than 25 percent of total income for nonfamily household imputed
+2	10y       	10 years
+1	100pctTotIndEarn       	100 percent of total earnings for individual imputed
+3	100pctTotIncFam       	100 percent of total income for family imputed
+1	100pctTotIncHH       	100 percent of total income for household imputed
+3	100pctTotIncInd       	100 percent of total income for individual imputed
+1	100pctTotIncNFamHH       	100 percent of total income for nonfamily household imputed
+1	10AMto11AM       	10:00 a.m. to 10:59 a.m.
+2	10thGr       	10th grade
+2	11y       	11 years
+1	11AMto12AM       	11:00 a.m. to 11:59 a.m.
+2	11thGr       	11th grade
+3	12and13y       	12 and 13 years
+2	12to17y       	12 to 17 years
+2	12y       	12 years
+1	12AMto5AM       	12:00 a.m. to 4:59 a.m.
+1	12PMto4PM       	12:00 p.m. to 3:59 p.m.
+2	12thGrNoDip       	12th grade, no diploma
+2	13y       	13 years
+6	14to26w       	14 to 26 weeks
+5	14y       	14 years
+3	15to17y       	15 to 17 years
+1	15to19min       	15 to 19 minutes
+2	15y       	15 years
+2	16to20y:       	16 to 20 years:
+2	16y       	16 years
+2	17y       	17 years
+2	18to64y       	18 to 64 years
+3	18to64y:       	18 to 64 years:
+2	18y       	18 years
+2	19y       	19 years
+1	1965to1969       	1965 to 1969
+1	1970to1974       	1970 to 1974
+1	1975to1979       	1975 to 1979
+1	1980to1984       	1980 to 1984
+1	1985to1989       	1985 to 1989
+1	1990to1994       	1990 to 1994
+1	1995toMar2000       	1995 to March 2000
+2	2wrkr       	2 workers
+1	2wrkr:       	2 workers:
+2	2y       	2 years
+1	Gte2pHH:       	2-or-more-person household:
+2	2pHH       	2-person household
+1	Gte2.00       	2.00 and over
+1	20to24min       	20 to 24 minutes
+2	20y       	20 years
+2	21to64y:       	21 to 64 years:
+2	21y       	21 years
+2	22to24y       	22 to 24 years
+1	25to29min       	25 to 29 minutes
+2	25to29y       	25 to 29 years
+1	25toLt50pctTotIndEarn       	25 to less than 50 percent of total earnings for individual imputed
+3	25toLt50pctTotIncFam       	25 to less than 50 percent of total income for family imputed
+1	25toLt50pctTotIncHH       	25 to less than 50 percent of total income for household imputed
+3	25toLt50pctTotIncInd       	25 to less than 50 percent of total income for individual imputed
+1	25toLt50pctTotIncNFamHH       	25 to less than 50 percent of total income for nonfamily household imputed
+6	27to39w       	27 to 39 weeks
+3	3and4y       	3 and 4 years
+2	Gte3wrkr       	3 or more workers
+1	Gte3wrkr:       	3 or more workers:
+2	3y       	3 years
+2	3pHH       	3-person household
+1	30to34min       	30 to 34 minutes
+2	30to34y       	30 to 34 years
+2	30to44min:       	30 to 44 minutes:
+1	35to39min       	35 to 39 minutes
+2	35to39y       	35 to 39 years
+2	4y       	4 years
+2	4pHH       	4-person household
+1	40to44min       	40 to 44 minutes
+2	40to44y       	40 to 44 years
+6	40to47w       	40 to 47 weeks
+2	45to49y       	45 to 49 years
+1	45to59min       	45 to 59 minutes
+2	45to59min:       	45 to 59 minutes:
+6	48and49w       	48 and 49 weeks
+1	4PMto12PM       	4:00 p.m. to 11:59 p.m.
+2	5to15y:       	5 to 15 years:
+6	5to17yOnly       	5 to 17 years only
+1	5to17y:       	5 to 17 years:
+1	5to9min       	5 to 9 minutes
+7	5y       	5 years
+2	5pHH       	5-person household
+1	50to.74       	50 to .74
+6	50to52w       	50 to 52 weeks
+2	50to54y       	50 to 54 years
+1	50toLt100pctTotIndEarn       	50 to less than 100 percent of total earnings for individual imputed
+3	50toLt100pctTotIncFam       	50 to less than 100 percent of total income for family imputed
+1	50toLt100pctTotIncHH       	50 to less than 100 percent of total income for household imputed
+3	50toLt100pctTotIncInd       	50 to less than 100 percent of total income for individual imputed
+1	50toLt100pctTotIncNF       	50 to less than 100 percent of total income for nonfamily household imputed
+2	55to59y       	55 to 59 years
+1	5AMto6AM       	5:00 a.m. to 5:29 a.m.
+1	5AMto6AM       	5:30 a.m. to 5:59 a.m.
+2	5thand6thGr       	5th and 6th grade
+5	6to11y       	6 to 11 years
+6	6to17yOnly       	6 to 17 years only
+1	6to17yOnly:       	6 to 17 years only:
+1	6to17y:       	6 to 17 years:
+2	6y       	6 years
+2	6pHH       	6-person household
+2	60 and 61y       	60 and 61 years
+2	Gte60min:       	60 or more minutes:
+1	60to89min       	60 to 89 minutes
+2	62to64y       	62 to 64 years
+2	65and66y       	65 and 66 years
+2	65to74y       	65 to 74 years
+4	65to74y:       	65 to 74 years:
+3	Gte65y:       	65 years and over:
+2	67to69y       	67 to 69 years
+1	6AMto7AM       	6:00 a.m. to 6:29 a.m.
+1	6AMto7AM       	6:30 a.m. to 6:59 a.m.
+2	7y       	7 years
+2	Gte7pHH       	7-or-more-person household
+2	70to74y       	70 to 74 years
+1	75to.99       	75 to .99
+2	75to79y       	75 to 79 years
+2	Gte75y       	75 years and over
+4	Gte75y:       	75 years and over:
+1	7AMto8AM       	7:00 a.m. to 7:29 a.m.
+1	7AMto8AM       	7:30 a.m. to 7:59 a.m.
+2	7thand8thGr       	7th and 8th grade
+2	8y       	8 years
+2	80to84y       	80 to 84 years
+2	Gte85y       	85 years and over
+1	8AMto9AM       	8:00 a.m. to 8:29 a.m.
+1	8AMto9AM       	8:30 a.m. to 8:59 a.m.
+2	9y       	9 years
+1	Gte90min       	90 or more minutes
+1	9AMto10AM       	9:00 a.m. to 9:59 a.m.
+2	9thGr       	9th grade
+2	Occ001       	Accommodation and food services
+2	Occ002       	Administrative and support and waste management services
+1	Adptd       	Adopted
+1	AggInc1999       	Aggregate Income in 1999
+1	AggSSInc1999       	Aggregate Social Security income in 1999
+1	AggSupSecInc1999       	Aggregate Supplemental Security Income in 1999
+1	AggEarn1999       	Aggregate earnings in 1999
+1	AggEarn1999:       	Aggregate earnings in 1999:
+1	AggFamInc1999:       	Aggregate family income in 1999:
+2	AggHHInc1999:       	Aggregate household income in 1999:
+1	AggIncDef1999:       	Aggregate income deficit in 1999:
+1	AggIntDivRentInc1999       	Aggregate interest, dividends, or net rental income in 1999
+1	AggNFamHHInc1999:       	Aggregate nonfamily household income in 1999:
+1	AggOthInc1999       	Aggregate other types of income in 1999
+1	Aggpublic assistance Incin 1999       	Aggregate public assistance income in 1999
+1	Aggretirement Incin 1999       	Aggregate retirement income in 1999
+1	Aggself-employment Incin 1999       	Aggregate self-employment income in 1999
+1	Aggtravel timetowork (in minutes):       	Aggregate travel time to work (in minutes):
+1	Aggwage or salary Incin 1999       	Aggregate wage or salary income in 1999
+2	Occ003       	Agriculture, forestry, fishing and hunting
+4	AgForFishHuntMin:       	Agriculture, forestry, fishing and hunting, and mining:
+2	AgForFishHunt:       	Agriculture, forestry, fishing and hunting:
+2	Occ004       	Aircraft and traffic control occupations
+2	AllGeoPart       	All geographic parts imputed
+2	AllIndExcAgForFishHuntMin:       	All industries except agriculture, forestry, fishing and hunting, and mining:
+3	AmIndAkNatAlone       	American Indian and Alaska Native alone
+2	Architects, surveyors, cartographers, and engineers       	Architects, surveyors, cartographers, and engineers
+2	Architecture and engineering occupations:       	Architecture and engineering occupations:
+2	Arts, design, entertainment, sports, and media occupations       	Arts, design, entertainment, sports, and media occupations
+2	Arts, entertainment, and recreation       	Arts, entertainment, and recreation
+2	Arts, entertainment, recreation, accommodation and food services:       	Arts, entertainment, recreation, accommodation and food services:
+3	Asian alone       	Asian alone
+1	Asian and Pacific Island languages:       	Asian and Pacific Island languages:
+2	Associate degree       	Associate degree
+1	August 1990 or later (including Persian Gulf War):       	August 1990 or later (including Persian Gulf War):
+2	Bachelor's degree       	Bachelor's degree
+1	Before 1965       	Before 1965
+1	Bicycle       	Bicycle
+3	Black or African American alone       	Black or African American alone
+1	Born abroadAmerican parent(s)       	Born abroad of American parent(s)
+1	Born in other state in the United States:       	Born in other state in the United States:
+1	Born in stateresidence       	Born in state of residence
+1	Born outside the United States:       	Born outside the United States:
+2	Both parents in labor force       	Both parents in labor force
+1	Brother or sister       	Brother or sister
+2	Building and grounds cleaning and maintenance occupations       	Building and grounds cleaning and maintenance occupations
+1	Bus or trolley bus       	Bus or trolley bus
+2	Business and financial operations occupations:       	Business and financial operations occupations:
+2	Business operations specialists       	Business operations specialists
+3	Car, truck, or van:       	Car, truck, or van:
+1	Carpooled       	Carpooled
+1	Carpooled:       	Carpooled:
+11	Central city       	Central city
+1	Child:       	Child:
+7	Civilian:       	Civilian:
+2	Community and social services occupations       	Community and social services occupations
+2	Computer and mathematical occupations       	Computer and mathematical occupations
+2	Construction       	Construction
+2	Construction and extraction occupations:       	Construction and extraction occupations:
+2	Construction trades workers       	Construction trades workers
+2	Construction, extraction, and maintenance occupations:       	Construction, extraction, and maintenance occupations:
+4	Did not work at home:       	Did not work at home:
+4	Did not work in 1999       	Did not work in 1999
+2	DiffMSA/PMSA in 1995:       	Different MSA/PMSA in 1995:
+1	Diffcounty:       	Different county:
+3	Diffhouse in 1995:       	Different house in 1995:
+1	Diffhouse:       	Different house:
+1	Diffmunicipio       	Different municipio
+1	Diffstate:       	Different state:
+2	Divorced       	Divorced
+2	Doctorate degree       	Doctorate degree
+9	Dollar valuezero imputed       	Dollar value of zero imputed
+2	Drafters, engineering, and mapping technicians       	Drafters, engineering, and mapping technicians
+2	Drove alone       	Drove alone
+2	Education, training, and library occupations       	Education, training, and library occupations
+2	Educational services       	Educational services
+2	Educational, health and social services:       	Educational, health and social services:
+2	Elsewhere in 1995       	Elsewhere in 1995
+1	Elsewhere in 1995:       	Elsewhere in 1995:
+13	Employed       	Employed
+9	Employed or in Armed Forces       	Employed or in Armed Forces
+1	Employed or in Armed Forces:       	Employed or in Armed Forces:
+6	Employeeprivate company       	Employee of private company
+1	Employment disability       	Employment disability
+1	English       	English
+2	Erldin college, undergraduate years:       	Enrolled in college, undergraduate years:
+2	Erldin grade 1tograde 4:       	Enrolled in grade 1 to grade 4:
+2	Erldin grade 5tograde 8:       	Enrolled in grade 5 to grade 8:
+2	Erldin grade 9tograde 12:       	Enrolled in grade 9 to grade 12:
+2	Erldin graduate or professional school:       	Enrolled in graduate or professional school:
+2	Erldin kindergarten:       	Enrolled in kindergarten:
+2	Erldin nursery school, preschool:       	Enrolled in nursery school, preschool:
+2	Erldin school:       	Enrolled in school:
+2	Extraction workers       	Extraction workers
+9	Family households:       	Family households:
+1	Farm       	Farm
+2	Farmers and farm managers       	Farmers and farm managers
+2	Farming, fishing, and forestry occupations       	Farming, fishing, and forestry occupations
+2	Father only in labor force       	Father only in labor force
+1	February 1955toJuly 1964 only       	February 1955 to July 1964 only
+6	Federal government workers       	Federal government workers
+4	Female       	Female
+4	Female Hh       	Female householder
+9	Female Hh, no husband present       	Female householder, no husband present
+12	Female Hh, no husband present:       	Female householder, no husband present:
+4	Female Hh:       	Female householder:
+12	Female:       	Female:
+1	Ferryboat       	Ferryboat
+2	Finance and insurance       	Finance and insurance
+2	Finance, insurance, real estate and rental and leasing:       	Finance, insurance, real estate and rental and leasing:
+2	Financial specialists       	Financial specialists
+2	Fire fighting, prevention, and law enforcement workers, including supervisors       	Fire fighting, prevention, and law enforcement workers, including supervisors
+2	Food preparation and serving related occupations       	Food preparation and serving related occupations
+1	Foreign born:       	Foreign born:
+1	Foreign country or at sea       	Foreign country or at sea
+2	Go-outside-home disability       	Go-outside-home disability
+1	Grandchild       	Grandchild
+1	Grandparent not responsibleown grandchildren Lt18y       	Grandparent not responsible for own grandchildren under 18 years
+1	Grandparent responsibleown grandchildren Lt18y:       	Grandparent responsible for own grandchildren under 18 years:
+2	Health care and social assistance       	Health care and social assistance
+2	Health diagnosing and treating practitioners and technical occupations       	Health diagnosing and treating practitioners and technical occupations
+2	Health technologists and technicians       	Health technologists and technicians
+2	Healthcare practitioners and technical occupations:       	Healthcare practitioners and technical occupations:
+2	Healthcare support occupations       	Healthcare support occupations
+2	High school graduate       	High school graduate
+2	High school graduate (includes equivalency)       	High school graduate (includes equivalency)
+1	High school graduate:       	High school graduate:
+1	Hispanic or Latino:       	Hispanic or Latino:
+2	Hh15to24y       	Householder 15 to 24 years
+1	Hh15to64y:       	Householder 15 to 64 years:
+4	Hh25to34y       	Householder 25 to 34 years
+1	Hh25to34y:       	Householder 25 to 34 years:
+10	Hh25to44y       	Householder 25 to 44 years
+4	Hh35to44y       	Householder 35 to 44 years
+1	Hh35to44y:       	Householder 35 to 44 years:
+4	Hh45to54y       	Householder 45 to 54 years
+1	Hh45to54y:       	Householder 45 to 54 years:
+10	Hh45to64y       	Householder 45 to 64 years
+4	Hh55to64y       	Householder 55 to 64 years
+1	Hh55to64y:       	Householder 55 to 64 years:
+4	Hh65to74y       	Householder 65 to 74 years
+1	Hh65to74y:       	Householder 65 to 74 years:
+10	Hh65y and over       	Householder 65 years and over
+1	Hh65y and over:       	Householder 65 years and over:
+2	Hh75to84y       	Householder 75 to 84 years
+2	Hh75y and over       	Householder 75 years and over
+1	Hh75y and over:       	Householder 75 years and over:
+2	Hh85y and over       	Householder 85 years and over
+2	Hhliving alone       	Householder living alone
+2	Hhnot living alone       	Householder not living alone
+12	HhLt25y       	Householder under 25 years
+1	HhLt25y:       	Householder under 25 years:
+2	Hh:       	Householder:
+2	Husband and wife worked       	Husband and wife worked
+1	Husband in labor force:       	Husband in labor force:
+1	Husband not in labor force:       	Husband not in labor force:
+38	Imputed       	Imputed
+3	Imputed:       	Imputed:
+1	In 2-person carpool       	In 2-person carpool
+1	In 3-person carpool       	In 3-person carpool
+1	In 4-person carpool       	In 4-person carpool
+1	In 5- or 6-person carpool       	In 5- or 6-person carpool
+1	In 7-or-more-person carpool       	In 7-or-more-person carpool
+6	In Armed Forces       	In Armed Forces
+1	In Armed Forces:       	In Armed Forces:
+3	In Puerto Rico in 1995:       	In Puerto Rico in 1995:
+3	In United States in 1995:       	In United States in 1995:
+2	In an MSA/PMSA in 1995:       	In an MSA/PMSA in 1995:
+2	In family households:       	In family households:
+2	In group quarters:       	In group quarters:
+2	In households:       	In households:
+4	In labor force       	In labor force
+8	In labor force:       	In labor force:
+6	In married-couple families       	In married-couple families
+1	In married-couple families:       	In married-couple families:
+2	In nonfamily households:       	In nonfamily households:
+7	In other families:       	In other families:
+4	Incin 1999 at or above poverty level:       	Income in 1999 at or above poverty level:
+4	Incin 1999 below poverty level:       	Income in 1999 below poverty level:
+2	Information       	Information
+1	Inside urban clusters       	Inside urban clusters
+1	Inside urbanized areas       	Inside urbanized areas
+2	Installation, maintenance, and repair occupations       	Installation, maintenance, and repair occupations
+2	Institutionalized population       	Institutionalized population
+1	Korean War and World War II, no Vietnam era       	Korean War and World War II, no Vietnam era
+1	Korean War, no Vietnam era, no World War II       	Korean War, no Vietnam era, no World War II
+1	Language status imputed       	Language status imputed
+1	Language status not imputed       	Language status not imputed
+2	Legal occupations       	Legal occupations
+10	LtUsd10k       	Less than $10,000
+3	LtUsd200k       	Less than $200,000
+2	Lt30 minutes:       	Less than 30 minutes:
+1	Lt5 minutes       	Less than 5 minutes
+2	Life, physical, and social science occupations       	Life, physical, and social science occupations
+4	Linguistically isolated       	Linguistically isolated
+4	Lvngalone       	Living alone
+1	Lvngincentral city:       	Living in a central city:
+1	Lvnginplace:       	Living in a place:
+1	Lvngin an MSA/PMSA in 2000:       	Living in an MSA/PMSA in 2000:
+1	Lvngin an MSA/PMSA:       	Living in an MSA/PMSA:
+1	Lvngin remainderan MSA/PMSA:       	Living in remainder of an MSA/PMSA:
+1	Lvngin the 12 selected states:       	Living in the 12 selected states:
+2	Lvngwith father:       	Living with father:
+2	Lvngwith mother:       	Living with mother:
+2	Lvngwith one parent:       	Living with one parent:
+2	Lvngwith own grandchildren Lt18y:       	Living with own grandchildren under 18 years:
+2	Lvngwith two parents:       	Living with two parents:
+6	Local government workers       	Local government workers
+4	Male       	Male
+4	Male Hh       	Male householder
+9	Male Hh, no wife present       	Male householder, no wife present
+12	Male Hh, no wife present:       	Male householder, no wife present:
+4	Male Hh:       	Male householder:
+12	Male:       	Male:
+2	Management occupations, except farmers and farm managers       	Management occupations, except farmers and farm managers
+2	Managementcompanies and enterprises       	Management of companies and enterprises
+2	Management, business, and financial operations occupations:       	Management, business, and financial operations occupations:
+2	Management, professional, and related occupations:       	Management, professional, and related occupations:
+2	Manufacturing       	Manufacturing
+2	Married, spouse absent:       	Married, spouse absent:
+2	Married, spouse present       	Married, spouse present
+3	Married-couple family       	Married-couple family
+11	Married-couple family:       	Married-couple family:
+2	Master's degree       	Master's degree
+2	Material moving workers       	Material moving workers
+1	May 1975toJuly 1990 only:       	May 1975 to July 1990 only:
+1	Median family Incin 1999       	Median family income in 1999
+1	Median household Incin 1999       	Median household income in 1999
+1	Median nonfamily household Incin 1999       	Median nonfamily household income in 1999
+3	Mental disability       	Mental disability
+2	Midwest       	Midwest
+2	Mining       	Mining
+2	Mining:       	Mining:
+1	Gt0toLt10pctTotearningsindividual imputed       	More than 0 to less than 10 percent of total earnings for individual imputed
+3	Gt0toLt10pctTotIncfamily imputed       	More than 0 to less than 10 percent of total income for family imputed
+1	Gt0toLt10pctTotInchousehold imputed       	More than 0 to less than 10 percent of total income for household imputed
+3	Gt0toLt10pctTotIncindividual imputed       	More than 0 to less than 10 percent of total income for individual imputed
+1	Gt0toLt10pctTotIncnonfamily household imputed       	More than 0 to less than 10 percent of total income for nonfamily household imputed
+2	Mother only in labor force       	Mother only in labor force
+2	Motor vehicle operators       	Motor vehicle operators
+1	Motorcycle       	Motorcycle
+3	Native Hawaiian and OthPacific Islander alone       	Native Hawaiian and Other Pacific Islander alone
+1	Native:       	Native:
+1	Natural-born       	Natural-born
+4	Naturalized citizen       	Naturalized citizen
+2	Neither parent in labor force       	Neither parent in labor force
+2	Never married       	Never married
+1	No Social Security Inc       	No Social Security income
+1	No Supplemental Security Inc(SSI)       	No Supplemental Security Income (SSI)
+1	No Vietnam era service:       	No Vietnam era service:
+6	No disability       	No disability
+1	No disability items imputed       	No disability items imputed
+4	No disability:       	No disability:
+1	No earnings       	No earnings
+1	No earnings imputed       	No earnings imputed
+8	No Incimputed       	No income imputed
+1	No interest, dividends, or net rental Inc       	No interest, dividends, or net rental income
+2	No items imputed       	No items imputed
+1	No other typesInc       	No other types of income
+12	No own children Lt18y       	No own children under 18 years
+1	No own children Lt18y:       	No own children under 18 years:
+1	No public assistance Inc       	No public assistance income
+9	No related children Lt18y       	No related children under 18 years
+1	No retirement Inc       	No retirement income
+2	No schooling completed       	No schooling completed
+1	No self-employment Inc       	No self-employment income
+1	No wage or salary Inc       	No wage or salary income
+3	No workers       	No workers
+9	Nonfamily households:       	Nonfamily households:
+1	Nonfarm       	Nonfarm
+2	Noninstitutionalized population       	Noninstitutionalized population
+4	Nonrelatives       	Nonrelatives
+4	Nonveteran       	Nonveteran
+2	Northeast       	Northeast
+1	Not Hispanic or Latino:       	Not Hispanic or Latino:
+4	Notcitizen       	Not a citizen
+8	Not employed       	Not employed
+2	Not enrolled in school       	Not enrolled in school
+2	Not enrolled in school:       	Not enrolled in school:
+2	Not high school graduate       	Not high school graduate
+1	Not high school graduate:       	Not high school graduate:
+41	Not imputed       	Not imputed
+4	Not in an MSA/PMSA in 1995       	Not in an MSA/PMSA in 1995
+15	Not in labor force       	Not in labor force
+4	Not linguistically isolated       	Not linguistically isolated
+4	Not living alone       	Not living alone
+1	Not living inplace       	Not living in a place
+1	Not living in an MSA/PMSA in 2000:       	Not living in an MSA/PMSA in 2000:
+1	Not living in an MSA/PMSA:       	Not living in an MSA/PMSA:
+1	Not living in the 12 selected states       	Not living in the 12 selected states
+2	Not living with own grandchildren Lt18y       	Not living with own grandchildren under 18 years
+2	Now married:       	Now married:
+2	Nurseryto4th grade       	Nursery to 4th grade
+2	Office and administrative support occupations       	Office and administrative support occupations
+2	One or more but not all geographic parts imputed       	One or more but not all geographic parts imputed
+1	One or more disability items imputed       	One or more disability items imputed
+2	One or more items imputed       	One or more items imputed
+4	Other       	Other
+1	OthIndo-European languages:       	Other Indo-European languages:
+1	OthMay 1975toJuly 1990 service       	Other May 1975 to July 1990 service
+14	Othfamily:       	Other family:
+1	Othlanguages:       	Other languages:
+9	Othmeans       	Other means
+2	Othmeans (including those who worked at home)       	Other means (including those who worked at home)
+2	Othprotective service workers, including supervisors       	Other protective service workers, including supervisors
+2	Othrelatives       	Other relatives
+1	Othservice only       	Other service only
+2	Othservices (except public administration)       	Other services (except public administration)
+2	Parent       	Parent
+1	Per capita Incin 1999       	Per capita income in 1999
+1	Percentthe population in sample       	Percent of the population in sample
+2	Personal care and service occupations       	Personal care and service occupations
+3	Physical disability       	Physical disability
+6	Private for-profit wage and salary workers:       	Private for-profit wage and salary workers:
+6	Private not-for-profit wage and salary workers       	Private not-for-profit wage and salary workers
+14	Private school       	Private school
+2	Production occupations       	Production occupations
+2	Production, transportation, and material moving occupations:       	Production, transportation, and material moving occupations:
+2	Professional and related occupations:       	Professional and related occupations:
+2	Professional school degree       	Professional school degree
+2	Professional, scientific, and technical services       	Professional, scientific, and technical services
+2	Professional, scientific, management, administrative, and waste management services:       	Professional, scientific, management, administrative, and waste management services:
+2	Protective service occupations:       	Protective service occupations:
+2	Public administration       	Public administration
+14	Public school       	Public school
+8	Public transportation       	Public transportation
+1	Public transportation:       	Public transportation:
+1	Puerto Rico       	Puerto Rico
+2	Rail, water and other transportation occupations       	Rail, water and other transportation occupations
+1	Railroad       	Railroad
+2	Real estate and rental and leasing       	Real estate and rental and leasing
+3	RemainderMSA/PMSA       	Remainder of MSA/PMSA
+4	Remainderdifferent MSA/PMSA       	Remainder of different MSA/PMSA
+4	Remainderthis MSA/PMSA       	Remainder of this MSA/PMSA
+2	Retail trade       	Retail trade
+1	Rural:       	Rural:
+2	Sales and office occupations:       	Sales and office occupations:
+2	Sales and related occupations       	Sales and related occupations
+2	Same MSA/PMSA in 1995:       	Same MSA/PMSA in 1995:
+1	Same county       	Same county
+1	Same house       	Same house
+3	Same house in 1995       	Same house in 1995
+1	Same municipio       	Same municipio
+1	Same state       	Same state
+3	Self-care disability       	Self-care disability
+6	Self-employed in own incorporated business       	Self-employed in own incorporated business
+6	Self-employed workers in own not incorporated business       	Self-employed workers in own not incorporated business
+3	Sensory disability       	Sensory disability
+2	Separated       	Separated
+1	September 1980toJuly 1990 only:       	September 1980 to July 1990 only:
+2	Served 2 or more years       	Served 2 or more years
+1	Served September 1980 or later only:       	Served September 1980 or later only:
+1	Served in Vietnam era       	Served in Vietnam era
+1	Served priortoSeptember 1980       	Served prior to September 1980
+2	Served Lt2y       	Served under 2 years
+2	Service occupations:       	Service occupations:
+2	Some college, 1 or more years, no degree       	Some college, 1 or more years, no degree
+2	Some college, Lt1y       	Some college, less than 1 year
+3	Some other race alone       	Some other race alone
+2	South       	South
+1	Spanish:       	Spanish:
+3	SpkAsian and Pacific Island languages:       	Speak Asian and Pacific Island languages:
+12	SpkEnglish "not at all"       	Speak English "not at all"
+12	SpkEnglish "not well"       	Speak English "not well"
+12	SpkEnglish "very well"       	Speak English "very well"
+12	SpkEnglish "well"       	Speak English "well"
+3	SpkSpanish:       	Speak Spanish:
+5	Spkonly English       	Speak only English
+3	Spkother Indo-European languages:       	Speak other Indo-European languages:
+5	Spkother languages:       	Speak other languages:
+2	Spouse       	Spouse
+6	State government workers       	State government workers
+1	Step       	Step
+1	Streetcar or trolley car (público in Puerto Rico)       	Streetcar or trolley car (público in Puerto Rico)
+1	Subway or elevated       	Subway or elevated
+2	Supervisors, construction and extraction workers       	Supervisors, construction and extraction workers
+2	Supervisors, transportation and material moving workers       	Supervisors, transportation and material moving workers
+1	Taxicab       	Taxicab
+2	Tot       	Total
+1	Totdisabilities talliedpeople 16to64y:       	Total disabilities tallied for people 16 to 64 years:
+1	Totdisabilities talliedpeople 5to15y:       	Total disabilities tallied for people 5 to 15 years:
+1	Totdisabilities talliedpeople 65y and over:       	Total disabilities tallied for people 65 years and over:
+1	Totdisabilities tallied:       	Total disabilities tallied:
+109	Tot:       	Total:
+2	Transportation and material moving occupations:       	Transportation and material moving occupations:
+2	Transportation and warehousing       	Transportation and warehousing
+2	Transportation and warehousing, and utilities:       	Transportation and warehousing, and utilities:
+3	Two or more races       	Two or more races
+2	U.S. Island Areas       	U.S. Island Areas
+1	Lt.50       	Under .50
+2	Lt1y       	Under 1 year
+1	Lt1.50:       	Under 1.50:
+3	Lt3y       	Under 3 years
+2	Lt5y       	Under 5 years
+6	Lt5y and 5to17y       	Under 5 years and 5 to 17 years
+6	Lt5y only       	Under 5 years only
+6	Lt6y and 6to17y       	Under 6 years and 6 to 17 years
+1	Lt6y and 6to17y:       	Under 6 years and 6 to 17 years:
+6	Lt6y only       	Under 6 years only
+1	Lt6y only:       	Under 6 years only:
+1	Lt6y:       	Under 6 years:
+2	Lt65y:       	Under 65 years:
+14	Unemployed       	Unemployed
+1	Unemployed:       	Unemployed:
+6	Unpaid family workers       	Unpaid family workers
+6	Unrelated individuals       	Unrelated individuals
+1	Urban:       	Urban:
+2	Usually worked 1to14 hours per week:       	Usually worked 1 to 14 hours per week:
+2	Usually worked 15to34 hours per week:       	Usually worked 15 to 34 hours per week:
+2	Usually worked 35 or more hours per week:       	Usually worked 35 or more hours per week:
+2	Utilities       	Utilities
+4	Veteran       	Veteran
+1	Vietnam era and Korean War, no World War II, no August 1990 or later       	Vietnam era and Korean War, no World War II, no August 1990 or later
+1	Vietnam era, Korean War, and World War II, no August 1990 or later       	Vietnam era, Korean War, and World War II, no August 1990 or later
+1	Vietnam era, no Korean War, no World War II, no August 1990 or later       	Vietnam era, no Korean War, no World War II, no August 1990 or later
+1	Walked       	Walked
+2	West       	West
+3	White alone       	White alone
+2	Wholesale trade       	Wholesale trade
+2	Widowed       	Widowed
+3	Wife in labor force:       	Wife in labor force:
+3	Wife not in labor force       	Wife not in labor force
+1	WthSocial Security Inc       	With Social Security income
+1	WthSupplemental Security Inc(SSI)       	With Supplemental Security Income (SSI)
+6	Withdisability       	With a disability
+4	Withdisability:       	With a disability:
+1	Wthearnings       	With earnings
+1	Wthinterest, dividends, or net rental Inc       	With interest, dividends, or net rental income
+1	Wthother typesInc       	With other types of income
+9	Wthown children Lt18y       	With own children under 18 years
+4	Wthown children Lt18y:       	With own children under 18 years:
+1	Wthpublic assistance Inc       	With public assistance income
+9	Wthrelated children Lt18y:       	With related children under 18 years:
+1	Wthretirement Inc       	With retirement income
+1	Wthself-employment Inc       	With self-employment income
+1	Wthwage or salary Inc       	With wage or salary income
+5	Wrkdat home       	Worked at home
+4	Wrkdin 1999:       	Worked in 1999:
+2	Wrkdin MSA/PMSAresidence:       	Worked in MSA/PMSA of residence:
+2	Wrkdindifferent MSA/PMSA:       	Worked in a different MSA/PMSA:
+1	Wrkdin an MSA/PMSA:       	Worked in an MSA/PMSA:
+1	Wrkdin countyresidence       	Worked in county of residence
+1	Wrkdin minor civil divisionresidence       	Worked in minor civil division of residence
+1	Wrkdin placeresidence       	Worked in place of residence
+1	Wrkdin stateresidence:       	Worked in state of residence:
+2	Wrkdoutside MSA/PMSAresidence:       	Worked outside MSA/PMSA of residence:
+3	Wrkdoutside any MSA/PMSA       	Worked outside any MSA/PMSA
+1	Wrkdoutside countyresidence       	Worked outside county of residence
+1	Wrkdoutside minor civil divisionresidence       	Worked outside minor civil division of residence
+1	Wrkdoutside placeresidence       	Worked outside place of residence
+1	Wrkdoutside stateresidence       	Worked outside state of residence
+1	World War II, no Korean War, no Vietnam era       	World War II, no Korean War, no Vietnam era
+1	Yearentry 1980to1989:       	Year of entry 1980 to 1989:
+1	Yearentry 1990toMarch 2000:       	Year of entry 1990 to March 2000:
+1	Yearentry before 1980:       	Year of entry before 1980:

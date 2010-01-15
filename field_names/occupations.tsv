@@ -1,4 +1,20 @@
-2	Accommodation and food services	Occ001
-2	Administrative and support and waste management services	Occ002
-2	Agriculture, forestry, fishing and hunting	Occ003
-2	Aircraft and traffic control occupations	Occ004
+2	Occ001	Accommodation and food services       
+2	Occ002	Administrative and support and waste management services
+2	Occ003	Agriculture, forestry, fishing and hunting
+2	Occ004	Aircraft and traffic control occupations
+2	Occ005	Architects, surveyors, cartographers, and engineers                   
+2	Occ006	Arts, design, entertainment, sports, and media occupations            
+2	Occ007	Arts, entertainment, and recreation                                   
+2	Occ008	Building and grounds cleaning and maintenance occupations             
+2	Occ009	Business operations specialists                                       
+2	Occ010	Community and social services occupations                             
+2	Occ011	Computer and mathematical occupations                                 
+2	Occ012	Construction                                                          
+2	Occ013	Construction trades workers                                           
+2	Occ014	Drafters, engineering, and mapping technicians                        
+2	Occ015	Education, training, and library occupations                          
+2	Occ016	Educational services                                                  
+2	Occ017	Extraction workers                                                    
+2	Occ018	Farming, fishing, and forestry occupations                            
+6	Occ019	Federal government workers                                            
+2	Occ020	Finance and insurance                                                 
