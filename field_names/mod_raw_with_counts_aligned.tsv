@@ -1,32 +1,32 @@
- 2	Usd1kto2korL                                                           	$1 to $2,499 or loss                                                  
- 2	Usd$10kto1k                                                            	$10,000 to $12,499                                                    
-10	Usd$10kto1k                                                            	$10,000 to $14,999                                                    
+ 2	Usd1kto2.5korL                                                         	$1 to $2,499 or loss                                                  
+ 2	Usd10kto12.5k                                                         	$10,000 to $12,499                                                    
+10	Usd10kto15k                                                           	$10,000 to $14,999                                                    
  2	Usd100korM                                                             	$100,000 or more                                                      
-10	Usd$100kto1k                                                           	$100,000 to $124,999                                                  
- 2	Usd$12kto501k                                                          	$12,500 to $14,999                                                    
-10	Usd$125kto1k                                                           	$125,000 to $149,999                                                  
- 2	Usd$15kto1k                                                            	$15,000 to $17,499                                                    
-10	Usd$15kto1k                                                            	$15,000 to $19,999                                                    
-10	Usd$150kto1k                                                           	$150,000 to $199,999                                                  
- 2	Usd$17kto501k                                                          	$17,500 to $19,999                                                    
- 2	Usd$2kto501k                                                           	$2,500 to $4,999                                                      
- 2	Usd$20kto1k                                                            	$20,000 to $22,499                                                    
-10	Usd$20kto1k                                                            	$20,000 to $24,999                                                    
+10	Usd100kto125k                                                         	$100,000 to $124,999                                                  
+ 2	Usd12.5kto15k                                                         	$12,500 to $14,999                                                    
+10	Usd125kto150k                                                         	$125,000 to $149,999                                                  
+ 2	Usd15kto17.5k                                                          	$15,000 to $17,499                                                    
+10	Usd15kto20k                                                            	$15,000 to $19,999                                                    
+10	Usd150kto200k                                                          	$150,000 to $199,999                                                  
+ 2	Usd17.5kto20k                                                          	$17,500 to $19,999                                                    
+ 2	Usd2.5kto5k                                                           	$2,500 to $4,999                                                      
+ 2	Usd20kto22.5k                                                          	$20,000 to $22,499                                                    
+10	Usd20kto25k                                                            	$20,000 to $24,999                                                    
 13	Usd200korM                                                           	$200,000 or more                                                      
- 2	Usd$22kto501k                                                         	$22,500 to $24,999                                                    
-12	Usd$25kto1k                                                           	$25,000 to $29,999                                                    
-12	Usd$30kto1k                                                           	$30,000 to $34,999                                                    
-12	Usd$35kto1k                                                           	$35,000 to $39,999                                                    
-12	Usd$40kto1k                                                           	$40,000 to $44,999                                                    
-12	Usd$45kto1k                                                           	$45,000 to $49,999                                                    
- 2	Usd$5kto1k                                                            	$5,000 to $7,499                                                      
- 2	Usd$50kto1k                                                           	$50,000 to $54,999                                                    
-10	Usd$50kto1k                                                           	$50,000 to $59,999                                                    
- 2	Usd$55kto1k                                                           	$55,000 to $64,999                                                    
-10	Usd$60kto1k                                                           	$60,000 to $74,999                                                    
- 2	Usd$65kto1k                                                           	$65,000 to $74,999                                                    
- 2	Usd$7kto501k                                                          	$7,500 to $9,999                                                      
-12	Usd$75kto1k                                                           	$75,000 to $99,999                                                    
+ 2	Usd22.5kto25k                                                         	$22,500 to $24,999                                                    
+12	Usd25kto30k                                                           	$25,000 to $29,999                                                    
+12	Usd30kto35k                                                           	$30,000 to $34,999                                                    
+12	Usd35kto40k                                                           	$35,000 to $39,999                                                    
+12	Usd40kto45k                                                           	$40,000 to $44,999                                                    
+12	Usd45kto50k                                                           	$45,000 to $49,999                                                    
+ 2	Usd5kto7.5k                                                            	$5,000 to $7,499                                                      
+ 2	Usd50kto55k                                                           	$50,000 to $54,999                                                    
+10	Usd50kto60k                                                           	$50,000 to $59,999                                                    
+ 2	Usd55kto65k                                                           	$55,000 to $64,999                                                    
+10	Usd60kto75k                                                           	$60,000 to $74,999                                                    
+ 2	Usd65kto75k                                                           	$65,000 to $74,999                                                    
+ 2	Usd7.5kto10k                                                          	$7,500 to $9,999                                                      
+12	Usd75kto100k                                                           	$75,000 to $99,999                                                    
  6	1to13w                                                                	1 to 13 weeks                                                         
  3	1wrkr                                                                 	1 worker                                                              
  2	1y                                                                    	1 year                                                                
@@ -144,7 +144,7 @@
  1	6to17y:                                                               	6 to 17 years:                                                        
  2	6y                                                                    	6 years                                                               
  2	6pHH                                                                  	6-person household                                                    
- 2	60 and 61y                                                            	60 and 61 years                                                       
+ 2	60and61y                                                            	60 and 61 years                                                       
  2	Gte60min:                                                             	60 or more minutes:                                                   
  1	60to89min                                                             	60 to 89 minutes                                                      
  2	62to64y                                                               	62 to 64 years                                                        
@@ -397,235 +397,235 @@
  2	MarriedSpPres                                                        	Married, spouse present                                               
  3	MarriedCplFam                                                       	Married-couple family                                                 
 11	MarriedCplFam:                                                       	Married-couple family:                                                
- 2	Master's degree                                                       	Master's degree                                                       
- 2	Material moving workers                                               	Material moving workers                                               
- 1	May 1975toJuly 1990 only:                                             	May 1975 to July 1990 only:                                           
- 1	Median family Incin 1999                                              	Median family income in 1999                                          
- 1	Median household Incin 1999                                           	Median household income in 1999                                       
- 1	Median nonfamily household Incin 1999                                 	Median nonfamily household income in 1999                             
- 3	Mental disability                                                     	Mental disability                                                     
- 2	Midwest                                                               	Midwest                                                               
- 2	Mining                                                                	Mining                                                                
+ 2	MastDeg                                                              	Master's degree                                                       
+ 2	Occ036                                                              	Material moving workers                                               
+ 1	May1975toJul1990:                                                      	May 1975 to July 1990 only:                                           
+ 1	MedFamInc1999                                                       	Median family income in 1999                                          
+ 1	MedHHInc1999                                                         	Median household income in 1999                                       
+ 1	MedBFamHHInc1999                                                     	Median nonfamily household income in 1999                             
+ 3	MentDisab                                                           	Mental disability                                                     
+ 2	MidWest                                                               	Midwest                                                               
+ 2	Occ037                                                              	Mining                                                                
  2	Mining:                                                               	Mining:                                                               
- 1	Gt0toLt10pctTotearningsindividual imputed                             	More than 0 to less than 10 percent of total earnings for individual imputed
- 3	Gt0toLt10pctTotIncfamily imputed                                      	More than 0 to less than 10 percent of total income for family imputed
- 1	Gt0toLt10pctTotInchousehold imputed                                   	More than 0 to less than 10 percent of total income for household imputed
- 3	Gt0toLt10pctTotIncindividual imputed                                  	More than 0 to less than 10 percent of total income for individual imputed
- 1	Gt0toLt10pctTotIncnonfamily household imputed                         	More than 0 to less than 10 percent of total income for nonfamily household imputed
- 2	Mother only in labor force                                            	Mother only in labor force                                            
- 2	Motor vehicle operators                                               	Motor vehicle operators                                               
- 1	Motorcycle                                                            	Motorcycle                                                            
- 3	Native Hawaiian and OthPacific Islander alone                         	Native Hawaiian and Other Pacific Islander alone                      
+ 1	Gt0toLt10pctTotEarnInd                                               	More than 0 to less than 10 percent of total earnings for individual imputed
+ 3	Gt0toLt10pctTotIncFam                                               	More than 0 to less than 10 percent of total income for family imputed
+ 1	Gt0toLt10pctTotIncHH                                                 	More than 0 to less than 10 percent of total income for household imputed
+ 3	Gt0toLt10pctTotIncInd                                                	More than 0 to less than 10 percent of total income for individual imputed
+ 1	Gt0toLt10pctTotIncNFamHH                                             	More than 0 to less than 10 percent of total income for nonfamily household imputed
+ 2	MothOnlyLaborFor                                                     	Mother only in labor force                                            
+ 2	Occ038                                                              	Motor vehicle operators                                               
+ 1	MotCycle                                                            	Motorcycle                                                            
+ 3	NatHawOthPacIsl                                                     	Native Hawaiian and Other Pacific Islander alone                      
  1	Native:                                                               	Native:                                                               
- 1	Natural-born                                                          	Natural-born                                                          
- 4	Naturalized citizen                                                   	Naturalized citizen                                                   
- 2	Neither parent in labor force                                         	Neither parent in labor force                                         
- 2	Never married                                                         	Never married                                                         
- 1	No Social Security Inc                                                	No Social Security income                                             
- 1	No Supplemental Security Inc(SSI)                                     	No Supplemental Security Income (SSI)                                 
- 1	No Vietnam era service:                                               	No Vietnam era service:                                               
- 6	No disability                                                         	No disability                                                         
- 1	No disability items imputed                                           	No disability items imputed                                           
- 4	No disability:                                                        	No disability:                                                        
- 1	No earnings                                                           	No earnings                                                           
- 1	No earnings imputed                                                   	No earnings imputed                                                   
- 8	No Incimputed                                                         	No income imputed                                                     
- 1	No interest, dividends, or net rental Inc                             	No interest, dividends, or net rental income                          
- 2	No items imputed                                                      	No items imputed                                                      
- 1	No other typesInc                                                     	No other types of income                                              
-12	No own children Lt18y                                                 	No own children under 18 years                                        
- 1	No own children Lt18y:                                                	No own children under 18 years:                                       
- 1	No public assistance Inc                                              	No public assistance income                                           
- 9	No related children Lt18y                                             	No related children under 18 years                                    
- 1	No retirement Inc                                                     	No retirement income                                                  
- 2	No schooling completed                                                	No schooling completed                                                
- 1	No self-employment Inc                                                	No self-employment income                                             
- 1	No wage or salary Inc                                                 	No wage or salary income                                              
- 3	No workers                                                            	No workers                                                            
- 9	Nonfamily households:                                                 	Nonfamily households:                                                 
+ 1	NatBorn                                                             	Natural-born                                                          
+ 4	NatlzdCit                                                            	Naturalized citizen                                                   
+ 2	NeitParLaborFor                                                      	Neither parent in labor force                                         
+ 2	NevMarried                                                           	Never married                                                         
+ 1	NoSocSecInc                                                            	No Social Security income                                             
+ 1	NoSuppSecInc                                                        	No Supplemental Security Income (SSI)                                 
+ 1	NoVietEraServ:                                                        	No Vietnam era service:                                               
+ 6	NoDisab                                                              	No disability                                                         
+ 1	NoDisabItem                                                          	No disability items imputed                                           
+ 4	NoDisab:                                                            	No disability:                                                        
+ 1	NoEarn                                                              	No earnings                                                           
+ 1	NoEarnImp                                                            	No earnings imputed                                                   
+ 8	NoIncImp                                                             	No income imputed                                                     
+ 1	NoIntDivNetRentInc                                                   	No interest, dividends, or net rental income                          
+ 2	NoItemImp                                                           	No items imputed                                                      
+ 1	NoOthTypeInc                                                         	No other types of income                                              
+12	NoOwnChldLt18y                                                      	No own children under 18 years                                        
+ 1	NoOwnChldLt18y:                                                     	No own children under 18 years:                                       
+ 1	NoPubAssInc                                                         	No public assistance income                                           
+ 9	NoRelChldLt18y                                                      	No related children under 18 years                                    
+ 1	NoRetInc                                                            	No retirement income                                                  
+ 2	NoSchlComp                                                           	No schooling completed                                                
+ 1	NoSelfEmplInc                                                       	No self-employment income                                             
+ 1	NoWageSalInc                                                        	No wage or salary income                                              
+ 3	NoWorkers                                                            	No workers                                                            
+ 9	NFamHH:                                                               	Nonfamily households:                                                 
  1	Nonfarm                                                               	Nonfarm                                                               
- 2	Noninstitutionalized population                                       	Noninstitutionalized population                                       
- 4	Nonrelatives                                                          	Nonrelatives                                                          
- 4	Nonveteran                                                            	Nonveteran                                                            
- 2	Northeast                                                             	Northeast                                                             
- 1	Not Hispanic or Latino:                                               	Not Hispanic or Latino:                                               
- 4	Notcitizen                                                            	Not a citizen                                                         
- 8	Not employed                                                          	Not employed                                                          
- 2	Not enrolled in school                                                	Not enrolled in school                                                
- 2	Not enrolled in school:                                               	Not enrolled in school:                                               
- 2	Not high school graduate                                              	Not high school graduate                                              
- 1	Not high school graduate:                                             	Not high school graduate:                                             
-41	Not imputed                                                           	Not imputed                                                           
- 4	Not in an MSA/PMSA in 1995                                            	Not in an MSA/PMSA in 1995                                            
-15	Not in labor force                                                    	Not in labor force                                                    
- 4	Not linguistically isolated                                           	Not linguistically isolated                                           
- 4	Not living alone                                                      	Not living alone                                                      
- 1	Not living inplace                                                    	Not living in a place                                                 
- 1	Not living in an MSA/PMSA in 2000:                                    	Not living in an MSA/PMSA in 2000:                                    
- 1	Not living in an MSA/PMSA:                                            	Not living in an MSA/PMSA:                                            
- 1	Not living in the 12 selected states                                  	Not living in the 12 selected states                                  
- 2	Not living with own grandchildren Lt18y                               	Not living with own grandchildren under 18 years                      
- 2	Now married:                                                          	Now married:                                                          
- 2	Nurseryto4th grade                                                    	Nursery to 4th grade                                                  
- 2	Office and administrative support occupations                         	Office and administrative support occupations                         
- 2	One or more but not all geographic parts imputed                      	One or more but not all geographic parts imputed                      
- 1	One or more disability items imputed                                  	One or more disability items imputed                                  
- 2	One or more items imputed                                             	One or more items imputed                                             
- 4	Other                                                                 	Other                                                                 
- 1	OthIndo-European languages:                                           	Other Indo-European languages:                                        
- 1	OthMay 1975toJuly 1990 service                                        	Other May 1975 to July 1990 service                                   
-14	Othfamily:                                                            	Other family:                                                         
- 1	Othlanguages:                                                         	Other languages:                                                      
- 9	Othmeans                                                              	Other means                                                           
- 2	Othmeans (including those who worked at home)                         	Other means (including those who worked at home)                      
- 2	Othprotective service workers, including supervisors                  	Other protective service workers, including supervisors               
- 2	Othrelatives                                                          	Other relatives                                                       
- 1	Othservice only                                                       	Other service only                                                    
- 2	Othservices (except public administration)                            	Other services (except public administration)                         
+ 2	NonInstPop                                                          	Noninstitutionalized population                                       
+ 4	NonRel                                                                	Nonrelatives                                                          
+ 4	NonVet                                                               	Nonveteran                                                            
+ 2	NorthEast                                                              	Northeast                                                             
+ 1	NotHispLat:                                                          	Not Hispanic or Latino:                                               
+ 4	NotCitzn                                                            	Not a citizen                                                         
+ 8	NotEmpl                                                             	Not employed                                                          
+ 2	NotEnrldSchl                                                        	Not enrolled in school                                                
+ 2	NotEnrldSchl:                                                       	Not enrolled in school:                                               
+ 2	NotHighSchlGrad                                                     	Not high school graduate                                              
+ 1	NotHighSchlGrad:                                                    	Not high school graduate:                                             
+41	NotImp                                                                	Not imputed                                                           
+ 4	NotMSA/PMSA1995                                                      	Not in an MSA/PMSA in 1995                                            
+15	NotLaborFor                                                         	Not in labor force                                                    
+ 4	NotLingIsol                                                         	Not linguistically isolated                                           
+ 4	NotLivAlone                                                          	Not living alone                                                      
+ 1	NotLivPlace                                                         	Not living in a place                                                 
+ 1	NotLivMSA/PMSA2000:                                                  	Not living in an MSA/PMSA in 2000:                                    
+ 1	NotLivMSA/PMSA:                                                     	Not living in an MSA/PMSA:                                            
+ 1	NotLiv12SelSt                                                        	Not living in the 12 selected states                                  
+ 2	NotLivWthOwnGndChldLt18y                                             	Not living with own grandchildren under 18 years                      
+ 2	NowMarried:                                                            	Now married:                                                          
+ 2	Nursto4thGr                                                          	Nursery to 4th grade                                                  
+ 2	Occ039                                                               	Office and administrative support occupations                         
+ 2	Gte1ButNotAllGeoImp                                                    	One or more but not all geographic parts imputed                      
+ 1	Gte1DisabItemImp                                                    	One or more disability items imputed                                  
+ 2	Gte1ItemImp                                                          	One or more items imputed                                             
+ 4	Oth                                                                 	Other                                                                 
+ 1	OthIndEuroLang:                                                      	Other Indo-European languages:                                        
+ 1	OthMay1975toJul1990Serv                                             	Other May 1975 to July 1990 service                                   
+14	OthFam:                                                              	Other family:                                                         
+ 1	OthLang:                                                             	Other languages:                                                      
+ 9	OthMeans                                                              	Other means                                                           
+ 2	OthMeansWrkHome                                                       	Other means (including those who worked at home)                      
+ 2	Occ040                                                              	Other protective service workers, including supervisors               
+ 2	OthRel                                                               	Other relatives                                                       
+ 1	OthServOnly                                                          	Other service only                                                    
+ 2	Occ041                                                              	Other services (except public administration)                         
  2	Parent                                                                	Parent                                                                
- 1	Per capita Incin 1999                                                 	Per capita income in 1999                                             
- 1	Percentthe population in sample                                       	Percent of the population in sample                                   
- 2	Personal care and service occupations                                 	Personal care and service occupations                                 
- 3	Physical disability                                                   	Physical disability                                                   
- 6	Private for-profit wage and salary workers:                           	Private for-profit wage and salary workers:                           
- 6	Private not-for-profit wage and salary workers                        	Private not-for-profit wage and salary workers                        
-14	Private school                                                        	Private school                                                        
- 2	Production occupations                                                	Production occupations                                                
- 2	Production, transportation, and material moving occupations:          	Production, transportation, and material moving occupations:          
- 2	Professional and related occupations:                                 	Professional and related occupations:                                 
- 2	Professional school degree                                            	Professional school degree                                            
- 2	Professional, scientific, and technical services                      	Professional, scientific, and technical services                      
- 2	Professional, scientific, management, administrative, and waste management services:	Professional, scientific, management, administrative, and waste management services:
- 2	Protective service occupations:                                       	Protective service occupations:                                       
- 2	Public administration                                                 	Public administration                                                 
-14	Public school                                                         	Public school                                                         
- 8	Public transportation                                                 	Public transportation                                                 
- 1	Public transportation:                                                	Public transportation:                                                
- 1	Puerto Rico                                                           	Puerto Rico                                                           
- 2	Rail, water and other transportation occupations                      	Rail, water and other transportation occupations                      
- 1	Railroad                                                              	Railroad                                                              
- 2	Real estate and rental and leasing                                    	Real estate and rental and leasing                                    
- 3	RemainderMSA/PMSA                                                     	Remainder of MSA/PMSA                                                 
- 4	Remainderdifferent MSA/PMSA                                           	Remainder of different MSA/PMSA                                       
- 4	Remainderthis MSA/PMSA                                                	Remainder of this MSA/PMSA                                            
- 2	Retail trade                                                          	Retail trade                                                          
+ 1	PerCapInc1999                                                        	Per capita income in 1999                                             
+ 1	PctPopSample                                                        	Percent of the population in sample                                   
+ 2	Occ042                                                              	Personal care and service occupations                                 
+ 3	PhysDisab                                                           	Physical disability                                                   
+ 6	PrivProfWageSalWork:                                                	Private for-profit wage and salary workers:                           
+ 6	Occ043                                                              	Private not-for-profit wage and salary workers                        
+14	PrivSchl                                                            	Private school                                                        
+ 2	Occ044                                                              	Production occupations                                                
+ 2	ProdTransMatMov:                                                    	Production, transportation, and material moving occupations:          
+ 2	ProfRelOcc:                                                          	Professional and related occupations:                                 
+ 2	ProfDeg                                                             	Professional school degree                                            
+ 2	Occ045                                                              	Professional, scientific, and technical services                      
+ 2	ProfSciMgmtAdminWasteMgmt:                                          	Professional, scientific, management, administrative, and waste management services:
+ 2	ProtServOcc:                                                         	Protective service occupations:                                       
+ 2	Occ046                                                               	Public administration                                                 
+14	PubSchl                                                             	Public school                                                         
+ 8	PubTrans                                                            	Public transportation                                                 
+ 1	PubTrans:                                                           	Public transportation:                                                
+ 1	PrtoRico                                                             	Puerto Rico                                                           
+ 2	Occ047                                                              	Rail, water and other transportation occupations                      
+ 1	RR                                                                   	Railroad                                                              
+ 2	Occ048                                                              	Real estate and rental and leasing                                    
+ 3	RemMSA/PMSA                                                          	Remainder of MSA/PMSA                                                 
+ 4	RemDiffMSA/PMSA                                                     	Remainder of different MSA/PMSA                                       
+ 4	RemThisMSA/PMSA                                                      	Remainder of this MSA/PMSA                                            
+ 2	Occ049                                                              	Retail trade                                                          
  1	Rural:                                                                	Rural:                                                                
- 2	Sales and office occupations:                                         	Sales and office occupations:                                         
- 2	Sales and related occupations                                         	Sales and related occupations                                         
- 2	Same MSA/PMSA in 1995:                                                	Same MSA/PMSA in 1995:                                                
- 1	Same county                                                           	Same county                                                           
- 1	Same house                                                            	Same house                                                            
- 3	Same house in 1995                                                    	Same house in 1995                                                    
- 1	Same municipio                                                        	Same municipio                                                        
- 1	Same state                                                            	Same state                                                            
- 3	Self-care disability                                                  	Self-care disability                                                  
- 6	Self-employed in own incorporated business                            	Self-employed in own incorporated business                            
- 6	Self-employed workers in own not incorporated business                	Self-employed workers in own not incorporated business                
- 3	Sensory disability                                                    	Sensory disability                                                    
- 2	Separated                                                             	Separated                                                             
- 1	September 1980toJuly 1990 only:                                       	September 1980 to July 1990 only:                                     
- 2	Served 2 or more years                                                	Served 2 or more years                                                
- 1	Served September 1980 or later only:                                  	Served September 1980 or later only:                                  
- 1	Served in Vietnam era                                                 	Served in Vietnam era                                                 
- 1	Served priortoSeptember 1980                                          	Served prior to September 1980                                        
- 2	Served Lt2y                                                           	Served under 2 years                                                  
- 2	Service occupations:                                                  	Service occupations:                                                  
- 2	Some college, 1 or more years, no degree                              	Some college, 1 or more years, no degree                              
- 2	Some college, Lt1y                                                    	Some college, less than 1 year                                        
- 3	Some other race alone                                                 	Some other race alone                                                 
+ 2	SalesOffOcc:                                                          	Sales and office occupations:                                         
+ 2	Occ050                                                              	Sales and related occupations                                         
+ 2	SameMSA/PMSA1995:                                                    	Same MSA/PMSA in 1995:                                                
+ 1	SameCnty                                                              	Same county                                                           
+ 1	SameHouse                                                            	Same house                                                            
+ 3	SameHouse1995                                                       	Same house in 1995                                                    
+ 1	SameMunic                                                           	Same municipio                                                        
+ 1	SameSt                                                               	Same state                                                            
+ 3	SelfCareDisab                                                       	Self-care disability                                                  
+ 6	SelfEmplOwnIncBus                                                   	Self-employed in own incorporated business                            
+ 6	SelfEmplWrkrsOwnNotIncBus                                           	Self-employed workers in own not incorporated business                
+ 3	SensDisab                                                           	Sensory disability                                                    
+ 2	Seprtd                                                                	Separated                                                             
+ 1	Sept1980toJuly1990:                                                 	September 1980 to July 1990 only:                                     
+ 2	SrvdGte2y                                                           	Served 2 or more years                                                
+ 1	SrvdSept1980LaterOn:                                                	Served September 1980 or later only:                                  
+ 1	SrvdVietEra                                                         	Served in Vietnam era                                                 
+ 1	SrvdPreSept1980                                                     	Served prior to September 1980                                        
+ 2	SrvdLt2y                                                             	Served under 2 years                                                  
+ 2	ServOcc:                                                            	Service occupations:                                                  
+ 2	SmeCollGte1yNoDeg                                                   	Some college, 1 or more years, no degree                              
+ 2	SmeCollLt1y                                                         	Some college, less than 1 year                                        
+ 3	SmeOthRaceAlone                                                      	Some other race alone                                                 
  2	South                                                                 	South                                                                 
  1	Spanish:                                                              	Spanish:                                                              
- 3	SpkAsian and Pacific Island languages:                                	Speak Asian and Pacific Island languages:                             
-12	SpkEnglish "not at all"                                               	Speak English "not at all"                                            
-12	SpkEnglish "not well"                                                 	Speak English "not well"                                              
-12	SpkEnglish "very well"                                                	Speak English "very well"                                             
-12	SpkEnglish "well"                                                     	Speak English "well"                                                  
+ 3	SpkAsianPacIslLang:                                                 	Speak Asian and Pacific Island languages:                             
+12	SpkEnglNotAtAll                                                     	Speak English "not at all"                                            
+12	SpkEnglNotWell                                                      	Speak English "not well"                                              
+12	SpkEnglVryWell                                                      	Speak English "very well"                                             
+12	SpkEnglWell                                                         	Speak English "well"                                                  
  3	SpkSpanish:                                                           	Speak Spanish:                                                        
- 5	Spkonly English                                                       	Speak only English                                                    
- 3	Spkother Indo-European languages:                                     	Speak other Indo-European languages:                                  
- 5	Spkother languages:                                                   	Speak other languages:                                                
+ 5	SpkOnlyEngl                                                          	Speak only English                                                    
+ 3	SpkOthIndoEurLang:                                                  	Speak other Indo-European languages:                                  
+ 5	SpkOthLang:                                                         	Speak other languages:                                                
  2	Spouse                                                                	Spouse                                                                
- 6	State government workers                                              	State government workers                                              
+ 6	Occ051                                                              	State government workers                                              
  1	Step                                                                  	Step                                                                  
- 1	Streetcar or trolley car (público in Puerto Rico)                     	Streetcar or trolley car (público in Puerto Rico)                     
- 1	Subway or elevated                                                    	Subway or elevated                                                    
- 2	Supervisors, construction and extraction workers                      	Supervisors, construction and extraction workers                      
- 2	Supervisors, transportation and material moving workers               	Supervisors, transportation and material moving workers               
- 1	Taxicab                                                               	Taxicab                                                               
+ 1	StrtcarTrolley                                                      	Streetcar or trolley car (público in Puerto Rico)                     
+ 1	SubwayElev                                                          	Subway or elevated                                                    
+ 2	Occ052                                                              	Supervisors, construction and extraction workers                      
+ 2	Occ053                                                              	Supervisors, transportation and material moving workers               
+ 1	Taxi                                                                 	Taxicab                                                               
  2	Tot                                                                   	Total                                                                 
- 1	Totdisabilities talliedpeople 16to64y:                                	Total disabilities tallied for people 16 to 64 years:                 
- 1	Totdisabilities talliedpeople 5to15y:                                 	Total disabilities tallied for people 5 to 15 years:                  
- 1	Totdisabilities talliedpeople 65y and over:                           	Total disabilities tallied for people 65 years and over:              
- 1	Totdisabilities tallied:                                              	Total disabilities tallied:                                           
+ 1	TotDisabPeople16to64y:                                               	Total disabilities tallied for people 16 to 64 years:                 
+ 1	TotDisabPeople5to15y:                                                	Total disabilities tallied for people 5 to 15 years:                  
+ 1	TotDisabPeopleGte65y:                                                	Total disabilities tallied for people 65 years and over:              
+ 1	TotDisab:                                                           	Total disabilities tallied:                                           
 109	Tot:                                                                  	Total:                                                                
- 2	Transportation and material moving occupations:                       	Transportation and material moving occupations:                       
- 2	Transportation and warehousing                                        	Transportation and warehousing                                        
- 2	Transportation and warehousing, and utilities:                        	Transportation and warehousing, and utilities:                        
- 3	Two or more races                                                     	Two or more races                                                     
- 2	U.S. Island Areas                                                     	U.S. Island Areas                                                     
- 1	Lt.50                                                                 	Under .50                                                             
+ 2	TransMatMovOcc:                                                      	Transportation and material moving occupations:                       
+ 2	Occ054                                                              	Transportation and warehousing                                        
+ 2	TransWareUtil:                                                      	Transportation and warehousing, and utilities:                        
+ 3	Gte2Races                                                            	Two or more races                                                     
+ 2	USIslAreas                                                          	U.S. Island Areas                                                     
+ 1	Lt0.50                                                                 	Under .50                                                             
  2	Lt1y                                                                  	Under 1 year                                                          
  1	Lt1.50:                                                               	Under 1.50:                                                           
  3	Lt3y                                                                  	Under 3 years                                                         
  2	Lt5y                                                                  	Under 5 years                                                         
- 6	Lt5y and 5to17y                                                       	Under 5 years and 5 to 17 years                                       
- 6	Lt5y only                                                             	Under 5 years only                                                    
- 6	Lt6y and 6to17y                                                       	Under 6 years and 6 to 17 years                                       
- 1	Lt6y and 6to17y:                                                      	Under 6 years and 6 to 17 years:                                      
- 6	Lt6y only                                                             	Under 6 years only                                                    
- 1	Lt6y only:                                                            	Under 6 years only:                                                   
+ 6	Lt5yand5to17y                                                       	Under 5 years and 5 to 17 years                                       
+ 6	Lt5yOnly                                                             	Under 5 years only                                                    
+ 6	Lt6yand6to17y                                                       	Under 6 years and 6 to 17 years                                       
+ 1	Lt6yand6to17y:                                                      	Under 6 years and 6 to 17 years:                                      
+ 6	Lt6yOnly                                                             	Under 6 years only                                                    
+ 1	Lt6yOnly:                                                            	Under 6 years only:                                                   
  1	Lt6y:                                                                 	Under 6 years:                                                        
  2	Lt65y:                                                                	Under 65 years:                                                       
-14	Unemployed                                                            	Unemployed                                                            
- 1	Unemployed:                                                           	Unemployed:                                                           
- 6	Unpaid family workers                                                 	Unpaid family workers                                                 
- 6	Unrelated individuals                                                 	Unrelated individuals                                                 
+14	Unempl                                                               	Unemployed                                                            
+ 1	Unempl:                                                              	Unemployed:                                                           
+ 6	UnpaidFamWrkr                                                        	Unpaid family workers                                                 
+ 6	UnrelInd                                                              	Unrelated individuals                                                 
  1	Urban:                                                                	Urban:                                                                
- 2	Usually worked 1to14 hours per week:                                  	Usually worked 1 to 14 hours per week:                                
- 2	Usually worked 15to34 hours per week:                                 	Usually worked 15 to 34 hours per week:                               
- 2	Usually worked 35 or more hours per week:                             	Usually worked 35 or more hours per week:                             
- 2	Utilities                                                             	Utilities                                                             
- 4	Veteran                                                               	Veteran                                                               
- 1	Vietnam era and Korean War, no World War II, no August 1990 or later  	Vietnam era and Korean War, no World War II, no August 1990 or later  
- 1	Vietnam era, Korean War, and World War II, no August 1990 or later    	Vietnam era, Korean War, and World War II, no August 1990 or later    
- 1	Vietnam era, no Korean War, no World War II, no August 1990 or later  	Vietnam era, no Korean War, no World War II, no August 1990 or later  
+ 2	UslyWork1to14hWeek:                                                 	Usually worked 1 to 14 hours per week:                                
+ 2	UslyWork15to34hWeek:                                                 	Usually worked 15 to 34 hours per week:                               
+ 2	UslyWorkGte35hWeek:                                                  	Usually worked 35 or more hours per week:                             
+ 2	Occ055                                                              	Utilities                                                             
+ 4	Vet                                                                 	Veteran                                                               
+ 1	VietKorWarNoWWIINoAug1990Later                                      	Vietnam era and Korean War, no World War II, no August 1990 or later  
+ 1	VietKorWarWWIINoAug1990Later                                        	Vietnam era, Korean War, and World War II, no August 1990 or later    
+ 1	VietNoKorWarNoWWIINoAug1990Later                                    	Vietnam era, no Korean War, no World War II, no August 1990 or later  
  1	Walked                                                                	Walked                                                                
  2	West                                                                  	West                                                                  
- 3	White alone                                                           	White alone                                                           
- 2	Wholesale trade                                                       	Wholesale trade                                                       
+ 3	WhiteAlone                                                           	White alone                                                           
+ 2	Occ056                                                              	Wholesale trade                                                       
  2	Widowed                                                               	Widowed                                                               
- 3	Wife in labor force:                                                  	Wife in labor force:                                                  
- 3	Wife not in labor force                                               	Wife not in labor force                                               
- 1	WthSocial Security Inc                                                	With Social Security income                                           
- 1	WthSupplemental Security Inc(SSI)                                     	With Supplemental Security Income (SSI)                               
- 6	Withdisability                                                        	With a disability                                                     
- 4	Withdisability:                                                       	With a disability:                                                    
- 1	Wthearnings                                                           	With earnings                                                         
- 1	Wthinterest, dividends, or net rental Inc                             	With interest, dividends, or net rental income                        
- 1	Wthother typesInc                                                     	With other types of income                                            
- 9	Wthown children Lt18y                                                 	With own children under 18 years                                      
- 4	Wthown children Lt18y:                                                	With own children under 18 years:                                     
- 1	Wthpublic assistance Inc                                              	With public assistance income                                         
- 9	Wthrelated children Lt18y:                                            	With related children under 18 years:                                 
- 1	Wthretirement Inc                                                     	With retirement income                                                
- 1	Wthself-employment Inc                                                	With self-employment income                                           
- 1	Wthwage or salary Inc                                                 	With wage or salary income                                            
- 5	Wrkdat home                                                           	Worked at home                                                        
- 4	Wrkdin 1999:                                                          	Worked in 1999:                                                       
- 2	Wrkdin MSA/PMSAresidence:                                             	Worked in MSA/PMSA of residence:                                      
- 2	Wrkdindifferent MSA/PMSA:                                             	Worked in a different MSA/PMSA:                                       
- 1	Wrkdin an MSA/PMSA:                                                   	Worked in an MSA/PMSA:                                                
- 1	Wrkdin countyresidence                                                	Worked in county of residence                                         
- 1	Wrkdin minor civil divisionresidence                                  	Worked in minor civil division of residence                           
- 1	Wrkdin placeresidence                                                 	Worked in place of residence                                          
- 1	Wrkdin stateresidence:                                                	Worked in state of residence:                                         
- 2	Wrkdoutside MSA/PMSAresidence:                                        	Worked outside MSA/PMSA of residence:                                 
- 3	Wrkdoutside any MSA/PMSA                                              	Worked outside any MSA/PMSA                                           
- 1	Wrkdoutside countyresidence                                           	Worked outside county of residence                                    
- 1	Wrkdoutside minor civil divisionresidence                             	Worked outside minor civil division of residence                      
- 1	Wrkdoutside placeresidence                                            	Worked outside place of residence                                     
- 1	Wrkdoutside stateresidence                                            	Worked outside state of residence                                     
- 1	World War II, no Korean War, no Vietnam era                           	World War II, no Korean War, no Vietnam era                           
- 1	Yearentry 1980to1989:                                                 	Year of entry 1980 to 1989:                                           
- 1	Yearentry 1990toMarch 2000:                                           	Year of entry 1990 to March 2000:                                     
- 1	Yearentry before 1980:                                                	Year of entry before 1980:                                            
+ 3	WifeLaborFor:                                                       	Wife in labor force:                                                  
+ 3	WifeNotLaborFor                                                     	Wife not in labor force                                               
+ 1	WthSocSecInc                                                        	With Social Security income                                           
+ 1	WthSuppSecInc                                                       	With Supplemental Security Income (SSI)                               
+ 6	WithDisab                                                            	With a disability                                                     
+ 4	WithDisab:                                                          	With a disability:                                                    
+ 1	WthEarn                                                              	With earnings                                                         
+ 1	WthIntDivNetRentInc                                                  	With interest, dividends, or net rental income                        
+ 1	WthOthInc                                                            	With other types of income                                            
+ 9	WthOwnChldLt18y                                                      	With own children under 18 years                                      
+ 4	WthOwnChldLt18y:                                                    	With own children under 18 years:                                     
+ 1	WthPubAssInc                                                        	With public assistance income                                         
+ 9	WthRelChldLt18y:                                                    	With related children under 18 years:                                 
+ 1	WthRetInc                                                           	With retirement income                                                
+ 1	WthSelfEmplInc                                                      	With self-employment income                                           
+ 1	WthWageSalInc                                                        	With wage or salary income                                            
+ 5	WrkdAtHome                                                           	Worked at home                                                        
+ 4	Wrkd1999:                                                            	Worked in 1999:                                                       
+ 2	WrkdMSA/PMSAres:                                                     	Worked in MSA/PMSA of residence:                                      
+ 2	WrkdDiffMSA/PMSA:                                                   	Worked in a different MSA/PMSA:                                       
+ 1	WrkdMSA/PMSA:                                                       	Worked in an MSA/PMSA:                                                
+ 1	WrkdCntyRes                                                          	Worked in county of residence                                         
+ 1	WrkdMinCivDivRes                                                     	Worked in minor civil division of residence                           
+ 1	WrkdPlaceRes                                                        	Worked in place of residence                                          
+ 1	WrkdStRes:                                                          	Worked in state of residence:                                         
+ 2	WrkdOutMSA/PMSAres:                                                 	Worked outside MSA/PMSA of residence:                                 
+ 3	WrkdOutAnyMSA/PMSA                                                   	Worked outside any MSA/PMSA                                           
+ 1	WrkdOutCntyRes                                                       	Worked outside county of residence                                    
+ 1	WrkdOutMinCivDivRes                                                 	Worked outside minor civil division of residence                      
+ 1	WrkdOutPlaceRes                                                     	Worked outside place of residence                                     
+ 1	WrkdOutStRes                                                        	Worked outside state of residence                                     
+ 1	WWIInoKorWarNoViet                                                  	World War II, no Korean War, no Vietnam era                           
+ 1	YearEntry1980to1989:                                                 	Year of entry 1980 to 1989:                                           
+ 1	YearEntry1990toMar2000:                                              	Year of entry 1990 to March 2000:                                     
+ 1	YearEntryBef1980:                                                     	Year of entry before 1980:                                            
