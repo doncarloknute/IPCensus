@@ -1,0 +1,1661 @@
+46	$1 to $2,499 or loss
+15	$1,000 or more
+30	$1,000 to $1,249
+1	$1,000 to $1,499
+12	$1,000,000 or more
+30	$1,250 to $1,499
+31	$1,500 to $1,999
+1	$10,000 or more
+46	$10,000 to $12,499
+111	$10,000 to $14,999
+4	$10,000 to $19,999:
+23	$100 to $149
+7	$100 to $199
+46	$100,000 or more
+3	$100,000 or more:
+109	$100,000 to $124,999
+2	$100,000 to $149,999
+1	$100,000 to $149,999:
+46	$12,500 to $14,999
+109	$125,000 to $149,999
+46	$15,000 to $17,499
+111	$15,000 to $19,999
+23	$150 to $199
+2	$150,000 or more
+1	$150,000 or more:
+12	$150,000 to $174,999
+97	$150,000 to $199,999
+46	$17,500 to $19,999
+12	$175,000 to $199,999
+19	$2,000 or more
+11	$2,000 to $2,499
+1	$2,000 to $2,999
+11	$2,500 to $2,999
+46	$2,500 to $4,999
+46	$20,000 to $22,499
+111	$20,000 to $24,999
+4	$20,000 to $34,999:
+23	$200 to $249
+23	$200 to $299
+100	$200,000 or more
+12	$200,000 to $249,999
+46	$22,500 to $24,999
+155	$25,000 to $29,999
+2	$25,000 to $34,999
+23	$250 to $299
+12	$250,000 to $299,999
+11	$3,000 or more
+1	$3,000 to $3,999
+155	$30,000 to $34,999
+23	$300 to $349
+19	$300 to $399
+4	$300 to $499
+12	$300,000 to $399,999
+155	$35,000 to $39,999
+2	$35,000 to $49,999
+4	$35,000 to $49,999:
+23	$350 to $399
+1	$4,000 to $4,999
+143	$40,000 to $44,999
+12	$40,000 to $49,999
+12	$400 to $449
+29	$400 to $499
+1	$400 to $599
+12	$400,000 to $499,999
+143	$45,000 to $49,999
+12	$450 to $499
+47	$5,000 to $7,499
+2	$5,000 to $9,999
+46	$50,000 to $54,999
+109	$50,000 to $59,999
+2	$50,000 to $74,999
+4	$50,000 to $74,999:
+12	$500 to $549
+29	$500 to $599
+4	$500 to $749
+12	$500,000 to $749,999
+46	$55,000 to $64,999
+12	$550 to $599
+12	$60,000 to $69,999
+97	$60,000 to $74,999
+12	$600 to $649
+29	$600 to $699
+1	$600 to $799
+46	$65,000 to $74,999
+12	$650 to $699
+47	$7,500 to $9,999
+12	$70,000 to $79,999
+12	$700 to $749
+29	$700 to $799
+145	$75,000 to $99,999
+4	$75,000 to $99,999:
+12	$750 to $799
+4	$750 to $999
+12	$750,000 to $999,999
+12	$80,000 to $89,999
+41	$800 to $899
+1	$800 to $999
+12	$90,000 to $99,999
+41	$900 to $999
+13	.50 to .74
+13	.75 to .99
+2	0.50 or less occupants per room
+2	0.51 to 1.00 occupants per room
+3	1 bedroom
+1	1 bedroom:
+1	1 or 2 years
+9	1 or more vehicles available
+2	1 or more vehicles available:
+3	1 room
+1	1 subfamily
+60	1 to 13 weeks
+2	1 vehicle available
+4	1 worker
+2	1 year
+16	1, attached
+16	1, detached
+61	1, detached or attached
+1	1, detached or attached:
+4	1-person household
+5	1-person household:
+35	1.00 or less occupants per room
+2	1.00 or less occupants per room:
+14	1.00 to 1.24
+9	1.01 or more occupants per room
+2	1.01 or more occupants per room:
+28	1.01 to 1.50 occupants per room
+13	1.25 to 1.29
+1	1.25 to 1.49
+13	1.30 to 1.49
+1	1.30 to 1.49:
+1	1.50 and over:
+14	1.50 to 1.74
+1	1.50 to 1.84:
+26	1.51 or more occupants per room
+2	1.51 to 2.00 occupants per room
+14	1.75 to 1.84
+1	1.85 and above:
+14	1.85 to 1.99
+1	10 to 14 minutes
+22	10 to 14 years
+15	10 to 19
+1	10 to less than 25 percent of total earnings for individual imputed
+3	10 to less than 25 percent of total income for family imputed
+1	10 to less than 25 percent of total income for household imputed
+3	10 to less than 25 percent of total income for individual imputed
+1	10 to less than 25 percent of total income for nonfamily household imputed
+2	10 years
+30	10.0 to 14.9 percent
+1	100 percent of total earnings for individual imputed
+3	100 percent of total income for family imputed
+1	100 percent of total income for household imputed
+3	100 percent of total income for individual imputed
+1	100 percent of total income for nonfamily household imputed
+1	10:00 a.m. to 10:59 a.m.
+2	10th grade
+2	11 years
+1	11:00 a.m. to 11:59 a.m.
+2	11th grade
+3	12 and 13 years
+40	12 to 14 years
+1	12 to 14 years:
+20	12 to 17 years
+2	12 years
+1	12:00 a.m. to 4:59 a.m.
+1	12:00 p.m. to 3:59 p.m.
+2	12th grade, no diploma
+2	13 years
+60	14 to 26 weeks
+5	14 years
+41	15 to 17 years
+1	15 to 19 minutes
+46	15 years
+1	15 years:
+30	15.0 to 19.9 percent
+44	16 and 17 years
+1	16 and 17 years:
+2	16 to 19 years:
+36	16 to 20 years:
+2	16 years
+2	17 years
+34	18 and 19 years
+48	18 to 24 years
+3	18 to 24 years:
+5	18 to 44 years
+20	18 to 64 years
+31	18 to 64 years:
+2	18 years
+1	18 years and over:
+2	19 years
+1	1965 to 1969
+1	1970 to 1974
+1	1975 to 1979
+1	1980 to 1984
+1	1985 to 1989
+1	1990 to 1994
+1	1995 to March 2000
+16	2
+3	2 bedrooms
+1	2 bedrooms:
+3	2 rooms
+1	2 subfamilies
+61	2 to 4
+1	2 to 4:
+2	2 vehicles available
+2	2 workers
+1	2 workers, husband and wife worked
+1	2 workers, other
+1	2 workers:
+2	2 years
+2	2-or-more person household:
+1	2-or-more-person household:
+5	2-person household
+2	2-person household:
+14	2.00 and over
+2	2.01 or more occupants per room
+2	20 to 21 years:
+1	20 to 24 minutes
+16	20 to 24 years
+76	20 to 49
+1	20 to 49:
+20	20 years
+66	20.0 to 24.9 percent
+36	21 to 64 years:
+20	21 years
+20	22 to 24 years
+2	22 to 24 years:
+1	25 to 29 minutes
+32	25 to 29 years
+2	25 to 29 years:
+52	25 to 34 years
+3	25 to 34 years:
+4	25 to 59 years:
+1	25 to less than 50 percent of total earnings for individual imputed
+3	25 to less than 50 percent of total income for family imputed
+1	25 to less than 50 percent of total income for household imputed
+3	25 to less than 50 percent of total income for individual imputed
+1	25 to less than 50 percent of total income for nonfamily household imputed
+66	25.0 to 29.9 percent
+60	27 to 39 weeks
+7	3 and 4 years
+3	3 bedrooms
+16	3 or 4
+1	3 or 4 years
+1	3 or more bedrooms:
+2	3 or more workers
+1	3 or more workers, husband and wife worked
+1	3 or more workers, other
+1	3 or more workers:
+3	3 rooms
+1	3 subfamilies
+2	3 vehicles available
+2	3 years
+5	3-person household
+2	3-person household:
+1	30 to 34 minutes
+32	30 to 34 years
+2	30 to 34 years:
+2	30 to 44 minutes:
+66	30.0 to 34.9 percent
+1	35 to 39 minutes
+20	35 to 39 years
+56	35 to 44 years
+5	35 to 44 years:
+8	35 years and over
+36	35.0 percent or more
+30	35.0 to 39.9 percent
+3	4 bedrooms
+1	4 or more subfamilies
+3	4 rooms
+2	4 vehicles available
+2	4 years
+5	4-person household
+2	4-person household:
+1	40 to 44 minutes
+20	40 to 44 years
+60	40 to 47 weeks
+30	40.0 to 49.9 percent
+20	45 to 49 years
+56	45 to 54 years
+3	45 to 54 years:
+1	45 to 59 minutes
+2	45 to 59 minutes:
+5	45 to 64 years
+2	45 to 64 years:
+60	48 and 49 weeks
+1	4:00 p.m. to 11:59 p.m.
+1	5 or more
+3	5 or more bedrooms
+2	5 or more vehicles available
+3	5 rooms
+32	5 to 15 years:
+5	5 to 17 years
+72	5 to 17 years only
+12	5 to 17 years:
+61	5 to 19
+1	5 to 19:
+15	5 to 9
+1	5 to 9 minutes
+22	5 to 9 years
+125	5 years
+1	5 years or more
+1	5 years:
+2	5-or-more person household:
+5	5-person household
+76	50 or more
+1	50 or more:
+1	50 to .74
+60	50 to 52 weeks
+20	50 to 54 years
+1	50 to less than 100 percent of total earnings for individual imputed
+3	50 to less than 100 percent of total income for family imputed
+1	50 to less than 100 percent of total income for household imputed
+3	50 to less than 100 percent of total income for individual imputed
+1	50 to less than 100 percent of total income for nonfamily household imputed
+30	50.0 percent or more
+32	55 to 59 years
+2	55 to 59 years:
+44	55 to 64 years
+1	55 to 64 years:
+1	5:00 a.m. to 5:29 a.m.
+1	5:30 a.m. to 5:59 a.m.
+2	5th and 6th grade
+3	6 rooms
+1	6 to 11 months
+63	6 to 11 years
+1	6 to 11 years:
+60	6 to 17 years
+12	6 to 17 years only
+10	6 to 17 years only:
+10	6 to 17 years:
+2	6 years
+5	6-person household
+20	60 and 61 years
+2	60 or more minutes:
+2	60 to 61 years:
+12	60 to 64 years
+4	60 to 64 years:
+1	60 to 89 minutes
+20	62 to 64 years
+2	62 to 64 years:
+20	65 and 66 years
+2	65 to 69 years:
+76	65 to 74 years
+37	65 to 74 years:
+5	65 years and over
+37	65 years and over:
+20	67 to 69 years
+1	6:00 a.m. to 6:29 a.m.
+1	6:30 a.m. to 6:59 a.m.
+3	7 rooms
+2	7 years
+5	7-or-more-person household
+20	70 to 74 years
+2	70 to 74 years:
+1	75 to .99
+20	75 to 79 years
+12	75 to 84 years
+64	75 years and over
+39	75 years and over:
+1	7:00 a.m. to 7:29 a.m.
+1	7:30 a.m. to 7:59 a.m.
+2	7th and 8th grade
+3	8 rooms
+2	8 years
+20	80 to 84 years
+32	85 years and over
+1	8:00 a.m. to 8:29 a.m.
+1	8:30 a.m. to 8:59 a.m.
+3	9 or more rooms
+2	9 years
+1	90 or more minutes
+1	9:00 a.m. to 9:59 a.m.
+2	9th grade
+28	9th to 12th grade, no diploma
+3	Acadian/Cajun
+2	Accommodation and food services
+2	Administrative and support and waste management services
+1	Adopted
+3	Afghan
+1	Afghanistan
+1	Africa, n.e.c.
+2	Africa:
+3	African
+2	African languages
+1	Aggregate Income in 1999
+1	Aggregate Social Security income in 1999
+1	Aggregate Supplemental Security Income in 1999
+1	Aggregate contract rent
+1	Aggregate earnings in 1999
+2	Aggregate earnings in 1999:
+4	Aggregate family income in 1999:
+12	Aggregate gross rent
+9	Aggregate household income in 1999
+6	Aggregate household income in 1999:
+1	Aggregate income deficit in 1999:
+9	Aggregate income in 1999
+1	Aggregate interest, dividends, or net rental income in 1999
+2	Aggregate nonfamily household income in 1999:
+1	Aggregate number of rooms
+2	Aggregate number of rooms:
+1	Aggregate number of vehicles available:
+1	Aggregate other types of income in 1999
+1	Aggregate price asked
+1	Aggregate public assistance income in 1999
+1	Aggregate real estate taxes
+1	Aggregate rent asked
+1	Aggregate retirement income in 1999
+11	Aggregate selected monthly owner costs:
+1	Aggregate self-employment income in 1999
+1	Aggregate travel time to work (in minutes):
+10	Aggregate value
+4	Aggregate value:
+1	Aggregate wage or salary income in 1999
+2	Agriculture, forestry, fishing and hunting
+4	Agriculture, forestry, fishing and hunting, and mining:
+2	Agriculture, forestry, fishing and hunting:
+2	Aircraft and traffic control occupations
+3	Albanian
+2	All geographic parts imputed
+2	All industries except agriculture, forestry, fishing and hunting, and mining:
+1	All other households
+3	Alsatian
+3	American Indian and Alaska Native alone
+1	American Indian and Alaska Native alone civilian noninstitutionalized population 5 years and over
+1	American Indian and Alaska Native alone females 16 years and over
+1	American Indian and Alaska Native alone own children under 18 years in families and subfamilies
+3	American Indian and Alaska Native alone population
+1	American Indian and Alaska Native alone population 15 years and over
+1	American Indian and Alaska Native alone population 16 to 19 years
+3	American Indian and Alaska Native alone population 16 years and over
+1	American Indian and Alaska Native alone population 16 years and over with earnings in 1999
+1	American Indian and Alaska Native alone population 18 years and over
+1	American Indian and Alaska Native alone population 25 years and over
+1	American Indian and Alaska Native alone population 3 years and over
+2	American Indian and Alaska Native alone population 5 years and over
+2	American Indian and Alaska Native alone population for whom poverty status is determined
+1	American Indian and Alaska Native alone workers 16 years and over
+2	Americas:
+1	Ancestry not reported
+1	Ancestry not specified:
+1	Ancestry specified:
+1	Ancestry unclassified
+3	Arab/Arabic
+3	Arab:
+2	Arabic
+2	Architects, surveyors, cartographers, and engineers
+2	Architecture and engineering occupations:
+1	Argentina
+1	Armenia
+5	Armenian
+2	Arts, design, entertainment, sports, and media occupations
+2	Arts, entertainment, and recreation
+2	Arts, entertainment, recreation, accommodation and food services:
+1	Asia, n.e.c.
+2	Asia:
+3	Asian alone
+1	Asian alone civilian noninstitutionalized population 5 years and over
+1	Asian alone females 16 years and over
+1	Asian alone own children under 18 years in families and subfamilies
+3	Asian alone population
+1	Asian alone population 15 years and over
+1	Asian alone population 16 to 19 years
+3	Asian alone population 16 years and over
+1	Asian alone population 16 years and over with earnings in 1999
+1	Asian alone population 18 years and over
+1	Asian alone population 25 years and over
+1	Asian alone population 3 years and over
+2	Asian alone population 5 years and over
+2	Asian alone population for whom poverty status is determined
+1	Asian alone workers 16 years and over
+1	Asian and Pacific Island languages:
+34	Associate degree
+3	Assyrian/Chaldean/Syriac
+1	August 1990 or later (including Persian Gulf War):
+1	Australia
+1	Australia and New Zealand Subregion:
+3	Australian
+1	Austria
+3	Austrian
+34	Bachelor's degree
+3	Bahamian
+1	Bangladesh
+3	Barbadian
+1	Barbados
+3	Basque
+1	Before 1965
+1	Belarus
+3	Belgian
+3	Belizean
+4	Below college
+3	Bermudan
+10	Bicycle
+3	Black or African American alone
+1	Black or African American alone civilian noninstitutionalized population 5 years and over
+1	Black or African American alone females 16 years and over
+1	Black or African American alone own children under 18 years in families and subfamilies
+3	Black or African American alone population
+1	Black or African American alone population 15 years and over
+1	Black or African American alone population 16 to 19 years
+3	Black or African American alone population 16 years and over
+1	Black or African American alone population 16 years and over with earnings in 1999
+1	Black or African American alone population 18 years and over
+1	Black or African American alone population 25 years and over
+1	Black or African American alone population 3 years and over
+2	Black or African American alone population 5 years and over
+2	Black or African American alone population for whom poverty status is determined
+1	Black or African American alone workers 16 years and over
+77	Boat, RV, van, etc.
+1	Boat, RV, van, etc.:
+1	Bolivia
+12	Born abroad of American parent(s)
+1	Born at sea
+1	Born at sea:
+2	Born in Puerto Rico
+2	Born in U.S. Island Areas
+10	Born in other state in the United States:
+10	Born in state of residence
+2	Born in the United States
+12	Born outside the United States:
+1	Bosnia and Herzegovina
+20	Both parents in labor force
+1	Both second mortgage and home equity loan
+3	Bottled, tank, or LP gas
+1	Brazil
+3	Brazilian
+3	British
+3	British West Indian
+1	Brother or sister
+2	Building and grounds cleaning and maintenance occupations
+31	Built 1939 or earlier
+2	Built 1939 or earlier:
+31	Built 1940 to 1949
+2	Built 1940 to 1949:
+31	Built 1950 to 1959
+2	Built 1950 to 1959:
+31	Built 1960 to 1969
+2	Built 1960 to 1969:
+31	Built 1970 to 1979
+2	Built 1970 to 1979:
+31	Built 1980 to 1989
+2	Built 1980 to 1989:
+31	Built 1990 to 1994
+2	Built 1990 to 1994:
+31	Built 1995 to 1998
+2	Built 1995 to 1998:
+31	Built 1999 to March 2000
+2	Built 1999 to March 2000:
+3	Bulgarian
+10	Bus or trolley bus
+2	Business and financial operations occupations:
+2	Business operations specialists
+1	Cambodia
+1	Canada
+3	Canadian
+3	Cape Verdean
+1	Car, truck, or van
+11	Car, truck, or van:
+2	Caribbean:
+3	Carpatho Rusyn
+10	Carpooled
+1	Carpooled:
+3	Celtic
+2	Central America:
+13	Central city
+2	Central city in different MSA/PMSA
+1	Central city of this MSA/PMSA
+3	Child
+1	Child:
+1	Chile
+1	China, excluding Hong Kong and Taiwan
+1	China:
+2	Chinese
+3	Civilian veterans 18 years and over
+96	Civilian:
+3	Coal or coke
+4	College or graduate school
+1	Colombia
+2	Community and social services occupations
+12	Complete kitchen facilities
+1	Complete kitchen facilities:
+12	Complete plumbing facilities
+7	Complete plumbing facilities:
+2	Computer and mathematical occupations
+2	Construction
+2	Construction and extraction occupations:
+2	Construction trades workers
+2	Construction, extraction, and maintenance occupations:
+1	Costa Rica
+3	Croatian
+1	Cuba
+3	Cypriot
+3	Czech
+1	Czechoslovakia (includes Czech Republic and Slovakia)
+3	Czechoslovakian
+3	Danish
+4	Did not work at home:
+22	Did not work in 1999
+2	Did not work in 1999:
+4	Different MSA/PMSA in 1995:
+1	Different county (same state)
+11	Different county:
+15	Different house in 1995:
+1	Different house:
+11	Different municipio
+11	Different state:
+2	Divorced
+2	Divorced:
+2	Doctorate degree
+2	Does not include self-care disability
+6	Does not include self-care disability:
+9	Dollar value of zero imputed
+1	Dominican Republic
+2	Drafters, engineering, and mapping technicians
+11	Drove alone
+3	Dutch
+3	Dutch West Indian
+1	Eastern Africa:
+1	Eastern Asia:
+1	Eastern Europe:
+3	Eastern European
+1	Ecuador
+2	Education, training, and library occupations
+2	Educational services
+2	Educational, health and social services:
+1	Egypt
+3	Egyptian
+1	El Salvador
+3	Electricity
+4	Elsewhere in 1995
+11	Elsewhere in 1995:
+204	Employed
+6	Employed civilian population 16 years and over
+45	Employed or in Armed Forces
+1	Employed or in Armed Forces:
+6	Employee of private company
+14	Employment disability
+4	English
+2	Enrolled in college or graduate school:
+2	Enrolled in college, undergraduate years:
+9	Enrolled in college:
+2	Enrolled in grade 1 to grade 4:
+9	Enrolled in grade 1 to grade 8:
+2	Enrolled in grade 5 to grade 8:
+11	Enrolled in grade 9 to grade 12:
+2	Enrolled in graduate or professional school:
+11	Enrolled in kindergarten:
+11	Enrolled in nursery school, preschool:
+26	Enrolled in school:
+3	Estonian
+1	Ethiopia
+3	Ethiopian
+1	Europe, n.e.c.
+2	Europe:
+3	European
+2	Extraction workers
+19	Families
+3	Families with a householder who is American Indian and Alaska Native alone
+3	Families with a householder who is Asian alone
+3	Families with a householder who is Black or African American alone
+3	Families with a householder who is Hispanic or Latino
+3	Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+3	Families with a householder who is Some other race alone
+3	Families with a householder who is Two or more races
+3	Families with a householder who is White alone
+3	Families with a householder who is White alone, not Hispanic or Latino
+1	Families with income in 1999 below the poverty level
+31	Family households:
+2	Farm
+2	Farmers and farm managers
+2	Farming, fishing, and forestry occupations
+20	Father only in labor force
+1	Father-child subfamily
+1	February 1955 to July 1964 only
+6	Federal government workers
+26	Female
+6	Female householder
+1	Female householder and female partner
+1	Female householder and male partner
+9	Female householder, no husband present
+84	Female householder, no husband present:
+8	Female householder:
+115	Female:
+1	Females 16 years and over
+10	Ferryboat
+2	Finance and insurance
+2	Finance, insurance, real estate and rental and leasing:
+2	Financial specialists
+3	Finnish
+2	Fire fighting, prevention, and law enforcement workers, including supervisors
+1	First ancestry reported:
+2	Food preparation and serving related occupations
+2	For migrant workers
+2	For rent
+2	For sale only
+2	For seasonal, recreational, or occasional use
+13	Foreign born:
+11	Foreign country or at sea
+5	Foreign-born population
+1	France
+3	French (except Basque)
+2	French (incl. Patois, Cajun)
+3	French Canadian
+2	French Creole
+3	Fuel oil, kerosene, etc.
+1	Full-time, year-round workers 16 years and over with earnings in 1999
+5	German
+3	German Russian
+1	Germany
+1	Ghana
+3	Ghanian
+4	Go-outside home and employment only
+26	Go-outside-home disability
+32	Graduate or professional degree
+1	Grandchild
+5	Grandparent not responsible for own grandchildren under 18 years
+3	Grandparent responsible for own grandchildren under 18 years
+2	Grandparent responsible for own grandchildren under 18 years:
+1	Greece
+5	Greek
+1	Guatemala
+2	Gujarathi
+1	Guyana
+3	Guyanese
+1	Haiti
+3	Haitian
+2	Health care and social assistance
+2	Health diagnosing and treating practitioners and technical occupations
+2	Health technologists and technicians
+2	Healthcare practitioners and technical occupations:
+2	Healthcare support occupations
+2	Hebrew
+26	High school graduate
+34	High school graduate (includes equivalency)
+10	High school graduate:
+2	Hindi
+1	Hispanic or Latino civilian noninstitutionalized population 5 years and over
+1	Hispanic or Latino females 16 years and over
+1	Hispanic or Latino householder:
+1	Hispanic or Latino own children under 18 years in families and subfamilies
+3	Hispanic or Latino population
+1	Hispanic or Latino population 15 years and over
+1	Hispanic or Latino population 16 to 19 years
+3	Hispanic or Latino population 16 years and over
+1	Hispanic or Latino population 16 years and over with earnings in 1999
+1	Hispanic or Latino population 18 years and over
+1	Hispanic or Latino population 25 years and over
+1	Hispanic or Latino population 3 years and over
+3	Hispanic or Latino population 5 years and over
+2	Hispanic or Latino population for whom poverty status is determined
+1	Hispanic or Latino workers 16 years and over
+1	Hispanic or Latino:
+1	Home equity loan only
+1	Honduras
+1	Hong Kong
+41	Householder 15 to 24 years
+10	Householder 15 to 24 years:
+6	Householder 15 to 34 years:
+1	Householder 15 to 54 years:
+12	Householder 15 to 64 years
+10	Householder 15 to 64 years:
+43	Householder 25 to 34 years
+20	Householder 25 to 34 years:
+10	Householder 25 to 44 years
+43	Householder 35 to 44 years
+20	Householder 35 to 44 years:
+6	Householder 35 to 64 years:
+43	Householder 45 to 54 years
+20	Householder 45 to 54 years:
+10	Householder 45 to 64 years
+12	Householder 55 to 59 years
+31	Householder 55 to 64 years
+21	Householder 55 to 64 years:
+12	Householder 60 to 64 years
+43	Householder 65 to 74 years
+21	Householder 65 to 74 years:
+22	Householder 65 years and over
+16	Householder 65 years and over:
+8	Householder 75 to 84 years
+35	Householder 75 years and over
+21	Householder 75 years and over:
+8	Householder 85 years and over
+4	Householder did not work in 1999
+2	Householder did not work in 1999:
+20	Householder living alone
+2	Householder living alone:
+22	Householder not living alone
+1	Householder or spouse:
+12	Householder under 25 years
+10	Householder under 25 years:
+5	Householder who is American Indian and Alaska Native alone
+5	Householder who is Asian alone
+5	Householder who is Black or African American alone
+5	Householder who is Native Hawaiian and Other Pacific Islander alone
+5	Householder who is Some other race alone
+5	Householder who is Two or more races
+5	Householder who is White alone
+4	Householder worked full-time, year-round in 1999
+2	Householder worked full-time, year-round in 1999:
+4	Householder worked less than full-time, year-round in 1999
+2	Householder worked less than full-time, year-round in 1999:
+2	Householder:
+34	Households
+5	Households with a householder who is American Indian and Alaska Native alone
+5	Households with a householder who is Asian alone
+5	Households with a householder who is Black or African American alone
+5	Households with a householder who is Hispanic or Latino
+5	Households with a householder who is Native Hawaiian and Other Pacific Islander alone
+5	Households with a householder who is Some other race alone
+4	Households with a householder who is Two or more races
+5	Households with a householder who is White alone
+5	Households with a householder who is White alone, not Hispanic or Latino
+1	Households with a householder who is two or more races
+22	Housing units
+33	Housing units with a mortgage
+1	Housing units with a mortgage, contract to purchase, or similar debt:
+23	Housing units with a mortgage:
+34	Housing units without a mortgage
+23	Housing units without a mortgage:
+5	Hungarian
+1	Hungary
+2	Husband and wife worked
+1	Husband in labor force:
+1	Husband not in labor force:
+1	Husband/wife in a subfamily with children present
+1	Husband/wife in a subfamily with no children present
+3	Icelander
+57	Imputed
+3	Imputed:
+1	In 2-person carpool
+1	In 3-person carpool
+1	In 4-person carpool
+1	In 5- or 6-person carpool
+1	In 7-or-more-person carpool
+86	In Armed Forces
+10	In Armed Forces:
+15	In Puerto Rico in 1995:
+15	In United States in 1995:
+4	In an MSA/PMSA in 1995:
+2	In family households:
+1	In father-child subfamilies:
+2	In group quarters:
+1	In households where all members speak English only:
+1	In households where all members speak a non-English language:
+1	In households where some members speak a non-English language:
+2	In households:
+40	In labor force
+88	In labor force:
+6	In married-couple families
+1	In married-couple families:
+20	In married-couple family:
+1	In married-couple subfamilies:
+1	In mother-child subfamilies:
+2	In nonfamily households:
+7	In other families:
+20	In other family:
+8	Includes self-care disability
+16	Income in 1999 at or above poverty level
+62	Income in 1999 at or above poverty level:
+16	Income in 1999 below poverty level
+62	Income in 1999 below poverty level:
+1	India
+1	Indonesia
+2	Information
+2	Inside urban clusters
+2	Inside urbanized areas
+2	Installation, maintenance, and repair occupations
+2	Institutionalized population
+1	Iran
+3	Iranian
+1	Iraq
+3	Iraqi
+1	Ireland
+3	Irish
+1	Israel
+3	Israeli
+5	Italian
+1	Italy
+1	Jamaica
+3	Jamaican
+1	Japan
+2	Japanese
+1	Jordan
+3	Jordanian
+3	Kenyan
+1	Korea
+2	Korean
+1	Korean War and World War II, no Vietnam era
+1	Korean War, no Vietnam era, no World War II
+11	Lacking complete kitchen facilities
+1	Lacking complete kitchen facilities:
+13	Lacking complete plumbing facilities
+7	Lacking complete plumbing facilities:
+1	Language status imputed
+1	Language status not imputed
+1	Laos
+2	Laotian
+2	Latin America:
+3	Latvian
+3	Lebanese
+1	Lebanon
+2	Legal occupations
+109	Less than $10,000
+4	Less than $10,000:
+30	Less than $100
+16	Less than $200
+3	Less than $200,000
+2	Less than $5,000
+30	Less than 10.0 percent
+36	Less than 20.0 percent
+2	Less than 30 minutes:
+1	Less than 5 minutes
+1	Less than 6 months
+28	Less than 9th grade
+3	Liberian
+2	Life, physical, and social science occupations
+4	Linguistically isolated
+2	Linguistically isolated:
+3	Lithuanian
+24	Living alone
+12	Living alone:
+1	Living in a central city:
+1	Living in a place:
+2	Living in an MSA/PMSA in 2000:
+1	Living in an MSA/PMSA:
+1	Living in remainder of an MSA/PMSA:
+1	Living in the 12 selected states:
+20	Living with father:
+20	Living with mother:
+20	Living with one parent:
+6	Living with own grandchildren under 18 years:
+20	Living with two parents:
+6	Local government workers
+1	Lower contract rent quartile
+1	Lower value quartile
+3	Luxemburger
+3	Macedonian
+1	Malaysia
+26	Male
+6	Male householder
+1	Male householder and female partner
+1	Male householder and male partner
+9	Male householder, no wife present
+84	Male householder, no wife present:
+8	Male householder:
+115	Male:
+3	Maltese
+2	Management occupations, except farmers and farm managers
+2	Management of companies and enterprises
+2	Management, business, and financial operations occupations:
+2	Management, professional, and related occupations:
+2	Manufacturing
+4	Married, spouse absent:
+2	Married, spouse present
+2	Married, spouse present:
+3	Married-couple family
+63	Married-couple family:
+1	Married-couple subfamily:
+2	Master's degree
+2	Material moving workers
+1	May 1975 to July 1990 only:
+7	Meals included in rent
+1	Median contract rent
+10	Median family income in 1999
+10	Median gross rent
+10	Median gross rent as a percentage of household income in 1999
+10	Median household income in 1999
+10	Median nonfamily household income in 1999
+1	Median number of rooms
+1	Median price asked
+1	Median real estate taxes
+1	Median rent asked
+12	Median value
+1	Median year structure built
+1	Melanesia
+38	Mental disability
+1	Mexico
+1	Mexico:
+2	Miao, Hmong
+1	Micronesia
+1	Middle Africa
+21	Midwest
+2	Mining
+2	Mining:
+77	Mobile home
+1	Mobile home:
+1	Mobile homes with a mortgage
+1	Mobile homes without a mortgage
+2	Mon-Khmer, Cambodian
+1	More than 0 to less than 10 percent of total earnings for individual imputed
+3	More than 0 to less than 10 percent of total income for family imputed
+1	More than 0 to less than 10 percent of total income for household imputed
+3	More than 0 to less than 10 percent of total income for individual imputed
+1	More than 0 to less than 10 percent of total income for nonfamily household imputed
+3	Moroccan
+20	Mother only in labor force
+1	Mother-child subfamily
+2	Motor vehicle operators
+10	Motorcycle
+2	Moved between central cities
+2	Moved from central city to remainder of this MSA/PMSA
+2	Moved from remainder of this MSA/PMSA to central city
+33	Moved in 1969 or earlier
+2	Moved in 1969 or earlier:
+33	Moved in 1970 to 1979
+2	Moved in 1970 to 1979:
+33	Moved in 1980 to 1989
+2	Moved in 1980 to 1989:
+33	Moved in 1990 to 1994
+2	Moved in 1990 to 1994:
+33	Moved in 1995 to 1998
+2	Moved in 1995 to 1998:
+33	Moved in 1999 to March 2000
+2	Moved in 1999 to March 2000:
+2	Moved within remainder of this MSA/PMSA
+2	Moved within same central city
+1	Multiple ancestry
+3	Native Hawaiian and Other Pacific Islander alone
+1	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over
+1	Native Hawaiian and Other Pacific Islander alone females 16 years and over
+1	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies
+3	Native Hawaiian and Other Pacific Islander alone population
+1	Native Hawaiian and Other Pacific Islander alone population 15 years and over
+1	Native Hawaiian and Other Pacific Islander alone population 16 to 19 years
+3	Native Hawaiian and Other Pacific Islander alone population 16 years and over
+1	Native Hawaiian and Other Pacific Islander alone population 16 years and over with earnings in 1999
+1	Native Hawaiian and Other Pacific Islander alone population 18 years and over
+1	Native Hawaiian and Other Pacific Islander alone population 25 years and over
+1	Native Hawaiian and Other Pacific Islander alone population 3 years and over
+2	Native Hawaiian and Other Pacific Islander alone population 5 years and over
+2	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined
+1	Native Hawaiian and Other Pacific Islander alone workers 16 years and over
+13	Native:
+1	Natural-born
+45	Naturalized citizen
+2	Navajo
+20	Neither parent in labor force
+1	Netherlands
+2	Never married
+2	Never married:
+3	New Zealander
+1	Nicaragua
+1	Nigeria
+3	Nigerian
+5	No Social Security income
+1	No Supplemental Security Income (SSI)
+1	No Vietnam era service:
+3	No bedroom
+1	No bedroom:
+22	No cash rent
+68	No disability
+1	No disability items imputed
+50	No disability:
+41	No earnings
+1	No earnings imputed
+4	No employment disability:
+1	No extra payment for any utilities
+3	No fuel used
+4	No go-outside-home disability
+4	No go-outside-home disability:
+4	No income
+8	No income imputed
+1	No interest, dividends, or net rental income
+8	No items imputed
+7	No meals included in rent
+6	No mental disability
+4	No mental disability:
+1	No other types of income
+80	No own children under 18 years
+13	No own children under 18 years:
+6	No physical disability
+4	No physical disability:
+5	No public assistance income
+1	No real estates taxes paid
+75	No related children under 18 years
+1	No retirement income
+2	No schooling completed
+1	No second mortgage and no home equity loan
+2	No selected conditions
+6	No self-care disability
+4	No self-care disability:
+1	No self-employment income
+6	No sensory disability
+4	No sensory disability:
+1	No subfamilies
+13	No telephone service available
+2	No telephone service available:
+11	No vehicle available
+2	No vehicle available:
+1	No wage or salary income
+4	No workers
+6	Nonfamily householder
+24	Nonfamily householder:
+7	Nonfamily households
+1	Nonfamily households with a householder who is American Indian and Alaska Native alone
+1	Nonfamily households with a householder who is Asian alone
+1	Nonfamily households with a householder who is Black or African American alone
+1	Nonfamily households with a householder who is Hispanic or Latino
+1	Nonfamily households with a householder who is Native Hawaiian and Other Pacific Islander alone
+1	Nonfamily households with a householder who is Some other race alone
+1	Nonfamily households with a householder who is Two or more races
+1	Nonfamily households with a householder who is White alone
+1	Nonfamily households with a householder who is White alone, not Hispanic or Latino
+31	Nonfamily households:
+2	Nonfarm
+2	Noninstitutionalized population
+4	Nonrelatives
+40	Nonveteran
+21	Northeast
+1	Northern Africa:
+2	Northern America:
+1	Northern Europe:
+3	Northern European
+3	Norwegian
+1	Not Hispanic or Latino householder:
+1	Not Hispanic or Latino:
+45	Not a citizen
+66	Not computed
+128	Not employed
+2	Not enrolled in college or graduate school:
+11	Not enrolled in school
+26	Not enrolled in school:
+30	Not high school graduate
+10	Not high school graduate:
+60	Not imputed
+8	Not in an MSA/PMSA in 1995
+158	Not in labor force
+4	Not linguistically isolated
+2	Not linguistically isolated:
+24	Not living alone
+12	Not living alone:
+1	Not living in a place
+2	Not living in an MSA/PMSA in 2000:
+1	Not living in an MSA/PMSA:
+1	Not living in the 12 selected states
+6	Not living with own grandchildren under 18 years
+2	Not same city or town:
+4	Now married:
+2	Nursery to 4th grade
+2	Occupied
+56	Occupied housing units
+7	Occupied housing units with a householder who is American Indian and Alaska Native alone
+7	Occupied housing units with a householder who is Asian alone
+7	Occupied housing units with a householder who is Black or African American alone
+8	Occupied housing units with a householder who is Hispanic or Latino
+7	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
+7	Occupied housing units with a householder who is Some other race alone
+7	Occupied housing units with a householder who is Two or more races
+7	Occupied housing units with a householder who is White alone
+8	Occupied housing units with a householder who is White alone, not Hispanic or Latino
+1	Oceania, n.e.c.
+2	Oceania:
+2	Office and administrative support occupations
+2	One or more but not all geographic parts imputed
+1	One or more disability items imputed
+8	One or more items imputed
+6	Other
+3	Other Arab
+2	Other Asian languages
+1	Other Australian and New Zealand Subregion
+1	Other Caribbean
+1	Other Central America
+2	Other Central America:
+1	Other Eastern Africa
+1	Other Eastern Asia
+1	Other Eastern Europe
+2	Other Indic languages
+2	Other Indo-European languages
+1	Other Indo-European languages:
+1	Other May 1975 to July 1990 service
+2	Other Native North American languages
+1	Other Northern Africa
+1	Other Northern America
+1	Other Northern Europe
+2	Other Pacific Island languages
+2	Other Slavic languages
+1	Other South America
+1	Other South Central Asia
+1	Other South Eastern Asia
+1	Other Southern Africa
+1	Other Southern Europe
+3	Other Subsaharan African
+2	Other West Germanic languages
+3	Other West Indian
+1	Other Western Africa
+1	Other Western Asia
+1	Other Western Europe
+2	Other and unspecified languages
+4	Other combination
+66	Other family:
+3	Other fuel
+3	Other groups
+1	Other languages:
+18	Other means
+2	Other means (including those who worked at home)
+2	Other protective service workers, including supervisors
+2	Other relatives
+1	Other relatives or nonrelatives of householder:
+1	Other service only
+2	Other services (except public administration)
+26	Other unrelated individuals
+4	Other unrelated individuals:
+2	Other vacant
+24	Other:
+1	Own children under 18 years
+1	Own children under 18 years in families and subfamilies
+11	Owner occupied
+40	Owner occupied:
+7	Owner-occupied housing units
+3	Owner-occupied mobile homes
+1	Pakistan
+3	Palestinian
+1	Panama
+4	Parent
+1	Parent or parent-in-law of householder:
+1	Pay extra for one or more utilities
+3	Pennsylvania German
+1	People with ancestry reported
+10	Per capita income in 1999
+1	Percent of occupied housing units in sample
+1	Percent of the population in sample
+1	Percent of vacant housing units in sample
+2	Persian
+2	Personal care and service occupations
+1	Peru
+1	Philippines
+38	Physical disability
+1	Poland
+5	Polish
+1	Polynesia
+7	Population 15 years and over
+1	Population 15 years and over with income in 1999
+1	Population 16 to 19 years
+9	Population 16 years and over
+3	Population 16 years and over with earnings
+1	Population 16 years and over with earnings in 1999
+3	Population 18 years and over
+2	Population 25 years and over
+3	Population 3 years and over
+1	Population 3 years and over enrolled in school
+5	Population 30 years and over in households
+12	Population 5 years and over
+1	Population 5 years and over in households
+1	Population 5 years and over in linguistically isolated households
+1	Population 65 years and over
+6	Population for whom poverty status is determined
+1	Population in families
+1	Population in group quarters
+1	Population in households
+3	Population in occupied housing units
+1	Population in subfamilies
+1	Population not in families for whom poverty status is determined
+1	Portugal
+3	Portuguese
+2	Portuguese or Portuguese Creole
+6	Private for-profit wage and salary workers:
+6	Private not-for-profit wage and salary workers
+59	Private school
+2	Production occupations
+2	Production, transportation, and material moving occupations:
+2	Professional and related occupations:
+2	Professional school degree
+2	Professional, scientific, and technical services
+2	Professional, scientific, management, administrative, and waste management services:
+2	Protective service occupations:
+2	Public administration
+59	Public school
+8	Public transportation
+10	Public transportation:
+10	Puerto Rico
+2	Rail, water and other transportation occupations
+10	Railroad
+2	Real estate and rental and leasing
+1	Related children under 18 years
+1	Related children under 18 years who are American Indian and Alaska Native alone
+1	Related children under 18 years who are Asian alone
+1	Related children under 18 years who are Black or African American alone
+1	Related children under 18 years who are Hispanic or Latino
+1	Related children under 18 years who are Native Hawaiian and Other Pacific Islander alone
+1	Related children under 18 years who are Some other race alone
+1	Related children under 18 years who are Two or more races
+1	Related children under 18 years who are White alone
+1	Related children under 18 years who are White alone, not Hispanic or Latino
+3	Remainder of MSA/PMSA
+2	Remainder of an MSA/PMSA
+6	Remainder of different MSA/PMSA
+5	Remainder of this MSA/PMSA
+2	Rented or sold, not occupied
+12	Renter occupied
+39	Renter occupied:
+2	Retail trade
+1	Romania
+3	Romanian
+2	Rural:
+1	Russia
+5	Russian
+2	Sales and office occupations:
+2	Sales and related occupations
+4	Same MSA/PMSA in 1995:
+1	Same city or town
+1	Same city or town:
+12	Same county
+1	Same house
+14	Same house in 1995
+1	Same house in 1995:
+11	Same municipio
+11	Same state
+3	Scandinavian
+2	Scandinavian languages
+3	Scotch-Irish
+3	Scottish
+1	Second ancestry reported:
+1	Second mortgage only
+38	Self-care disability
+6	Self-employed in own incorporated business
+6	Self-employed workers in own not incorporated business
+3	Senegalese
+38	Sensory disability
+2	Separated
+2	Separated:
+1	September 1980 to July 1990 only:
+3	Serbian
+2	Serbo-Croatian
+2	Served 2 or more years
+1	Served September 1980 or later only:
+1	Served in Vietnam era
+1	Served prior to September 1980
+2	Served under 2 years
+2	Service occupations:
+1	Sierra Leone
+3	Sierra Leonean
+1	Single ancestry
+3	Slavic
+3	Slovak
+3	Slovene
+3	Solar energy
+3	Somalian
+2	Some college, 1 or more years, no degree
+2	Some college, less than 1 year
+32	Some college, no degree
+3	Some other race alone
+1	Some other race alone civilian noninstitutionalized population 5 years and over
+1	Some other race alone females 16 years and over
+1	Some other race alone own children under 18 years in families and subfamilies
+3	Some other race alone population
+1	Some other race alone population 15 years and over
+1	Some other race alone population 16 to 19 years
+3	Some other race alone population 16 years and over
+1	Some other race alone population 16 years and over with earnings in 1999
+1	Some other race alone population 18 years and over
+1	Some other race alone population 25 years and over
+1	Some other race alone population 3 years and over
+2	Some other race alone population 5 years and over
+2	Some other race alone population for whom poverty status is determined
+1	Some other race alone workers 16 years and over
+21	South
+1	South Africa
+3	South African
+2	South America:
+1	South Central Asia:
+1	South Eastern Asia:
+1	Southern Africa:
+1	Southern Europe:
+3	Soviet Union
+1	Spain
+2	Spanish or Spanish Creole
+1	Spanish:
+8	Speak Asian and Pacific Island languages:
+48	Speak English "not at all"
+48	Speak English "not well"
+48	Speak English "very well"
+48	Speak English "well"
+9	Speak Spanish:
+37	Speak only English
+1	Speak only English:
+8	Speak other Indo-European languages:
+1	Speak other language
+37	Speak other languages:
+21	Specified owner-occupied housing units
+8	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone
+8	Specified owner-occupied housing units with a householder who is Asian alone
+8	Specified owner-occupied housing units with a householder who is Black or African American alone
+8	Specified owner-occupied housing units with a householder who is Hispanic or Latino
+8	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
+8	Specified owner-occupied housing units with a householder who is Some other race alone
+8	Specified owner-occupied housing units with a householder who is Two or more races
+8	Specified owner-occupied housing units with a householder who is White alone
+8	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino
+11	Specified renter-occupied housing units
+12	Specified renter-occupied housing units paying cash rent
+3	Specified renter-occupied housing units paying cash rent with a householder who is American Indian and Alaska Native alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is Asian alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is Black or African American alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is Hispanic or Latino
+3	Specified renter-occupied housing units paying cash rent with a householder who is Native Hawaiian and Other Pacific Islander alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is Some other race alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is Two or more races
+3	Specified renter-occupied housing units paying cash rent with a householder who is White alone
+3	Specified renter-occupied housing units paying cash rent with a householder who is White alone, not Hispanic or Latino
+1	Specified renter-occupied housing units rent with a householder who is Asian alone
+2	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone
+1	Specified renter-occupied housing units with a householder who is Asian alone
+2	Specified renter-occupied housing units with a householder who is Black or African American alone
+2	Specified renter-occupied housing units with a householder who is Hispanic or Latino
+2	Specified renter-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
+2	Specified renter-occupied housing units with a householder who is Some other race alone
+2	Specified renter-occupied housing units with a householder who is Two or more races
+2	Specified renter-occupied housing units with a householder who is White alone
+2	Specified renter-occupied housing units with a householder who is White alone, not Hispanic or Latino
+4	Specified vacant-for-rent housing units
+4	Specified vacant-for-sale-only housing units
+2	Spouse
+6	Spouse did not work in 1999
+6	Spouse worked full-time, year-round in 1999
+6	Spouse worked less than full-time, year-round in 1999
+6	State government workers
+1	Step
+10	Streetcar or trolley car (público in Puerto Rico)
+1	Subfamilies
+3	Subsaharan African:
+10	Subway or elevated
+3	Sudanese
+2	Supervisors, construction and extraction workers
+2	Supervisors, transportation and material moving workers
+1	Sweden
+3	Swedish
+3	Swiss
+1	Syria
+3	Syrian
+2	Tagalog
+1	Taiwan
+10	Taxicab
+2	Thai
+1	Thailand
+54	Total
+10	Total disabilities tallied for people 16 to 64 years:
+10	Total disabilities tallied for people 5 to 15 years:
+10	Total disabilities tallied for people 65 years and over:
+1	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Hispanic or Latino population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Some other race alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized Two or more races population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities
+1	Total disabilities tallied for the civilian noninstitutionalized White alone, not Hispanic or Latino population 5 years and over with disabilities
+10	Total disabilities tallied:
+18	Total population
+3	Total population in occupied housing units:
+1	Total specified ancestries tallied:
+573	Total:
+2	Transportation and material moving occupations:
+2	Transportation and warehousing
+2	Transportation and warehousing, and utilities:
+1	Trinidad and Tobago
+3	Trinidadian and Tobagonian
+1	Turkey
+3	Turkish
+3	Two or more races
+1	Two or more races civilian noninstitutionalized population 5 years and over
+1	Two or more races females 16 years and over
+1	Two or more races own children under 18 years in families and subfamilies
+3	Two or more races population
+1	Two or more races population 15 years and over
+1	Two or more races population 16 to 19 years
+3	Two or more races population 16 years and over
+1	Two or more races population 16 years and over with earnings in 1999
+1	Two or more races population 18 years and over
+1	Two or more races population 25 years and over
+1	Two or more races population 3 years and over
+2	Two or more races population 5 years and over
+2	Two or more races population for whom poverty status is determined
+1	Two or more races workers 16 years and over
+21	U.S. Island Areas
+3	U.S. Virgin Islander
+3	Ugandan
+1	Ukraine
+3	Ukrainian
+2	Unclassified or not reported
+14	Under .50
+2	Under 1 year
+1	Under 1.30:
+1	Under 1.50:
+4	Under 25 years:
+3	Under 3 years
+8	Under 5 and 5 to 17 years
+138	Under 5 years
+64	Under 5 years and 5 to 17 years
+72	Under 5 years only
+1	Under 5 years:
+6	Under 6 and 6 to 17 years
+6	Under 6 years and 6 to 17 years
+10	Under 6 years and 6 to 17 years:
+12	Under 6 years only
+10	Under 6 years only:
+10	Under 6 years:
+2	Under 65 years:
+121	Unemployed
+1	Unemployed:
+1	United Kingdom
+3	United States or American
+1	Unmarried-partner households:
+6	Unpaid family workers
+6	Unrelated individuals
+1	Unrelated individuals 15 years and over for whom poverty status is determined
+4	Unrelated individuals for whom poverty status is determined
+1	Unrelated individuals with income in 1999 below the poverty level
+1	Upper contract rent quartile
+1	Upper value quartile
+2	Urban:
+2	Urdu
+20	Usually worked 1 to 14 hours per week:
+20	Usually worked 15 to 34 hours per week:
+20	Usually worked 35 or more hours per week:
+2	Utilities
+3	Utility gas
+2	Vacant
+4	Vacant housing units
+7	Value $10,000 to $19,999
+7	Value $100,000 to $199,999
+7	Value $20,000 to $29,999
+7	Value $200,000 to $299,999
+7	Value $30,000 to $39,999
+7	Value $300,000 to $499,999
+7	Value $40,000 to $49,999
+7	Value $50,000 to $59,999
+7	Value $500,000 or more
+7	Value $60,000 to $69,999
+7	Value $70,000 to $79,999
+7	Value $80,000 to $89,999
+7	Value $90,000 to $99,999
+7	Value less than $10,000
+1	Venezuela
+40	Veteran
+1	Vietnam
+1	Vietnam era and Korean War, no World War II, no August 1990 or later
+1	Vietnam era, Korean War, and World War II, no August 1990 or later
+1	Vietnam era, no Korean War, no World War II, no August 1990 or later
+2	Vietnamese
+10	Walked
+3	Welsh
+21	West
+3	West Indian
+3	West Indian (excluding Hispanic groups):
+1	Western Africa:
+1	Western Asia:
+1	Western Europe:
+1	White Alone, not Hispanic or Latino population
+3	White alone
+1	White alone civilian noninstitutionalized population 5 years and over
+1	White alone females 16 years and over
+1	White alone own children under 18 years in families and subfamilies
+3	White alone population
+1	White alone population 15 years and over
+1	White alone population 16 to 19 years
+3	White alone population 16 years and over
+1	White alone population 16 years and over with earnings in 1999
+1	White alone population 18 years and over
+1	White alone population 25 years and over
+1	White alone population 3 years and over
+2	White alone population 5 years and over
+2	White alone population for whom poverty status is determined
+1	White alone workers 16 years and over
+1	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over
+1	White alone, not Hispanic or Latino females 16 years and over
+1	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies
+2	White alone, not Hispanic or Latino population
+1	White alone, not Hispanic or Latino population 15 years and over
+1	White alone, not Hispanic or Latino population 16 to 19 years
+3	White alone, not Hispanic or Latino population 16 years and over
+1	White alone, not Hispanic or Latino population 16 years and over with earnings in 1999
+1	White alone, not Hispanic or Latino population 18 years and over
+1	White alone, not Hispanic or Latino population 25 years and over
+1	White alone, not Hispanic or Latino population 3 years and over
+2	White alone, not Hispanic or Latino population 5 years and over
+2	White alone, not Hispanic or Latino population for whom poverty status is determined
+1	White alone, not Hispanic or Latino workers 16 years and over
+2	Wholesale trade
+2	Widowed
+2	Widowed:
+3	Wife in labor force:
+3	Wife not in labor force
+12	With SSI and/or public assistance income in 1999
+5	With Social Security income
+12	With Social Security income in 1999:
+1	With Supplemental Security Income (SSI)
+60	With a disability
+50	With a disability:
+4	With a go-outside-home disability
+4	With a go-outside-home disability:
+6	With a mental disability
+4	With a mental disability:
+6	With a physical disability
+4	With a physical disability:
+6	With a self-care disability
+4	With a self-care disability:
+6	With a sensory disability
+4	With a sensory disability:
+4	With an employment disability:
+22	With cash rent:
+1	With earnings
+40	With earnings:
+1	With either a second mortgage or home equity loan, but not both:
+2	With four selected conditions
+4	With income:
+1	With interest, dividends, or net rental income
+2	With one selected condition
+8	With one type of disability:
+1	With other types of income
+71	With own children under 18 years
+22	With own children under 18 years:
+5	With public assistance income
+12	With public assistance income in 1999
+75	With related children under 18 years:
+1	With retirement income
+1	With self-employment income
+13	With telephone service available
+2	With telephone service available:
+2	With three selected conditions
+8	With two or more types of disability:
+2	With two selected conditions
+1	With wage or salary income
+12	Without SSI or public assistance income in 1999
+12	Without Social Security income in 1999:
+12	Without public assistance income in 1999
+3	Wood
+14	Worked at home
+2	Worked full-time, year round in 1999
+24	Worked full-time, year-round in 1999:
+22	Worked in 1999:
+2	Worked in MSA/PMSA of residence:
+2	Worked in a different MSA/PMSA:
+1	Worked in an MSA/PMSA:
+1	Worked in county of residence
+1	Worked in minor civil division of residence
+1	Worked in place of residence
+1	Worked in state of residence:
+2	Worked less than full-time, year-round in 1999:
+2	Worked outside MSA/PMSA of residence:
+3	Worked outside any MSA/PMSA
+1	Worked outside county of residence
+1	Worked outside minor civil division of residence
+1	Worked outside place of residence
+1	Worked outside state of residence
+13	Workers 16 years and over
+2	Workers 16 years and over who did not work at home
+1	World War II, no Korean War, no Vietnam era
+11	Year of entry 1980 to 1989:
+11	Year of entry 1990 to March 2000:
+11	Year of entry before 1980:
+2	Yiddish
+1	Yugoslavia
+3	Yugoslavian
+3	Zairian
+3	Zimbabwean
+10	cn5population
+1	cn5population for whom poverty status is determined
+1	cn5population with disabilities
+2	cnpopulation 16 to 64 years
+2	cnpopulation 16 years and over
+1	cnpopulation 18 to 34 years
