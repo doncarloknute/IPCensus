@@ -1,21 +1,21 @@
  46	Usd1kto2.5korL                                          	$1 to $2,499 or loss                                                  
  15	Usd1korM                                                	$1,000 or more                                                        
- 30	Usd1kto1k                                               	$1,000 to $1,249                                                      
-  1	Usd1kto1k                                               	$1,000 to $1,499                                                      
- 12	$1000000ormore                                          	$1,000,000 or more                                                    
- 30	Usd1kto1k                                               	$1,250 to $1,499                                                      
- 31	Usd1kto1k                                               	$1,500 to $1,999                                                      
+ 30	Usd1kto1.25k                                               	$1,000 to $1,249                                                      
+  1	Usd1kto1.5k                                               	$1,000 to $1,499                                                      
+ 12	Usd1MorM                                                	$1,000,000 or more                                                    
+ 30	Usd1.25kto1.5k                                             	$1,250 to $1,499                                                      
+ 31	Usd1.5kto2k                                               	$1,500 to $1,999                                                      
   1	Usd10korM                                               	$10,000 or more                                                       
  46	Usd10kto12.5k                                           	$10,000 to $12,499                                                    
 111	Usd10kto15k                                             	$10,000 to $14,999                                                    
-  4	Usd10kto19k:                                            	$10,000 to $19,999:                                                   
+  4	Usd10kto20k:                                            	$10,000 to $19,999:                                                   
  23	Usd100to149                                             	$100 to $149                                                          
   7	Usd100to199                                             	$100 to $199                                                          
  46	Usd100korM                                              	$100,000 or more                                                      
   3	Usd100korM:                                             	$100,000 or more:                                                     
 109	Usd100kto125k                                           	$100,000 to $124,999                                                  
-  2	Usd100kto149k                                           	$100,000 to $149,999                                                  
-  1	Usd100kto149k:                                          	$100,000 to $149,999:                                                 
+  2	Usd100kto150k                                           	$100,000 to $149,999                                                  
+  1	Usd100kto150k:                                          	$100,000 to $149,999:                                                 
  46	Usd12.5kto15k                                           	$12,500 to $14,999                                                    
 109	Usd125kto150k                                           	$125,000 to $149,999                                                  
  46	Usd15kto17.5k                                           	$15,000 to $17,499                                                    
@@ -23,60 +23,60 @@
  23	Usd150to199                                             	$150 to $199                                                          
   2	Usd150korM                                              	$150,000 or more                                                      
   1	Usd150korM:                                             	$150,000 or more:                                                     
- 12	Usd150kto174k                                           	$150,000 to $174,999                                                  
+ 12	Usd150kto175k                                           	$150,000 to $174,999                                                  
  97	Usd150kto200k                                           	$150,000 to $199,999                                                  
  46	Usd17.5kto20k                                           	$17,500 to $19,999                                                    
- 12	Usd175kto199k                                           	$175,000 to $199,999                                                  
+ 12	Usd175kto200k                                           	$175,000 to $199,999                                                  
  19	Usd2korM                                                	$2,000 or more                                                        
- 11	Usd2kto2k                                               	$2,000 to $2,499                                                      
-  1	Usd2kto2k                                               	$2,000 to $2,999                                                      
- 11	Usd2kto2k                                               	$2,500 to $2,999                                                      
+ 11	Usd2kto2.5k                                               	$2,000 to $2,499                                                      
+  1	Usd2kto3k                                               	$2,000 to $2,999                                                      
+ 11	Usd2.5kto3k                                               	$2,500 to $2,999                                                      
  46	Usd2.5kto5k                                             	$2,500 to $4,999                                                      
  46	Usd20kto22.5k                                           	$20,000 to $22,499                                                    
 111	Usd20kto25k                                             	$20,000 to $24,999                                                    
-  4	Usd20kto34k:                                            	$20,000 to $34,999:                                                   
+  4	Usd20kto35k:                                            	$20,000 to $34,999:                                                   
  23	Usd200to249                                             	$200 to $249                                                          
  23	Usd200to299                                             	$200 to $299                                                          
 100	Usd200korM                                              	$200,000 or more                                                      
- 12	Usd200kto249k                                           	$200,000 to $249,999                                                  
+ 12	Usd200kto250k                                           	$200,000 to $249,999                                                  
  46	Usd22.5kto25k                                           	$22,500 to $24,999                                                    
 155	Usd25kto30k                                             	$25,000 to $29,999                                                    
-  2	Usd25kto34k                                             	$25,000 to $34,999                                                    
+  2	Usd25kto35k                                             	$25,000 to $34,999                                                    
  23	Usd250to299                                             	$250 to $299                                                          
- 12	Usd250kto299k                                           	$250,000 to $299,999                                                  
+ 12	Usd250kto300k                                           	$250,000 to $299,999                                                  
  11	Usd3korM                                                	$3,000 or more                                                        
-  1	Usd3kto3k                                               	$3,000 to $3,999                                                      
+  1	Usd3kto4k                                               	$3,000 to $3,999                                                      
 155	Usd30kto35k                                             	$30,000 to $34,999                                                    
  23	Usd300to349                                             	$300 to $349                                                          
  19	Usd300to399                                             	$300 to $399                                                          
   4	Usd300to499                                             	$300 to $499                                                          
- 12	Usd300kto399k                                           	$300,000 to $399,999                                                  
+ 12	Usd300kto400k                                           	$300,000 to $399,999                                                  
 155	Usd35kto40k                                             	$35,000 to $39,999                                                    
-  2	Usd35kto49k                                             	$35,000 to $49,999                                                    
-  4	Usd35kto49k:                                            	$35,000 to $49,999:                                                   
+  2	Usd35kto50k                                             	$35,000 to $49,999                                                    
+  4	Usd35kto50k:                                            	$35,000 to $49,999:                                                   
  23	Usd350to399                                             	$350 to $399                                                          
-  1	Usd4kto4k                                               	$4,000 to $4,999                                                      
+  1	Usd4kto5k                                               	$4,000 to $4,999                                                      
 143	Usd40kto45k                                             	$40,000 to $44,999                                                    
- 12	Usd40kto49k                                             	$40,000 to $49,999                                                    
+ 12	Usd40kto50k                                             	$40,000 to $49,999                                                    
  12	Usd400to449                                             	$400 to $449                                                          
  29	Usd400to499                                             	$400 to $499                                                          
   1	Usd400to599                                             	$400 to $599                                                          
- 12	Usd400kto499k                                           	$400,000 to $499,999                                                  
+ 12	Usd400kto500k                                           	$400,000 to $499,999                                                  
 143	Usd45kto50k                                             	$45,000 to $49,999                                                    
  12	Usd450to499                                             	$450 to $499                                                          
  47	Usd5kto7.5k                                             	$5,000 to $7,499                                                      
-  2	Usd5kto9k                                               	$5,000 to $9,999                                                      
+  2	Usd5kto10k                                               	$5,000 to $9,999                                                      
  46	Usd50kto55k                                             	$50,000 to $54,999                                                    
 109	Usd50kto60k                                             	$50,000 to $59,999                                                    
-  2	Usd50kto74k                                             	$50,000 to $74,999                                                    
-  4	Usd50kto74k:                                            	$50,000 to $74,999:                                                   
+  2	Usd50kto75k                                             	$50,000 to $74,999                                                    
+  4	Usd50kto75k:                                            	$50,000 to $74,999:                                                   
  12	Usd500to549                                             	$500 to $549                                                          
  29	Usd500to599                                             	$500 to $599                                                          
   4	Usd500to749                                             	$500 to $749                                                          
- 12	Usd500kto749k                                           	$500,000 to $749,999                                                  
+ 12	Usd500kto750k                                           	$500,000 to $749,999                                                  
  46	Usd55kto65k                                             	$55,000 to $64,999                                                    
  12	Usd550to599                                             	$550 to $599                                                          
- 12	Usd60kto69k                                             	$60,000 to $69,999                                                    
+ 12	Usd60kto70k                                             	$60,000 to $69,999                                                    
  97	Usd60kto75k                                             	$60,000 to $74,999                                                    
  12	Usd600to649                                             	$600 to $649                                                          
  29	Usd600to699                                             	$600 to $699                                                          
@@ -84,45 +84,45 @@
  46	Usd65kto75k                                             	$65,000 to $74,999                                                    
  12	Usd650to699                                             	$650 to $699                                                          
  47	Usd7.5kto10k                                            	$7,500 to $9,999                                                      
- 12	Usd70kto79k                                             	$70,000 to $79,999                                                    
+ 12	Usd70kto80k                                             	$70,000 to $79,999                                                    
  12	Usd700to749                                             	$700 to $749                                                          
  29	Usd700to799                                             	$700 to $799                                                          
 145	Usd75kto100k                                            	$75,000 to $99,999                                                    
-  4	Usd75kto99k:                                            	$75,000 to $99,999:                                                   
+  4	Usd75kto100k:                                            	$75,000 to $99,999:                                                   
  12	Usd750to799                                             	$750 to $799                                                          
   4	Usd750to999                                             	$750 to $999                                                          
- 12	Usd750kto999k                                           	$750,000 to $999,999                                                  
- 12	Usd80kto89k                                             	$80,000 to $89,999                                                    
+ 12	Usd750kto1M                                             	$750,000 to $999,999                                                  
+ 12	Usd80kto90k                                             	$80,000 to $89,999                                                    
  41	Usd800to899                                             	$800 to $899                                                          
   1	Usd800to999                                             	$800 to $999                                                          
- 12	Usd90kto99k                                             	$90,000 to $99,999                                                    
+ 12	Usd90kto100k                                             	$90,000 to $99,999                                                    
  41	Usd900to999                                             	$900 to $999                                                          
- 13	.50to.74                                                	.50 to .74                                                            
- 13	.75to.99                                                	.75 to .99                                                            
-  2	0.50orlessOcpPrRm                                       	0.50 or less occupants per room                                       
+ 13	0.50to0.74                                                	.50 to .74                                                            
+ 13	0.75to0.99                                                	.75 to .99                                                            
+  2	Lte0.50OcpPrRm                                          	0.50 or less occupants per room                                       
   2	0.51to1.00OcpPrRm                                       	0.51 to 1.00 occupants per room                                       
-  3	1 bedroom                                               	1 bedroom                                                             
-  1	1 bedroom:                                              	1 bedroom:                                                            
+  3	1Bedrm                                                  	1 bedroom                                                             
+  1	1Bedrm:                                                 	1 bedroom:                                                            
   1	1or2y                                                   	1 or 2 years                                                          
-  9	1ormore vehicles available                              	1 or more vehicles available                                          
-  2	1ormore vehicles available:                             	1 or more vehicles available:                                         
-  3	1 room                                                  	1 room                                                                
-  1	1 subFam                                                	1 subfamily                                                           
+  9	Gte1VhclAvail                                           	1 or more vehicles available                                          
+  2	Gte1VhclAvail:                                           	1 or more vehicles available:                                         
+  3	1Rm                                                      	1 room                                                                
+  1	1SubFam                                                 	1 subfamily                                                           
  60	1to13w                                                  	1 to 13 weeks                                                         
-  2	1 vehicle available                                     	1 vehicle available                                                   
+  2	1VhclAvail                                              	1 vehicle available                                                   
   4	1wrkr                                                   	1 worker                                                              
   2	1y                                                      	1 year                                                                
- 16	1 attached                                              	1, attached                                                           
- 16	1 detached                                              	1, detached                                                           
- 61	1 detachedorattached                                    	1, detached or attached                                               
-  1	1 detachedorattached:                                   	1, detached or attached:                                              
+ 16	1Atchd                                                  	1, attached                                                           
+ 16	1Dtchd                                                  	1, detached                                                           
+ 61	1DtchdorAtchd                                           	1, detached or attached                                               
+  1	1DtchdorAtchd:                                          	1, detached or attached:                                              
   4	1pHH                                                    	1-person household                                                    
   5	1pHH:                                                   	1-person household:                                                   
- 35	1.00orlessOcpPrRm                                       	1.00 or less occupants per room                                       
-  2	1.00orlessOcpPrRm:                                      	1.00 or less occupants per room:                                      
- 14	1.00to1.24                                              	1.00 to 1.24                                                          
-  9	1.01ormoreOcpPrRm                                       	1.01 or more occupants per room                                       
-  2	1.01ormoreOcpPrRm:                                      	1.01 or more occupants per room:                                      
+ 35	Lte1OcpPrRm                                             	1.00 or less occupants per room                                       
+  2	Lte1OcpPrRm:                                            	1.00 or less occupants per room:                                      
+ 14	1to1.24                                                  	1.00 to 1.24                                                          
+  9	Gte1.01OcpPrRm                                           	1.01 or more occupants per room                                       
+  2	Gte1.01OcpPrRm:                                          	1.01 or more occupants per room:                                      
  28	1.01to1.50OcpPrRm                                       	1.01 to 1.50 occupants per room                                       
  13	1.25to1.29                                              	1.25 to 1.29                                                          
   1	1.25to1.49                                              	1.25 to 1.49                                                          
@@ -131,10 +131,10 @@
   1	Gte1.50:                                                	1.50 and over:                                                        
  14	1.50to1.74                                              	1.50 to 1.74                                                          
   1	1.50to1.84:                                             	1.50 to 1.84:                                                         
- 26	1.51ormoreOcpPrRm                                       	1.51 or more occupants per room                                       
+ 26	Gte1.51OcpPrRm                                           	1.51 or more occupants per room                                       
   2	1.51to2.00OcpPrRm                                       	1.51 to 2.00 occupants per room                                       
  14	1.75to1.84                                              	1.75 to 1.84                                                          
-  1	1.85 and above:                                         	1.85 and above:                                                       
+  1	Gte1.85:                                                 	1.85 and above:                                                       
  14	1.85to1.99                                              	1.85 to 1.99                                                          
   1	10to14min                                               	10 to 14 minutes                                                      
  22	10to14y                                                 	10 to 14 years                                                        
@@ -172,20 +172,20 @@
  46	15y                                                     	15 years                                                              
   1	15y:                                                    	15 years:                                                             
  30	15.0to19.9pct                                           	15.0 to 19.9 percent                                                  
- 44	16 and 17y                                              	16 and 17 years                                                       
-  1	16 and 17y:                                             	16 and 17 years:                                                      
+ 44	16and17y                                                	16 and 17 years                                                       
+  1	16and17y:                                               	16 and 17 years:                                                      
   2	16to19y:                                                	16 to 19 years:                                                       
  36	16to20y:                                                	16 to 20 years:                                                       
   2	16y                                                     	16 years                                                              
   2	17y                                                     	17 years                                                              
- 34	18 and 19y                                              	18 and 19 years                                                       
+ 34	18and19y                                                	18 and 19 years                                                       
  48	18to24y                                                 	18 to 24 years                                                        
   3	18to24y:                                                	18 to 24 years:                                                       
   5	18to44y                                                 	18 to 44 years                                                        
  20	18to64y                                                 	18 to 64 years                                                        
  31	18to64y:                                                	18 to 64 years:                                                       
   2	18y                                                     	18 years                                                              
-  1	18y and over:                                           	18 years and over:                                                    
+  1	Gte18y:                                                 	18 years and over:                                                    
   2	19y                                                     	19 years                                                              
   1	1965to1969                                              	1965 to 1969                                                          
   1	1970to1974                                              	1970 to 1974                                                          
@@ -195,24 +195,24 @@
   1	1990to1994                                              	1990 to 1994                                                          
   1	1995toMar2000                                           	1995 to March 2000                                                    
  16	2                                                       	2                                                                     
-  3	2 bedrooms                                              	2 bedrooms                                                            
-  1	2 bedrooms:                                             	2 bedrooms:                                                           
-  3	2 rooms                                                 	2 rooms                                                               
-  1	2 subfamilies                                           	2 subfamilies                                                         
+  3	2Bedrm                                                   	2 bedrooms                                                            
+  1	2Bedrm:                                                 	2 bedrooms:                                                           
+  3	2Rms                                                     	2 rooms                                                               
+  1	2SubFam                                                 	2 subfamilies                                                         
  61	2to4                                                    	2 to 4                                                                
   1	2to4:                                                   	2 to 4:                                                               
-  2	2 vehicles available                                    	2 vehicles available                                                  
+  2	2VhclAvail                                               	2 vehicles available                                                  
   2	2wrkr                                                   	2 workers                                                             
-  1	2 workers husband and wife worked                       	2 workers, husband and wife worked                                    
-  1	2 workers other                                         	2 workers, other                                                      
+  1	2wrkrHusbWife                                           	2 workers, husband and wife worked                                    
+  1	2wrkrOth                                                 	2 workers, other                                                      
   1	2wrkr:                                                  	2 workers:                                                            
   2	2y                                                      	2 years                                                               
-  2	2-or-more person household:                             	2-or-more person household:                                           
+  2	Gte2pHH:                                                 	2-or-more person household:                                           
   1	Gte2pHH:                                                	2-or-more-person household:                                           
   5	2pHH                                                    	2-person household                                                    
-  2	2-person household:                                     	2-person household:                                                   
- 14	Gte2.00                                                 	2.00 and over                                                         
-  2	2.01ormoreOcpPrRm                                       	2.01 or more occupants per room                                       
+  2	2pHH:                                                    	2-person household:                                                   
+ 14	Gte2                                                     	2.00 and over                                                         
+  2	Gte2.01OcpPrRm                                          	2.01 or more occupants per room                                       
   2	20to21y:                                                	20 to 21 years:                                                       
   1	20to24min                                               	20 to 24 minutes                                                      
  16	20to24y                                                 	20 to 24 years                                                        
@@ -238,20 +238,20 @@
  66	25.0to29.9pct                                           	25.0 to 29.9 percent                                                  
  60	27to39w                                                 	27 to 39 weeks                                                        
   7	3and4y                                                  	3 and 4 years                                                         
-  3	3 bedrooms                                              	3 bedrooms                                                            
+  3	3Bedrm                                                   	3 bedrooms                                                            
  16	3or4                                                    	3 or 4                                                                
   1	3or4y                                                   	3 or 4 years                                                          
-  1	3ormore bedrooms:                                       	3 or more bedrooms:                                                   
+  1	Gte3Bedrm:                                               	3 or more bedrooms:                                                   
   2	Gte3wrkr                                                	3 or more workers                                                     
-  1	3ormore workers husband and wife worked                 	3 or more workers, husband and wife worked                            
-  1	3ormore workers other                                   	3 or more workers, other                                              
+  1	Gte3wrkrHusbWife                                         	3 or more workers, husband and wife worked                            
+  1	Gte3wrkrOth                                              	3 or more workers, other                                              
   1	Gte3wrkr:                                               	3 or more workers:                                                    
-  3	3 rooms                                                 	3 rooms                                                               
-  1	3 subfamilies                                           	3 subfamilies                                                         
-  2	3 vehicles available                                    	3 vehicles available                                                  
+  3	3Rms                                                     	3 rooms                                                               
+  1	3SubFam                                                 	3 subfamilies                                                         
+  2	3VhclAvail                                               	3 vehicles available                                                  
   2	3y                                                      	3 years                                                               
   5	3pHH                                                    	3-person household                                                    
-  2	3-person household:                                     	3-person household:                                                   
+  2	3pHH:                                                    	3-person household:                                                   
   1	30to34min                                               	30 to 34 minutes                                                      
  32	30to34y                                                 	30 to 34 years                                                        
   2	30to34y:                                                	30 to 34 years:                                                       
@@ -261,16 +261,16 @@
  20	35to39y                                                 	35 to 39 years                                                        
  56	35to44y                                                 	35 to 44 years                                                        
   5	35to44y:                                                	35 to 44 years:                                                       
-  8	35y and over                                            	35 years and over                                                     
- 36	35.0pctor more                                          	35.0 percent or more                                                  
+  8	Gte35y                                                  	35 years and over                                                     
+ 36	Gte35pct                                                 	35.0 percent or more                                                  
  30	35.0to39.9pct                                           	35.0 to 39.9 percent                                                  
-  3	4 bedrooms                                              	4 bedrooms                                                            
-  1	4ormore subfamilies                                     	4 or more subfamilies                                                 
-  3	4 rooms                                                 	4 rooms                                                               
-  2	4 vehicles available                                    	4 vehicles available                                                  
+  3	4Bedrm                                                   	4 bedrooms                                                            
+  1	Gte4SubFam                                              	4 or more subfamilies                                                 
+  3	4Rms                                                      	4 rooms                                                               
+  2	4VhclAvail                                               	4 vehicles available                                                  
   2	4y                                                      	4 years                                                               
   5	4pHH                                                    	4-person household                                                    
-  2	4-person household:                                     	4-person household:                                                   
+  2	4pHH:                                                   	4-person household:                                                   
   1	40to44min                                               	40 to 44 minutes                                                      
  20	40to44y                                                 	40 to 44 years                                                        
  60	40to47w                                                 	40 to 47 weeks                                                        
@@ -284,10 +284,10 @@
   2	45to64y:                                                	45 to 64 years:                                                       
  60	48and49w                                                	48 and 49 weeks                                                       
   1	4PMto12PM                                               	4:00 p.m. to 11:59 p.m.                                               
-  1	5ormore                                                 	5 or more                                                             
-  3	5ormore bedrooms                                        	5 or more bedrooms                                                    
-  2	5ormore vehicles available                              	5 or more vehicles available                                          
-  3	5 rooms                                                 	5 rooms                                                               
+  1	Gte5                                                     	5 or more                                                             
+  3	Gte5Bedrm                                                	5 or more bedrooms                                                    
+  2	Gte5VhclAvail                                            	5 or more vehicles available                                          
+  3	5Rms                                                    	5 rooms                                                               
  32	5to15y:                                                 	5 to 15 years:                                                        
   5	5to17y                                                  	5 to 17 years                                                         
  72	5to17yOnly                                              	5 to 17 years only                                                    
@@ -298,13 +298,13 @@
   1	5to9min                                                 	5 to 9 minutes                                                        
  22	5to9y                                                   	5 to 9 years                                                          
 125	5y                                                      	5 years                                                               
-  1	5yormore                                                	5 years or more                                                       
+  1	Gte5y                                                     	5 years or more                                                       
   1	5y:                                                     	5 years:                                                              
-  2	5-or-more person household:                             	5-or-more person household:                                           
+  2	Gte5pHH:                                                	5-or-more person household:                                           
   5	5pHH                                                    	5-person household                                                    
- 76	50ormore                                                	50 or more                                                            
-  1	50ormore:                                               	50 or more:                                                           
-  1	50to.74                                                 	50 to .74                                                             
+ 76	Gte50                                                    	50 or more                                                            
+  1	Gte50:                                                  	50 or more:                                                           
+  1	50to0.74                                                 	50 to .74                                                             
  60	50to52w                                                 	50 to 52 weeks                                                        
  20	50to54y                                                 	50 to 54 years                                                        
   1	50toLt100pctTotIndEarn                                  	50 to less than 100 percent of total earnings for individual imputed  
@@ -312,7 +312,7 @@
   1	50toLt100pctTotIncHH                                    	50 to less than 100 percent of total income for household imputed     
   3	50toLt100pctTotIncInd                                   	50 to less than 100 percent of total income for individual imputed    
   1	50toLt100pctTotIncNF                                    	50 to less than 100 percent of total income for nonfamily household imputed
- 30	50.0pctor more                                          	50.0 percent or more                                                  
+ 30	Gte50pct                                          	50.0 percent or more                                                  
  32	55to59y                                                 	55 to 59 years                                                        
   2	55to59y:                                                	55 to 59 years:                                                       
  44	55to64y                                                 	55 to 64 years                                                        
@@ -320,8 +320,8 @@
   1	5AMto6AM                                                	5:00 a.m. to 5:29 a.m.                                                
   1	5AMto6AM                                                	5:30 a.m. to 5:59 a.m.                                                
   2	5thand6thGr                                             	5th and 6th grade                                                     
-  3	6 rooms                                                 	6 rooms                                                               
-  1	6to11 months                                            	6 to 11 months                                                        
+  3	6Rms                                                    	6 rooms                                                               
+  1	6to11m                                                  	6 to 11 months                                                        
  63	6to11y                                                  	6 to 11 years                                                         
   1	6to11y:                                                 	6 to 11 years:                                                        
  60	6to17y                                                  	6 to 17 years                                                         
@@ -342,17 +342,17 @@
   2	65to69y:                                                	65 to 69 years:                                                       
  76	65to74y                                                 	65 to 74 years                                                        
  37	65to74y:                                                	65 to 74 years:                                                       
-  5	65y and over                                            	65 years and over                                                     
+  5	Gte65y                                                  	65 years and over                                                     
  37	Gte65y:                                                 	65 years and over:                                                    
  20	67to69y                                                 	67 to 69 years                                                        
   1	6AMto7AM                                                	6:00 a.m. to 6:29 a.m.                                                
   1	6AMto7AM                                                	6:30 a.m. to 6:59 a.m.                                                
-  3	7 rooms                                                 	7 rooms                                                               
+  3	7Rms                                                     	7 rooms                                                               
   2	7y                                                      	7 years                                                               
   5	Gte7pHH                                                 	7-or-more-person household                                            
  20	70to74y                                                 	70 to 74 years                                                        
   2	70to74y:                                                	70 to 74 years:                                                       
-  1	75to.99                                                 	75 to .99                                                             
+  1	75to0.99                                                 	75 to .99                                                             
  20	75to79y                                                 	75 to 79 years                                                        
  12	75to84y                                                 	75 to 84 years                                                        
  64	Gte75y                                                  	75 years and over                                                     
@@ -360,175 +360,175 @@
   1	7AMto8AM                                                	7:00 a.m. to 7:29 a.m.                                                
   1	7AMto8AM                                                	7:30 a.m. to 7:59 a.m.                                                
   2	7thand8thGr                                             	7th and 8th grade                                                     
-  3	8 rooms                                                 	8 rooms                                                               
+  3	8Rms                                                     	8 rooms                                                               
   2	8y                                                      	8 years                                                               
  20	80to84y                                                 	80 to 84 years                                                        
  32	Gte85y                                                  	85 years and over                                                     
   1	8AMto9AM                                                	8:00 a.m. to 8:29 a.m.                                                
   1	8AMto9AM                                                	8:30 a.m. to 8:59 a.m.                                                
-  3	9ormore rooms                                           	9 or more rooms                                                       
+  3	Gte9Rms                                                 	9 or more rooms                                                       
   2	9y                                                      	9 years                                                               
   1	Gte90min                                                	90 or more minutes                                                    
   1	9AMto10AM                                               	9:00 a.m. to 9:59 a.m.                                                
   2	9thGr                                                   	9th grade                                                             
- 28	9thto12th grade no diploma                              	9th to 12th grade, no diploma                                         
-  3	Acadian/Cajun                                           	Acadian/Cajun                                                         
+ 28	9thto12thGrNoDip                                        	9th to 12th grade, no diploma                                         
+  3	Anc001                                                  	Acadian/Cajun                                                         
   2	Occ001                                                  	Accommodation and food services                                       
   2	Occ002                                                  	Administrative and support and waste management services              
   1	Adptd                                                   	Adopted                                                               
-  3	Afghan                                                  	Afghan                                                                
-  1	Afghanistan                                             	Afghanistan                                                           
-  1	Africa n.e.c.                                           	Africa, n.e.c.                                                        
+  3	Anc002                                                  	Afghan                                                                
+  1	Ctry001                                                  	Afghanistan                                                           
+  1	Ctry002                                                  	Africa, n.e.c.                                                        
   2	Africa:                                                 	Africa:                                                               
-  3	African                                                 	African                                                               
-  2	African languages                                       	African languages                                                     
+  3	Anc003                                                  	African                                                               
+  2	AfrcnLang                                                	African languages                                                     
   1	AggInc1999                                              	Aggregate Income in 1999                                              
   1	AggSSInc1999                                            	Aggregate Social Security income in 1999                              
   1	AggSupSecInc1999                                        	Aggregate Supplemental Security Income in 1999                        
-  1	Aggcontract rent                                        	Aggregate contract rent                                               
+  1	AggContRent                                             	Aggregate contract rent                                               
   1	AggEarn1999                                             	Aggregate earnings in 1999                                            
   2	AggEarn1999:                                            	Aggregate earnings in 1999:                                           
   4	AggFamInc1999:                                          	Aggregate family income in 1999:                                      
- 12	Agggross rent                                           	Aggregate gross rent                                                  
-  9	Agghousehold Incin 1999                                 	Aggregate household income in 1999                                    
+ 12	AggGrsRent                                              	Aggregate gross rent                                                  
+  9	AggHHInc1999                                            	Aggregate household income in 1999                                    
   6	AggHHInc1999:                                           	Aggregate household income in 1999:                                   
   1	AggIncDef1999:                                          	Aggregate income deficit in 1999:                                     
-  9	AggIncin 1999                                           	Aggregate income in 1999                                              
+  9	AggInc1999                                               	Aggregate income in 1999                                              
   1	AggIntDivRentInc1999                                    	Aggregate interest, dividends, or net rental income in 1999           
   2	AggNFamHHInc1999:                                       	Aggregate nonfamily household income in 1999:                         
-  1	Aggnumberrooms                                          	Aggregate number of rooms                                             
-  2	Aggnumberrooms:                                         	Aggregate number of rooms:                                            
-  1	Aggnumbervehicles available:                            	Aggregate number of vehicles available:                               
+  1	AggNumRms                                                	Aggregate number of rooms                                             
+  2	AggNumRms:                                              	Aggregate number of rooms:                                            
+  1	AggNumbVhclAvail:                                       	Aggregate number of vehicles available:                               
   1	AggOthInc1999                                           	Aggregate other types of income in 1999                               
-  1	Aggprice asked                                          	Aggregate price asked                                                 
+  1	AggPrcAskd                                              	Aggregate price asked                                                 
   1	AggPubAssInc1999                                        	Aggregate public assistance income in 1999                            
-  1	Aggreal estate taxes                                    	Aggregate real estate taxes                                           
-  1	Aggrent asked                                           	Aggregate rent asked                                                  
+  1	AggRealEstTax                                           	Aggregate real estate taxes                                           
+  1	AggRntAskd                                               	Aggregate rent asked                                                  
   1	AggRetInc1999                                           	Aggregate retirement income in 1999                                   
- 11	Aggselected monthly owner costs:                        	Aggregate selected monthly owner costs:                               
+ 11	AggSelMnthOwnrCsts:                                     	Aggregate selected monthly owner costs:                               
   1	AggSelfEmplInc1999                                      	Aggregate self-employment income in 1999                              
   1	AggTravTimeWork:                                        	Aggregate travel time to work (in minutes):                           
- 10	Aggvalue                                                	Aggregate value                                                       
-  4	Aggvalue:                                               	Aggregate value:                                                      
+ 10	AggVal                                                  	Aggregate value                                                       
+  4	AggVal:                                                 	Aggregate value:                                                      
   1	AggWageSalInc1999                                       	Aggregate wage or salary income in 1999                               
   2	Occ003                                                  	Agriculture, forestry, fishing and hunting                            
   4	AgForFishHuntMin:                                       	Agriculture, forestry, fishing and hunting, and mining:               
   2	AgForFishHunt:                                          	Agriculture, forestry, fishing and hunting:                           
   2	Occ004                                                  	Aircraft and traffic control occupations                              
-  3	Albanian                                                	Albanian                                                              
+  3	Anc004                                                  	Albanian                                                              
   2	AllGeoPart                                              	All geographic parts imputed                                          
   2	AllIndExcAgForFishHuntMin:                              	All industries except agriculture, forestry, fishing and hunting, and mining:
-  1	All other HH                                            	All other households                                                  
-  3	Alsatian                                                	Alsatian                                                              
+  1	AllOthHH                                                 	All other households                                                  
+  3	Anc005                                                   	Alsatian                                                              
   3	AmIndAkNatAlone                                         	American Indian and Alaska Native alone                               
-  1	AmIndAkNatAlnCivNInstPop5y and over                     	American Indian and Alaska Native alone civilian noninstitutionalized population 5 years and over
-  1	AmIndAkNatAlnfemales 16y and over                       	American Indian and Alaska Native alone females 16 years and over     
-  1	AmIndAkNatAlnown children Lt18y in Famand subfamilies   	American Indian and Alaska Native alone own children under 18 years in families and subfamilies
-  3	AmIndAkNatAlnpopulation                                 	American Indian and Alaska Native alone population                    
-  1	AmIndAkNatAlnPop15y and over                            	American Indian and Alaska Native alone population 15 years and over  
+  1	AmIndAkNatAlnCivNInstGtePop5y                           	American Indian and Alaska Native alone civilian noninstitutionalized population 5 years and over
+  1	AmIndAkNatAlnFemGte16y                                  	American Indian and Alaska Native alone females 16 years and over     
+  1	AmIndAkNatAlnOwnChldLt18yFamSubFam                      	American Indian and Alaska Native alone own children under 18 years in families and subfamilies
+  3	AmIndAkNatAlnPop                                         	American Indian and Alaska Native alone population                    
+  1	AmIndAkNatAlnPopGte15y                                  	American Indian and Alaska Native alone population 15 years and over  
   1	AmIndAkNatAlnPop16to19y                                 	American Indian and Alaska Native alone population 16 to 19 years     
-  3	AmIndAkNatAlnPop16y and over                            	American Indian and Alaska Native alone population 16 years and over  
-  1	AmIndAkNatAlnPop16y and over with earnings in 1999      	American Indian and Alaska Native alone population 16 years and over with earnings in 1999
-  1	AmIndAkNatAlnPop18y and over                            	American Indian and Alaska Native alone population 18 years and over  
-  1	AmIndAkNatAlnPop25y and over                            	American Indian and Alaska Native alone population 25 years and over  
-  1	AmIndAkNatAlnPop3y and over                             	American Indian and Alaska Native alone population 3 years and over   
-  2	AmIndAkNatAlnPop5y and over                             	American Indian and Alaska Native alone population 5 years and over   
-  2	AmIndAkNatAlnpopulationwhom poverty status is determined	American Indian and Alaska Native alone population for whom poverty status is determined
-  1	AmIndAkNatAlnworkers 16y and over                       	American Indian and Alaska Native alone workers 16 years and over     
+  3	AmIndAkNatAlnPopGte16y                                  	American Indian and Alaska Native alone population 16 years and over  
+  1	AmIndAkNatAlnPopGte16yEarn1999                          	American Indian and Alaska Native alone population 16 years and over with earnings in 1999
+  1	AmIndAkNatAlnPopGte18y                                  	American Indian and Alaska Native alone population 18 years and over  
+  1	AmIndAkNatAlnPopGte25y                                  	American Indian and Alaska Native alone population 25 years and over  
+  1	AmIndAkNatAlnPopGte3y                                    	American Indian and Alaska Native alone population 3 years and over   
+  2	AmIndAkNatAlnPopGte5y                                    	American Indian and Alaska Native alone population 5 years and over   
+  2	AmIndAkNatAlnPopPovStatDet                              	American Indian and Alaska Native alone population for whom poverty status is determined
+  1	AmIndAkNatAlnworkersGte16y                              	American Indian and Alaska Native alone workers 16 years and over     
   2	Americas:                                               	Americas:                                                             
-  1	Ancestry not reported                                   	Ancestry not reported                                                 
-  1	Ancestry not specified:                                 	Ancestry not specified:                                               
-  1	Ancestry specified:                                     	Ancestry specified:                                                   
-  1	Ancestry unclassified                                   	Ancestry unclassified                                                 
-  3	Arab/Arabic                                             	Arab/Arabic                                                           
+  1	AncNotRep                                               	Ancestry not reported                                                 
+  1	AncNotSpec:                                             	Ancestry not specified:                                               
+  1	AncSpec:                                                	Ancestry specified:                                                   
+  1	AncUnclass                                              	Ancestry unclassified                                                 
+  3	Anc006                                                  	Arab/Arabic                                                           
   3	Arab:                                                   	Arab:                                                                 
   2	Arabic                                                  	Arabic                                                                
   2	Occ005                                                  	Architects, surveyors, cartographers, and engineers                   
   2	ArchEng:                                                	Architecture and engineering occupations:                             
-  1	Argentina                                               	Argentina                                                             
-  1	Armenia                                                 	Armenia                                                               
-  5	Armenian                                                	Armenian                                                              
+  1	Ctry003                                                  	Argentina                                                             
+  1	Ctry004                                                 	Armenia                                                               
+  5	Anc007                                                  	Armenian                                                              
   2	Occ006                                                  	Arts, design, entertainment, sports, and media occupations            
   2	Occ007                                                  	Arts, entertainment, and recreation                                   
   2	ArtEntRecAccFood:                                       	Arts, entertainment, recreation, accommodation and food services:     
-  1	Asia n.e.c.                                             	Asia, n.e.c.                                                          
+  1	Ctry005                                                 	Asia, n.e.c.                                                          
   2	Asia:                                                   	Asia:                                                                 
   3	AsianAln                                                	Asian alone                                                           
-  1	AsnAlnCivNInstPop5y and over                            	Asian alone civilian noninstitutionalized population 5 years and over 
-  1	AsnAlnfemales 16y and over                              	Asian alone females 16 years and over                                 
-  1	AsnAlnown children Lt18y in Famand subfamilies          	Asian alone own children under 18 years in families and subfamilies   
-  3	AsnAlnpopulation                                        	Asian alone population                                                
-  1	AsnAlnPop15y and over                                   	Asian alone population 15 years and over                              
+  1	AsnAlnCivNInstPopGte5y                                  	Asian alone civilian noninstitutionalized population 5 years and over 
+  1	AsnAlnFemGte16y                                          	Asian alone females 16 years and over                                 
+  1	AsnAlnOwnChldLt18yFamSubFam                              	Asian alone own children under 18 years in families and subfamilies   
+  3	AsnAlnPop                                               	Asian alone population                                                
+  1	AsnAlnPopGte15y                                         	Asian alone population 15 years and over                              
   1	AsnAlnPop16to19y                                        	Asian alone population 16 to 19 years                                 
-  3	AsnAlnPop16y and over                                   	Asian alone population 16 years and over                              
-  1	AsnAlnPop16y and over with earnings in 1999             	Asian alone population 16 years and over with earnings in 1999        
-  1	AsnAlnPop18y and over                                   	Asian alone population 18 years and over                              
-  1	AsnAlnPop25y and over                                   	Asian alone population 25 years and over                              
-  1	AsnAlnPop3y and over                                    	Asian alone population 3 years and over                               
-  2	AsnAlnPop5y and over                                    	Asian alone population 5 years and over                               
-  2	AsnAlnpopulationwhom poverty status is determined       	Asian alone population for whom poverty status is determined          
-  1	AsnAlnworkers 16y and over                              	Asian alone workers 16 years and over                                 
+  3	AsnAlnPopGte16y                                         	Asian alone population 16 years and over                              
+  1	AsnAlnPopGte16yEarn1999                                 	Asian alone population 16 years and over with earnings in 1999        
+  1	AsnAlnPopGte18y                                          	Asian alone population 18 years and over                              
+  1	AsnAlnPopGte25y                                         	Asian alone population 25 years and over                              
+  1	AsnAlnPopGte3y                                          	Asian alone population 3 years and over                               
+  2	AsnAlnPopGte5y                                          	Asian alone population 5 years and over                               
+  2	AsnAlnPopPovStatDet                                      	Asian alone population for whom poverty status is determined          
+  1	AsnAlnWrkrGte16y                                        	Asian alone workers 16 years and over                                 
   1	AsianPacIsldLang:                                       	Asian and Pacific Island languages:                                   
  34	AssDeg                                                  	Associate degree                                                      
-  3	Assyrian/Chaldean/Syriac                                	Assyrian/Chaldean/Syriac                                              
+  3	Anc008                                                  	Assyrian/Chaldean/Syriac                                              
   1	Aug1990orLat:                                           	August 1990 or later (including Persian Gulf War):                    
-  1	Australia                                               	Australia                                                             
-  1	Australia and New Zealand Subregion:                    	Australia and New Zealand Subregion:                                  
-  3	Australian                                              	Australian                                                            
-  1	Austria                                                 	Austria                                                               
-  3	Austrian                                                	Austrian                                                              
+  1	Ctry006                                                 	Australia                                                             
+  1	AustNZealSub:                                           	Australia and New Zealand Subregion:                                  
+  3	Anc009                                                  	Australian                                                            
+  1	Ctry007                                                 	Austria                                                               
+  3	Anc010                                                  	Austrian                                                              
  34	BacDeg                                                  	Bachelor's degree                                                     
-  3	Bahamian                                                	Bahamian                                                              
-  1	Bangladesh                                              	Bangladesh                                                            
-  3	Barbadian                                               	Barbadian                                                             
-  1	Barbados                                                	Barbados                                                              
-  3	Basque                                                  	Basque                                                                
+  3	Anc011                                                  	Bahamian                                                              
+  1	Ctry008                                                 	Bangladesh                                                            
+  3	Anc012                                                  	Barbadian                                                             
+  1	Ctry009                                                 	Barbados                                                              
+  3	Anc013                                                  	Basque                                                                
   1	Bef1965                                                 	Before 1965                                                           
-  1	Belarus                                                 	Belarus                                                               
-  3	Belgian                                                 	Belgian                                                               
-  3	Belizean                                                	Belizean                                                              
-  4	Below college                                           	Below college                                                         
-  3	Bermudan                                                	Bermudan                                                              
+  1	Ctry010                                                 	Belarus                                                               
+  3	Anc014                                                  	Belgian                                                               
+  3	Anc015                                                  	Belizean                                                              
+  4	BelColl                                                 	Below college                                                         
+  3	Anc016                                                  	Bermudan                                                              
  10	Bike                                                    	Bicycle                                                               
-  3	BlkAfAmerAlone                                          	Black or African American alone                                       
-  1	BlkAfAmerAlnCivNInstPop5y and over                      	Black or African American alone civilian noninstitutionalized population 5 years and over
-  1	BlkAfAmerAlnfemales 16y and over                        	Black or African American alone females 16 years and over             
-  1	BlkAfAmerAlnown children Lt18y in Famand subfamilies    	Black or African American alone own children under 18 years in families and subfamilies
-  3	BlkAfAmerAlnpopulation                                  	Black or African American alone population                            
-  1	BlkAfAmerAlnPop15y and over                             	Black or African American alone population 15 years and over          
+  3	BlkAfAmerAln                                            	Black or African American alone                                       
+  1	BlkAfAmerAlnCivNInstPopGte5y                            	Black or African American alone civilian noninstitutionalized population 5 years and over
+  1	BlkAfAmerAlnFemGte16y                                   	Black or African American alone females 16 years and over             
+  1	BlkAfAmerAlnOwnChldLt18yFamSubFam                       	Black or African American alone own children under 18 years in families and subfamilies
+  3	BlkAfAmerAlnPop                                          	Black or African American alone population                            
+  1	BlkAfAmerAlnPopGte15y                                   	Black or African American alone population 15 years and over          
   1	BlkAfAmerAlnPop16to19y                                  	Black or African American alone population 16 to 19 years             
-  3	BlkAfAmerAlnPop16y and over                             	Black or African American alone population 16 years and over          
-  1	BlkAfAmerAlnPop16y and over with earnings in 1999       	Black or African American alone population 16 years and over with earnings in 1999
-  1	BlkAfAmerAlnPop18y and over                             	Black or African American alone population 18 years and over          
-  1	BlkAfAmerAlnPop25y and over                             	Black or African American alone population 25 years and over          
-  1	BlkAfAmerAlnPop3y and over                              	Black or African American alone population 3 years and over           
-  2	BlkAfAmerAlnPop5y and over                              	Black or African American alone population 5 years and over           
-  2	BlkAfAmerAlnpopulationwhom poverty status is determined 	Black or African American alone population for whom poverty status is determined
-  1	BlkAfAmerAlnworkers 16y and over                        	Black or African American alone workers 16 years and over             
- 77	Boat RV van etc.                                        	Boat, RV, van, etc.                                                   
-  1	Boat RV van etc.:                                       	Boat, RV, van, etc.:                                                  
-  1	Bolivia                                                 	Bolivia                                                               
+  3	BlkAfAmerAlnPopGte16y                                   	Black or African American alone population 16 years and over          
+  1	BlkAfAmerAlnPopGte16yEarn1999                           	Black or African American alone population 16 years and over with earnings in 1999
+  1	BlkAfAmerAlnPopGte18y                                    	Black or African American alone population 18 years and over          
+  1	BlkAfAmerAlnPopGte25y                                   	Black or African American alone population 25 years and over          
+  1	BlkAfAmerAlnPopGte3y                                    	Black or African American alone population 3 years and over           
+  2	BlkAfAmerAlnPopGte5y                                    	Black or African American alone population 5 years and over           
+  2	BlkAfAmerAlnPopPovStatDet                               	Black or African American alone population for whom poverty status is determined
+  1	BlkAfAmerAlnWrkGte16y                                   	Black or African American alone workers 16 years and over             
+ 77	BoatRVvan                                                	Boat, RV, van, etc.                                                   
+  1	BoatRVvan:                                              	Boat, RV, van, etc.:                                                  
+  1	Ctry011                                                 	Bolivia                                                               
  12	BrnAbrdAmerPar                                          	Born abroad of American parent(s)                                     
-  1	Born at sea                                             	Born at sea                                                           
-  1	Born at sea:                                            	Born at sea:                                                          
-  2	Born in Puerto Rico                                     	Born in Puerto Rico                                                   
-  2	Born in U.S. Island Areas                               	Born in U.S. Island Areas                                             
- 10	BrnOthStUS:                                             	Born in other state in the United States:                             
- 10	BrnStateRes                                             	Born in state of residence                                            
-  2	Born inUnited States                                    	Born in the United States                                             
- 12	BrnOutUS:                                               	Born outside the United States:                                       
-  1	Bosnia and Herzegovina                                  	Bosnia and Herzegovina                                                
+  1	BornSea                                                  	Born at sea                                                           
+  1	BornSea:                                                  	Born at sea:                                                          
+  2	BornPRico                                                	Born in Puerto Rico                                                   
+  2	BornUSIslArea                                            	Born in U.S. Island Areas                                             
+ 10	BornOthStUS:                                             	Born in other state in the United States:                             
+ 10	BornStateRes                                             	Born in state of residence                                            
+  2	BornUS                                                  	Born in the United States                                             
+ 12	BornOutUS:                                               	Born outside the United States:                                       
+  1	Ctry012                                                  	Bosnia and Herzegovina                                                
  20	BthParLaborFor                                          	Both parents in labor force                                           
-  1	Both second mortgage and home equity loan               	Both second mortgage and home equity loan                             
-  3	Bottled tankorLP gas                                    	Bottled, tank, or LP gas                                              
-  1	Brazil                                                  	Brazil                                                                
-  3	Brazilian                                               	Brazilian                                                             
-  3	British                                                 	British                                                               
-  3	British West Indian                                     	British West Indian                                                   
+  1	BothSecMortHomeEqLoan                                   	Both second mortgage and home equity loan                             
+  3	BtldTankLPgas                                           	Bottled, tank, or LP gas                                              
+  1	Ctry013                                                 	Brazil                                                                
+  3	Anc017                                                   	Brazilian                                                             
+  3	Anc018                                                  	British                                                               
+  3	Anc019                                                  	British West Indian                                                   
   1	BrthrSistr                                              	Brother or sister                                                     
   2	Occ008                                                  	Building and grounds cleaning and maintenance occupations             
- 31	Blt1939orearlier                                        	Built 1939 or earlier                                                 
-  2	Blt1939orearlier:                                       	Built 1939 or earlier:                                                
+ 31	Blt1939Erlr                                             	Built 1939 or earlier                                                 
+  2	Blt1939Erlr:                                            	Built 1939 or earlier:                                                
  31	Blt1940to1949                                           	Built 1940 to 1949                                                    
   2	Blt1940to1949:                                          	Built 1940 to 1949:                                                   
  31	Blt1950to1959                                           	Built 1950 to 1959                                                    
@@ -545,7 +545,7 @@
   2	Blt1995to1998:                                          	Built 1995 to 1998:                                                   
  31	Blt1999toMar2000                                        	Built 1999 to March 2000                                              
   2	Blt1999toMar2000:                                       	Built 1999 to March 2000:                                             
-  3	Bulgarian                                               	Bulgarian                                                             
+  3	Anc020                                                  	Bulgarian                                                             
  10	BusTrlly                                                	Bus or trolley bus                                                    
   2	BusFinOper:                                             	Business and financial operations occupations:                        
   2	Occ009                                                  	Business operations specialists                                       
