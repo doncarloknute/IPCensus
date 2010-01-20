@@ -1,6 +1,6 @@
 
 raw_field_names = 'raw_universe_with_counts.tsv'
-mod_names = 'mod_universe_with_counts.tsv'
+mod_names = File.open("mod_universe_with_counts.tsv", "w")
 first_pass = 'mod_raw_with_counts_aligned.tsv'
 
 field_hash = Hash.new
@@ -84,8 +84,8 @@ File.open(raw_field_names).each do |line|
          p [orig_field, mod_field]
        end
      end
-     if mod_field =~ /(\sof\s|\sfor\s|\sa\s|\,)/
-       mod_field.gsub!(/(\sof\s|\sfor\s|\sa\s|\,)/, '')
+     if mod_field =~ /(\sof\s|\sfor\s|\sa\s|\,|\s?the\s)/
+       mod_field.gsub!(/(\sof\s|\sfor\s|\sa\s|\,|\s?the\s)/, '')
        if mod_field == orig_field
          p [orig_field, mod_field]
        end
@@ -116,6 +116,12 @@ File.open(raw_field_names).each do |line|
      end
      if mod_field =~ /Aggregate\s/
        mod_field.gsub!(/Aggregate\s/, 'Agg')
+       if mod_field == orig_field
+         p [orig_field, mod_field]
+       end
+     end
+     if mod_field =~ /civilian noninstitutionalized\s/
+       mod_field.gsub!(/civilian noninstitutionalized\s/, 'CivNInst')
        if mod_field == orig_field
          p [orig_field, mod_field]
        end
@@ -309,6 +315,7 @@ File.open(raw_field_names).each do |line|
 #     puts orig_field + "\t" + mod_field
   end
   puts row[0] + "\t" + mod_field + "\t" + orig_field
+  mod_names << row[0] + "\t" + mod_field + "\t" + orig_field +"\n"
 end
 
 field_hash.clear
