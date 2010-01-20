@@ -1,0 +1,1190 @@
+Last login: Sun Jan 10 14:08:43 on console
+carl-knutsons-imac:~ doncarlo$ sudo gem install extlib activesupport cheat wirble rake sake thor highline configliere whenever
+Password:
+Successfully installed extlib-0.9.14
+Successfully installed activesupport-2.3.5
+Successfully installed cheat-1.2.1
+Successfully installed wirble-0.1.3
+Successfully installed rake-0.8.7
+Successfully installed rubyforge-2.0.3
+Successfully installed hoe-2.5.0
+Successfully installed ZenTest-4.2.1
+Successfully installed RubyInline-3.8.4
+Successfully installed ParseTree-2.1.1
+Successfully installed ruby2ruby-1.1.8
+Successfully installed sake-1.0.15
+Successfully installed thor-0.12.2
+Successfully installed highline-1.5.1
+Successfully installed configliere-0.0.2
+Successfully installed chronic-0.2.3
+Successfully installed whenever-0.4.1
+17 gems installed
+Installing ri documentation for extlib-0.9.14...
+Installing ri documentation for activesupport-2.3.5...
+Installing ri documentation for cheat-1.2.1...
+Installing ri documentation for wirble-0.1.3...
+Installing ri documentation for rake-0.8.7...
+Installing ri documentation for rubyforge-2.0.3...
+Installing ri documentation for hoe-2.5.0...
+Installing ri documentation for ZenTest-4.2.1...
+Installing ri documentation for RubyInline-3.8.4...
+Installing ri documentation for ParseTree-2.1.1...
+Installing ri documentation for ruby2ruby-1.1.8...
+Installing ri documentation for sake-1.0.15...
+Installing ri documentation for thor-0.12.2...
+Installing ri documentation for highline-1.5.1...
+Installing ri documentation for configliere-0.0.2...
+Unrecognized directive 'cat' in README.textile
+Unrecognized directive 'spider' in README.textile
+Unrecognized directive 'sprats' in README.textile
+Unrecognized directive 'time_machine' in README.textile
+Unrecognized directive 'delorean' in README.textile
+Unrecognized directive 'roads_needed' in README.textile
+Unrecognized directive 'dest_time' in README.textile
+Unrecognized directive 'delorean' in README.textile
+Unrecognized directive 'roads_needed' in README.textile
+Installing ri documentation for chronic-0.2.3...
+Installing ri documentation for whenever-0.4.1...
+Installing RDoc documentation for extlib-0.9.14...
+Installing RDoc documentation for activesupport-2.3.5...
+Installing RDoc documentation for cheat-1.2.1...
+Installing RDoc documentation for wirble-0.1.3...
+Installing RDoc documentation for rake-0.8.7...
+Installing RDoc documentation for rubyforge-2.0.3...
+Installing RDoc documentation for hoe-2.5.0...
+Installing RDoc documentation for ZenTest-4.2.1...
+Installing RDoc documentation for RubyInline-3.8.4...
+Installing RDoc documentation for ParseTree-2.1.1...
+Installing RDoc documentation for ruby2ruby-1.1.8...
+Installing RDoc documentation for sake-1.0.15...
+Installing RDoc documentation for thor-0.12.2...
+Installing RDoc documentation for highline-1.5.1...
+Installing RDoc documentation for configliere-0.0.2...
+Unrecognized directive 'cat' in README.textile
+Unrecognized directive 'spider' in README.textile
+Unrecognized directive 'sprats' in README.textile
+Unrecognized directive 'time_machine' in README.textile
+Unrecognized directive 'delorean' in README.textile
+Unrecognized directive 'roads_needed' in README.textile
+Unrecognized directive 'dest_time' in README.textile
+Unrecognized directive 'delorean' in README.textile
+Unrecognized directive 'roads_needed' in README.textile
+Installing RDoc documentation for chronic-0.2.3...
+Installing RDoc documentation for whenever-0.4.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install rails rack sinatra shotgun monk thin
+Successfully installed rails-2.3.5
+Successfully installed rack-1.1.0
+Successfully installed sinatra-0.9.4
+Successfully installed configuration-1.1.0
+Successfully installed launchy-0.3.5
+Successfully installed shotgun-0.4
+Successfully installed dependencies-0.0.7
+Successfully installed monk-0.0.7
+Building native extensions.  This could take a while...
+Building native extensions.  This could take a while...
+Successfully installed eventmachine-0.12.10
+Successfully installed thin-1.2.5
+10 gems installed
+Installing ri documentation for rails-2.3.5...
+Installing ri documentation for rack-1.1.0...
+Installing ri documentation for sinatra-0.9.4...
+Installing ri documentation for configuration-1.1.0...
+Installing ri documentation for launchy-0.3.5...
+Installing ri documentation for shotgun-0.4...
+Installing ri documentation for dependencies-0.0.7...
+Installing ri documentation for monk-0.0.7...
+Installing ri documentation for eventmachine-0.12.10...
+Installing ri documentation for thin-1.2.5...
+Installing RDoc documentation for rails-2.3.5...
+Installing RDoc documentation for rack-1.1.0...
+Installing RDoc documentation for sinatra-0.9.4...
+Installing RDoc documentation for configuration-1.1.0...
+Installing RDoc documentation for launchy-0.3.5...
+Installing RDoc documentation for shotgun-0.4...
+Installing RDoc documentation for dependencies-0.0.7...
+Installing RDoc documentation for monk-0.0.7...
+Installing RDoc documentation for eventmachine-0.12.10...
+Could not find main page README
+Could not find main page README
+Could not find main page README
+Could not find main page README
+Installing RDoc documentation for thin-1.2.5...
+carl-knutsons-imac:~ doncarlo$ sudo gem install beanstalk-client god godhead memcache-client resque mongomapper ohm redis eventmachine
+Successfully installed beanstalk-client-1.0.2
+Building native extensions.  This could take a while...
+Successfully installed god-0.8.0
+Successfully installed godhead-0.0.3
+Successfully installed memcache-client-1.7.7
+**************************************************
+
+  Thank you for installing rspec-1.2.9
+
+  Please be sure to read History.rdoc and Upgrade.rdoc
+  for useful information about this release.
+
+**************************************************
+Successfully installed rspec-1.2.9
+Successfully installed redis-0.1.1
+Successfully installed redis-namespace-0.1.1
+Successfully installed resque-1.2.3
+ERROR:  Error installing mongomapper:
+	mongomapper requires mongodb-mongo (= 0.14.1, runtime)
+Successfully installed ohm-0.0.31
+Successfully installed redis-0.1.1
+Building native extensions.  This could take a while...
+Successfully installed eventmachine-0.12.10
+11 gems installed
+Installing ri documentation for beanstalk-client-1.0.2...
+Installing ri documentation for god-0.8.0...
+
+Enclosing class/module 'mGod' for class KQueueHandler not known
+
+Enclosing class/module 'mGod' for class NetlinkHandler not known
+Installing ri documentation for godhead-0.0.3...
+Installing ri documentation for memcache-client-1.7.7...
+Installing ri documentation for rspec-1.2.9...
+Installing ri documentation for redis-0.1.1...
+Installing ri documentation for redis-namespace-0.1.1...
+Installing ri documentation for resque-1.2.3...
+Installing ri documentation for ohm-0.0.31...
+Installing ri documentation for redis-0.1.1...
+Installing ri documentation for eventmachine-0.12.10...
+Installing RDoc documentation for beanstalk-client-1.0.2...
+Installing RDoc documentation for god-0.8.0...
+
+Enclosing class/module 'mGod' for class KQueueHandler not known
+
+Enclosing class/module 'mGod' for class NetlinkHandler not known
+Installing RDoc documentation for godhead-0.0.3...
+Installing RDoc documentation for memcache-client-1.7.7...
+Installing RDoc documentation for rspec-1.2.9...
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Installing RDoc documentation for redis-0.1.1...
+Installing RDoc documentation for redis-namespace-0.1.1...
+Installing RDoc documentation for resque-1.2.3...
+Installing RDoc documentation for ohm-0.0.31...
+Installing RDoc documentation for redis-0.1.1...
+Installing RDoc documentation for eventmachine-0.12.10...
+Could not find main page README
+Could not find main page README
+Could not find main page README
+Could not find main page README
+carl-knutsons-imac:~ doncarlo$ sudo gem install right_aws amazon-ec2 aws-s3 poolparty ohai chef
+Password:
+Successfully installed right_http_connection-1.2.4
+Successfully installed right_aws-1.10.0
+Successfully installed xml-simple-1.0.12
+Successfully installed amazon-ec2-0.7.9
+Successfully installed builder-2.1.2
+Successfully installed mime-types-1.16
+Successfully installed aws-s3-0.6.2
+Successfully installed poolparty-1.4.6
+Successfully installed systemu-1.2.0
+Successfully installed mixlib-cli-1.0.4
+Successfully installed mixlib-config-1.0.12
+Successfully installed mixlib-log-1.0.3
+Successfully installed ohai-0.3.6
+Building native extensions.  This could take a while...
+Successfully installed json-1.2.0
+Successfully installed abstract-1.0.0
+Successfully installed erubis-2.6.5
+Successfully installed stomp-1.1.3
+Successfully installed chef-0.7.16
+18 gems installed
+Installing ri documentation for right_http_connection-1.2.4...
+Installing ri documentation for right_aws-1.10.0...
+Installing ri documentation for xml-simple-1.0.12...
+Installing ri documentation for amazon-ec2-0.7.9...
+Installing ri documentation for builder-2.1.2...
+ERROR:  While generating documentation for builder-2.1.2
+... MESSAGE:   Unhandled special: Special: type=17, text="<!-- HI -->"
+... RDOC args: --ri --op /Library/Ruby/Gems/1.8/doc/builder-2.1.2/ri --title Builder -- Easy XML Building --main README --line-numbers --quiet lib CHANGES Rakefile README doc/releases/builder-1.2.4.rdoc doc/releases/builder-2.0.0.rdoc doc/releases/builder-2.1.1.rdoc --title builder-2.1.2 Documentation
+(continuing with the rest of the installation)
+Installing ri documentation for mime-types-1.16...
+Installing ri documentation for aws-s3-0.6.2...
+Installing ri documentation for poolparty-1.4.6...
+Installing ri documentation for systemu-1.2.0...
+Installing ri documentation for mixlib-cli-1.0.4...
+Unrecognized directive 'short' in README.rdoc
+Unrecognized directive 'long' in README.rdoc
+Unrecognized directive 'description' in README.rdoc
+Unrecognized directive 'default' in README.rdoc
+Unrecognized directive 'required' in README.rdoc
+Unrecognized directive 'on' in README.rdoc
+Unrecognized directive 'boolean' in README.rdoc
+Unrecognized directive 'show_options' in README.rdoc
+Unrecognized directive 'exit' in README.rdoc
+Unrecognized directive 'proc' in README.rdoc
+Installing ri documentation for mixlib-config-1.0.12...
+Installing ri documentation for mixlib-log-1.0.3...
+Installing ri documentation for ohai-0.3.6...
+Installing ri documentation for json-1.2.0...
+Installing ri documentation for abstract-1.0.0...
+Installing ri documentation for erubis-2.6.5...
+Installing ri documentation for stomp-1.1.3...
+Installing ri documentation for chef-0.7.16...
+Installing RDoc documentation for right_http_connection-1.2.4...
+Installing RDoc documentation for right_aws-1.10.0...
+Installing RDoc documentation for xml-simple-1.0.12...
+Installing RDoc documentation for amazon-ec2-0.7.9...
+Installing RDoc documentation for builder-2.1.2...
+Installing RDoc documentation for mime-types-1.16...
+Installing RDoc documentation for aws-s3-0.6.2...
+Installing RDoc documentation for poolparty-1.4.6...
+Installing RDoc documentation for systemu-1.2.0...
+Installing RDoc documentation for mixlib-cli-1.0.4...
+Unrecognized directive 'short' in README.rdoc
+Unrecognized directive 'long' in README.rdoc
+Unrecognized directive 'description' in README.rdoc
+Unrecognized directive 'default' in README.rdoc
+Unrecognized directive 'required' in README.rdoc
+Unrecognized directive 'on' in README.rdoc
+Unrecognized directive 'boolean' in README.rdoc
+Unrecognized directive 'show_options' in README.rdoc
+Unrecognized directive 'exit' in README.rdoc
+Unrecognized directive 'proc' in README.rdoc
+Installing RDoc documentation for mixlib-config-1.0.12...
+Installing RDoc documentation for mixlib-log-1.0.3...
+Installing RDoc documentation for ohai-0.3.6...
+Installing RDoc documentation for json-1.2.0...
+Installing RDoc documentation for abstract-1.0.0...
+Installing RDoc documentation for erubis-2.6.5...
+Installing RDoc documentation for stomp-1.1.3...
+Installing RDoc documentation for chef-0.7.16...
+carl-knutsons-imac:~ doncarlo$ sudo gem install rest-client right_http_connection typhoeus oauth curb ruby-openid feedzirra mechanize
+Successfully installed rest-client-1.2.0
+Successfully installed right_http_connection-1.2.4
+Building native extensions.  This could take a while...
+Successfully installed typhoeus-0.1.13
+Successfully installed ruby-hmac-0.3.2
+Successfully installed oauth-0.3.6
+Building native extensions.  This could take a while...
+Successfully installed curb-0.6.2.1
+Successfully installed ruby-openid-2.1.7
+Building native extensions.  This could take a while...
+Successfully installed nokogiri-1.4.1
+Successfully installed sax-machine-0.0.15
+Successfully installed loofah-0.4.1
+Successfully installed feedzirra-0.0.20
+Successfully installed mechanize-0.9.3
+12 gems installed
+Installing ri documentation for rest-client-1.2.0...
+Installing ri documentation for right_http_connection-1.2.4...
+Installing ri documentation for typhoeus-0.1.13...
+
+Enclosing class/module 'mTyphoeus' for class Easy not known
+
+Enclosing class/module 'mTyphoeus' for class Multi not known
+Installing ri documentation for ruby-hmac-0.3.2...
+Installing ri documentation for oauth-0.3.6...
+Installing ri documentation for curb-0.6.2.1...
+
+No definition for ruby_curl_easy_username_set
+
+No definition for ruby_curl_easy_username_get
+
+No definition for ruby_curl_easy_password_set
+
+No definition for ruby_curl_easy_password_get
+Installing ri documentation for ruby-openid-2.1.7...
+Installing ri documentation for nokogiri-1.4.1...
+
+No definition for parse_memory
+
+No definition for parse_file
+
+No definition for parse_with
+
+No definition for get_options
+
+No definition for set_options
+Installing ri documentation for sax-machine-0.0.15...
+Installing ri documentation for loofah-0.4.1...
+Installing ri documentation for feedzirra-0.0.20...
+Installing ri documentation for mechanize-0.9.3...
+Installing RDoc documentation for rest-client-1.2.0...
+Installing RDoc documentation for right_http_connection-1.2.4...
+Installing RDoc documentation for typhoeus-0.1.13...
+
+Enclosing class/module 'mTyphoeus' for class Easy not known
+
+Enclosing class/module 'mTyphoeus' for class Multi not known
+Installing RDoc documentation for ruby-hmac-0.3.2...
+Installing RDoc documentation for oauth-0.3.6...
+Could not find main page README.txt
+Could not find main page README.txt
+Could not find main page README.txt
+Could not find main page README.txt
+Installing RDoc documentation for curb-0.6.2.1...
+
+No definition for ruby_curl_easy_username_set
+
+No definition for ruby_curl_easy_username_get
+
+No definition for ruby_curl_easy_password_set
+
+No definition for ruby_curl_easy_password_get
+Installing RDoc documentation for ruby-openid-2.1.7...
+Installing RDoc documentation for nokogiri-1.4.1...
+
+No definition for parse_memory
+
+No definition for parse_file
+
+No definition for parse_with
+
+No definition for get_options
+
+No definition for set_options
+Installing RDoc documentation for sax-machine-0.0.15...
+Installing RDoc documentation for loofah-0.4.1...
+Installing RDoc documentation for feedzirra-0.0.20...
+Installing RDoc documentation for mechanize-0.9.3...
+carl-knutsons-imac:~ doncarlo$ sudo gem install hpricot fastercsv json yajl-ruby libxml-ruby nokogiri xml-simple htmlentities addressable uuidtools
+Building native extensions.  This could take a while...
+Successfully installed hpricot-0.8.2
+Successfully installed fastercsv-1.5.0
+Building native extensions.  This could take a while...
+Successfully installed json-1.2.0
+Building native extensions.  This could take a while...
+Successfully installed yajl-ruby-0.6.8
+Building native extensions.  This could take a while...
+Successfully installed libxml-ruby-1.1.3
+Building native extensions.  This could take a while...
+Successfully installed nokogiri-1.4.1
+Successfully installed xml-simple-1.0.12
+Successfully installed htmlentities-4.2.0
+Successfully installed addressable-2.1.1
+Successfully installed uuidtools-2.1.1
+10 gems installed
+Installing ri documentation for hpricot-0.8.2...
+Installing ri documentation for fastercsv-1.5.0...
+Installing ri documentation for json-1.2.0...
+Installing ri documentation for yajl-ruby-0.6.8...
+Installing ri documentation for libxml-ruby-1.1.3...
+
+Enclosing class/module 'mLibXML' for module XML not known
+
+Enclosing class/module 'mXML' for class Attr not known
+
+Enclosing class/module 'mXML' for class AttrDecl not known
+
+Enclosing class/module 'mXML' for class Attributes not known
+
+Enclosing class/module 'mXML' for class Document not known
+
+Enclosing class/module 'mXML' for class Dtd not known
+
+Enclosing class/module 'mXML' for module Encoding not known
+
+Enclosing class/module 'mXML' for class Error not known
+
+Enclosing class/module 'mXML' for class HTMLParser not known
+
+Enclosing class/module 'cXMLHtmlParser' for class Context not known
+
+Enclosing class/module 'cXMLHtmlParser' for module Options not known
+
+Enclosing class/module 'mXML' for class InputCallbacks not known
+
+Enclosing class/module 'mXML' for class Namespace not known
+
+Enclosing class/module 'mXML' for class Namespaces not known
+
+Enclosing class/module 'mXML' for class Node not known
+
+Enclosing class/module 'mXML' for class Parser not known
+
+Enclosing class/module 'cXMLParser' for class Context not known
+
+Enclosing class/module 'cXMLParser' for module Options not known
+
+Enclosing class/module 'mXML' for class Reader not known
+
+Enclosing class/module 'mXML' for class RelaxNG not known
+
+Enclosing class/module 'mXML' for class SaxParser not known
+
+Enclosing class/module 'mXML' for class Schema not known
+
+Enclosing class/module 'mXML' for class XInclude not known
+
+Enclosing class/module 'mXML' for module XPath not known
+
+Enclosing class/module 'mXPath' for class Context not known
+
+Enclosing class/module 'mXPath' for class Expression not known
+
+Enclosing class/module 'mXPath' for class Object not known
+
+Enclosing class/module 'mXML' for class XPointer not known
+Installing ri documentation for nokogiri-1.4.1...
+
+No definition for parse_memory
+
+No definition for parse_file
+
+No definition for parse_with
+
+No definition for get_options
+
+No definition for set_options
+Installing ri documentation for xml-simple-1.0.12...
+Installing ri documentation for htmlentities-4.2.0...
+Installing ri documentation for addressable-2.1.1...
+Installing ri documentation for uuidtools-2.1.1...
+Installing RDoc documentation for hpricot-0.8.2...
+Installing RDoc documentation for fastercsv-1.5.0...
+Installing RDoc documentation for json-1.2.0...
+Installing RDoc documentation for yajl-ruby-0.6.8...
+Installing RDoc documentation for libxml-ruby-1.1.3...
+
+Enclosing class/module 'mLibXML' for module XML not known
+
+Enclosing class/module 'mXML' for class Attr not known
+
+Enclosing class/module 'mXML' for class AttrDecl not known
+
+Enclosing class/module 'mXML' for class Attributes not known
+
+Enclosing class/module 'mXML' for class Document not known
+
+Enclosing class/module 'mXML' for class Dtd not known
+
+Enclosing class/module 'mXML' for module Encoding not known
+
+Enclosing class/module 'mXML' for class Error not known
+
+Enclosing class/module 'mXML' for class HTMLParser not known
+
+Enclosing class/module 'cXMLHtmlParser' for class Context not known
+
+Enclosing class/module 'cXMLHtmlParser' for module Options not known
+
+Enclosing class/module 'mXML' for class InputCallbacks not known
+
+Enclosing class/module 'mXML' for class Namespace not known
+
+Enclosing class/module 'mXML' for class Namespaces not known
+
+Enclosing class/module 'mXML' for class Node not known
+
+Enclosing class/module 'mXML' for class Parser not known
+
+Enclosing class/module 'cXMLParser' for class Context not known
+
+Enclosing class/module 'cXMLParser' for module Options not known
+
+Enclosing class/module 'mXML' for class Reader not known
+
+Enclosing class/module 'mXML' for class RelaxNG not known
+
+Enclosing class/module 'mXML' for class SaxParser not known
+
+Enclosing class/module 'mXML' for class Schema not known
+
+Enclosing class/module 'mXML' for class XInclude not known
+
+Enclosing class/module 'mXML' for module XPath not known
+
+Enclosing class/module 'mXPath' for class Context not known
+
+Enclosing class/module 'mXPath' for class Expression not known
+
+Enclosing class/module 'mXPath' for class Object not known
+
+Enclosing class/module 'mXML' for class XPointer not known
+Installing RDoc documentation for nokogiri-1.4.1...
+
+No definition for parse_memory
+
+No definition for parse_file
+
+No definition for parse_with
+
+No definition for get_options
+
+No definition for set_options
+Installing RDoc documentation for xml-simple-1.0.12...
+Installing RDoc documentation for htmlentities-4.2.0...
+Installing RDoc documentation for addressable-2.1.1...
+Installing RDoc documentation for uuidtools-2.1.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install oniguruma -- --with-opt-dir=/sw
+Password:
+Building native extensions.  This could take a while...
+ERROR:  Error installing oniguruma:
+	ERROR: Failed to build gem native extension.
+
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby extconf.rb --with-opt-dir=/sw
+checking for main() in -lonig... no
+creating Makefile
+
+make
+gcc -I. -I. -I/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/universal-darwin10.0 -I. -I/sw/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE   -fno-common -Wall  -c oregexp.c
+oregexp.c:2:23: error: oniguruma.h: No such file or directory
+oregexp.c:9: error: expected specifier-qualifier-list before ‘regex_t’
+oregexp.c: In function ‘oregexp_free’:
+oregexp.c:16: warning: implicit declaration of function ‘onig_free’
+oregexp.c:16: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c: In function ‘oregexp_allocate’:
+oregexp.c:22: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c: At top level:
+oregexp.c:27: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+oregexp.c:72: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+oregexp.c:95: error: expected specifier-qualifier-list before ‘OnigRegion’
+oregexp.c:99: warning: type defaults to ‘int’ in declaration of ‘UChar’
+oregexp.c:99: error: expected ‘;’, ‘,’ or ‘)’ before ‘*’ token
+oregexp.c: In function ‘oregexp_initialize’:
+oregexp.c:123: error: ‘UChar’ undeclared (first use in this function)
+oregexp.c:123: error: (Each undeclared identifier is reported only once
+oregexp.c:123: error: for each function it appears in.)
+oregexp.c:123: error: ‘pat_ptr’ undeclared (first use in this function)
+oregexp.c:129: error: ‘OnigEncodingType’ undeclared (first use in this function)
+oregexp.c:129: error: ‘iEncoding’ undeclared (first use in this function)
+oregexp.c:129: warning: implicit declaration of function ‘int2encoding’
+oregexp.c:130: error: ‘OnigSyntaxType’ undeclared (first use in this function)
+oregexp.c:130: error: ‘iSyntax’ undeclared (first use in this function)
+oregexp.c:130: warning: implicit declaration of function ‘int2syntax’
+oregexp.c:134: error: ‘OnigErrorInfo’ undeclared (first use in this function)
+oregexp.c:134: error: expected ‘;’ before ‘einfo’
+oregexp.c:135: warning: implicit declaration of function ‘onig_new’
+oregexp.c:135: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:135: error: ‘einfo’ undeclared (first use in this function)
+oregexp.c:136: error: ‘ONIG_NORMAL’ undeclared (first use in this function)
+oregexp.c:137: error: ‘ONIG_MAX_ERROR_MESSAGE_LEN’ undeclared (first use in this function)
+oregexp.c:138: warning: implicit declaration of function ‘onig_error_code_to_str’
+oregexp.c:137: warning: unused variable ‘s’
+oregexp.c: At top level:
+oregexp.c:153: error: expected declaration specifiers or ‘...’ before ‘OnigRegion’
+oregexp.c: In function ‘oregexp_make_match_data’:
+oregexp.c:158: error: ‘region’ undeclared (first use in this function)
+oregexp.c:162: error: invalid application of ‘sizeof’ to incomplete type ‘struct re_registers’ 
+oregexp.c:163: error: dereferencing pointer to incomplete type
+oregexp.c:164: error: dereferencing pointer to incomplete type
+oregexp.c:165: error: dereferencing pointer to incomplete type
+oregexp.c:166: error: dereferencing pointer to incomplete type
+oregexp.c:169: error: dereferencing pointer to incomplete type
+oregexp.c:170: error: dereferencing pointer to incomplete type
+oregexp.c:173: error: ‘struct callback_packet’ has no member named ‘region’
+oregexp.c:174: warning: implicit declaration of function ‘onig_number_of_names’
+oregexp.c:174: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:176: warning: implicit declaration of function ‘onig_foreach_name’
+oregexp.c:176: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:176: error: ‘name_callback’ undeclared (first use in this function)
+oregexp.c: In function ‘oregexp_match’:
+oregexp.c:211: warning: statement with no effect
+oregexp.c:215: error: ‘UChar’ undeclared (first use in this function)
+oregexp.c:215: error: ‘str_ptr’ undeclared (first use in this function)
+oregexp.c:229: error: ‘OnigRegion’ undeclared (first use in this function)
+oregexp.c:229: error: ‘region’ undeclared (first use in this function)
+oregexp.c:229: warning: implicit declaration of function ‘onig_region_new’
+oregexp.c:230: warning: implicit declaration of function ‘onig_search’
+oregexp.c:230: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:230: error: ‘ONIG_OPTION_NONE’ undeclared (first use in this function)
+oregexp.c:233: error: too many arguments to function ‘oregexp_make_match_data’
+oregexp.c:234: warning: implicit declaration of function ‘onig_region_free’
+oregexp.c:238: error: ‘ONIG_MISMATCH’ undeclared (first use in this function)
+oregexp.c:243: error: ‘ONIG_MAX_ERROR_MESSAGE_LEN’ undeclared (first use in this function)
+oregexp.c:243: warning: unused variable ‘s’
+oregexp.c:248: warning: control reaches end of non-void function
+oregexp.c: At top level:
+oregexp.c:250: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘BACKSLASH’
+oregexp.c: In function ‘oregexp_append_replacement’:
+oregexp.c:262: error: expected declaration specifiers before ‘OnigRegion’
+oregexp.c:268: error: ‘UChar’ undeclared (first use in this function)
+oregexp.c:268: error: ‘replacementText’ undeclared (first use in this function)
+oregexp.c:269: error: ‘replacementEnd’ undeclared (first use in this function)
+oregexp.c:272: error: ‘OnigCodePoint’ undeclared (first use in this function)
+oregexp.c:272: error: expected ‘;’ before ‘digitC’
+oregexp.c:273: error: ‘OnigEncoding’ undeclared (first use in this function)
+oregexp.c:273: error: expected ‘;’ before ‘enc’
+oregexp.c:274: error: nested functions are disabled, use -fnested-functions to re-enable
+oregexp.c:274: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+oregexp.c:274: error: ‘matchText’ undeclared (first use in this function)
+oregexp.c:280: error: ‘enc’ undeclared (first use in this function)
+oregexp.c:280: warning: implicit declaration of function ‘onig_get_encoding’
+oregexp.c:280: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:283: error: expected ‘;’ before ‘c’
+oregexp.c:284: warning: implicit declaration of function ‘ONIGENC_MBC_ENC_LEN’
+oregexp.c:286: error: ‘c’ undeclared (first use in this function)
+oregexp.c:290: error: ‘BACKSLASH’ undeclared (first use in this function)
+oregexp.c:307: error: ‘digitC’ undeclared (first use in this function)
+oregexp.c:307: warning: implicit declaration of function ‘ONIGENC_MBC_TO_CODE’
+oregexp.c:309: warning: implicit declaration of function ‘ONIGENC_IS_CODE_DIGIT’
+oregexp.c:328: error: invalid type argument of ‘->’
+oregexp.c:328: error: invalid type argument of ‘->’
+oregexp.c:328: error: invalid type argument of ‘->’
+oregexp.c:332: error: invalid type argument of ‘->’
+oregexp.c:336: error: invalid type argument of ‘->’
+oregexp.c:336: error: invalid type argument of ‘->’
+oregexp.c:346: error: invalid type argument of ‘->’
+oregexp.c:347: error: invalid type argument of ‘->’
+oregexp.c:348: error: invalid type argument of ‘->’
+oregexp.c:363: warning: implicit declaration of function ‘ONIGENC_IS_CODE_WORD’
+oregexp.c:375: warning: implicit declaration of function ‘onig_name_to_backref_number’
+oregexp.c:375: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:378: error: invalid type argument of ‘->’
+oregexp.c:379: error: invalid type argument of ‘->’
+oregexp.c:379: error: invalid type argument of ‘->’
+oregexp.c:391: error: invalid type argument of ‘->’
+oregexp.c:391: error: invalid type argument of ‘->’
+oregexp.c:392: error: invalid type argument of ‘->’
+oregexp.c:392: error: invalid type argument of ‘->’
+oregexp.c:392: error: invalid type argument of ‘->’
+oregexp.c: In function ‘oregexp_gsub’:
+oregexp.c:417: error: expected declaration specifiers before ‘OnigRegion’
+oregexp.c:429: error: ‘OnigEncoding’ undeclared (first use in this function)
+oregexp.c:429: error: expected ‘;’ before ‘enc’
+oregexp.c:444: error: ‘UChar’ undeclared (first use in this function)
+oregexp.c:444: error: ‘str_ptr’ undeclared (first use in this function)
+oregexp.c:447: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:447: error: ‘ONIG_OPTION_NONE’ undeclared (first use in this function)
+oregexp.c:457: error: ‘enc’ undeclared (first use in this function)
+oregexp.c:457: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:460: error: invalid type argument of ‘->’
+oregexp.c:461: error: invalid type argument of ‘->’
+oregexp.c:464: error: too many arguments to function ‘oregexp_make_match_data’
+oregexp.c:487: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c: At top level:
+oregexp.c:510: error: expected specifier-qualifier-list before ‘OnigRegion’
+oregexp.c: In function ‘oregexp_packed_gsub’:
+oregexp.c:513: error: ‘gsub_packet’ has no member named ‘region’
+oregexp.c: At top level:
+oregexp.c:515: error: expected ‘)’ before ‘*’ token
+oregexp.c: In function ‘oregexp_safe_gsub’:
+oregexp.c:525: error: ‘OnigRegion’ undeclared (first use in this function)
+oregexp.c:525: error: ‘region’ undeclared (first use in this function)
+oregexp.c:526: warning: excess elements in struct initializer
+oregexp.c:526: warning: (near initialization for ‘call_args’)
+oregexp.c:527: error: ‘oregexp_cleanup_region’ undeclared (first use in this function)
+oregexp.c: At top level:
+oregexp.c:597: error: expected declaration specifiers or ‘...’ before ‘OnigRegion’
+oregexp.c: In function ‘oregexp_scan’:
+oregexp.c:606: error: ‘OnigEncoding’ undeclared (first use in this function)
+oregexp.c:606: error: expected ‘;’ before ‘enc’
+oregexp.c:614: error: ‘UChar’ undeclared (first use in this function)
+oregexp.c:614: error: ‘str_ptr’ undeclared (first use in this function)
+oregexp.c:616: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:616: error: ‘region’ undeclared (first use in this function)
+oregexp.c:616: error: ‘ONIG_OPTION_NONE’ undeclared (first use in this function)
+oregexp.c:622: error: ‘enc’ undeclared (first use in this function)
+oregexp.c:622: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c:624: error: too many arguments to function ‘oregexp_make_match_data’
+oregexp.c:641: error: ‘ORegexp’ has no member named ‘reg’
+oregexp.c: At top level:
+oregexp.c:651: error: expected specifier-qualifier-list before ‘OnigRegion’
+oregexp.c: In function ‘oregexp_packed_scan’:
+oregexp.c:654: error: ‘struct scan_packet’ has no member named ‘region’
+oregexp.c:654: error: too many arguments to function ‘oregexp_scan’
+oregexp.c: In function ‘oregexp_m_scan’:
+oregexp.c:669: error: ‘OnigRegion’ undeclared (first use in this function)
+oregexp.c:669: error: ‘region’ undeclared (first use in this function)
+oregexp.c:670: warning: excess elements in struct initializer
+oregexp.c:670: warning: (near initialization for ‘call_args’)
+oregexp.c:671: error: ‘oregexp_cleanup_region’ undeclared (first use in this function)
+oregexp.c: In function ‘oregexp_match_op’:
+oregexp.c:727: error: dereferencing pointer to incomplete type
+oregexp.c:728: warning: control reaches end of non-void function
+oregexp.c: In function ‘Init_oregexp’:
+oregexp.c:743: warning: implicit declaration of function ‘onig_version’
+oregexp.c:743: warning: passing argument 1 of ‘rb_str_new2’ makes pointer from integer without a cast
+make: *** [oregexp.o] Error 1
+
+
+Gem files will remain installed in /Library/Ruby/Gems/1.8/gems/oniguruma-1.1.0 for inspection.
+Results logged to /Library/Ruby/Gems/1.8/gems/oniguruma-1.1.0/ext/gem_make.out
+carl-knutsons-imac:~ doncarlo$ sudo gem install idn       -- --with-idn-dir=/sw
+Building native extensions.  This could take a while...
+ERROR:  Error installing idn:
+	ERROR: Failed to build gem native extension.
+
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby extconf.rb --with-idn-dir=/sw
+checking for main() in -lidn... no
+ERROR: could not find idn library!
+
+  Please install the GNU IDN library or alternatively specify at least one
+  of the following options if the library can only be found in a non-standard
+  location:
+    --with-idn-dir=/path/to/non/standard/location
+        or
+    --with-idn-lib=/path/to/non/standard/location/lib
+    --with-idn-include=/path/to/non/standard/location/include
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
+	--with-idn-dir
+	--with-idn-include
+	--without-idn-include=${idn-dir}/include
+	--with-idn-lib
+	--without-idn-lib=${idn-dir}/lib
+	--with-idnlib
+	--without-idnlib
+
+
+Gem files will remain installed in /Library/Ruby/Gems/1.8/gems/idn-0.0.2 for inspection.
+Results logged to /Library/Ruby/Gems/1.8/gems/idn-0.0.2/ext/gem_make.out
+carl-knutsons-imac:~ doncarlo$ gem list oniguruma
+
+*** LOCAL GEMS ***
+
+
+carl-knutsons-imac:~ doncarlo$ gem list idn
+
+*** LOCAL GEMS ***
+
+
+carl-knutsons-imac:~ doncarlo$ gem list hpricot
+
+*** LOCAL GEMS ***
+
+hpricot (0.8.2, 0.6.164)
+carl-knutsons-imac:~ doncarlo$ gem list json
+
+*** LOCAL GEMS ***
+
+json (1.2.0)
+json_pure (1.2.0)
+carl-knutsons-imac:~ doncarlo$ sudo gem install imw monkeyshines edamame wukong flood_monkey
+Successfully installed imw-0.1.1
+Successfully installed monkeyshines-0.2.1
+ERROR:  While executing gem ... (Gem::RemoteFetcher::FetchError)
+    SocketError: getaddrinfo: nodename nor servname provided, or not known (http://gems.rubyforge.org/gems/edamame-0.2.1.gem)
+carl-knutsons-imac:~ doncarlo$ gem list edamame
+
+*** LOCAL GEMS ***
+
+
+carl-knutsons-imac:~ doncarlo$ sudo gem install edamame
+Successfully installed edamame-0.2.1
+1 gem installed
+Installing ri documentation for edamame-0.2.1...
+Installing RDoc documentation for edamame-0.2.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install monkeyshines
+Successfully installed monkeyshines-0.2.1
+1 gem installed
+Installing ri documentation for monkeyshines-0.2.1...
+Installing RDoc documentation for monkeyshines-0.2.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install imw
+Successfully installed imw-0.1.1
+1 gem installed
+Installing ri documentation for imw-0.1.1...
+Installing RDoc documentation for imw-0.1.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install wukong
+Successfully installed wukong-1.4.2
+1 gem installed
+Installing ri documentation for wukong-1.4.2...
+Installing RDoc documentation for wukong-1.4.2...
+carl-knutsons-imac:~ doncarlo$ sudo gem install flood_monkey
+ERROR:  could not find gem flood_monkey locally or in a repository
+carl-knutsons-imac:~ doncarlo$ sudo gem install datamapper data_objects dm-ar-finders dm-cli dm-more do_mysql do_sqlite3
+ERROR:  While executing gem ... (Gem::RemoteFetcher::FetchError)
+    SocketError: getaddrinfo: nodename nor servname provided, or not known (http://gems.rubyforge.org/gems/dm-aggregates-0.10.2.gem)
+carl-knutsons-imac:~ doncarlo$ sudo gem install datamapperBuilding native extensions.  This could take a while...
+Successfully installed dm-aggregates-0.10.2
+Successfully installed dm-constraints-0.10.2
+Successfully installed dm-migrations-0.10.2
+Successfully installed dm-serializer-0.10.2
+Successfully installed dm-timestamps-0.10.2
+Successfully installed dm-validations-0.10.2
+Successfully installed bcrypt-ruby-2.1.2
+Successfully installed stringex-1.1.0
+Successfully installed dm-types-0.10.2
+Successfully installed datamapper-0.10.2
+10 gems installed
+Installing ri documentation for dm-aggregates-0.10.2...
+Installing ri documentation for dm-constraints-0.10.2...
+Installing ri documentation for dm-migrations-0.10.2...
+Installing ri documentation for dm-serializer-0.10.2...
+Installing ri documentation for dm-timestamps-0.10.2...
+Installing ri documentation for dm-validations-0.10.2...
+Installing ri documentation for bcrypt-ruby-2.1.2...
+Installing ri documentation for stringex-1.1.0...
+Installing ri documentation for dm-types-0.10.2...
+Installing ri documentation for datamapper-0.10.2...
+Installing RDoc documentation for dm-aggregates-0.10.2...
+Installing RDoc documentation for dm-constraints-0.10.2...
+Installing RDoc documentation for dm-migrations-0.10.2...
+Installing RDoc documentation for dm-serializer-0.10.2...
+Installing RDoc documentation for dm-timestamps-0.10.2...
+Installing RDoc documentation for dm-validations-0.10.2...
+Installing RDoc documentation for bcrypt-ruby-2.1.2...
+Installing RDoc documentation for stringex-1.1.0...
+Installing RDoc documentation for dm-types-0.10.2...
+Installing RDoc documentation for datamapper-0.10.2...
+carl-knutsons-imac:~ doncarlo$ sudo gem install data_objects
+Successfully installed data_objects-0.10.1
+1 gem installed
+Installing ri documentation for data_objects-0.10.1...
+Installing RDoc documentation for data_objects-0.10.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install dm-ar-finders
+Successfully installed dm-ar-finders-0.10.2
+1 gem installed
+Installing ri documentation for dm-ar-finders-0.10.2...
+Installing RDoc documentation for dm-ar-finders-0.10.2...
+carl-knutsons-imac:~ doncarlo$ sudo gem install dm-cli
+Successfully installed dm-cli-0.10.2
+1 gem installed
+Installing ri documentation for dm-cli-0.10.2...
+Installing RDoc documentation for dm-cli-0.10.2...
+carl-knutsons-imac:~ doncarlo$ sudo gem install dm-more
+Successfully installed dm-adjust-0.10.2
+Successfully installed dm-rest-adapter-0.10.2
+Successfully installed dm-is-list-0.10.2
+Successfully installed dm-is-nested_set-0.10.2
+Successfully installed dm-is-remixable-0.10.2
+Successfully installed dm-is-searchable-0.10.2
+Successfully installed dm-is-state_machine-0.10.2
+Successfully installed dm-is-tree-0.10.2
+Successfully installed dm-is-versioned-0.10.2
+Successfully installed dm-observer-0.10.2
+Successfully installed randexp-0.1.4
+Successfully installed dm-sweatshop-0.10.2
+Successfully installed dm-tags-0.10.2
+Successfully installed rails_datamapper-0.10.2
+Successfully installed dm-more-0.10.2
+15 gems installed
+Installing ri documentation for dm-adjust-0.10.2...
+Installing ri documentation for dm-rest-adapter-0.10.2...
+Installing ri documentation for dm-is-list-0.10.2...
+Installing ri documentation for dm-is-nested_set-0.10.2...
+Installing ri documentation for dm-is-remixable-0.10.2...
+Installing ri documentation for dm-is-searchable-0.10.2...
+Installing ri documentation for dm-is-state_machine-0.10.2...
+Installing ri documentation for dm-is-tree-0.10.2...
+Installing ri documentation for dm-is-versioned-0.10.2...
+Installing ri documentation for dm-observer-0.10.2...
+Installing ri documentation for randexp-0.1.4...
+Installing ri documentation for dm-sweatshop-0.10.2...
+Installing ri documentation for dm-tags-0.10.2...
+Installing ri documentation for rails_datamapper-0.10.2...
+Installing ri documentation for dm-more-0.10.2...
+Installing RDoc documentation for dm-adjust-0.10.2...
+Installing RDoc documentation for dm-rest-adapter-0.10.2...
+Installing RDoc documentation for dm-is-list-0.10.2...
+Installing RDoc documentation for dm-is-nested_set-0.10.2...
+Installing RDoc documentation for dm-is-remixable-0.10.2...
+Installing RDoc documentation for dm-is-searchable-0.10.2...
+Installing RDoc documentation for dm-is-state_machine-0.10.2...
+Installing RDoc documentation for dm-is-tree-0.10.2...
+Installing RDoc documentation for dm-is-versioned-0.10.2...
+Installing RDoc documentation for dm-observer-0.10.2...
+Installing RDoc documentation for randexp-0.1.4...
+Installing RDoc documentation for dm-sweatshop-0.10.2...
+Installing RDoc documentation for dm-tags-0.10.2...
+Installing RDoc documentation for rails_datamapper-0.10.2...
+Installing RDoc documentation for dm-more-0.10.2...
+carl-knutsons-imac:~ doncarlo$ sudo gem install do_mysql
+Building native extensions.  This could take a while...
+ERROR:  Error installing do_mysql:
+	ERROR: Failed to build gem native extension.
+
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby extconf.rb
+checking for mysql_query() in -lmysqlclient... no
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
+	--with-mysql-config
+	--without-mysql-config
+	--with-mysql-dir
+	--without-mysql-dir
+	--with-mysql-include
+	--without-mysql-include=${mysql-dir}/include
+	--with-mysql-lib
+	--without-mysql-lib=${mysql-dir}/lib
+	--with-mysqlclientlib
+	--without-mysqlclientlib
+
+
+Gem files will remain installed in /Library/Ruby/Gems/1.8/gems/do_mysql-0.10.1 for inspection.
+Results logged to /Library/Ruby/Gems/1.8/gems/do_mysql-0.10.1/ext/do_mysql/gem_make.out
+carl-knutsons-imac:~ doncarlo$ sudo gem install do_sqlite3
+Building native extensions.  This could take a while...
+Successfully installed do_sqlite3-0.10.1
+1 gem installed
+Installing ri documentation for do_sqlite3-0.10.1...
+Installing RDoc documentation for do_sqlite3-0.10.1...
+carl-knutsons-imac:~ doncarlo$ sudo gem install rspec rspec-rails machinist rcov rdoc reek roodi ruby-prof jeweler yard ZenTest spork cucumber flay flog webrat**************************************************
+
+  Thank you for installing rspec-1.2.9
+
+  Please be sure to read History.rdoc and Upgrade.rdoc
+  for useful information about this release.
+
+**************************************************
+Successfully installed rspec-1.2.9
+**************************************************
+
+  Thank you for installing rspec-rails-1.2.9
+
+  If you are upgrading, do this in each of your rails apps
+  that you want to upgrade:
+
+    $ ruby script/generate rspec
+
+  Please be sure to read History.rdoc and Upgrade.rdoc
+  for useful information about this release.
+
+**************************************************
+Successfully installed rspec-rails-1.2.9
+Successfully installed machinist-1.0.6
+Building native extensions.  This could take a while...
+Successfully installed rcov-0.9.7.1
+Successfully installed rdoc-2.4.3
+
+For more information on reek, see http://wiki.github.com/kevinrutherford/reek
+Successfully installed sexp_processor-3.0.3
+Successfully installed ruby_parser-2.0.4
+Successfully installed ruby2ruby-1.2.4
+Successfully installed reek-1.2.6
+Successfully installed roodi-2.1.0
+Building native extensions.  This could take a while...
+Successfully installed ruby-prof-0.7.6
+Successfully installed git-1.2.5
+Successfully installed jeweler-1.4.0
+Successfully installed yard-0.5.2
+Successfully installed ZenTest-4.2.1
+Successfully installed spork-0.7.5
+
+(::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::)
+
+                     (::)   U P G R A D I N G    (::)
+
+Thank you for installing cucumber-0.6.1.
+Please be sure to read http://wiki.github.com/aslakhellesoy/cucumber/upgrading
+for important information about this release. Happy cuking!
+
+(::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::) (::)
+
+Successfully installed term-ansicolor-1.0.4
+Successfully installed polyglot-0.2.9
+Successfully installed treetop-1.4.3
+Successfully installed diff-lcs-1.1.2
+Successfully installed cucumber-0.6.1
+Successfully installed flay-1.4.0
+Successfully installed flog-2.4.0
+Successfully installed webrat-0.6.0
+24 gems installed
+Installing ri documentation for rspec-1.2.9...
+Installing ri documentation for rspec-rails-1.2.9...
+Installing ri documentation for machinist-1.0.6...
+Installing ri documentation for rcov-0.9.7.1...
+Installing ri documentation for rdoc-2.4.3...
+Installing ri documentation for sexp_processor-3.0.3...
+Installing ri documentation for ruby_parser-2.0.4...
+Installing ri documentation for ruby2ruby-1.2.4...
+Installing ri documentation for reek-1.2.6...
+Installing ri documentation for roodi-2.1.0...
+Installing ri documentation for ruby-prof-0.7.6...
+Installing ri documentation for git-1.2.5...
+Installing ri documentation for jeweler-1.4.0...
+Installing ri documentation for yard-0.5.2...
+
+
+RDoc failure in lib/yard/core_ext/hash.rb at or around line 13 column
+11
+
+Before reporting this, could you check that the file you're documenting
+compiles cleanly--RDoc is not a full Ruby parser, and gets confused easily if
+fed invalid programs.
+
+The internal error was:
+
+/Library/Ruby/Gems/1.8/gems/rdoc-2.4.3/lib/rdoc/parser/ruby.rb:1678:in `get_symbol_or_name': Name or symbol expected (got #<RDoc::RubyToken::TkfLBRACK:0x10b66b398>) (RuntimeError)
+	from /Library/Ruby/Gems/1.8/gems/rdoc-2.4.3/lib/rdoc/parser/ruby.rb:1840:in `parse_alias'
+	from /Library/Ruby/Gems/1.8/gems/rdoc-2.4.3/lib/rdoc/parser/ruby.rb:2474:in `parse_statements'
+	from /Library/Ruby/Gems/1.8/gems/rdoc-2.4.3/lib/rdoc/parser/ruby.rb:1920:in `parse_class'
+carl-knutsons-imac:~ doncarlo$ gem list
+
+*** LOCAL GEMS ***
+
+abstract (1.0.0)
+actionmailer (2.3.5, 2.2.2, 1.3.6)
+actionpack (2.3.5, 2.2.2, 1.13.6)
+actionwebservice (1.2.6)
+activerecord (2.3.5, 2.2.2, 1.15.6)
+activeresource (2.3.5, 2.2.2)
+activesupport (2.3.5, 2.2.2, 1.4.4)
+acts_as_ferret (0.4.4, 0.4.3)
+addressable (2.1.1)
+amazon-ec2 (0.7.9)
+aws-s3 (0.6.2)
+bcrypt-ruby (2.1.2)
+beanstalk-client (1.0.2)
+builder (2.1.2)
+capistrano (2.5.13, 2.5.2)
+cgi_multipart_eof_fix (2.5.0)
+cheat (1.2.1)
+chef (0.7.16)
+chronic (0.2.3)
+configliere (0.0.2)
+configuration (1.1.0)
+cucumber (0.6.1)
+curb (0.6.2.1)
+daemons (1.0.10)
+data_objects (0.10.1, 0.10.0)
+datamapper (0.10.2)
+dependencies (0.0.7)
+diff-lcs (1.1.2)
+dm-adjust (0.10.2)
+dm-aggregates (0.10.2)
+dm-ar-finders (0.10.2)
+dm-cli (0.10.2)
+dm-constraints (0.10.2)
+dm-core (0.10.2, 0.10.1)
+dm-is-list (0.10.2)
+dm-is-nested_set (0.10.2)
+dm-is-remixable (0.10.2)
+dm-is-searchable (0.10.2)
+dm-is-state_machine (0.10.2)
+dm-is-tree (0.10.2)
+dm-is-versioned (0.10.2)
+dm-migrations (0.10.2)
+dm-more (0.10.2)
+dm-observer (0.10.2)
+dm-rest-adapter (0.10.2)
+dm-serializer (0.10.2)
+dm-sweatshop (0.10.2)
+dm-tags (0.10.2)
+dm-timestamps (0.10.2)
+dm-types (0.10.2)
+dm-validations (0.10.2)
+dnssd (1.3.1, 0.6.0)
+do_sqlite3 (0.10.1)
+edamame (0.2.1)
+erubis (2.6.5)
+eventmachine (0.12.10)
+extlib (0.9.14, 0.9.13)
+fastercsv (1.5.0)
+fastthread (1.0.7, 1.0.1)
+fcgi (0.8.8, 0.8.7)
+feedzirra (0.0.20)
+ferret (0.11.6)
+flay (1.4.0)
+flog (2.4.0)
+gem_plugin (0.2.3)
+gemcutter (0.3.0, 0.2.0)
+geoip (0.8.6)
+git (1.2.5)
+god (0.8.0)
+godhead (0.0.3)
+highline (1.5.1, 1.5.0)
+hoe (2.5.0)
+hpricot (0.8.2, 0.6.164)
+htmlentities (4.2.0)
+imw (0.1.1, 0.1.0)
+jeweler (1.4.0)
+json (1.2.0)
+json_pure (1.2.0)
+launchy (0.3.5)
+libxml-ruby (1.1.3, 1.1.2)
+loofah (0.4.1)
+macaddr (1.0.0)
+machinist (1.0.6)
+mechanize (0.9.3)
+memcache-client (1.7.7)
+mime-types (1.16)
+mixlib-cli (1.0.4)
+mixlib-config (1.0.12)
+mixlib-log (1.0.3)
+mongrel (1.1.5)
+monk (0.0.7)
+monkeyshines (0.2.1)
+needle (1.3.0)
+net-scp (1.0.2, 1.0.1)
+net-sftp (2.0.4, 2.0.1, 1.1.1)
+net-ssh (2.0.17, 2.0.4, 1.1.4)
+net-ssh-gateway (1.0.1, 1.0.0)
+nokogiri (1.4.1)
+oauth (0.3.6)
+ohai (0.3.6)
+ohm (0.0.31)
+ParseTree (2.1.1)
+polyglot (0.2.9)
+poolparty (1.4.6)
+rack (1.1.0, 1.0.1)
+rails (2.3.5, 2.2.2, 1.2.6)
+rails_datamapper (0.10.2)
+rake (0.8.7, 0.8.3)
+randexp (0.1.4)
+rcov (0.9.7.1)
+rdoc (2.4.3)
+RedCloth (4.2.2, 4.1.1)
+redis (0.1.1)
+redis-namespace (0.1.1)
+reek (1.2.6)
+resque (1.2.3)
+rest-client (1.2.0)
+right_aws (1.10.0)
+right_http_connection (1.2.4)
+roodi (2.1.0)
+rspec (1.2.9)
+rspec-rails (1.2.9)
+ruby-hmac (0.3.2)
+ruby-openid (2.1.7, 2.1.2)
+ruby-prof (0.7.6)
+ruby-yadis (0.3.4)
+ruby2ruby (1.2.4, 1.1.8)
+ruby_parser (2.0.4)
+rubyforge (2.0.3)
+RubyInline (3.8.4)
+rubynode (0.1.5)
+sake (1.0.15)
+sax-machine (0.0.15)
+sexp_processor (3.0.3)
+shotgun (0.4)
+sinatra (0.9.4)
+spork (0.7.5)
+sqlite3-ruby (1.2.5, 1.2.4)
+stomp (1.1.3)
+stringex (1.1.0)
+systemu (1.2.0)
+term-ansicolor (1.0.4)
+termios (0.9.4)
+thin (1.2.5)
+thor (0.12.2)
+treetop (1.4.3)
+typhoeus (0.1.13)
+uuid (2.1.0)
+uuidtools (2.1.1)
+webrat (0.6.0)
+whenever (0.4.1)
+wirble (0.1.3)
+wukong (1.4.2)
+xml-simple (1.0.12)
+xmpp4r (0.5, 0.4)
+yajl-ruby (0.6.8)
+yard (0.5.2)
+ZenTest (4.2.1)
+carl-knutsons-imac:~ doncarlo$ 

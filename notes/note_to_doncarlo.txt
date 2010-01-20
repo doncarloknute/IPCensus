@@ -15,13 +15,15 @@ sudo gem install rest-client right_http_connection typhoeus oauth curb ruby-open
 
 # Parsing and data formats
 sudo gem install hpricot fastercsv json yajl-ruby libxml-ruby nokogiri xml-simple htmlentities addressable uuidtools
+
+# these two didn't work - doncarlo
 sudo gem install oniguruma -- --with-opt-dir=/sw
 sudo gem install idn       -- --with-idn-dir=/sw
 
-# Infochimps libs
+# Infochimps libs (flood_monkey not found - doncarlo)
 sudo gem install imw monkeyshines edamame wukong flood_monkey
 
-# datamapper
+# datamapper (issues with do_mysql - doncarlo)
 sudo gem install datamapper data_objects dm-ar-finders dm-cli dm-more do_mysql do_sqlite3
 
 # Testing and Metrics Frameworks
