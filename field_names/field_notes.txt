@@ -1,3 +1,6 @@
 Possible discrepancies in field names:
 Armenian ancestry vs Armenian language
- 
+German ancestry vs German language
+Greek ancestry vs Greek language
+
+for countries, n.e.c. = Not Elsewhere Classified

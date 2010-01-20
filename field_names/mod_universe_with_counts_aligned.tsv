@@ -549,180 +549,180 @@
  10	BusTrlly                                                	Bus or trolley bus                                                    
   2	BusFinOper:                                             	Business and financial operations occupations:                        
   2	Occ009                                                  	Business operations specialists                                       
-  1	Cambodia                                                	Cambodia                                                              
-  1	Canada                                                  	Canada                                                                
-  3	Canadian                                                	Canadian                                                              
-  3	Cape Verdean                                            	Cape Verdean                                                          
-  1	Car truckorvan                                          	Car, truck, or van                                                    
+  1	Ctry014                                                 	Cambodia                                                              
+  1	Ctry015                                                 	Canada                                                                
+  3	Anc021                                                  	Canadian                                                              
+  3	Anc022                                                  	Cape Verdean                                                          
+  1	CarTrckVan                                               	Car, truck, or van                                                    
  11	CarTrckVan:                                             	Car, truck, or van:                                                   
-  2	Caribbean:                                              	Caribbean:                                                            
-  3	Carpatho Rusyn                                          	Carpatho Rusyn                                                        
+  2	Carib:                                                  	Caribbean:                                                            
+  3	Anc023	Carpatho Rusyn                                                        
  10	Carpool                                                 	Carpooled                                                             
   1	Carpool:                                                	Carpooled:                                                            
-  3	Celtic                                                  	Celtic                                                                
-  2	Central America:                                        	Central America:                                                      
+  3	Anc024	Celtic                                                                
+  2	CentAmer:                                               	Central America:                                                      
  13	CentCity                                                	Central city                                                          
-  2	Central city in different MSA/PMSA                      	Central city in different MSA/PMSA                                    
-  1	Central citythis MSA/PMSA                               	Central city of this MSA/PMSA                                         
+  2	CentCityDiffMSA/PMSA                                     	Central city in different MSA/PMSA                                    
+  1	CentCityThisMSA/PMSA                                     	Central city of this MSA/PMSA                                         
   3	Child                                                   	Child                                                                 
   1	Child:                                                  	Child:                                                                
-  1	Chile                                                   	Chile                                                                 
-  1	China excluding Hong Kong and Taiwan                    	China, excluding Hong Kong and Taiwan                                 
+  1	Ctry016                                                 	Chile                                                                 
+  1	Ctry017                                                 	China, excluding Hong Kong and Taiwan                                 
   1	China:                                                  	China:                                                                
   2	Chinese                                                 	Chinese                                                               
-  3	Civilian veterans 18y and over                          	Civilian veterans 18 years and over                                   
+  3	CivVetGte18y                                            	Civilian veterans 18 years and over                                   
  96	Civ:                                                    	Civilian:                                                             
-  3	Coalorcoke                                              	Coal or coke                                                          
-  4	Collegeorgraduate school                                	College or graduate school                                            
-  1	Colombia                                                	Colombia                                                              
+  3	CoalCoke                                                 	Coal or coke                                                          
+  4	CollGradSchl                                            	College or graduate school                                            
+  1	Ctry018                                                 	Colombia                                                              
   2	Occ010                                                  	Community and social services occupations                             
- 12	Complete kitchen facilities                             	Complete kitchen facilities                                           
-  1	Complete kitchen facilities:                            	Complete kitchen facilities:                                          
- 12	Complete plumbing facilities                            	Complete plumbing facilities                                          
-  7	Complete plumbing facilities:                           	Complete plumbing facilities:                                         
+ 12	CompKitchFac                                            	Complete kitchen facilities                                           
+  1	CompKitchFac:                                           	Complete kitchen facilities:                                          
+ 12	CompPlmbFac                                             	Complete plumbing facilities                                          
+  7	CompPlmbFac:                                            	Complete plumbing facilities:                                         
   2	Occ011                                                  	Computer and mathematical occupations                                 
   2	Occ012                                                  	Construction                                                          
   2	ConstExt:                                               	Construction and extraction occupations:                              
   2	Occ013                                                  	Construction trades workers                                           
   2	ConstExtMaint:                                          	Construction, extraction, and maintenance occupations:                
-  1	Costa Rica                                              	Costa Rica                                                            
-  3	Croatian                                                	Croatian                                                              
-  1	Cuba                                                    	Cuba                                                                  
-  3	Cypriot                                                 	Cypriot                                                               
-  3	Czech                                                   	Czech                                                                 
-  1	Czechoslovakia (includes Czech Republic and Slovakia)   	Czechoslovakia (includes Czech Republic and Slovakia)                 
-  3	Czechoslovakian                                         	Czechoslovakian                                                       
-  3	Danish                                                  	Danish                                                                
+  1	Ctry019                                                 	Costa Rica                                                            
+  3	Anc025                                                  	Croatian                                                              
+  1	Ctry020                                                 	Cuba                                                                  
+  3	Anc026                                                  	Cypriot                                                               
+  3	Anc027                                                  	Czech                                                                 
+  1	Ctry021                                                 	Czechoslovakia (includes Czech Republic and Slovakia)                 
+  3	Anc028                                                  	Czechoslovakian                                                       
+  3	Anc029                                                  	Danish                                                                
   4	DNWorkHome:                                             	Did not work at home:                                                 
  22	DNWork1999                                              	Did not work in 1999                                                  
-  2	Did not work in 1999:                                   	Did not work in 1999:                                                 
+  2	DNWork1999:                                             	Did not work in 1999:                                                 
   4	DiffMSA/PMSA1995:                                       	Different MSA/PMSA in 1995:                                           
-  1	Diffcounty (same state)                                 	Different county (same state)                                         
+  1	DiffCntySmSt                                            	Different county (same state)                                         
  11	DiffCnty:                                               	Different county:                                                     
  15	DiffHouse1995:                                          	Different house in 1995:                                              
   1	DiffHouse:                                              	Different house:                                                      
  11	DiffMunic                                               	Different municipio                                                   
  11	DiffSt:                                                 	Different state:                                                      
   2	Div                                                     	Divorced                                                              
-  2	Divorced:                                               	Divorced:                                                             
+  2	Div:                                                     	Divorced:                                                             
   2	DocDeg                                                  	Doctorate degree                                                      
-  2	Does not include self-care Disab                        	Does not include self-care disability                                 
-  6	Does not include self-care Disab:                       	Does not include self-care disability:                                
+  2	DNISelfCareDisab                                         	Does not include self-care disability                                 
+  6	DNISelfCareDisab:                                        	Does not include self-care disability:                                
   9	UsdVal0                                                 	Dollar value of zero imputed                                          
-  1	Dominican Republic                                      	Dominican Republic                                                    
+  1	Ctry022                                                 	Dominican Republic                                                    
   2	Occ014                                                  	Drafters, engineering, and mapping technicians                        
  11	DrvAln                                                  	Drove alone                                                           
-  3	Dutch                                                   	Dutch                                                                 
-  3	Dutch West Indian                                       	Dutch West Indian                                                     
-  1	Eastern Africa:                                         	Eastern Africa:                                                       
-  1	Eastern Asia:                                           	Eastern Asia:                                                         
-  1	Eastern Europe:                                         	Eastern Europe:                                                       
-  3	Eastern European                                        	Eastern European                                                      
-  1	Ecuador                                                 	Ecuador                                                               
+  3	Anc030                                                   	Dutch                                                                 
+  3	Anc031                                                  	Dutch West Indian                                                     
+  1	EstnAfrica:                                             	Eastern Africa:                                                       
+  1	EstnAsia:                                                	Eastern Asia:                                                         
+  1	EstnEur:                                                	Eastern Europe:                                                       
+  3	Anc032                                                   	Eastern European                                                      
+  1	Ctry023                                                 	Ecuador                                                               
   2	Occ015                                                  	Education, training, and library occupations                          
   2	Occ016                                                  	Educational services                                                  
   2	EdHlthSocServ:                                          	Educational, health and social services:                              
-  1	Egypt                                                   	Egypt                                                                 
-  3	Egyptian                                                	Egyptian                                                              
-  1	El Salvador                                             	El Salvador                                                           
-  3	Electricity                                             	Electricity                                                           
+  1	Ctry024                                                 	Egypt                                                                 
+  3	Anc033                                                  	Egyptian                                                              
+  1	Ctry025                                                 	El Salvador                                                           
+  3	Elec                                                     	Electricity                                                           
   4	Else1995                                                	Elsewhere in 1995                                                     
  11	Else1995:                                               	Elsewhere in 1995:                                                    
 204	Empl                                                    	Employed                                                              
-  6	Employed civilian Pop16y and over                       	Employed civilian population 16 years and over                        
+  6	EmplCivGtePop16y                                        	Employed civilian population 16 years and over                        
  45	EmplOrArmFor                                            	Employed or in Armed Forces                                           
   1	EmplOrArmFor:                                           	Employed or in Armed Forces:                                          
   6	EmplPrivComp                                            	Employee of private company                                           
  14	EmplDisab                                               	Employment disability                                                 
   4	Engl                                                    	English                                                               
-  2	Erldin collegeorgraduate school:                        	Enrolled in college or graduate school:                               
+  2	ErldCollGradSchl:                                        	Enrolled in college or graduate school:                               
   2	ErldCollUnd:                                            	Enrolled in college, undergraduate years:                             
-  9	Erldin college:                                         	Enrolled in college:                                                  
+  9	ErldColl:                                                	Enrolled in college:                                                  
   2	Erld1to4Gr:                                             	Enrolled in grade 1 to grade 4:                                       
-  9	Erldin grade 1tograde 8:                                	Enrolled in grade 1 to grade 8:                                       
+  9	Erld1to8Gr:                                                	Enrolled in grade 1 to grade 8:                                       
   2	Erld5to8Gr:                                             	Enrolled in grade 5 to grade 8:                                       
  11	Erld9to12Gr:                                            	Enrolled in grade 9 to grade 12:                                      
   2	ErldGradProf:                                           	Enrolled in graduate or professional school:                          
  11	ErldKind:                                               	Enrolled in kindergarten:                                             
  11	ErldNursPre:                                            	Enrolled in nursery school, preschool:                                
  26	ErldSch:                                                	Enrolled in school:                                                   
-  3	Estonian                                                	Estonian                                                              
-  1	Ethiopia                                                	Ethiopia                                                              
-  3	Ethiopian                                               	Ethiopian                                                             
-  1	Europe n.e.c.                                           	Europe, n.e.c.                                                        
-  2	Europe:                                                 	Europe:                                                               
-  3	European                                                	European                                                              
+  3	Anc034                                                  	Estonian                                                              
+  1	Ctry026                                                 	Ethiopia                                                              
+  3	Anc035                                                  	Ethiopian                                                             
+  1	Ctry027                                                 	Europe, n.e.c.                                                        
+  2	Eur:                                                    	Europe:                                                               
+  3	Anc036                                                  	European                                                              
   2	Occ017                                                  	Extraction workers                                                    
- 19	Families                                                	Families                                                              
-  3	FamwithHhwho is AmIndAkNatAln                           	Families with a householder who is American Indian and Alaska Native alone
-  3	FamwithHhwho is AsnAln                                  	Families with a householder who is Asian alone                        
-  3	FamwithHhwho is BlkAfAmerAln                            	Families with a householder who is Black or African American alone    
-  3	FamwithHhwho is HispanicorLatino                        	Families with a householder who is Hispanic or Latino                 
-  3	FamwithHhwho is NatHiPacIslAln                          	Families with a householder who is Native Hawaiian and Other Pacific Islander alone
-  3	FamwithHhwho is Some other race Aln                     	Families with a householder who is Some other race alone              
-  3	FamwithHhwho is Gte2races                               	Families with a householder who is Two or more races                  
-  3	FamwithHhwho is WhtAln                                  	Families with a householder who is White alone                        
-  3	FamwithHhwho is WhtAlnnot HispanicorLatino              	Families with a householder who is White alone, not Hispanic or Latino
-  1	Famwith Incin 1999 belowpoverty level                   	Families with income in 1999 below the poverty level                  
+ 19	Fam                                                     	Families                                                              
+  3	FamWithHhAmIndAkNatAln                                  	Families with a householder who is American Indian and Alaska Native alone
+  3	FamWithHhAsnAln                                         	Families with a householder who is Asian alone                        
+  3	FamWithHhBlkAfAmerAln                                   	Families with a householder who is Black or African American alone    
+  3	FamWithHhHispLat                                         	Families with a householder who is Hispanic or Latino                 
+  3	FamWithHhNatHiPacIslAln                                 	Families with a householder who is Native Hawaiian and Other Pacific Islander alone
+  3	FamWithHhSomeOthRaceAln                                 	Families with a householder who is Some other race alone              
+  3	FamWithHhGte2races                                       	Families with a householder who is Two or more races                  
+  3	FamWithHhWhtAln                                         	Families with a householder who is White alone                        
+  3	FamWithHhWhtAlnNotHispLat                                 	Families with a householder who is White alone, not Hispanic or Latino
+  1	FamInc1999BelPovLev                                       	Families with income in 1999 below the poverty level                  
  31	FamHH:                                                  	Family households:                                                    
   2	Farm                                                    	Farm                                                                  
   2	FarmMan                                                 	Farmers and farm managers                                             
   2	Occ018                                                  	Farming, fishing, and forestry occupations                            
  20	FathOnlyLaborFor                                        	Father only in labor force                                            
-  1	Father-child subFam                                     	Father-child subfamily                                                
+  1	FatherChldSubFam                                     	Father-child subfamily                                                
   1	Feb1955toJul1964                                        	February 1955 to July 1964 only                                       
   6	Occ019                                                  	Federal government workers                                            
  26	Fem                                                     	Female                                                                
   6	FemHh                                                   	Female householder                                                    
-  1	Female Hhand female partner                             	Female householder and female partner                                 
-  1	Female Hhand male partner                               	Female householder and male partner                                   
+  1	FemHhFemPart                                            	Female householder and female partner                                 
+  1	FemHhMalePart                                            	Female householder and male partner                                   
   9	FemHhNoHusb                                             	Female householder, no husband present                                
  84	FemHhNoHusb:                                            	Female householder, no husband present:                               
   8	FemHh:                                                  	Female householder:                                                   
 115	Fem:                                                    	Female:                                                               
-  1	Females 16y and over                                    	Females 16 years and over                                             
+  1	FemGte16y                                               	Females 16 years and over                                             
  10	Ferry                                                   	Ferryboat                                                             
   2	Occ020                                                  	Finance and insurance                                                 
   2	FinInsRealEstRentLeas:                                  	Finance, insurance, real estate and rental and leasing:               
   2	Occ021                                                  	Financial specialists                                                 
-  3	Finnish                                                 	Finnish                                                               
+  3	Anc037                                                  	Finnish                                                               
   2	Occ022                                                  	Fire fighting, prevention, and law enforcement workers, including supervisors
-  1	First ancestry reported:                                	First ancestry reported:                                              
+  1	1stAncRep:                                              	First ancestry reported:                                              
   2	Occ023                                                  	Food preparation and serving related occupations                      
-  2	For migrant workers                                     	For migrant workers                                                   
-  2	For rent                                                	For rent                                                              
-  2	For sale only                                           	For sale only                                                         
-  2	For seasonal recreationaloroccasional use               	For seasonal, recreational, or occasional use                         
- 13	FrgnBrn:                                                	Foreign born:                                                         
+  2	ForMigWrkr                                              	For migrant workers                                                   
+  2	ForRent                                                  	For rent                                                              
+  2	ForSaleOnly                                              	For sale only                                                         
+  2	ForSeasRecOccUse                                         	For seasonal, recreational, or occasional use                         
+ 13	FrgnBorn:                                                	Foreign born:                                                         
  11	FrgnCntrySea                                            	Foreign country or at sea                                             
-  5	Foreign-born population                                 	Foreign-born population                                               
-  1	France                                                  	France                                                                
-  3	French (except Basque)                                  	French (except Basque)                                                
-  2	French (incl. Patois Cajun)                             	French (incl. Patois, Cajun)                                          
-  3	French Canadian                                         	French Canadian                                                       
-  2	French Creole                                           	French Creole                                                         
-  3	Fuel oil kerosene etc.                                  	Fuel oil, kerosene, etc.                                              
-  1	Full-time year-round workers 16y and over with earnings in 1999	Full-time, year-round workers 16 years and over with earnings in 1999 
-  5	German                                                  	German                                                                
-  3	German Russian                                          	German Russian                                                        
-  1	Germany                                                 	Germany                                                               
-  1	Ghana                                                   	Ghana                                                                 
-  3	Ghanian                                                 	Ghanian                                                               
-  4	Go-outside home and employment only                     	Go-outside home and employment only                                   
+  5	FrgnBornPop                                              	Foreign-born population                                               
+  1	Ctry028                                                 	France                                                                
+  3	Anc038                                                   	French (except Basque)                                                
+  2	FrnchPatCaj                                             	French (incl. Patois, Cajun)                                          
+  3	Anc039                                                  	French Canadian                                                       
+  2	FrnchCrle                                                	French Creole                                                         
+  3	FuelOilKer                                              	Fuel oil, kerosene, etc.                                              
+  1	FTyearWrkrGte16yEarn1999                                	Full-time, year-round workers 16 years and over with earnings in 1999 
+  5	Anc040                                                  	German                                                                
+  3	Anc041                                                  	German Russian                                                        
+  1	Ctry029                                                  	Germany                                                               
+  1	Ctry030                                                 	Ghana                                                                 
+  3	Anc042                                                  	Ghanian                                                               
+  4	GoOutHomeEmplOnly                                        	Go-outside home and employment only                                   
  26	GoOutDisab                                              	Go-outside-home disability                                            
- 32	Graduateorprofessional degree                           	Graduate or professional degree                                       
+ 32	GradProfDeg                                             	Graduate or professional degree                                       
   1	GndChild                                                	Grandchild                                                            
   5	GndPrntNotRespOwnGndChildLt18y                          	Grandparent not responsible for own grandchildren under 18 years      
-  3	Grandparent responsibleown grandchildren Lt18y          	Grandparent responsible for own grandchildren under 18 years          
+  3	GndPrntRespOwnGndChildLt18y                               	Grandparent responsible for own grandchildren under 18 years          
   2	GndPrntRespOwnGndChildLt18y:                            	Grandparent responsible for own grandchildren under 18 years:         
-  1	Greece                                                  	Greece                                                                
-  5	Greek                                                   	Greek                                                                 
-  1	Guatemala                                               	Guatemala                                                             
+  1	Ctry031                                                 	Greece                                                                
+  5	Anc043                                                  	Greek                                                                 
+  1	Ctry032                                                 	Guatemala                                                             
   2	Gujarathi                                               	Gujarathi                                                             
-  1	Guyana                                                  	Guyana                                                                
-  3	Guyanese                                                	Guyanese                                                              
-  1	Haiti                                                   	Haiti                                                                 
-  3	Haitian                                                 	Haitian                                                               
+  1	Ctry033                                                 	Guyana                                                                
+  3	Anc044                                                  	Guyanese                                                              
+  1	Ctry034                                                 	Haiti                                                                 
+  3	Ancy045                                                  	Haitian                                                               
   2	Occ024                                                  	Health care and social assistance                                     
   2	Occ025                                                  	Health diagnosing and treating practitioners and technical occupations
   2	Occ026                                                  	Health technologists and technicians                                  
@@ -733,25 +733,25 @@
  34	HighSchGradEquiv                                        	High school graduate (includes equivalency)                           
  10	HighSchGrad:                                            	High school graduate:                                                 
   2	Hindi                                                   	Hindi                                                                 
-  1	HispLatCivNInstPop5y and over                           	Hispanic or Latino civilian noninstitutionalized population 5 years and over
-  1	HispLatfemales 16y and over                             	Hispanic or Latino females 16 years and over                          
+  1	HispLatCivNInstPopGte5y                                 	Hispanic or Latino civilian noninstitutionalized population 5 years and over
+  1	HispLatFemGte16y                                        	Hispanic or Latino females 16 years and over                          
   1	HispLatHh:                                              	Hispanic or Latino householder:                                       
-  1	HispLatown children Lt18y in Famand subfamilies         	Hispanic or Latino own children under 18 years in families and subfamilies
-  3	HispLatpopulation                                       	Hispanic or Latino population                                         
-  1	HispLatPop15y and over                                  	Hispanic or Latino population 15 years and over                       
+  1	HispLatOwnChldLt18yFamSubFam                            	Hispanic or Latino own children under 18 years in families and subfamilies
+  3	HispLatPop                                               	Hispanic or Latino population                                         
+  1	HispLatPopGte15y                                         	Hispanic or Latino population 15 years and over                       
   1	HispLatPop16to19y                                       	Hispanic or Latino population 16 to 19 years                          
-  3	HispLatPop16y and over                                  	Hispanic or Latino population 16 years and over                       
-  1	HispLatPop16y and over with earnings in 1999            	Hispanic or Latino population 16 years and over with earnings in 1999 
-  1	HispLatPop18y and over                                  	Hispanic or Latino population 18 years and over                       
-  1	HispLatPop25y and over                                  	Hispanic or Latino population 25 years and over                       
-  1	HispLatPop3y and over                                   	Hispanic or Latino population 3 years and over                        
-  3	HispLatPop5y and over                                   	Hispanic or Latino population 5 years and over                        
-  2	HispLatpopulationwhom poverty status is determined      	Hispanic or Latino population for whom poverty status is determined   
-  1	HispLatworkers 16y and over                             	Hispanic or Latino workers 16 years and over                          
+  3	HispLatPopGte16y                                         	Hispanic or Latino population 16 years and over                       
+  1	HispLatPopGte16yEarn1999                                	Hispanic or Latino population 16 years and over with earnings in 1999 
+  1	HispLatPopGte18y                                        	Hispanic or Latino population 18 years and over                       
+  1	HispLatPopGte25y                                        	Hispanic or Latino population 25 years and over                       
+  1	HispLatPopGte3y                                         	Hispanic or Latino population 3 years and over                        
+  3	HispLatPopGte5y                                         	Hispanic or Latino population 5 years and over                        
+  2	HispLatPopPovStatDet                                    	Hispanic or Latino population for whom poverty status is determined   
+  1	HispLatWrkrGte16y                                       	Hispanic or Latino workers 16 years and over                          
   1	HispLat:                                                	Hispanic or Latino:                                                   
-  1	Home equity loan only                                   	Home equity loan only                                                 
-  1	Honduras                                                	Honduras                                                              
-  1	Hong Kong                                               	Hong Kong                                                             
+  1	HomeEqLoanOnly                                          	Home equity loan only                                                 
+  1	Ctry035                                                 	Honduras                                                              
+  1	Ctry036                                                 	Hong Kong                                                             
  41	Hh15to24y                                               	Householder 15 to 24 years                                            
  10	Hh15to24y:                                              	Householder 15 to 24 years:                                           
   6	Hh15to34y:                                              	Householder 15 to 34 years:                                           
@@ -779,21 +779,21 @@
  35	HhGte75y                                                	Householder 75 years and over                                         
  21	HhGte75y:                                               	Householder 75 years and over:                                        
   8	HhGte85y                                                	Householder 85 years and over                                         
-  4	Hhdid not work in 1999                                  	Householder did not work in 1999                                      
-  2	Hhdid not work in 1999:                                 	Householder did not work in 1999:                                     
+  4	HhNotWork1999                                           	Householder did not work in 1999                                      
+  2	HhNotWork1999:                                           	Householder did not work in 1999:                                     
  20	HhLivAlne                                               	Householder living alone                                              
-  2	Hhliving Aln:                                           	Householder living alone:                                             
+  2	HhLiviAln:                                              	Householder living alone:                                             
  22	HhNotLivAlne                                            	Householder not living alone                                          
-  1	Hhor spouse:                                            	Householder or spouse:                                                
+  1	HhOrSpse:                                               	Householder or spouse:                                                
  12	HhLt25y                                                 	Householder under 25 years                                            
  10	HhLt25y:                                                	Householder under 25 years:                                           
-  5	Hhwho is AmIndAkNatAln                                  	Householder who is American Indian and Alaska Native alone            
-  5	Hhwho is AsnAln                                         	Householder who is Asian alone                                        
-  5	Hhwho is BlkAfAmerAln                                   	Householder who is Black or African American alone                    
-  5	Hhwho is NatHiPacIslAln                                 	Householder who is Native Hawaiian and Other Pacific Islander alone   
-  5	Hhwho is Some other race Aln                            	Householder who is Some other race alone                              
-  5	Hhwho is Gte2races                                      	Householder who is Two or more races                                  
-  5	Hhwho is WhtAln                                         	Householder who is White alone                                        
+  5	HhAmIndAkNatAln                                          	Householder who is American Indian and Alaska Native alone            
+  5	HhAsnAln                                                 	Householder who is Asian alone                                        
+  5	HhBlkAfAmerAln                                          	Householder who is Black or African American alone                    
+  5	HhNatHiPacIslAln                                        	Householder who is Native Hawaiian and Other Pacific Islander alone   
+  5	HhSomeOthRaceAln                                         	Householder who is Some other race alone                              
+  5	HhGte2races                                             	Householder who is Two or more races                                  
+  5	HhWhtAln                                                	Householder who is White alone                                        
   4	Hhworked full-time year-round in 1999                   	Householder worked full-time, year-round in 1999                      
   2	Hhworked full-time year-round in 1999:                  	Householder worked full-time, year-round in 1999:                     
   4	Hhworked Ltfull-time year-round in 1999                 	Householder worked less than full-time, year-round in 1999            
