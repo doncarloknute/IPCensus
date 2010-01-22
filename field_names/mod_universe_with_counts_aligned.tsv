@@ -1288,82 +1288,82 @@
  12	RentOcp                                                 	Renter occupied                                                       
  39	RentOcp:                                                	Renter occupied:                                                      
   2	Occ049                                                  	Retail trade                                                          
-  1	Romania                                                 	Romania                                                               
-  3	Romanian                                                	Romanian                                                              
+  1	Ctry084                                                  	Romania                                                               
+  3	Anc074                                                  	Romanian                                                              
   2	Rural:                                                  	Rural:                                                                
-  1	Russia                                                  	Russia                                                                
-  5	Russian                                                 	Russian                                                               
+  1	Ctry085                                                  	Russia                                                                
+  5	Anc075                                                  	Russian                                                               
   2	SalesOffOcc:                                            	Sales and office occupations:                                         
   2	Occ050                                                  	Sales and related occupations                                         
   4	SameMSA/PMSA1995:                                       	Same MSA/PMSA in 1995:                                                
-  1	Same cityortown                                         	Same city or town                                                     
-  1	Same cityortown:                                        	Same city or town:                                                    
+  1	SameCityTown                                            	Same city or town                                                     
+  1	SameCityTown:                                           	Same city or town:                                                    
  12	SameCnty                                                	Same county                                                           
   1	SameHouse                                               	Same house                                                            
  14	SameHouse1995                                           	Same house in 1995                                                    
-  1	Same house in 1995:                                     	Same house in 1995:                                                   
+  1	SameHouse1995:                                           	Same house in 1995:                                                   
  11	SameMunic                                               	Same municipio                                                        
  11	SameSt                                                  	Same state                                                            
-  3	Scandinavian                                            	Scandinavian                                                          
-  2	Scandinavian languages                                  	Scandinavian languages                                                
-  3	Scotch-Irish                                            	Scotch-Irish                                                          
-  3	Scottish                                                	Scottish                                                              
-  1	Second ancestry reported:                               	Second ancestry reported:                                             
-  1	Second mortgage only                                    	Second mortgage only                                                  
+  3	Anc076                                                  	Scandinavian                                                          
+  2	ScandLang                                                	Scandinavian languages                                                
+  3	Anc077                                                  	Scotch-Irish                                                          
+  3	Anc078                                                  	Scottish                                                              
+  1	2ndAncRep:                                              	Second ancestry reported:                                             
+  1	2ndMortOnly                                              	Second mortgage only                                                  
  38	SelfCareDisab                                           	Self-care disability                                                  
   6	SelfEmplOwnIncBus                                       	Self-employed in own incorporated business                            
   6	SelfEmplWrkrsOwnNotIncBus                               	Self-employed workers in own not incorporated business                
-  3	Senegalese                                              	Senegalese                                                            
+  3	Anc079                                                  	Senegalese                                                            
  38	SensDisab                                               	Sensory disability                                                    
   2	Seprtd                                                  	Separated                                                             
-  2	Separated:                                              	Separated:                                                            
+  2	Seprtd:                                                 	Separated:                                                            
   1	Sept1980toJuly1990:                                     	September 1980 to July 1990 only:                                     
-  3	Serbian                                                 	Serbian                                                               
-  2	Serbo-Croatian                                          	Serbo-Croatian                                                        
+  3	Anc080                                                  	Serbian                                                               
+  2	SerbCroat                                               	Serbo-Croatian                                                        
   2	SrvdGte2y                                               	Served 2 or more years                                                
   1	SrvdSept1980LaterOn:                                    	Served September 1980 or later only:                                  
   1	SrvdVietEra                                             	Served in Vietnam era                                                 
   1	SrvdPreSept1980                                         	Served prior to September 1980                                        
   2	SrvdLt2y                                                	Served under 2 years                                                  
   2	ServOcc:                                                	Service occupations:                                                  
-  1	Sierra Leone                                            	Sierra Leone                                                          
-  3	Sierra Leonean                                          	Sierra Leonean                                                        
-  1	Single ancestry                                         	Single ancestry                                                       
-  3	Slavic                                                  	Slavic                                                                
-  3	Slovak                                                  	Slovak                                                                
-  3	Slovene                                                 	Slovene                                                               
-  3	Solar energy                                            	Solar energy                                                          
-  3	Somalian                                                	Somalian                                                              
+  1	Ctry086                                                 	Sierra Leone                                                          
+  3	Anc081                                                  	Sierra Leonean                                                        
+  1	SingAnc                                                 	Single ancestry                                                       
+  3	Anc082                                                  	Slavic                                                                
+  3	Anc083                                                  	Slovak                                                                
+  3	Anc084                                                   	Slovene                                                               
+  3	SolEnrgy                                                 	Solar energy                                                          
+  3	Anc085                                                  	Somalian                                                              
   2	SmeCollGte1yNoDeg                                       	Some college, 1 or more years, no degree                              
   2	SmeCollLt1y                                             	Some college, less than 1 year                                        
- 32	Some college no degree                                  	Some college, no degree                                               
+ 32	SmeCollNoDeg                                            	Some college, no degree                                               
   3	SmeOthRaceAlone                                         	Some other race alone                                                 
-  1	Some other race AlnCivNInstPop5y and over               	Some other race alone civilian noninstitutionalized population 5 years and over
-  1	Some other race Alnfemales 16y and over                 	Some other race alone females 16 years and over                       
-  1	Some other race Alnown children Lt18y in Famand subfamilies	Some other race alone own children under 18 years in families and subfamilies
-  3	Some other race Alnpopulation                           	Some other race alone population                                      
-  1	Some other race AlnPop15y and over                      	Some other race alone population 15 years and over                    
-  1	Some other race AlnPop16to19y                           	Some other race alone population 16 to 19 years                       
-  3	Some other race AlnPop16y and over                      	Some other race alone population 16 years and over                    
-  1	Some other race AlnPop16y and over with earnings in 1999	Some other race alone population 16 years and over with earnings in 1999
-  1	Some other race AlnPop18y and over                      	Some other race alone population 18 years and over                    
-  1	Some other race AlnPop25y and over                      	Some other race alone population 25 years and over                    
-  1	Some other race AlnPop3y and over                       	Some other race alone population 3 years and over                     
-  2	Some other race AlnPop5y and over                       	Some other race alone population 5 years and over                     
-  2	Some other race Alnpopulationwhom poverty status is determined	Some other race alone population for whom poverty status is determined
-  1	Some other race Alnworkers 16y and over                 	Some other race alone workers 16 years and over                       
+  1	SmeOthRaceAlnCivNInstPopGte5y                            	Some other race alone civilian noninstitutionalized population 5 years and over
+  1	SmeOthRaceAlnFemGte16y                                   	Some other race alone females 16 years and over                       
+  1	SmeOthRaceAlnOwnChldLt18yFamSubFam                      	Some other race alone own children under 18 years in families and subfamilies
+  3	SmeOthRaceAlnPop                                         	Some other race alone population                                      
+  1	SmeOthRaceAlnPopGte15y                                  	Some other race alone population 15 years and over                    
+  1	SmeOthRaceAlnPop16to19y                                 	Some other race alone population 16 to 19 years                       
+  3	SmeOthRaceAlnGtePop16y                                  	Some other race alone population 16 years and over                    
+  1	SmeOthRaceAlnPopGte16yEarn1999                           	Some other race alone population 16 years and over with earnings in 1999
+  1	SmeOthRaceAlnPopGte18y                                  	Some other race alone population 18 years and over                    
+  1	SmeOthRaceAlnPopGte25y                                  	Some other race alone population 25 years and over                    
+  1	SmeOthRaceAlnPopGte3y                                   	Some other race alone population 3 years and over                     
+  2	SmeOthRaceAlnPopGte5y                                   	Some other race alone population 5 years and over                     
+  2	SmeOthRaceAlnPopPovStatDet                              	Some other race alone population for whom poverty status is determined
+  1	SmeOthRaceAlnWrkrGte16y                                 	Some other race alone workers 16 years and over                       
  21	South                                                   	South                                                                 
-  1	South Africa                                            	South Africa                                                          
-  3	South African                                           	South African                                                         
-  2	South America:                                          	South America:                                                        
-  1	South Central Asia:                                     	South Central Asia:                                                   
-  1	South Eastern Asia:                                     	South Eastern Asia:                                                   
-  1	Southern Africa:                                        	Southern Africa:                                                      
-  1	Southern Europe:                                        	Southern Europe:                                                      
-  3	Soviet Union                                            	Soviet Union                                                          
-  1	Spain                                                   	Spain                                                                 
-  2	SpanishorSpanish Creole                                 	Spanish or Spanish Creole                                             
-  1	Spanish:                                                	Spanish:                                                              
+  1	Ctry087                                                  	South Africa                                                          
+  3	Anc086                                                  	South African                                                         
+  2	SouthAmer:                                              	South America:                                                        
+  1	SouthCentAsia:                                          	South Central Asia:                                                   
+  1	SouthEastAsia:                                          	South Eastern Asia:                                                   
+  1	SouthrnAfrica:                                          	Southern Africa:                                                      
+  1	SouthrnEur:                                             	Southern Europe:                                                      
+  3	Anc087                                                  	Soviet Union                                                          
+  1	Ctry088                                                  	Spain                                                                 
+  2	SpanOrSpanCreole                                          	Spanish or Spanish Creole                                             
+  1	Spanish:                                                   	Spanish:                                                              
   8	SpkAsianPacIslLang:                                     	Speak Asian and Pacific Island languages:                             
  48	SpkEnglNotAtAll                                         	Speak English "not at all"                                            
  48	SpkEnglNotWell                                          	Speak English "not well"                                              
@@ -1371,124 +1371,124 @@
  48	SpkEnglWell                                             	Speak English "well"                                                  
   9	SpkSpanish:                                             	Speak Spanish:                                                        
  37	SpkOnlyEngl                                             	Speak only English                                                    
-  1	Spkonly English:                                        	Speak only English:                                                   
+  1	SpkonlyEngl:                                             	Speak only English:                                                   
   8	SpkOthIndoEurLang:                                      	Speak other Indo-European languages:                                  
-  1	Spkother language                                       	Speak other language                                                  
+  1	SpkOthLang                                               	Speak other language                                                  
  37	SpkOthLang:                                             	Speak other languages:                                                
- 21	Specified owner-occupied housing units                  	Specified owner-occupied housing units                                
-  8	OwnOcpHousUntwithHhwho is AmIndAkNatAln                 	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone
-  8	OwnOcpHousUntwithHhwho is AsnAln                        	Specified owner-occupied housing units with a householder who is Asian alone
-  8	OwnOcpHousUntwithHhwho is BlkAfAmerAln                  	Specified owner-occupied housing units with a householder who is Black or African American alone
-  8	OwnOcpHousUntwithHhwho is HispanicorLatino              	Specified owner-occupied housing units with a householder who is Hispanic or Latino
-  8	OwnOcpHousUntwithHhwho is NatHiPacIslAln                	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
-  8	OwnOcpHousUntwithHhwho is Some other race Aln           	Specified owner-occupied housing units with a householder who is Some other race alone
-  8	OwnOcpHousUntwithHhwho is Gte2races                     	Specified owner-occupied housing units with a householder who is Two or more races
-  8	OwnOcpHousUntwithHhwho is WhtAln                        	Specified owner-occupied housing units with a householder who is White alone
-  8	OwnOcpHousUntwithHhwho is WhtAlnnot HispanicorLatino    	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino
- 11	Specified renter-occupied housing units                 	Specified renter-occupied housing units                               
- 12	RentOcpHousUntpaying cash rent                          	Specified renter-occupied housing units paying cash rent              
-  3	RentOcpHousUntpaying cash rent withHhwho is AmIndAkNatAln	Specified renter-occupied housing units paying cash rent with a householder who is American Indian and Alaska Native alone
-  3	RentOcpHousUntpaying cash rent withHhwho is AsnAln      	Specified renter-occupied housing units paying cash rent with a householder who is Asian alone
-  3	RentOcpHousUntpaying cash rent withHhwho is BlkAfAmerAln	Specified renter-occupied housing units paying cash rent with a householder who is Black or African American alone
-  3	RentOcpHousUntpaying cash rent withHhwho is HispanicorLatino	Specified renter-occupied housing units paying cash rent with a householder who is Hispanic or Latino
-  3	RentOcpHousUntpaying cash rent withHhwho is NatHiPacIslAln	Specified renter-occupied housing units paying cash rent with a householder who is Native Hawaiian and Other Pacific Islander alone
-  3	RentOcpHousUntpaying cash rent withHhwho is Some other race Aln	Specified renter-occupied housing units paying cash rent with a householder who is Some other race alone
-  3	RentOcpHousUntpaying cash rent withHhwho is Gte2races   	Specified renter-occupied housing units paying cash rent with a householder who is Two or more races
-  3	RentOcpHousUntpaying cash rent withHhwho is WhtAln      	Specified renter-occupied housing units paying cash rent with a householder who is White alone
-  3	RentOcpHousUntpaying cash rent withHhwho is WhtAlnnot HispanicorLatino	Specified renter-occupied housing units paying cash rent with a householder who is White alone, not Hispanic or Latino
-  1	RentOcpHousUntrent withHhwho is AsnAln                  	Specified renter-occupied housing units rent with a householder who is Asian alone
-  2	RentOcpHousUntwithHhwho is AmIndAkNatAln                	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone
-  1	RentOcpHousUntwithHhwho is AsnAln                       	Specified renter-occupied housing units with a householder who is Asian alone
-  2	RentOcpHousUntwithHhwho is BlkAfAmerAln                 	Specified renter-occupied housing units with a householder who is Black or African American alone
-  2	RentOcpHousUntwithHhwho is HispanicorLatino             	Specified renter-occupied housing units with a householder who is Hispanic or Latino
-  2	RentOcpHousUntwithHhwho is NatHiPacIslAln               	Specified renter-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
-  2	RentOcpHousUntwithHhwho is Some other race Aln          	Specified renter-occupied housing units with a householder who is Some other race alone
-  2	RentOcpHousUntwithHhwho is Gte2races                    	Specified renter-occupied housing units with a householder who is Two or more races
-  2	RentOcpHousUntwithHhwho is WhtAln                       	Specified renter-occupied housing units with a householder who is White alone
-  2	RentOcpHousUntwithHhwho is WhtAlnnot HispanicorLatino   	Specified renter-occupied housing units with a householder who is White alone, not Hispanic or Latino
-  4	Specified vacant-for-rent housing units                 	Specified vacant-for-rent housing units                               
-  4	Specified vacant-for-sale-only housing units            	Specified vacant-for-sale-only housing units                          
+ 21	SpecOwnOcpHousUnt                                       	Specified owner-occupied housing units                                
+  8	OwnOcpHousUntHhAmIndAkNatAln                            	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone
+  8	OwnOcpHousUntHhAsnAln                                   	Specified owner-occupied housing units with a householder who is Asian alone
+  8	OwnOcpHousUntHhBlkAfAmerAln                             	Specified owner-occupied housing units with a householder who is Black or African American alone
+  8	OwnOcpHousUntHhHispLat                                   	Specified owner-occupied housing units with a householder who is Hispanic or Latino
+  8	OwnOcpHousUntHhNatHiPacIslAln                            	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
+  8	OwnOcpHousUntHhSmeOthRaceAln                             	Specified owner-occupied housing units with a householder who is Some other race alone
+  8	OwnOcpHousUntHhGte2Races                                	Specified owner-occupied housing units with a householder who is Two or more races
+  8	OwnOcpHousUntHhWhtAln                                   	Specified owner-occupied housing units with a householder who is White alone
+  8	OwnOcpHousUntHhWhtAlnNotHispLat                          	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino
+ 11	SpecRentOcpHousUnt                                       	Specified renter-occupied housing units                               
+ 12	RentOcpHousUntPayCash                                   	Specified renter-occupied housing units paying cash rent              
+  3	RentOcpHousUntPayCashHhAmIndAkNatAln                     	Specified renter-occupied housing units paying cash rent with a householder who is American Indian and Alaska Native alone
+  3	RentOcpHousUntPayCashHhAsnAln                            	Specified renter-occupied housing units paying cash rent with a householder who is Asian alone
+  3	RentOcpHousUntPayCashHhBlkAfAmerAln                      	Specified renter-occupied housing units paying cash rent with a householder who is Black or African American alone
+  3	RentOcpHousUntPayCashHhHispLat                          	Specified renter-occupied housing units paying cash rent with a householder who is Hispanic or Latino
+  3	RentOcpHousUntPayCashHhNatHiPacIslAln                    	Specified renter-occupied housing units paying cash rent with a householder who is Native Hawaiian and Other Pacific Islander alone
+  3	RentOcpHousUntPayCashHhSmeOthRaceAln                    	Specified renter-occupied housing units paying cash rent with a householder who is Some other race alone
+  3	RentOcpHousUntPayCashHhGte2race                         	Specified renter-occupied housing units paying cash rent with a householder who is Two or more races
+  3	RentOcpHousUntPayCashHhWhtAln                            	Specified renter-occupied housing units paying cash rent with a householder who is White alone
+  3	RentOcpHousUntPayCashHhWhtAlnNotHispLat                 	Specified renter-occupied housing units paying cash rent with a householder who is White alone, not Hispanic or Latino
+  1	RentOcpHousUntRentHhAsnAln                              	Specified renter-occupied housing units rent with a householder who is Asian alone
+  2	RentOcpHousUntHhAmIndAkNatAln                            	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone
+  1	RentOcpHousUntHhAsnAln                                   	Specified renter-occupied housing units with a householder who is Asian alone
+  2	RentOcpHousUntHhBlkAfAmerAln                            	Specified renter-occupied housing units with a householder who is Black or African American alone
+  2	RentOcpHousUntHhHispLat                                 	Specified renter-occupied housing units with a householder who is Hispanic or Latino
+  2	RentOcpHousUntHhNatHiPacIslAln                          	Specified renter-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone
+  2	RentOcpHousUntHhSmeOthRaceAln                           	Specified renter-occupied housing units with a householder who is Some other race alone
+  2	RentOcpHousUntHhGte2races                               	Specified renter-occupied housing units with a householder who is Two or more races
+  2	RentOcpHousUntHhWhtAln                                   	Specified renter-occupied housing units with a householder who is White alone
+  2	RentOcpHousUntHhWhtAlnNotHispLat                         	Specified renter-occupied housing units with a householder who is White alone, not Hispanic or Latino
+  4	SpecVacForRentHousUnt                                   	Specified vacant-for-rent housing units                               
+  4	SpecVacRorSaleHousUnt                                   	Specified vacant-for-sale-only housing units                          
   2	Spouse                                                  	Spouse                                                                
-  6	Spouse did not work in 1999                             	Spouse did not work in 1999                                           
-  6	Spouse worked full-time year-round in 1999              	Spouse worked full-time, year-round in 1999                           
-  6	Spouse worked Ltfull-time year-round in 1999            	Spouse worked less than full-time, year-round in 1999                 
+  6	SpouseDidNotWork1999                                    	Spouse did not work in 1999                                           
+  6	SpouseWrkdFTyear1999                                    	Spouse worked full-time, year-round in 1999                           
+  6	SpouseWrkdLtFTyear1999                                  	Spouse worked less than full-time, year-round in 1999                 
   6	Occ051                                                  	State government workers                                              
   1	Step                                                    	Step                                                                  
  10	StrtcarTrolley                                          	Streetcar or trolley car (público in Puerto Rico)                     
-  1	Subfamilies                                             	Subfamilies                                                           
-  3	Subsaharan African:                                     	Subsaharan African:                                                   
+  1	SubFam                                                   	Subfamilies                                                           
+  3	SubSahAfr:                                               	Subsaharan African:                                                   
  10	SubwayElev                                              	Subway or elevated                                                    
-  3	Sudanese                                                	Sudanese                                                              
+  3	Anc088                                                  	Sudanese                                                              
   2	Occ052                                                  	Supervisors, construction and extraction workers                      
   2	Occ053                                                  	Supervisors, transportation and material moving workers               
-  1	Sweden                                                  	Sweden                                                                
-  3	Swedish                                                 	Swedish                                                               
-  3	Swiss                                                   	Swiss                                                                 
-  1	Syria                                                   	Syria                                                                 
-  3	Syrian                                                  	Syrian                                                                
+  1	Ctry089                                                  	Sweden                                                                
+  3	Anc089                                                  	Swedish                                                               
+  3	Anc090                                                  	Swiss                                                                 
+  1	Ctry090                                                  	Syria                                                                 
+  3	Anc091                                                  	Syrian                                                                
   2	Tagalog                                                 	Tagalog                                                               
-  1	Taiwan                                                  	Taiwan                                                                
+  1	Ctry091                                                  	Taiwan                                                                
  10	Taxi                                                    	Taxicab                                                               
   2	Thai                                                    	Thai                                                                  
-  1	Thailand                                                	Thailand                                                              
+  1	Ctry092                                                  	Thailand                                                              
  54	Tot                                                     	Total                                                                 
  10	TotDisabPeople16to64y:                                  	Total disabilities tallied for people 16 to 64 years:                 
  10	TotDisabPeople5to15y:                                   	Total disabilities tallied for people 5 to 15 years:                  
  10	TotDisabPeopleGte65y:                                   	Total disabilities tallied for people 65 years and over:              
-  1	TotDisab talliedCivNInstAmIndAkNatAlnPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstAsnAlnPop5y and over with Disab 	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstBlkAfAmerAlnPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstHispLatPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized Hispanic or Latino population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstNatHiPacIslAlnPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstSome other race AlnPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized Some other race alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstGte2races Pop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized Two or more races population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstWhtAlnPop5y and over with Disab 	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities
-  1	TotDisab talliedCivNInstWhtAlnnot HispLatPop5y and over with Disab	Total disabilities tallied for the civilian noninstitutionalized White alone, not Hispanic or Latino population 5 years and over with disabilities
+  1	TotDisabCivNInstAmIndAkNatAlnPopGte5yDisab               	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities
+  1	TotDisabCivNInstAsnAlnPopGte5yDisab                     	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities
+  1	TotDisabCivNInstBlkAfAmerAlnPopGte5yDisab               	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities
+  1	TotDisabCivNInstHispLatPopGte5yDisab                    	Total disabilities tallied for the civilian noninstitutionalized Hispanic or Latino population 5 years and over with disabilities
+  1	TotDisabCivNInstNatHiPacIslAlnPopGte5yDisab             	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities
+  1	TotDisabCivNInstSmeOthRaceAlnPopGte5yDisab              	Total disabilities tallied for the civilian noninstitutionalized Some other race alone population 5 years and over with disabilities
+  1	TotDisabCivNInstGte2racesPopGte5yDisab                  	Total disabilities tallied for the civilian noninstitutionalized Two or more races population 5 years and over with disabilities
+  1	TotDisabCivNInstWhtAlnPopGte5yDisab                     	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities
+  1	TotDisabCivNInstWhtAlnNotHispLatPopGte5yDisab           	Total disabilities tallied for the civilian noninstitutionalized White alone, not Hispanic or Latino population 5 years and over with disabilities
  10	TotDisab:                                               	Total disabilities tallied:                                           
- 18	Totpopulation                                           	Total population                                                      
-  3	TotPopin occupied housing units:                        	Total population in occupied housing units:                           
-  1	Totspecified ancestries tallied:                        	Total specified ancestries tallied:                                   
+ 18	TotPop                                                  	Total population                                                      
+  3	TotPopOcpHousUnt:                                       	Total population in occupied housing units:                           
+  1	TotSpecAnc:                                             	Total specified ancestries tallied:                                   
 573	Tot:                                                    	Total:                                                                
   2	TransMatMovOcc:                                         	Transportation and material moving occupations:                       
   2	Occ054                                                  	Transportation and warehousing                                        
   2	TransWareUtil:                                          	Transportation and warehousing, and utilities:                        
-  1	Trinidad and Tobago                                     	Trinidad and Tobago                                                   
-  3	Trinidadian and Tobagonian                              	Trinidadian and Tobagonian                                            
-  1	Turkey                                                  	Turkey                                                                
-  3	Turkish                                                 	Turkish                                                               
-  3	Gte2Races                                               	Two or more races                                                     
-  1	Gte2races CivNInstPop5y and over                        	Two or more races civilian noninstitutionalized population 5 years and over
-  1	Gte2races females 16y and over                          	Two or more races females 16 years and over                           
-  1	Gte2races own children Lt18y in Famand subfamilies      	Two or more races own children under 18 years in families and subfamilies
-  3	Gte2races population                                    	Two or more races population                                          
-  1	Gte2races Pop15y and over                               	Two or more races population 15 years and over                        
-  1	Gte2races Pop16to19y                                    	Two or more races population 16 to 19 years                           
-  3	Gte2races Pop16y and over                               	Two or more races population 16 years and over                        
-  1	Gte2races Pop16y and over with earnings in 1999         	Two or more races population 16 years and over with earnings in 1999  
-  1	Gte2races Pop18y and over                               	Two or more races population 18 years and over                        
-  1	Gte2races Pop25y and over                               	Two or more races population 25 years and over                        
-  1	Gte2races Pop3y and over                                	Two or more races population 3 years and over                         
-  2	Gte2races Pop5y and over                                	Two or more races population 5 years and over                         
-  2	Gte2races populationwhom poverty status is determined   	Two or more races population for whom poverty status is determined    
-  1	Gte2races workers 16y and over                          	Two or more races workers 16 years and over                           
+  1	Ctry093                                                  	Trinidad and Tobago                                                   
+  3	Anc092                                                  	Trinidadian and Tobagonian                                            
+  1	Ctry094                                                  	Turkey                                                                
+  3	Anc093                                                  	Turkish                                                               
+  3	Gte2races                                               	Two or more races                                                     
+  1	Gte2racesCivNInstPopGte5y                                	Two or more races civilian noninstitutionalized population 5 years and over
+  1	Gte2racesFemGte16y                                      	Two or more races females 16 years and over                           
+  1	Gte2racesOwnChldLt18yFamSubFam                          	Two or more races own children under 18 years in families and subfamilies
+  3	Gte2racesPop                                             	Two or more races population                                          
+  1	Gte2racesPopGte15y                                      	Two or more races population 15 years and over                        
+  1	Gte2racesPop16to19y                                      	Two or more races population 16 to 19 years                           
+  3	Gte2racesPopGte16y                                      	Two or more races population 16 years and over                        
+  1	Gte2racesPopGte16yEarn1999                              	Two or more races population 16 years and over with earnings in 1999  
+  1	Gte2racesPopGte18y                                      	Two or more races population 18 years and over                        
+  1	Gte2racesPopGte25y                                       	Two or more races population 25 years and over                        
+  1	Gte2racesPopGte3y                                       	Two or more races population 3 years and over                         
+  2	Gte2racesPopGte5y                                        	Two or more races population 5 years and over                         
+  2	Gte2racesPopPovStatDet                                   	Two or more races population for whom poverty status is determined    
+  1	Gte2racesWrkrGte16y                                     	Two or more races workers 16 years and over                           
  21	USIslAreas                                              	U.S. Island Areas                                                     
-  3	U.S. Virgin Islander                                    	U.S. Virgin Islander                                                  
-  3	Ugandan                                                 	Ugandan                                                               
-  1	Ukraine                                                 	Ukraine                                                               
-  3	Ukrainian                                               	Ukrainian                                                             
-  2	Unclassifiedornot reported                              	Unclassified or not reported                                          
+  3	Anc094                                                  	U.S. Virgin Islander                                                  
+  3	Anc095                                                  	Ugandan                                                               
+  1	Ctry095                                                  	Ukraine                                                               
+  3	Anc096                                                  	Ukrainian                                                             
+  2	UnclsNotRprt                                            	Unclassified or not reported                                          
  14	Lt0.50                                                  	Under .50                                                             
   2	Lt1y                                                    	Under 1 year                                                          
   1	Lt1.30:                                                 	Under 1.30:                                                           
   1	Lt1.50:                                                 	Under 1.50:                                                           
   4	Lt25y:                                                  	Under 25 years:                                                       
   3	Lt3y                                                    	Under 3 years                                                         
-  8	Lt5 and 5to17y                                          	Under 5 and 5 to 17 years                                             
+  8	Lt5and5to17y                                            	Under 5 and 5 to 17 years                                             
 138	Lt5y                                                    	Under 5 years                                                         
  64	Lt5yand5to17y                                           	Under 5 years and 5 to 17 years                                       
  72	Lt5yOnly                                                	Under 5 years only                                                    
   1	Lt5y:                                                   	Under 5 years:                                                        
-  6	Lt6 and 6to17y                                          	Under 6 and 6 to 17 years                                             
+  6	Lt6and6to17y                                            	Under 6 and 6 to 17 years                                             
   6	Lt6yand6to17y                                           	Under 6 years and 6 to 17 years                                       
  10	Lt6yand6to17y:                                          	Under 6 years and 6 to 17 years:                                      
  12	Lt6yOnly                                                	Under 6 years only                                                    
@@ -1497,136 +1497,136 @@
   2	Lt65y:                                                  	Under 65 years:                                                       
 121	Unempl                                                  	Unemployed                                                            
   1	Unempl:                                                 	Unemployed:                                                           
-  1	United Kingdom                                          	United Kingdom                                                        
-  3	United StatesorAmerican                                 	United States or American                                             
-  1	Unmarried-partner HH:                                   	Unmarried-partner households:                                         
+  1	Ctry096                                                 	United Kingdom                                                        
+  3	Anc097                                                   	United States or American                                             
+  1	UnmarriedPartHH:                                         	Unmarried-partner households:                                         
   6	UnpaidFamWrkr                                           	Unpaid family workers                                                 
   6	UnrelInd                                                	Unrelated individuals                                                 
-  1	Unrelated individuals 15y and overwhom poverty status is determined	Unrelated individuals 15 years and over for whom poverty status is determined
-  4	Unrelated individualswhom poverty status is determined  	Unrelated individuals for whom poverty status is determined           
-  1	Unrelated individuals with Incin 1999 belowpoverty level	Unrelated individuals with income in 1999 below the poverty level     
-  1	Upper contract rent quartile                            	Upper contract rent quartile                                          
-  1	Upper Valquartile                                       	Upper value quartile                                                  
+  1	UnrelIndGte15yPovStatDet                                	Unrelated individuals 15 years and over for whom poverty status is determined
+  4	UnrelIndPovStatDet                                      	Unrelated individuals for whom poverty status is determined           
+  1	UnrelIndInc1999LtPovLev                                 	Unrelated individuals with income in 1999 below the poverty level     
+  1	UpperContRentQuart                                      	Upper contract rent quartile                                          
+  1	UpperValQuart                                           	Upper value quartile                                                  
   2	Urban:                                                  	Urban:                                                                
   2	Urdu                                                    	Urdu                                                                  
  20	UslyWork1to14hWeek:                                     	Usually worked 1 to 14 hours per week:                                
  20	UslyWork15to34hWeek:                                    	Usually worked 15 to 34 hours per week:                               
  20	UslyWorkGte35hWeek:                                     	Usually worked 35 or more hours per week:                             
   2	Occ055                                                  	Utilities                                                             
-  3	Utility gas                                             	Utility gas                                                           
+  3	UtilGas                                                  	Utility gas                                                           
   2	Vacant                                                  	Vacant                                                                
-  4	Vacant housing units                                    	Vacant housing units                                                  
-  7	ValUsd10kto19k                                          	Value $10,000 to $19,999                                              
-  7	ValUsd100kto199k                                        	Value $100,000 to $199,999                                            
-  7	ValUsd20kto29k                                          	Value $20,000 to $29,999                                              
-  7	ValUsd200kto299k                                        	Value $200,000 to $299,999                                            
-  7	ValUsd30kto39k                                          	Value $30,000 to $39,999                                              
-  7	ValUsd300kto499k                                        	Value $300,000 to $499,999                                            
-  7	ValUsd40kto49k                                          	Value $40,000 to $49,999                                              
-  7	ValUsd50kto59k                                          	Value $50,000 to $59,999                                              
+  4	VacantHousUnt                                           	Vacant housing units                                                  
+  7	ValUsd10kto20k                                          	Value $10,000 to $19,999                                              
+  7	ValUsd100kto200k                                        	Value $100,000 to $199,999                                            
+  7	ValUsd20kto30k                                          	Value $20,000 to $29,999                                              
+  7	ValUsd200kto300k                                        	Value $200,000 to $299,999                                            
+  7	ValUsd30kto40k                                          	Value $30,000 to $39,999                                              
+  7	ValUsd300kto500k                                        	Value $300,000 to $499,999                                            
+  7	ValUsd40kto50k                                          	Value $40,000 to $49,999                                              
+  7	ValUsd50kto60k                                          	Value $50,000 to $59,999                                              
   7	ValUsd500korM                                           	Value $500,000 or more                                                
-  7	ValUsd60kto69k                                          	Value $60,000 to $69,999                                              
-  7	ValUsd70kto79k                                          	Value $70,000 to $79,999                                              
-  7	ValUsd80kto89k                                          	Value $80,000 to $89,999                                              
-  7	ValUsd90kto99k                                          	Value $90,000 to $99,999                                              
-  7	ValLt$10000                                             	Value less than $10,000                                               
-  1	Venezuela                                               	Venezuela                                                             
+  7	ValUsd60kto70k                                          	Value $60,000 to $69,999                                              
+  7	ValUsd70kto80k                                          	Value $70,000 to $79,999                                              
+  7	ValUsd80kto90k                                          	Value $80,000 to $89,999                                              
+  7	ValUsd90kto100k                                          	Value $90,000 to $99,999                                              
+  7	ValLtUsd10k                                              	Value less than $10,000                                               
+  1	Ctry097                                                 	Venezuela                                                             
  40	Vet                                                     	Veteran                                                               
-  1	Vietnam                                                 	Vietnam                                                               
+  1	Ctry098                                                  	Vietnam                                                               
   1	VietKorWarNoWWIINoAug1990Later                          	Vietnam era and Korean War, no World War II, no August 1990 or later  
   1	VietKorWarWWIINoAug1990Later                            	Vietnam era, Korean War, and World War II, no August 1990 or later    
   1	VietNoKorWarNoWWIINoAug1990Later                        	Vietnam era, no Korean War, no World War II, no August 1990 or later  
   2	Vietnamese                                              	Vietnamese                                                            
  10	Walked                                                  	Walked                                                                
-  3	Welsh                                                   	Welsh                                                                 
+  3	Anc098                                                  	Welsh                                                                 
  21	West                                                    	West                                                                  
-  3	West Indian                                             	West Indian                                                           
-  3	West Indian (excluding Hispanic groups):                	West Indian (excluding Hispanic groups):                              
-  1	Western Africa:                                         	Western Africa:                                                       
-  1	Western Asia:                                           	Western Asia:                                                         
-  1	Western Europe:                                         	Western Europe:                                                       
-  1	WhtAlnnot HispLatpopulation                             	White Alone, not Hispanic or Latino population                        
-  3	WhiteAlone                                              	White alone                                                           
-  1	WhtAlnCivNInstPop5y and over                            	White alone civilian noninstitutionalized population 5 years and over 
-  1	WhtAlnfemales 16y and over                              	White alone females 16 years and over                                 
-  1	WhtAlnown children Lt18y in Famand subfamilies          	White alone own children under 18 years in families and subfamilies   
-  3	WhtAlnpopulation                                        	White alone population                                                
-  1	WhtAlnPop15y and over                                   	White alone population 15 years and over                              
+  3	Anc099                                                  	West Indian                                                           
+  3	WestIndExclHisp:                                        	West Indian (excluding Hispanic groups):                              
+  1	WestrnAfr:                                              	Western Africa:                                                       
+  1	WestrnAsia:                                               	Western Asia:                                                         
+  1	WestrnEur:                                               	Western Europe:                                                       
+  1	WhtAlnNotHispLatPop                                     	White Alone, not Hispanic or Latino population                        
+  3	WhtAln                                                     	White alone                                                           
+  1	WhtAlnCivNInstPopGte5y                                  	White alone civilian noninstitutionalized population 5 years and over 
+  1	WhtAlnFemGte16y                                         	White alone females 16 years and over                                 
+  1	WhtAlnOwnChldLt18yFamSubFam                              	White alone own children under 18 years in families and subfamilies   
+  3	WhtAlnPop                                                	White alone population                                                
+  1	WhtAlnPopGte15y                                         	White alone population 15 years and over                              
   1	WhtAlnPop16to19y                                        	White alone population 16 to 19 years                                 
-  3	WhtAlnPop16y and over                                   	White alone population 16 years and over                              
-  1	WhtAlnPop16y and over with earnings in 1999             	White alone population 16 years and over with earnings in 1999        
-  1	WhtAlnPop18y and over                                   	White alone population 18 years and over                              
-  1	WhtAlnPop25y and over                                   	White alone population 25 years and over                              
-  1	WhtAlnPop3y and over                                    	White alone population 3 years and over                               
-  2	WhtAlnPop5y and over                                    	White alone population 5 years and over                               
-  2	WhtAlnpopulationwhom poverty status is determined       	White alone population for whom poverty status is determined          
-  1	WhtAlnworkers 16y and over                              	White alone workers 16 years and over                                 
-  1	WhtAlnnot HispLatCivNInstPop5y and over                 	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over
-  1	WhtAlnnot HispLatfemales 16y and over                   	White alone, not Hispanic or Latino females 16 years and over         
-  1	WhtAlnnot HispLatown children Lt18y in Famand subfamilies	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies
-  2	WhtAlnnot HispLatpopulation                             	White alone, not Hispanic or Latino population                        
-  1	WhtAlnnot HispLatPop15y and over                        	White alone, not Hispanic or Latino population 15 years and over      
-  1	WhtAlnnot HispLatPop16to19y                             	White alone, not Hispanic or Latino population 16 to 19 years         
-  3	WhtAlnnot HispLatPop16y and over                        	White alone, not Hispanic or Latino population 16 years and over      
-  1	WhtAlnnot HispLatPop16y and over with earnings in 1999  	White alone, not Hispanic or Latino population 16 years and over with earnings in 1999
-  1	WhtAlnnot HispLatPop18y and over                        	White alone, not Hispanic or Latino population 18 years and over      
-  1	WhtAlnnot HispLatPop25y and over                        	White alone, not Hispanic or Latino population 25 years and over      
-  1	WhtAlnnot HispLatPop3y and over                         	White alone, not Hispanic or Latino population 3 years and over       
-  2	WhtAlnnot HispLatPop5y and over                         	White alone, not Hispanic or Latino population 5 years and over       
-  2	WhtAlnnot HispLatpopulationwhom poverty status is determined	White alone, not Hispanic or Latino population for whom poverty status is determined
-  1	WhtAlnnot HispLatworkers 16y and over                   	White alone, not Hispanic or Latino workers 16 years and over         
+  3	WhtAlnPopGte16y                                         	White alone population 16 years and over                              
+  1	WhtAlnPopGte16yEarn1999                                  	White alone population 16 years and over with earnings in 1999        
+  1	WhtAlnPopGte18y                                         	White alone population 18 years and over                              
+  1	WhtAlnPopGte25y                                          	White alone population 25 years and over                              
+  1	WhtAlnPopGte3y                                           	White alone population 3 years and over                               
+  2	WhtAlnPopGte5y                                          	White alone population 5 years and over                               
+  2	WhtAlnPopPovStatDet                                      	White alone population for whom poverty status is determined          
+  1	WhtAlnWrkrsGte16y                                        	White alone workers 16 years and over                                 
+  1	WhtAlnNotHispLatCivNInstPopGte5y                         	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over
+  1	WhtAlnNotHispLatFemGte16y                               	White alone, not Hispanic or Latino females 16 years and over         
+  1	WhtAlnNotHispLatOwnChldLt18yFamSubFam                    	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies
+  2	WhtAlnNotHispLatPop                                     	White alone, not Hispanic or Latino population                        
+  1	WhtAlnNotHispLatPopGte15y                                	White alone, not Hispanic or Latino population 15 years and over      
+  1	WhtAlnNotHispLatPop16to19y                              	White alone, not Hispanic or Latino population 16 to 19 years         
+  3	WhtAlnNotHispLatPopGte16y                                	White alone, not Hispanic or Latino population 16 years and over      
+  1	WhtAlnNotHispLatPopGte16yEarn1999                       	White alone, not Hispanic or Latino population 16 years and over with earnings in 1999
+  1	WhtAlnNotHispLatPopGte18y                               	White alone, not Hispanic or Latino population 18 years and over      
+  1	WhtAlnNotHispLatPopGte25y                                	White alone, not Hispanic or Latino population 25 years and over      
+  1	WhtAlnNotHispLatPopGte3y                                 	White alone, not Hispanic or Latino population 3 years and over       
+  2	WhtAlnNotHispLatPopGte5y                                	White alone, not Hispanic or Latino population 5 years and over       
+  2	WhtAlnNotHispLatPopPovStatDet                           	White alone, not Hispanic or Latino population for whom poverty status is determined
+  1	WhtAlnNotHispLatWrkrsGte16y                             	White alone, not Hispanic or Latino workers 16 years and over         
   2	Occ056                                                  	Wholesale trade                                                       
   2	Widowed                                                 	Widowed                                                               
   2	Widowed:                                                	Widowed:                                                              
   3	WifeLaborFor:                                           	Wife in labor force:                                                  
   3	WifeNotLaborFor                                         	Wife not in labor force                                               
- 12	WthSSI and/or public assistance Incin 1999              	With SSI and/or public assistance income in 1999                      
+ 12	WthSSIPubAssInc1999                                       	With SSI and/or public assistance income in 1999                      
   5	WthSocSecInc                                            	With Social Security income                                           
- 12	WthSocial Security Incin 1999:                          	With Social Security income in 1999:                                  
+ 12	WthSocSecInc1999:                                       	With Social Security income in 1999:                                  
   1	WthSuppSecInc                                           	With Supplemental Security Income (SSI)                               
  60	WithDisab                                               	With a disability                                                     
  50	WithDisab:                                              	With a disability:                                                    
-  4	Withgo-outside-home Disab                               	With a go-outside-home disability                                     
-  4	Withgo-outside-home Disab:                              	With a go-outside-home disability:                                    
-  6	Withmental Disab                                        	With a mental disability                                              
-  4	Withmental Disab:                                       	With a mental disability:                                             
-  6	Withphysical Disab                                      	With a physical disability                                            
-  4	Withphysical Disab:                                     	With a physical disability:                                           
-  6	Withself-care Disab                                     	With a self-care disability                                           
-  4	Withself-care Disab:                                    	With a self-care disability:                                          
-  6	Withsensory Disab                                       	With a sensory disability                                             
-  4	Withsensory Disab:                                      	With a sensory disability:                                            
-  4	Wthan employment Disab:                                 	With an employment disability:                                        
- 22	Wthcash rent:                                           	With cash rent:                                                       
+  4	WithOutHomeDisab                                        	With a go-outside-home disability                                     
+  4	WithOutHomeDisab:                                       	With a go-outside-home disability:                                    
+  6	WithMentDisab                                           	With a mental disability                                              
+  4	WithMentDisab:                                          	With a mental disability:                                             
+  6	WithPhysDisab                                           	With a physical disability                                            
+  4	WithPhysDisab:                                          	With a physical disability:                                           
+  6	WithSelfCareDisab                                       	With a self-care disability                                           
+  4	WithSelfCareDisab:                                      	With a self-care disability:                                          
+  6	WithSensDisab                                           	With a sensory disability                                             
+  4	WithSensDisab:                                          	With a sensory disability:                                            
+  4	WthEmplDisab:                                           	With an employment disability:                                        
+ 22	WthCashRent:                                             	With cash rent:                                                       
   1	WthEarn                                                 	With earnings                                                         
- 40	Wthearnings:                                            	With earnings:                                                        
-  1	Wtheithersecond mortgageorhome equity loan but not both:	With either a second mortgage or home equity loan, but not both:      
-  2	Wthfour selected conditions                             	With four selected conditions                                         
+ 40	WthEarn:                                                	With earnings:                                                        
+  1	WthSecMortOrHomeEqLoanNotBoth:                           	With either a second mortgage or home equity loan, but not both:      
+  2	Wth4SelCond                                             	With four selected conditions                                         
   4	WthInc:                                                 	With income:                                                          
   1	WthIntDivNetRentInc                                     	With interest, dividends, or net rental income                        
-  2	Wthone selected condition                               	With one selected condition                                           
-  8	Wthone typeDisab:                                       	With one type of disability:                                          
+  2	Wth1SelCond                                             	With one selected condition                                           
+  8	Wth1Disab:                                               	With one type of disability:                                          
   1	WthOthInc                                               	With other types of income                                            
  71	WthOwnChldLt18y                                         	With own children under 18 years                                      
  22	WthOwnChldLt18y:                                        	With own children under 18 years:                                     
   5	WthPubAssInc                                            	With public assistance income                                         
- 12	Wthpublic assistance Incin 1999                         	With public assistance income in 1999                                 
+ 12	WthPubAssInc1999                                        	With public assistance income in 1999                                 
  75	WthRelChldLt18y:                                        	With related children under 18 years:                                 
   1	WthRetInc                                               	With retirement income                                                
   1	WthSelfEmplInc                                          	With self-employment income                                           
- 13	Wthtelephone service available                          	With telephone service available                                      
-  2	Wthtelephone service available:                         	With telephone service available:                                     
-  2	Wththree selected conditions                            	With three selected conditions                                        
-  8	Wthtwoormore typesDisab:                                	With two or more types of disability:                                 
-  2	Wthtwo selected conditions                              	With two selected conditions                                          
+ 13	WthPhoneServAvail                                        	With telephone service available                                      
+  2	WthPhoneServAvail:                                      	With telephone service available:                                     
+  2	Wth3SelCond                                              	With three selected conditions                                        
+  8	WthGte2Disab:                                             	With two or more types of disability:                                 
+  2	Wth2SelCond                                             	With two selected conditions                                          
   1	WthWageSalInc                                           	With wage or salary income                                            
- 12	Without SSIorpublic assistance Incin 1999               	Without SSI or public assistance income in 1999                       
- 12	Without Social Security Incin 1999:                     	Without Social Security income in 1999:                               
- 12	Without public assistance Incin 1999                    	Without public assistance income in 1999                              
+ 12	WthoutSSIPubAssInc1999                                  	Without SSI or public assistance income in 1999                       
+ 12	WthoutSocSecInc1999:                                    	Without Social Security income in 1999:                               
+ 12	WthoutPubAssInc1999                                     	Without public assistance income in 1999                              
   3	Wood                                                    	Wood                                                                  
  14	WrkdAtHome                                              	Worked at home                                                        
-  2	Wrkdfull-time year round in 1999                        	Worked full-time, year round in 1999                                  
- 24	Wrkdfull-time year-round in 1999:                       	Worked full-time, year-round in 1999:                                 
+  2	WrkdFTyear1999                                           	Worked full-time, year round in 1999                                  
+ 24	WrkdFTyear1999:                                         	Worked full-time, year-round in 1999:                                 
  22	Wrkd1999:                                               	Worked in 1999:                                                       
   2	WrkdMSA/PMSAres:                                        	Worked in MSA/PMSA of residence:                                      
   2	WrkdDiffMSA/PMSA:                                       	Worked in a different MSA/PMSA:                                       
@@ -1635,27 +1635,27 @@
   1	WrkdMinCivDivRes                                        	Worked in minor civil division of residence                           
   1	WrkdPlaceRes                                            	Worked in place of residence                                          
   1	WrkdStRes:                                              	Worked in state of residence:                                         
-  2	WrkdLtfull-time year-round in 1999:                     	Worked less than full-time, year-round in 1999:                       
+  2	WrkdLtFTyear1999:                                       	Worked less than full-time, year-round in 1999:                       
   2	WrkdOutMSA/PMSAres:                                     	Worked outside MSA/PMSA of residence:                                 
   3	WrkdOutAnyMSA/PMSA                                      	Worked outside any MSA/PMSA                                           
   1	WrkdOutCntyRes                                          	Worked outside county of residence                                    
   1	WrkdOutMinCivDivRes                                     	Worked outside minor civil division of residence                      
   1	WrkdOutPlaceRes                                         	Worked outside place of residence                                     
   1	WrkdOutStRes                                            	Worked outside state of residence                                     
- 13	Workers 16y and over                                    	Workers 16 years and over                                             
-  2	Workers 16y and over who did not work at home           	Workers 16 years and over who did not work at home                    
+ 13	WrkrsGte16y                                              	Workers 16 years and over                                             
+  2	WrkrsGte16yDidNotWorkHome                                	Workers 16 years and over who did not work at home                    
   1	WWIInoKorWarNoViet                                      	World War II, no Korean War, no Vietnam era                           
  11	YearEntry1980to1989:                                    	Year of entry 1980 to 1989:                                           
  11	YearEntry1990toMar2000:                                 	Year of entry 1990 to March 2000:                                     
  11	YearEntryBef1980:                                       	Year of entry before 1980:                                            
   2	Yiddish                                                 	Yiddish                                                               
-  1	Yugoslavia                                              	Yugoslavia                                                            
-  3	Yugoslavian                                             	Yugoslavian                                                           
-  3	Zairian                                                 	Zairian                                                               
-  3	Zimbabwean                                              	Zimbabwean                                                            
- 10	cn5population                                           	cn5population                                                         
-  1	cn5populationwhom poverty status is determined          	cn5population for whom poverty status is determined                   
-  1	cn5Popwith Disab                                        	cn5population with disabilities                                       
-  2	cnPop16to64y                                            	cnpopulation 16 to 64 years                                           
-  2	cnPop16y and over                                       	cnpopulation 16 years and over                                        
-  1	cnPop18to34y                                            	cnpopulation 18 to 34 years                                           
+  1	Ctry099                                                  	Yugoslavia                                                            
+  3	Anc100                                                  	Yugoslavian                                                           
+  3	Anc101                                                  	Zairian                                                               
+  3	Anc102                                                  	Zimbabwean                                                            
+ 10	CivNonInstPopGte5y                                         	cn5population                                                         
+  1	CivNonInstPopGte5yPovStatDet                            	cn5population for whom poverty status is determined                   
+  1	CivNonInstPopGte5yPopDisab                                	cn5population with disabilities                                       
+  2	CivNonInstPop16to64y                                      	cnpopulation 16 to 64 years                                           
+  2	CivNonInstPopGte16y                                     	cnpopulation 16 years and over                                        
+  1	CivNonInstPop18to34y                                       	cnpopulation 18 to 34 years                                           
