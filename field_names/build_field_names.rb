@@ -1,5 +1,5 @@
 
-mod_field_names = 'mod_universe_with_counts_aligned.tsv'
+mod_field_names = 'clean_field_names.tsv'
 codes_names = 'raw_with_field_code_universe.tsv'
 
 const_field_names = File.open("constructed_field_names.tsv", "w")
