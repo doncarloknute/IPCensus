@@ -421,7 +421,7 @@
   1	AllOthHH                                                 	All other households                                                  
   3	Anc005                                                   	Alsatian                                                              
   3	AmIndAkNatAlone                                         	American Indian and Alaska Native alone                               
-  1	AmIndAkNatAlnCivNInstGtePop5y                           	American Indian and Alaska Native alone civilian noninstitutionalized population 5 years and over
+  1	AmIndAkNatAlnCNIGtePop5y                                	American Indian and Alaska Native alone civilian noninstitutionalized population 5 years and over
   1	AmIndAkNatAlnFemGte16y                                  	American Indian and Alaska Native alone females 16 years and over     
   1	AmIndAkNatAlnOwnChldLt18yFamSubFam                      	American Indian and Alaska Native alone own children under 18 years in families and subfamilies
   3	AmIndAkNatAlnPop                                         	American Indian and Alaska Native alone population                    
@@ -454,7 +454,7 @@
   1	Ctry005                                                 	Asia, n.e.c.                                                          
   2	Asia:                                                   	Asia:                                                                 
   3	AsianAln                                                	Asian alone                                                           
-  1	AsnAlnCivNInstPopGte5y                                  	Asian alone civilian noninstitutionalized population 5 years and over 
+  1	AsnAlnCNIPopGte5y                                       	Asian alone civilian noninstitutionalized population 5 years and over 
   1	AsnAlnFemGte16y                                          	Asian alone females 16 years and over                                 
   1	AsnAlnOwnChldLt18yFamSubFam                              	Asian alone own children under 18 years in families and subfamilies   
   3	AsnAlnPop                                               	Asian alone population                                                
@@ -491,7 +491,7 @@
   3	Anc016                                                  	Bermudan                                                              
  10	Bike                                                    	Bicycle                                                               
   3	BlkAfAmerAln                                            	Black or African American alone                                       
-  1	BlkAfAmerAlnCivNInstPopGte5y                            	Black or African American alone civilian noninstitutionalized population 5 years and over
+  1	BlkAfAmerAlnCNIPopGte5y                                 	Black or African American alone civilian noninstitutionalized population 5 years and over
   1	BlkAfAmerAlnFemGte16y                                   	Black or African American alone females 16 years and over             
   1	BlkAfAmerAlnOwnChldLt18yFamSubFam                       	Black or African American alone own children under 18 years in families and subfamilies
   3	BlkAfAmerAlnPop                                          	Black or African American alone population                            
@@ -733,7 +733,7 @@
  34	HighSchGradEquiv                                        	High school graduate (includes equivalency)                           
  10	HighSchGrad:                                            	High school graduate:                                                 
   2	Hindi                                                   	Hindi                                                                 
-  1	HispLatCivNInstPopGte5y                                 	Hispanic or Latino civilian noninstitutionalized population 5 years and over
+  1	HispLatCNIPopGte5y                                      	Hispanic or Latino civilian noninstitutionalized population 5 years and over
   1	HispLatFemGte16y                                        	Hispanic or Latino females 16 years and over                          
   1	HispLatHh:                                              	Hispanic or Latino householder:                                       
   1	HispLatOwnChldLt18yFamSubFam                            	Hispanic or Latino own children under 18 years in families and subfamilies
@@ -781,9 +781,9 @@
   8	HhGte85y                                                	Householder 85 years and over                                         
   4	HhNotWork1999                                           	Householder did not work in 1999                                      
   2	HhNotWork1999:                                           	Householder did not work in 1999:                                     
- 20	HhLivAlne                                               	Householder living alone                                              
+ 20	HhLivAln                                               	Householder living alone                                              
   2	HhLiviAln:                                              	Householder living alone:                                             
- 22	HhNotLivAlne                                            	Householder not living alone                                          
+ 22	HhNotLivAln                                            	Householder not living alone                                          
   1	HhOrSpse:                                               	Householder or spouse:                                                
  12	HhLt25y                                                 	Householder under 25 years                                            
  10	HhLt25y:                                                	Householder under 25 years:                                           
@@ -916,19 +916,19 @@
   4	LingIso                                                 	Linguistically isolated                                               
   2	LingIso:                                                 	Linguistically isolated:                                              
   3	Anc059                                                  	Lithuanian                                                            
- 24	LvngAlone                                               	Living alone                                                          
- 12	LvngAln:                                                	Living alone:                                                         
-  1	LvngCentCity:                                           	Living in a central city:                                             
-  1	LvngPlace:                                              	Living in a place:                                                    
-  2	LvngMSA/PMSA2000:                                       	Living in an MSA/PMSA in 2000:                                        
-  1	LvngMSA/PMSA:                                           	Living in an MSA/PMSA:                                                
-  1	LvngRemainMSA/PMSA:                                     	Living in remainder of an MSA/PMSA:                                   
-  1	Lvng12SelSt:                                            	Living in the 12 selected states:                                     
- 20	LvngWFath:                                           	Living with father:                                                   
- 20	LvngWMoth:                                           	Living with mother:                                                   
- 20	LvngW1par:                                           	Living with one parent:                                               
-  6	LvngWOwnGrdCldLt18y:                                 	Living with own grandchildren under 18 years:                         
- 20	LvngW2par:                                           	Living with two parents:                                              
+ 24	LivAln                                                 	Living alone                                                          
+ 12	LivAln:                                                	Living alone:                                                         
+  1	LivCentCity:                                           	Living in a central city:                                             
+  1	LivPlace:                                              	Living in a place:                                                    
+  2	LivMSA/PMSA2000:                                       	Living in an MSA/PMSA in 2000:                                        
+  1	LivMSA/PMSA:                                           	Living in an MSA/PMSA:                                                
+  1	LivRemainMSA/PMSA:                                     	Living in remainder of an MSA/PMSA:                                   
+  1	Liv12SelSt:                                            	Living in the 12 selected states:                                     
+ 20	LivWFath:                                           	Living with father:                                                   
+ 20	LivWMoth:                                           	Living with mother:                                                   
+ 20	LivW1par:                                           	Living with one parent:                                               
+  6	LivWOwnGrdCldLt18y:                                 	Living with own grandchildren under 18 years:                         
+ 20	LivW2par:                                           	Living with two parents:                                              
   6	Occ032                                                  	Local government workers                                              
   1	LowContRentQuart                                        	Lower contract rent quartile                                          
   1	LowValQuart                                             	Lower value quartile                                                  
@@ -1015,7 +1015,7 @@
   2	MvdInSameCentCity                                       	Moved within same central city                                        
   1	MultAncst                                               	Multiple ancestry                                                     
   3	NatHawOthPacIsl                                         	Native Hawaiian and Other Pacific Islander alone                      
-  1	NatHiPacIslAlnCivNInstPopGte5y                          	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over
+  1	NatHiPacIslAlnCNIPopGte5y                               	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over
   1	NatHiPacIslAlnFemGte16y                                 	Native Hawaiian and Other Pacific Islander alone females 16 years and over
   1	NatHiPacIslAlnOwnChldLt18yFamSubFam                      	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies
   3	NatHiPacIslAlnPop                                          	Native Hawaiian and Other Pacific Islander alone population           
@@ -1338,7 +1338,7 @@
   2	SmeCollLt1y                                             	Some college, less than 1 year                                        
  32	SmeCollNoDeg                                            	Some college, no degree                                               
   3	SmeOthRaceAlone                                         	Some other race alone                                                 
-  1	SmeOthRaceAlnCivNInstPopGte5y                            	Some other race alone civilian noninstitutionalized population 5 years and over
+  1	SmeOthRaceAlnCNIPopGte5y                                 	Some other race alone civilian noninstitutionalized population 5 years and over
   1	SmeOthRaceAlnFemGte16y                                   	Some other race alone females 16 years and over                       
   1	SmeOthRaceAlnOwnChldLt18yFamSubFam                      	Some other race alone own children under 18 years in families and subfamilies
   3	SmeOthRaceAlnPop                                         	Some other race alone population                                      
@@ -1435,15 +1435,15 @@
  10	TotDisabPeople16to64y:                                  	Total disabilities tallied for people 16 to 64 years:                 
  10	TotDisabPeople5to15y:                                   	Total disabilities tallied for people 5 to 15 years:                  
  10	TotDisabPeopleGte65y:                                   	Total disabilities tallied for people 65 years and over:              
-  1	TotDisabCivNInstAmIndAkNatAlnPopGte5yDisab               	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities
-  1	TotDisabCivNInstAsnAlnPopGte5yDisab                     	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities
-  1	TotDisabCivNInstBlkAfAmerAlnPopGte5yDisab               	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities
-  1	TotDisabCivNInstHispLatPopGte5yDisab                    	Total disabilities tallied for the civilian noninstitutionalized Hispanic or Latino population 5 years and over with disabilities
-  1	TotDisabCivNInstNatHiPacIslAlnPopGte5yDisab             	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities
-  1	TotDisabCivNInstSmeOthRaceAlnPopGte5yDisab              	Total disabilities tallied for the civilian noninstitutionalized Some other race alone population 5 years and over with disabilities
-  1	TotDisabCivNInstGte2racesPopGte5yDisab                  	Total disabilities tallied for the civilian noninstitutionalized Two or more races population 5 years and over with disabilities
-  1	TotDisabCivNInstWhtAlnPopGte5yDisab                     	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities
-  1	TotDisabCivNInstWhtAlnNotHispLatPopGte5yDisab           	Total disabilities tallied for the civilian noninstitutionalized White alone, not Hispanic or Latino population 5 years and over with disabilities
+  1	TotDisabCNIAmIndAkNatAlnPopGte5y                        	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities
+  1	TotDisabCNIAsnAlnPopGte5y                               	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities
+  1	TotDisabCNIBlkAfAmerAlnPopGte5y                         	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities
+  1	TotDisabCNIHispLatPopGte5y                              	Total disabilities tallied for the civilian noninstitutionalized Hispanic or Latino population 5 years and over with disabilities
+  1	TotDisabCNINatHiPacIslAlnPopGte5y                       	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities
+  1	TotDisabCNISmeOthRaceAlnPopGte5y                        	Total disabilities tallied for the civilian noninstitutionalized Some other race alone population 5 years and over with disabilities
+  1	TotDisabCNIGte2racesPopGte5y                            	Total disabilities tallied for the civilian noninstitutionalized Two or more races population 5 years and over with disabilities
+  1	TotDisabCNIWhtAlnPopGte5y                               	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities
+  1	TotDisabCNIWhtAlnNotHispLatPopGte5y                     	Total disabilities tallied for the civilian noninstitutionalized White alone, not Hispanic or Latino population 5 years and over with disabilities
  10	TotDisab:                                               	Total disabilities tallied:                                           
  18	TotPop                                                  	Total population                                                      
   3	TotPopOcpHousUnt:                                       	Total population in occupied housing units:                           
@@ -1457,7 +1457,7 @@
   1	Ctry094                                                  	Turkey                                                                
   3	Anc093                                                  	Turkish                                                               
   3	Gte2races                                               	Two or more races                                                     
-  1	Gte2racesCivNInstPopGte5y                                	Two or more races civilian noninstitutionalized population 5 years and over
+  1	Gte2racesCNIPopGte5y                                	Two or more races civilian noninstitutionalized population 5 years and over
   1	Gte2racesFemGte16y                                      	Two or more races females 16 years and over                           
   1	Gte2racesOwnChldLt18yFamSubFam                          	Two or more races own children under 18 years in families and subfamilies
   3	Gte2racesPop                                             	Two or more races population                                          
@@ -1547,7 +1547,7 @@
   1	WestrnEur:                                               	Western Europe:                                                       
   1	WhtAlnNotHispLatPop                                     	White Alone, not Hispanic or Latino population                        
   3	WhtAln                                                     	White alone                                                           
-  1	WhtAlnCivNInstPopGte5y                                  	White alone civilian noninstitutionalized population 5 years and over 
+  1	WhtAlnCNIPopGte5y                                       	White alone civilian noninstitutionalized population 5 years and over 
   1	WhtAlnFemGte16y                                         	White alone females 16 years and over                                 
   1	WhtAlnOwnChldLt18yFamSubFam                              	White alone own children under 18 years in families and subfamilies   
   3	WhtAlnPop                                                	White alone population                                                
@@ -1561,7 +1561,7 @@
   2	WhtAlnPopGte5y                                          	White alone population 5 years and over                               
   2	WhtAlnPopPovStatDet                                      	White alone population for whom poverty status is determined          
   1	WhtAlnWrkrsGte16y                                        	White alone workers 16 years and over                                 
-  1	WhtAlnNotHispLatCivNInstPopGte5y                         	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over
+  1	WhtAlnNotHispLatCNIPopGte5y                             	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over
   1	WhtAlnNotHispLatFemGte16y                               	White alone, not Hispanic or Latino females 16 years and over         
   1	WhtAlnNotHispLatOwnChldLt18yFamSubFam                    	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies
   2	WhtAlnNotHispLatPop                                     	White alone, not Hispanic or Latino population                        
