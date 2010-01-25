@@ -4423,18 +4423,18 @@ PCT010003	PopGte5y_5to17y_SpkOnlyEngl	Speak only English
 PCT010004	PopGte5y_5to17y_SpanOrSpanCreole	Spanish or Spanish Creole
 PCT010005	PopGte5y_5to17y_FrnchPatCaj	French (incl. Patois, Cajun)
 PCT010006	PopGte5y_5to17y_FrnchCrle	French Creole
-PCT010007	PopGte5y_5to17y_Anc052	Italian
+PCT010007	PopGte5y_5to17y_Italian	Italian
 PCT010008	PopGte5y_5to17y_PortOrPortCreole	Portuguese or Portuguese Creole
-PCT010009	PopGte5y_5to17y_Anc040	German
+PCT010009	PopGte5y_5to17y_German	German
 PCT010010	PopGte5y_5to17y_Yiddish	Yiddish
 PCT010011	PopGte5y_5to17y_OthWestGermLang	Other West Germanic languages
 PCT010012	PopGte5y_5to17y_ScandLang	Scandinavian languages
-PCT010013	PopGte5y_5to17y_Anc043	Greek
-PCT010014	PopGte5y_5to17y_Anc075	Russian
-PCT010015	PopGte5y_5to17y_Anc072	Polish
+PCT010013	PopGte5y_5to17y_Greek	Greek
+PCT010014	PopGte5y_5to17y_Russian	Russian
+PCT010015	PopGte5y_5to17y_Polish	Polish
 PCT010016	PopGte5y_5to17y_SerbCroat	Serbo-Croatian
 PCT010017	PopGte5y_5to17y_OthSlavLang	Other Slavic languages
-PCT010018	PopGte5y_5to17y_Anc007	Armenian
+PCT010018	PopGte5y_5to17y_Armenian	Armenian
 PCT010019	PopGte5y_5to17y_Persian	Persian
 PCT010020	PopGte5y_5to17y_Gujarathi	Gujarathi
 PCT010021	PopGte5y_5to17y_Hindi	Hindi
@@ -4454,7 +4454,7 @@ PCT010034	PopGte5y_5to17y_Tagalog	Tagalog
 PCT010035	PopGte5y_5to17y_OthPacIslLang	Other Pacific Island languages
 PCT010036	PopGte5y_5to17y_Navajo	Navajo
 PCT010037	PopGte5y_5to17y_OthNatNrthAmerLang	Other Native North American languages
-PCT010038	PopGte5y_5to17y_Anc046	Hungarian
+PCT010038	PopGte5y_5to17y_Hungarian	Hungarian
 PCT010039	PopGte5y_5to17y_Arabic	Arabic
 PCT010040	PopGte5y_5to17y_Hebrew	Hebrew
 PCT010041	PopGte5y_5to17y_AfrcnLang	African languages
@@ -4464,18 +4464,18 @@ PCT010044	PopGte5y_Gte18y_SpkOnlyEngl	Speak only English
 PCT010045	PopGte5y_Gte18y_SpanOrSpanCreole	Spanish or Spanish Creole
 PCT010046	PopGte5y_Gte18y_FrnchPatCaj	French (incl. Patois, Cajun)
 PCT010047	PopGte5y_Gte18y_FrnchCrle	French Creole
-PCT010048	PopGte5y_Gte18y_Anc052	Italian
+PCT010048	PopGte5y_Gte18y_Italian	Italian
 PCT010049	PopGte5y_Gte18y_PortOrPortCreole	Portuguese or Portuguese Creole
-PCT010050	PopGte5y_Gte18y_Anc040	German
+PCT010050	PopGte5y_Gte18y_German	German
 PCT010051	PopGte5y_Gte18y_Yiddish	Yiddish
 PCT010052	PopGte5y_Gte18y_OthWestGermLang	Other West Germanic languages
 PCT010053	PopGte5y_Gte18y_ScandLang	Scandinavian languages
-PCT010054	PopGte5y_Gte18y_Anc043	Greek
-PCT010055	PopGte5y_Gte18y_Anc075	Russian
-PCT010056	PopGte5y_Gte18y_Anc072	Polish
+PCT010054	PopGte5y_Gte18y_Greek	Greek
+PCT010055	PopGte5y_Gte18y_Russian	Russian
+PCT010056	PopGte5y_Gte18y_Polish	Polish
 PCT010057	PopGte5y_Gte18y_SerbCroat	Serbo-Croatian
 PCT010058	PopGte5y_Gte18y_OthSlavLang	Other Slavic languages
-PCT010059	PopGte5y_Gte18y_Anc007	Armenian
+PCT010059	PopGte5y_Gte18y_Armenian	Armenian
 PCT010060	PopGte5y_Gte18y_Persian	Persian
 PCT010061	PopGte5y_Gte18y_Gujarathi	Gujarathi
 PCT010062	PopGte5y_Gte18y_Hindi	Hindi
@@ -4495,7 +4495,7 @@ PCT010075	PopGte5y_Gte18y_Tagalog	Tagalog
 PCT010076	PopGte5y_Gte18y_OthPacIslLang	Other Pacific Island languages
 PCT010077	PopGte5y_Gte18y_Navajo	Navajo
 PCT010078	PopGte5y_Gte18y_OthNatNrthAmerLang	Other Native North American languages
-PCT010079	PopGte5y_Gte18y_Anc046	Hungarian
+PCT010079	PopGte5y_Gte18y_Hungarian	Hungarian
 PCT010080	PopGte5y_Gte18y_Arabic	Arabic
 PCT010081	PopGte5y_Gte18y_Hebrew	Hebrew
 PCT010082	PopGte5y_Gte18y_AfrcnLang	African languages
