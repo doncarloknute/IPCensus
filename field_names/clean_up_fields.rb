@@ -20,7 +20,10 @@ File.open(mod_field_names).each do |line|
   row[1].gsub!(/AfAmer/, 'AfAm')
   row[1].gsub!(/Male/, 'Mle')
   row[1].gsub!(/Aln/, '') if row[1].rstrip.length > 10
-  row[1].gsub!(/S(o?)meOth/,'Oth')
-  #puts row[1] if row[1].include?('Oth')
+  row[1].gsub!(/S(o?)meOth/, 'Oth')
+  row[1].gsub!(/19(\d\d)/, '\1')
+  row[1].gsub!(/[Rr]ace(s?)/, 'Rce')
+  row[1].gsub!(/Labor/, 'Labr')
+  #puts row[1] if row[1].include?('Labr')
   clean_field_names << row.join("\t") + "\n"
 end

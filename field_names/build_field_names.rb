@@ -17,6 +17,7 @@ File.open(mod_field_names).each do |line|
 end
 
 name_array = []
+long_index = 0
 
 File.open(codes_names).each do |line|
   line.chomp!
@@ -26,12 +27,15 @@ File.open(codes_names).each do |line|
   else
     depth = (row[1].dup.rstrip.to_i - 4) / 2
   end
-#  puts row.join("\t")
   orig_field = row[2].rstrip
   name_array[depth] = field_hash[orig_field]
   final_name = name_array[0..depth].join("_")
+  if final_name.length > 64
+    long_names << row[0] + "\t" + ('%s_%03d' % [final_name[0..60], long_index]) + "\t" + final_name + "\n"
+    final_name = '%s_%03d' % [final_name[0..60], long_index]
+    long_index += 1
+  end
   const_field_names << row[0] + "\t" + final_name + "\t" + orig_field + "\n" if row[0].rstrip != "Universe"
-  long_names << final_name + "\t" + "#{final_name.length}" + "\n" if final_name.length > 64
 end
 
 field_hash.clear
