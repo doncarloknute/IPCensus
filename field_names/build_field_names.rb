@@ -2,8 +2,8 @@
 mod_field_names = 'clean_field_names.tsv'
 codes_names = 'raw_with_field_code_universe.tsv'
 
-const_field_names = File.open("constructed_field_names.tsv", "w")
-long_names = File.open("long_field_names.tsv", "w")
+#const_field_names = File.open("constructed_field_names.tsv", "w")
+#long_names = File.open("long_field_names.tsv", "w")
 
 field_hash = Hash.new
 
@@ -16,10 +16,22 @@ File.open(mod_field_names).each do |line|
 #  puts mod_field + "\t" + orig_field
 end
 
-#yaml_file = "SF3" + ('%02d' % file_index) + '.icss.yaml'
+#Want something here to loop through the SF3 file names (01 - 76)
+File.chdir("sas_files_ripd/SF3")
+
+
+yaml_filename = "~/ics/Infochimps/IPCensus/field_names/SF3_yaml/SF3" + ('%02d' % file_index) + '.icss.yaml'
+data_filename = "census_2000_sf3_zip_us000" + ('%02d' % file_index) + ".tsv"
+
+yaml_outfile = File.open(yaml_filename, "w")
+
+#Want something here to write out the heading to each .icss.yaml file
 
 name_array = []
+title_array = []
 long_index = 0
+
+#Want something here to separate out the fields by the corresponding .SAS file
 
 File.open(codes_names).each do |line|
   line.chomp!
@@ -34,11 +46,11 @@ File.open(codes_names).each do |line|
   name_array[depth] = row[2].rstrip if (name_array[0] == 'PopGte5y' && name_array[depth] =~ /Anc\d{3}/)
   final_name = name_array[0..depth].join("_")
   if final_name.length > 64
-    long_names << row[0] + "\t" + ('%s_%03d' % [final_name[0..60], long_index]) + "\t" + final_name + "\n"
+#    long_names << row[0] + "\t" + ('%s_%03d' % [final_name[0..60], long_index]) + "\t" + final_name + "\n"
     final_name = '%s_%03d' % [final_name[0..60], long_index]
     long_index += 1
   end
-  const_field_names << row[0] + "\t" + final_name + "\t" + orig_field + "\n" if row[0].rstrip != "Universe"
+#  const_field_names << row[0] + "\t" + final_name + "\t" + orig_field + "\n" if row[0].rstrip != "Universe"
 end
 
 field_hash.clear
