@@ -1,0 +1,10 @@
+Possible discrepancies in field names:
+Armenian ancestry vs Armenian language
+German ancestry vs German language
+Greek ancestry vs Greek language
+Hungarian ancestry vs Hungarian language
+Italian ancestry vs Italian language
+Polish ancestry vs Polish language
+Russian ancestry vs Russian language
+
+for countries, n.e.c. = Not Elsewhere Classified
