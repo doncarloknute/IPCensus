@@ -1,0 +1,245 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtOwnChldLt18yFamSubFam_Tot	White alone own children under 18 years in families and subfamilies: Total:
+WhtOwnChldLt18yFamSubFam_Lt6y	White alone own children under 18 years in families and subfamilies: Under 6 years:
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW2par	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+WhtOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	White alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+WhtOwnChldLt18yFamSubFam_6to17y	White alone own children under 18 years in families and subfamilies: 6 to 17 years:
+WhtOwnChldLt18yFamSubFam_6to17y_LivW2par	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+WhtOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+WhtOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	White alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Tot	Black or African American alone own children under 18 years in families and subfamilies: Total:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW2par	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+BlkAfAmOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Black or African American alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years:
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW2par	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+BlkAfAmOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Black or African American alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Tot	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Total:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW2par	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLab_230	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+AmIndAkNatOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLab_231	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years:
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW2par	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLa_232	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotL_233	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLa_234	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+AmIndAkNatOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotL_235	American Indian and Alaska Native alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+AsnOwnChldLt18yFamSubFam_Tot	Asian alone own children under 18 years in families and subfamilies: Total:
+AsnOwnChldLt18yFamSubFam_Lt6y	Asian alone own children under 18 years in families and subfamilies: Under 6 years:
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW2par	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+AsnOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Asian alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+AsnOwnChldLt18yFamSubFam_6to17y	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years:
+AsnOwnChldLt18yFamSubFam_6to17y_LivW2par	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+AsnOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+AsnOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Asian alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Tot	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Total:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW2par	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLab_236	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLa_237	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLab_238	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+NatHiPacIslOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLa_239	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years:
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW2par	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InL_240	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_Not_241	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InL_242	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+NatHiPacIslOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_Not_243	Native Hawaiian and Other Pacific Islander alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+OthRceOwnChldLt18yFamSubFam_Tot	Some other race alone own children under 18 years in families and subfamilies: Total:
+OthRceOwnChldLt18yFamSubFam_Lt6y	Some other race alone own children under 18 years in families and subfamilies: Under 6 years:
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW2par	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+OthRceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Some other race alone own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years:
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW2par	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+OthRceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Some other race alone own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+Gte2RceOwnChldLt18yFamSubFam_Tot	Two or more races own children under 18 years in families and subfamilies: Total:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y	Two or more races own children under 18 years in families and subfamilies: Under 6 years:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW2par	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+Gte2RceOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Two or more races own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years:
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW2par	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+Gte2RceOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Two or more races own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+HispOwnChldLt18yFamSubFam_Tot	Hispanic or Latino own children under 18 years in families and subfamilies: Total:
+HispOwnChldLt18yFamSubFam_Lt6y	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years:
+HispOwnChldLt18yFamSubFam_Lt6y_LivW2par	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+HispOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+HispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+HispOwnChldLt18yFamSubFam_6to17y	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years:
+HispOwnChldLt18yFamSubFam_6to17y_LivW2par	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+HispOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+HispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Tot	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Total:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW2par	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLab_244	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+WhtNotHispOwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLab_245	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years:
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW2par	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLa_246	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotL_247	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLa_248	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+WhtNotHispOwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotL_249	White alone, not Hispanic or Latino own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force

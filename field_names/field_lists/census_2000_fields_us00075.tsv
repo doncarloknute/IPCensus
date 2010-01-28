@@ -1,0 +1,249 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OwnOcpHsUntHhHisp_Tot	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Total:
+OwnOcpHsUntHhHisp_HsUntMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage:
+OwnOcpHsUntHhHisp_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhHisp_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhHisp_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhHisp_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhHisp_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhHisp_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhHisp_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhHisp_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhHisp_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhHisp_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhHisp_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhHisp_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhHisp_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhHisp_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhHisp_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage:
+OwnOcpHsUntHhHisp_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhHisp_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhWhtNotHisp_Tot	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OwnOcpHsUntHhWhtNotHisp_HsUntMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage:
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhWhtNotHisp_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage:
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhWht_HsUntMort	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage
+OwnOcpHsUntHhWht_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage
+OwnOcpHsUntHhBlkAfAm_HsUntMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage
+OwnOcpHsUntHhAmIndAkNat_HsUntMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage
+OwnOcpHsUntHhAsn_HsUntMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage
+OwnOcpHsUntHhAsn_HsUntNoMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage
+OwnOcpHsUntHhOthRce_HsUntMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage
+OwnOcpHsUntHhOthRce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage
+OwnOcpHsUntHhGte2Rce_HsUntMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage
+OwnOcpHsUntHhGte2Rce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage
+OwnOcpHsUntHhHisp_HsUntMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage
+OwnOcpHsUntHhHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage
+OwnOcpHsUntHhWhtNotHisp_HsUntMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage
+OwnOcpHsUntHhWht_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is White alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhWht_HsUntMort	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage
+OwnOcpHsUntHhWht_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage
+OwnOcpHsUntHhBlkAfAm_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Black or African American alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhBlkAfAm_HsUntMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage
+OwnOcpHsUntHhAmIndAkNat_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhAmIndAkNat_HsUntMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage
+OwnOcpHsUntHhAsn_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Asian alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhAsn_HsUntMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage
+OwnOcpHsUntHhAsn_HsUntNoMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage
+OwnOcpHsUntHhNatHiPacIsl_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage
+OwnOcpHsUntHhOthRce_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Some other race alone: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhOthRce_HsUntMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage
+OwnOcpHsUntHhOthRce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage
+OwnOcpHsUntHhGte2Rce_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Two or more races: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhGte2Rce_HsUntMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage
+OwnOcpHsUntHhGte2Rce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage
+OwnOcpHsUntHhHisp_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhHisp_HsUntMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units with a mortgage
+OwnOcpHsUntHhHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is Hispanic or Latino: Housing units without a mortgage
+OwnOcpHsUntHhWhtNotHisp_AggSelMnthOwnrCsts	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Aggregate selected monthly owner costs:
+OwnOcpHsUntHhWhtNotHisp_HsUntMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units with a mortgage
+OwnOcpHsUntHhWhtNotHisp_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone, not Hispanic or Latino: Housing units without a mortgage
+OwnOcpHsUntHhWht_Tot	Specified owner-occupied housing units with a householder who is White alone: Total:
+OwnOcpHsUntHhWht_HsUntMort	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage:
+OwnOcpHsUntHhWht_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhWht_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhWht_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhWht_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhWht_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhWht_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhWht_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhWht_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhWht_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhWht_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhWht_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage:
+OwnOcpHsUntHhWht_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhWht_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhWht_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhWht_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: Not computed
+OwnOcpHsUntHhBlkAfAm_Tot	Specified owner-occupied housing units with a householder who is Black or African American alone: Total:
+OwnOcpHsUntHhBlkAfAm_HsUntMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage:
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhBlkAfAm_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage:
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: Not computed
+OwnOcpHsUntHhAmIndAkNat_Tot	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OwnOcpHsUntHhAmIndAkNat_HsUntMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage:
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage:
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: Not computed
+OwnOcpHsUntHhAsn_Tot	Specified owner-occupied housing units with a householder who is Asian alone: Total:
+OwnOcpHsUntHhAsn_HsUntMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage:
+OwnOcpHsUntHhAsn_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhAsn_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhAsn_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhAsn_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhAsn_HsUntNoMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage:
+OwnOcpHsUntHhAsn_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhAsn_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhAsn_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: Not computed
+OwnOcpHsUntHhNatHiPacIsl_Tot	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage:
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage:
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: Not computed
+OwnOcpHsUntHhOthRce_Tot	Specified owner-occupied housing units with a householder who is Some other race alone: Total:
+OwnOcpHsUntHhOthRce_HsUntMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage:
+OwnOcpHsUntHhOthRce_HsUntMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhOthRce_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhOthRce_HsUntMort_Gte50pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: 50.0 percent or more
+OwnOcpHsUntHhOthRce_HsUntMort_NotComp	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: Not computed
+OwnOcpHsUntHhOthRce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage:
+OwnOcpHsUntHhOthRce_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: Less than 10.0 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 10.0 to 14.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 15.0 to 19.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 20.0 to 24.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 25.0 to 29.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 30.0 to 34.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 35.0 to 39.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 40.0 to 49.9 percent
+OwnOcpHsUntHhOthRce_HsUntNoMort_Gte50pct	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: 50.0 percent or more
+OwnOcpHsUntHhOthRce_HsUntNoMort_NotComp	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: Not computed

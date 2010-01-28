@@ -1,0 +1,207 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+RelCldLt18y_Tot	Related children under 18 years: Total:
+RelCldLt18y_Inc99LtPov	Related children under 18 years: Income in 1999 below poverty level:
+RelCldLt18y_Inc99LtPov_MrdCplFam	Related children under 18 years: Income in 1999 below poverty level: In married-couple family:
+RelCldLt18y_Inc99LtPov_MrdCplFam_Lt5y	Related children under 18 years: Income in 1999 below poverty level: In married-couple family: Under 5 years
+RelCldLt18y_Inc99LtPov_MrdCplFam_5y	Related children under 18 years: Income in 1999 below poverty level: In married-couple family: 5 years
+RelCldLt18y_Inc99LtPov_MrdCplFam_6to17y	Related children under 18 years: Income in 1999 below poverty level: In married-couple family: 6 to 17 years
+RelCldLt18y_Inc99LtPov_OthFam	Related children under 18 years: Income in 1999 below poverty level: In other family:
+RelCldLt18y_Inc99LtPov_OthFam_MleHhNoWife	Related children under 18 years: Income in 1999 below poverty level: In other family: Male householder, no wife present:
+RelCldLt18y_Inc99LtPov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years: Income in 1999 below poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18y_Inc99LtPov_OthFam_MleHhNoWife_5y	Related children under 18 years: Income in 1999 below poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18y_Inc99LtPov_OthFam_MleHhNoWife_6to17y	Related children under 18 years: Income in 1999 below poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18y_Inc99LtPov_OthFam_FemHhNoHusb	Related children under 18 years: Income in 1999 below poverty level: In other family: Female householder, no husband present:
+RelCldLt18y_Inc99LtPov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years: Income in 1999 below poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18y_Inc99LtPov_OthFam_FemHhNoHusb_5y	Related children under 18 years: Income in 1999 below poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18y_Inc99LtPov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years: Income in 1999 below poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18y_Inc99GtePov	Related children under 18 years: Income in 1999 at or above poverty level:
+RelCldLt18y_Inc99GtePov_MrdCplFam	Related children under 18 years: Income in 1999 at or above poverty level: In married-couple family:
+RelCldLt18y_Inc99GtePov_MrdCplFam_Lt5y	Related children under 18 years: Income in 1999 at or above poverty level: In married-couple family: Under 5 years
+RelCldLt18y_Inc99GtePov_MrdCplFam_5y	Related children under 18 years: Income in 1999 at or above poverty level: In married-couple family: 5 years
+RelCldLt18y_Inc99GtePov_MrdCplFam_6to17y	Related children under 18 years: Income in 1999 at or above poverty level: In married-couple family: 6 to 17 years
+RelCldLt18y_Inc99GtePov_OthFam	Related children under 18 years: Income in 1999 at or above poverty level: In other family:
+RelCldLt18y_Inc99GtePov_OthFam_MleHhNoWife	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Male householder, no wife present:
+RelCldLt18y_Inc99GtePov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18y_Inc99GtePov_OthFam_MleHhNoWife_5y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18y_Inc99GtePov_OthFam_MleHhNoWife_6to17y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18y_Inc99GtePov_OthFam_FemHhNoHusb	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Female householder, no husband present:
+RelCldLt18y_Inc99GtePov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18y_Inc99GtePov_OthFam_FemHhNoHusb_5y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18y_Inc99GtePov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 6 to 17 years
+UnrelIndGte15yPovDet_Tot	Unrelated individuals 15 years and over for whom poverty status is determined: Total:
+UnrelIndGte15yPovDet_Inc99LtPov	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level:
+UnrelIndGte15yPovDet_Inc99LtPov_Mle	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male:
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_15y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 15 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_16and17y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 16 and 17 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_18to24y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 18 to 24 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_25to34y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 34 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_35to44y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 35 to 44 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_45to54y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 45 to 54 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_55to64y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 55 to 64 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_65to74y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years
+UnrelIndGte15yPovDet_Inc99LtPov_Mle_Gte75y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over
+UnrelIndGte15yPovDet_Inc99LtPov_Fem	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female:
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_15y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 15 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_16and17y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 16 and 17 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_18to24y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 18 to 24 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_25to34y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 34 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_35to44y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 35 to 44 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_45to54y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 45 to 54 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_55to64y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 55 to 64 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_65to74y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years
+UnrelIndGte15yPovDet_Inc99LtPov_Fem_Gte75y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over
+UnrelIndGte15yPovDet_Inc99GtePov	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level:
+UnrelIndGte15yPovDet_Inc99GtePov_Mle	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male:
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_15y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 15 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_16and17y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 16 and 17 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_18to24y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 18 to 24 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_25to34y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 34 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_35to44y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 35 to 44 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_45to54y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 45 to 54 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_55to64y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 55 to 64 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_65to74y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years
+UnrelIndGte15yPovDet_Inc99GtePov_Mle_Gte75y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over
+UnrelIndGte15yPovDet_Inc99GtePov_Fem	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female:
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_15y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 15 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_16and17y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 16 and 17 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_18to24y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 18 to 24 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_25to34y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 34 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_35to44y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 35 to 44 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_45to54y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 45 to 54 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_55to64y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 55 to 64 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_65to74y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years
+UnrelIndGte15yPovDet_Inc99GtePov_Fem_Gte75y	Unrelated individuals 15 years and over for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over
+UnrelIndInc99LtPov_Tot	Unrelated individuals with income in 1999 below the poverty level: Total:
+UnrelIndInc99LtPov_Mle	Unrelated individuals with income in 1999 below the poverty level: Male
+UnrelIndInc99LtPov_Fem	Unrelated individuals with income in 1999 below the poverty level: Female
+UnrelIndPovDet_Tot	Unrelated individuals for whom poverty status is determined: Total:
+UnrelIndPovDet_Inc99LtPov	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level:
+UnrelIndPovDet_Inc99LtPov_Mle	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male:
+UnrelIndPovDet_Inc99LtPov_Mle_Lt25y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 25 years:
+UnrelIndPovDet_Inc99LtPov_Mle_Lt25y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 25 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Mle_Lt25y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 25 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Mle_Lt25y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 25 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Mle_Lt25y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 25 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Mle_25to59y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 59 years:
+UnrelIndPovDet_Inc99LtPov_Mle_25to59y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 59 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Mle_25to59y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 59 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Mle_25to59y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 59 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Mle_25to59y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 59 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Mle_60to64y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 60 to 64 years:
+UnrelIndPovDet_Inc99LtPov_Mle_60to64y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 60 to 64 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Mle_60to64y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 60 to 64 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Mle_60to64y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 60 to 64 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Mle_60to64y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 60 to 64 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Mle_65to74y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years:
+UnrelIndPovDet_Inc99LtPov_Mle_65to74y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Mle_65to74y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Mle_65to74y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Mle_65to74y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Mle_Gte75y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over:
+UnrelIndPovDet_Inc99LtPov_Mle_Gte75y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Mle_Gte75y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Mle_Gte75y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Mle_Gte75y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Fem	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female:
+UnrelIndPovDet_Inc99LtPov_Fem_Lt25y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 25 years:
+UnrelIndPovDet_Inc99LtPov_Fem_Lt25y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 25 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Fem_Lt25y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 25 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Fem_Lt25y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 25 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Fem_Lt25y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 25 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Fem_25to59y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 59 years:
+UnrelIndPovDet_Inc99LtPov_Fem_25to59y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 59 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Fem_25to59y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 59 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Fem_25to59y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 59 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Fem_25to59y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 59 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Fem_60to64y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 60 to 64 years:
+UnrelIndPovDet_Inc99LtPov_Fem_60to64y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 60 to 64 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Fem_60to64y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 60 to 64 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Fem_60to64y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 60 to 64 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Fem_60to64y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 60 to 64 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Fem_65to74y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years:
+UnrelIndPovDet_Inc99LtPov_Fem_65to74y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Fem_65to74y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Fem_65to74y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Fem_65to74y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_Fem_Gte75y	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over:
+UnrelIndPovDet_Inc99LtPov_Fem_Gte75y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_Fem_Gte75y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99LtPov_Fem_Gte75y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99LtPov_Fem_Gte75y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level:
+UnrelIndPovDet_Inc99GtePov_Mle	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male:
+UnrelIndPovDet_Inc99GtePov_Mle_Lt25y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 25 years:
+UnrelIndPovDet_Inc99GtePov_Mle_Lt25y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 25 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Mle_Lt25y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 25 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Mle_Lt25y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 25 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Mle_Lt25y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 25 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Mle_25to59y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 59 years:
+UnrelIndPovDet_Inc99GtePov_Mle_25to59y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 59 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Mle_25to59y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 59 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Mle_25to59y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 59 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Mle_25to59y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 59 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Mle_60to64y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 60 to 64 years:
+UnrelIndPovDet_Inc99GtePov_Mle_60to64y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 60 to 64 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Mle_60to64y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 60 to 64 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Mle_60to64y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 60 to 64 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Mle_60to64y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 60 to 64 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Mle_65to74y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years:
+UnrelIndPovDet_Inc99GtePov_Mle_65to74y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Mle_65to74y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Mle_65to74y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Mle_65to74y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Mle_Gte75y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over:
+UnrelIndPovDet_Inc99GtePov_Mle_Gte75y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Mle_Gte75y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Mle_Gte75y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Mle_Gte75y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Fem	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female:
+UnrelIndPovDet_Inc99GtePov_Fem_Lt25y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 25 years:
+UnrelIndPovDet_Inc99GtePov_Fem_Lt25y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 25 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Fem_Lt25y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 25 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Fem_Lt25y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 25 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Fem_Lt25y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 25 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Fem_25to59y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 59 years:
+UnrelIndPovDet_Inc99GtePov_Fem_25to59y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 59 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Fem_25to59y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 59 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Fem_25to59y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 59 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Fem_25to59y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 59 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Fem_60to64y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 60 to 64 years:
+UnrelIndPovDet_Inc99GtePov_Fem_60to64y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 60 to 64 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Fem_60to64y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 60 to 64 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Fem_60to64y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 60 to 64 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Fem_60to64y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 60 to 64 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Fem_65to74y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years:
+UnrelIndPovDet_Inc99GtePov_Fem_65to74y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Fem_65to74y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Fem_65to74y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Fem_65to74y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_Fem_Gte75y	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over:
+UnrelIndPovDet_Inc99GtePov_Fem_Gte75y_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_Fem_Gte75y_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over: Nonfamily householder: Living alone
+UnrelIndPovDet_Inc99GtePov_Fem_Gte75y_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over: Nonfamily householder: Not living alone
+UnrelIndPovDet_Inc99GtePov_Fem_Gte75y_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over: Other unrelated individuals
+UnrelIndPovDet_Tot	Unrelated individuals for whom poverty status is determined: Total:
+UnrelIndPovDet_Inc99LtPov	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level:
+UnrelIndPovDet_Inc99LtPov_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: High school graduate
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: Not high school graduate
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone:
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: High school graduate
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: Not high school graduate
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals:
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: High school graduate
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: Not high school graduate
+UnrelIndPovDet_Inc99GtePov	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level:
+UnrelIndPovDet_Inc99GtePov_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: High school graduate
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: Not high school graduate
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone:
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: High school graduate
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: Not high school graduate
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals:
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_HighSchGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: High school graduate
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_NotHighSchlGrad	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: Not high school graduate

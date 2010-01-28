@@ -1,0 +1,216 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_AggHHInc99	Occupied housing units: Aggregate household income in 1999:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Hh15to34y	Occupied housing units: Owner occupied: Householder 15 to 34 years:
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt99toMar2000	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt95to98	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt90to94	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt80to89	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt70to79	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt60to69	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1960 to 1969
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt50to59	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1950 to 1959
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt40to49	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1940 to 1949
+OcpHsUnt_OwnerOcp_Hh15to34y_Blt39Erlr	Occupied housing units: Owner occupied: Householder 15 to 34 years: Built 1939 or earlier
+OcpHsUnt_OwnerOcp_Hh35to64y	Occupied housing units: Owner occupied: Householder 35 to 64 years:
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt99toMar2000	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt95to98	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt90to94	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt80to89	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt70to79	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt60to69	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1960 to 1969
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt50to59	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1950 to 1959
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt40to49	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1940 to 1949
+OcpHsUnt_OwnerOcp_Hh35to64y_Blt39Erlr	Occupied housing units: Owner occupied: Householder 35 to 64 years: Built 1939 or earlier
+OcpHsUnt_OwnerOcp_HhGte65y	Occupied housing units: Owner occupied: Householder 65 years and over:
+OcpHsUnt_OwnerOcp_HhGte65y_Blt99toMar2000	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1999 to March 2000
+OcpHsUnt_OwnerOcp_HhGte65y_Blt95to98	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1995 to 1998
+OcpHsUnt_OwnerOcp_HhGte65y_Blt90to94	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1990 to 1994
+OcpHsUnt_OwnerOcp_HhGte65y_Blt80to89	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1980 to 1989
+OcpHsUnt_OwnerOcp_HhGte65y_Blt70to79	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1970 to 1979
+OcpHsUnt_OwnerOcp_HhGte65y_Blt60to69	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1960 to 1969
+OcpHsUnt_OwnerOcp_HhGte65y_Blt50to59	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1950 to 1959
+OcpHsUnt_OwnerOcp_HhGte65y_Blt40to49	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1940 to 1949
+OcpHsUnt_OwnerOcp_HhGte65y_Blt39Erlr	Occupied housing units: Owner occupied: Householder 65 years and over: Built 1939 or earlier
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Hh15to34y	Occupied housing units: Renter occupied: Householder 15 to 34 years:
+OcpHsUnt_RentOcp_Hh15to34y_Blt99toMar2000	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1999 to March 2000
+OcpHsUnt_RentOcp_Hh15to34y_Blt95to98	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1995 to 1998
+OcpHsUnt_RentOcp_Hh15to34y_Blt90to94	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1990 to 1994
+OcpHsUnt_RentOcp_Hh15to34y_Blt80to89	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1980 to 1989
+OcpHsUnt_RentOcp_Hh15to34y_Blt70to79	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1970 to 1979
+OcpHsUnt_RentOcp_Hh15to34y_Blt60to69	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1960 to 1969
+OcpHsUnt_RentOcp_Hh15to34y_Blt50to59	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1950 to 1959
+OcpHsUnt_RentOcp_Hh15to34y_Blt40to49	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1940 to 1949
+OcpHsUnt_RentOcp_Hh15to34y_Blt39Erlr	Occupied housing units: Renter occupied: Householder 15 to 34 years: Built 1939 or earlier
+OcpHsUnt_RentOcp_Hh35to64y	Occupied housing units: Renter occupied: Householder 35 to 64 years:
+OcpHsUnt_RentOcp_Hh35to64y_Blt99toMar2000	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1999 to March 2000
+OcpHsUnt_RentOcp_Hh35to64y_Blt95to98	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1995 to 1998
+OcpHsUnt_RentOcp_Hh35to64y_Blt90to94	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1990 to 1994
+OcpHsUnt_RentOcp_Hh35to64y_Blt80to89	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1980 to 1989
+OcpHsUnt_RentOcp_Hh35to64y_Blt70to79	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1970 to 1979
+OcpHsUnt_RentOcp_Hh35to64y_Blt60to69	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1960 to 1969
+OcpHsUnt_RentOcp_Hh35to64y_Blt50to59	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1950 to 1959
+OcpHsUnt_RentOcp_Hh35to64y_Blt40to49	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1940 to 1949
+OcpHsUnt_RentOcp_Hh35to64y_Blt39Erlr	Occupied housing units: Renter occupied: Householder 35 to 64 years: Built 1939 or earlier
+OcpHsUnt_RentOcp_HhGte65y	Occupied housing units: Renter occupied: Householder 65 years and over:
+OcpHsUnt_RentOcp_HhGte65y_Blt99toMar2000	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1999 to March 2000
+OcpHsUnt_RentOcp_HhGte65y_Blt95to98	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1995 to 1998
+OcpHsUnt_RentOcp_HhGte65y_Blt90to94	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1990 to 1994
+OcpHsUnt_RentOcp_HhGte65y_Blt80to89	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1980 to 1989
+OcpHsUnt_RentOcp_HhGte65y_Blt70to79	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1970 to 1979
+OcpHsUnt_RentOcp_HhGte65y_Blt60to69	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1960 to 1969
+OcpHsUnt_RentOcp_HhGte65y_Blt50to59	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1950 to 1959
+OcpHsUnt_RentOcp_HhGte65y_Blt40to49	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1940 to 1949
+OcpHsUnt_RentOcp_HhGte65y_Blt39Erlr	Occupied housing units: Renter occupied: Householder 65 years and over: Built 1939 or earlier
+OcpHsUnt_AggHHInc99	Occupied housing units: Aggregate household income in 1999:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Hh15to34y	Occupied housing units: Owner occupied: Householder 15 to 34 years:
+OcpHsUnt_OwnerOcp_Hh15to34y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh15to34y_Mvd95to98	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh15to34y_Mvd90to94	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh15to34y_Mvd80to89	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh15to34y_Mvd70to79	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh15to34y_MvdLte69	Occupied housing units: Owner occupied: Householder 15 to 34 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh35to64y	Occupied housing units: Owner occupied: Householder 35 to 64 years:
+OcpHsUnt_OwnerOcp_Hh35to64y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh35to64y_Mvd95to98	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh35to64y_Mvd90to94	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh35to64y_Mvd80to89	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh35to64y_Mvd70to79	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh35to64y_MvdLte69	Occupied housing units: Owner occupied: Householder 35 to 64 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_HhGte65y	Occupied housing units: Owner occupied: Householder 65 years and over:
+OcpHsUnt_OwnerOcp_HhGte65y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_HhGte65y_Mvd95to98	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_HhGte65y_Mvd90to94	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_HhGte65y_Mvd80to89	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_HhGte65y_Mvd70to79	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_HhGte65y_MvdLte69	Occupied housing units: Owner occupied: Householder 65 years and over: Moved in 1969 or earlier
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Hh15to34y	Occupied housing units: Renter occupied: Householder 15 to 34 years:
+OcpHsUnt_RentOcp_Hh15to34y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh15to34y_Mvd95to98	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh15to34y_Mvd90to94	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh15to34y_Mvd80to89	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh15to34y_Mvd70to79	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh15to34y_MvdLte69	Occupied housing units: Renter occupied: Householder 15 to 34 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh35to64y	Occupied housing units: Renter occupied: Householder 35 to 64 years:
+OcpHsUnt_RentOcp_Hh35to64y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh35to64y_Mvd95to98	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh35to64y_Mvd90to94	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh35to64y_Mvd80to89	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh35to64y_Mvd70to79	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh35to64y_MvdLte69	Occupied housing units: Renter occupied: Householder 35 to 64 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_HhGte65y	Occupied housing units: Renter occupied: Householder 65 years and over:
+OcpHsUnt_RentOcp_HhGte65y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_HhGte65y_Mvd95to98	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_HhGte65y_Mvd90to94	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_HhGte65y_Mvd80to89	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_HhGte65y_Mvd70to79	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_HhGte65y_MvdLte69	Occupied housing units: Renter occupied: Householder 65 years and over: Moved in 1969 or earlier
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_Tot_LtUsd10k	Specified owner-occupied housing units: Total: Less than $10,000:
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValLtUsd10k	Specified owner-occupied housing units: Total: Less than $10,000: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd10kto20k	Specified owner-occupied housing units: Total: Less than $10,000: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd20kto30k	Specified owner-occupied housing units: Total: Less than $10,000: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd30kto40k	Specified owner-occupied housing units: Total: Less than $10,000: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd40kto50k	Specified owner-occupied housing units: Total: Less than $10,000: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd50kto60k	Specified owner-occupied housing units: Total: Less than $10,000: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd60kto70k	Specified owner-occupied housing units: Total: Less than $10,000: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd70kto80k	Specified owner-occupied housing units: Total: Less than $10,000: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd80kto90k	Specified owner-occupied housing units: Total: Less than $10,000: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd90kto100k	Specified owner-occupied housing units: Total: Less than $10,000: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd100kto200k	Specified owner-occupied housing units: Total: Less than $10,000: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd200kto300k	Specified owner-occupied housing units: Total: Less than $10,000: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd300kto500k	Specified owner-occupied housing units: Total: Less than $10,000: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_LtUsd10k_ValUsd500korM	Specified owner-occupied housing units: Total: Less than $10,000: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd10kto20k	Specified owner-occupied housing units: Total: $10,000 to $19,999:
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValLtUsd10k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd10kto20k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd20kto30k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd30kto40k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd40kto50k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd50kto60k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd60kto70k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd70kto80k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd80kto90k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd90kto100k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd100kto200k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd200kto300k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd300kto500k	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd10kto20k_ValUsd500korM	Specified owner-occupied housing units: Total: $10,000 to $19,999: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd20kto35k	Specified owner-occupied housing units: Total: $20,000 to $34,999:
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValLtUsd10k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd10kto20k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd20kto30k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd30kto40k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd40kto50k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd50kto60k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd60kto70k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd70kto80k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd80kto90k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd90kto100k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd100kto200k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd200kto300k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd300kto500k	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd20kto35k_ValUsd500korM	Specified owner-occupied housing units: Total: $20,000 to $34,999: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd35kto50k	Specified owner-occupied housing units: Total: $35,000 to $49,999:
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValLtUsd10k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd10kto20k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd20kto30k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd30kto40k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd40kto50k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd50kto60k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd60kto70k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd70kto80k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd80kto90k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd90kto100k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd100kto200k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd200kto300k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd300kto500k	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd35kto50k_ValUsd500korM	Specified owner-occupied housing units: Total: $35,000 to $49,999: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd50kto75k	Specified owner-occupied housing units: Total: $50,000 to $74,999:
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValLtUsd10k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd10kto20k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd20kto30k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd30kto40k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd40kto50k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd50kto60k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd60kto70k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd70kto80k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd80kto90k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd90kto100k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd100kto200k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd200kto300k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd300kto500k	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd50kto75k_ValUsd500korM	Specified owner-occupied housing units: Total: $50,000 to $74,999: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd75kto100k	Specified owner-occupied housing units: Total: $75,000 to $99,999:
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValLtUsd10k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd10kto20k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd20kto30k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd30kto40k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd40kto50k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd50kto60k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd60kto70k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd70kto80k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd80kto90k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd90kto100k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd100kto200k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd200kto300k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd300kto500k	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd75kto100k_ValUsd500korM	Specified owner-occupied housing units: Total: $75,000 to $99,999: Value $500,000 or more
+SpecOwnOcpHsUnt_Tot_Usd100korM	Specified owner-occupied housing units: Total: $100,000 or more:
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValLtUsd10k	Specified owner-occupied housing units: Total: $100,000 or more: Value less than $10,000
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd10kto20k	Specified owner-occupied housing units: Total: $100,000 or more: Value $10,000 to $19,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd20kto30k	Specified owner-occupied housing units: Total: $100,000 or more: Value $20,000 to $29,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd30kto40k	Specified owner-occupied housing units: Total: $100,000 or more: Value $30,000 to $39,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd40kto50k	Specified owner-occupied housing units: Total: $100,000 or more: Value $40,000 to $49,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd50kto60k	Specified owner-occupied housing units: Total: $100,000 or more: Value $50,000 to $59,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd60kto70k	Specified owner-occupied housing units: Total: $100,000 or more: Value $60,000 to $69,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd70kto80k	Specified owner-occupied housing units: Total: $100,000 or more: Value $70,000 to $79,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd80kto90k	Specified owner-occupied housing units: Total: $100,000 or more: Value $80,000 to $89,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd90kto100k	Specified owner-occupied housing units: Total: $100,000 or more: Value $90,000 to $99,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd100kto200k	Specified owner-occupied housing units: Total: $100,000 or more: Value $100,000 to $199,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd200kto300k	Specified owner-occupied housing units: Total: $100,000 or more: Value $200,000 to $299,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd300kto500k	Specified owner-occupied housing units: Total: $100,000 or more: Value $300,000 to $499,999
+SpecOwnOcpHsUnt_Tot_Usd100korM_ValUsd500korM	Specified owner-occupied housing units: Total: $100,000 or more: Value $500,000 or more

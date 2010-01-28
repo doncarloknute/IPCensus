@@ -1,0 +1,248 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HHWHhGte2Rce_Tot	Households with a householder who is two or more races: Total:
+HHWHhGte2Rce_Hh15to64y	Households with a householder who is two or more races: Householder 15 to 64 years:
+HHWHhGte2Rce_Hh15to64y_FamHH	Households with a householder who is two or more races: Householder 15 to 64 years: Family households:
+HHWHhGte2Rce_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhGte2Rce_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhGte2Rce_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family:
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhGte2Rce_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhGte2Rce_Hh15to64y_NFamHH	Households with a householder who is two or more races: Householder 15 to 64 years: Nonfamily households:
+HHWHhGte2Rce_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is two or more races: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhGte2Rce_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is two or more races: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhGte2Rce_HhGte65y	Households with a householder who is two or more races: Householder 65 years and over:
+HHWHhGte2Rce_HhGte65y_FamHH	Households with a householder who is two or more races: Householder 65 years and over: Family households:
+HHWHhGte2Rce_HhGte65y_FamHH_MrdCplFam	Households with a householder who is two or more races: Householder 65 years and over: Family households: Married-couple family:
+HHWHhGte2Rce_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhGte2Rce_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family:
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhGte2Rce_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is two or more races: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhGte2Rce_HhGte65y_NFamHH	Households with a householder who is two or more races: Householder 65 years and over: Nonfamily households:
+HHWHhGte2Rce_HhGte65y_NFamHH_HhLivAln	Households with a householder who is two or more races: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhGte2Rce_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is two or more races: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhHisp_Tot	Households with a householder who is Hispanic or Latino: Total:
+HHWHhHisp_Hh15to64y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years:
+HHWHhHisp_Hh15to64y_FamHH	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households:
+HHWHhHisp_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhHisp_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhHisp_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhHisp_Hh15to64y_FamHH_OthFam	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family:
+HHWHhHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhHisp_Hh15to64y_NFamHH	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Nonfamily households:
+HHWHhHisp_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhHisp_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is Hispanic or Latino: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhHisp_HhGte65y	Households with a householder who is Hispanic or Latino: Householder 65 years and over:
+HHWHhHisp_HhGte65y_FamHH	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households:
+HHWHhHisp_HhGte65y_FamHH_MrdCplFam	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family:
+HHWHhHisp_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhHisp_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhHisp_HhGte65y_FamHH_OthFam	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family:
+HHWHhHisp_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhHisp_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhHisp_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhHisp_HhGte65y_NFamHH	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Nonfamily households:
+HHWHhHisp_HhGte65y_NFamHH_HhLivAln	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhHisp_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is Hispanic or Latino: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhWhtNotHisp_Tot	Households with a householder who is White alone, not Hispanic or Latino: Total:
+HHWHhWhtNotHisp_Hh15to64y	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years:
+HHWHhWhtNotHisp_Hh15to64y_FamHH	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households:
+HHWHhWhtNotHisp_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhWhtNotHisp_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family:
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldL_041	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldL_042	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhWhtNotHisp_Hh15to64y_NFamHH	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Nonfamily households:
+HHWHhWhtNotHisp_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhWhtNotHisp_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is White alone, not Hispanic or Latino: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhWhtNotHisp_HhGte65y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over:
+HHWHhWhtNotHisp_HhGte65y_FamHH	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households:
+HHWHhWhtNotHisp_HhGte65y_FamHH_MrdCplFam	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family:
+HHWHhWhtNotHisp_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family:
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhWhtNotHisp_HhGte65y_NFamHH	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Nonfamily households:
+HHWHhWhtNotHisp_HhGte65y_NFamHH_HhLivAln	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhWhtNotHisp_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is White alone, not Hispanic or Latino: Householder 65 years and over: Nonfamily households: Householder not living alone
+WhtPopGte3y_Tot	White alone population 3 years and over: Total:
+WhtPopGte3y_ErldNursPre	White alone population 3 years and over: Enrolled in nursery school, preschool:
+WhtPopGte3y_ErldNursPre_PubSchl	White alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+WhtPopGte3y_ErldNursPre_PrivSchl	White alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+WhtPopGte3y_ErldKind	White alone population 3 years and over: Enrolled in kindergarten:
+WhtPopGte3y_ErldKind_PubSchl	White alone population 3 years and over: Enrolled in kindergarten: Public school
+WhtPopGte3y_ErldKind_PrivSchl	White alone population 3 years and over: Enrolled in kindergarten: Private school
+WhtPopGte3y_Erld1to8Gr	White alone population 3 years and over: Enrolled in grade 1 to grade 8:
+WhtPopGte3y_Erld1to8Gr_PubSchl	White alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+WhtPopGte3y_Erld1to8Gr_PrivSchl	White alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+WhtPopGte3y_Erld9to12Gr	White alone population 3 years and over: Enrolled in grade 9 to grade 12:
+WhtPopGte3y_Erld9to12Gr_PubSchl	White alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+WhtPopGte3y_Erld9to12Gr_PrivSchl	White alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+WhtPopGte3y_ErldColl	White alone population 3 years and over: Enrolled in college:
+WhtPopGte3y_ErldColl_PubSchl	White alone population 3 years and over: Enrolled in college: Public school
+WhtPopGte3y_ErldColl_PrivSchl	White alone population 3 years and over: Enrolled in college: Private school
+WhtPopGte3y_NotEnrldSchl	White alone population 3 years and over: Not enrolled in school
+BlkAfAmPopGte3y_Tot	Black or African American alone population 3 years and over: Total:
+BlkAfAmPopGte3y_ErldNursPre	Black or African American alone population 3 years and over: Enrolled in nursery school, preschool:
+BlkAfAmPopGte3y_ErldNursPre_PubSchl	Black or African American alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+BlkAfAmPopGte3y_ErldNursPre_PrivSchl	Black or African American alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+BlkAfAmPopGte3y_ErldKind	Black or African American alone population 3 years and over: Enrolled in kindergarten:
+BlkAfAmPopGte3y_ErldKind_PubSchl	Black or African American alone population 3 years and over: Enrolled in kindergarten: Public school
+BlkAfAmPopGte3y_ErldKind_PrivSchl	Black or African American alone population 3 years and over: Enrolled in kindergarten: Private school
+BlkAfAmPopGte3y_Erld1to8Gr	Black or African American alone population 3 years and over: Enrolled in grade 1 to grade 8:
+BlkAfAmPopGte3y_Erld1to8Gr_PubSchl	Black or African American alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+BlkAfAmPopGte3y_Erld1to8Gr_PrivSchl	Black or African American alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+BlkAfAmPopGte3y_Erld9to12Gr	Black or African American alone population 3 years and over: Enrolled in grade 9 to grade 12:
+BlkAfAmPopGte3y_Erld9to12Gr_PubSchl	Black or African American alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+BlkAfAmPopGte3y_Erld9to12Gr_PrivSchl	Black or African American alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+BlkAfAmPopGte3y_ErldColl	Black or African American alone population 3 years and over: Enrolled in college:
+BlkAfAmPopGte3y_ErldColl_PubSchl	Black or African American alone population 3 years and over: Enrolled in college: Public school
+BlkAfAmPopGte3y_ErldColl_PrivSchl	Black or African American alone population 3 years and over: Enrolled in college: Private school
+BlkAfAmPopGte3y_NotEnrldSchl	Black or African American alone population 3 years and over: Not enrolled in school
+AmIndAkNatPopGte3y_Tot	American Indian and Alaska Native alone population 3 years and over: Total:
+AmIndAkNatPopGte3y_ErldNursPre	American Indian and Alaska Native alone population 3 years and over: Enrolled in nursery school, preschool:
+AmIndAkNatPopGte3y_ErldNursPre_PubSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+AmIndAkNatPopGte3y_ErldNursPre_PrivSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+AmIndAkNatPopGte3y_ErldKind	American Indian and Alaska Native alone population 3 years and over: Enrolled in kindergarten:
+AmIndAkNatPopGte3y_ErldKind_PubSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in kindergarten: Public school
+AmIndAkNatPopGte3y_ErldKind_PrivSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in kindergarten: Private school
+AmIndAkNatPopGte3y_Erld1to8Gr	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 1 to grade 8:
+AmIndAkNatPopGte3y_Erld1to8Gr_PubSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+AmIndAkNatPopGte3y_Erld1to8Gr_PrivSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+AmIndAkNatPopGte3y_Erld9to12Gr	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 9 to grade 12:
+AmIndAkNatPopGte3y_Erld9to12Gr_PubSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+AmIndAkNatPopGte3y_Erld9to12Gr_PrivSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+AmIndAkNatPopGte3y_ErldColl	American Indian and Alaska Native alone population 3 years and over: Enrolled in college:
+AmIndAkNatPopGte3y_ErldColl_PubSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in college: Public school
+AmIndAkNatPopGte3y_ErldColl_PrivSchl	American Indian and Alaska Native alone population 3 years and over: Enrolled in college: Private school
+AmIndAkNatPopGte3y_NotEnrldSchl	American Indian and Alaska Native alone population 3 years and over: Not enrolled in school
+AsnPopGte3y_Tot	Asian alone population 3 years and over: Total:
+AsnPopGte3y_ErldNursPre	Asian alone population 3 years and over: Enrolled in nursery school, preschool:
+AsnPopGte3y_ErldNursPre_PubSchl	Asian alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+AsnPopGte3y_ErldNursPre_PrivSchl	Asian alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+AsnPopGte3y_ErldKind	Asian alone population 3 years and over: Enrolled in kindergarten:
+AsnPopGte3y_ErldKind_PubSchl	Asian alone population 3 years and over: Enrolled in kindergarten: Public school
+AsnPopGte3y_ErldKind_PrivSchl	Asian alone population 3 years and over: Enrolled in kindergarten: Private school
+AsnPopGte3y_Erld1to8Gr	Asian alone population 3 years and over: Enrolled in grade 1 to grade 8:
+AsnPopGte3y_Erld1to8Gr_PubSchl	Asian alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+AsnPopGte3y_Erld1to8Gr_PrivSchl	Asian alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+AsnPopGte3y_Erld9to12Gr	Asian alone population 3 years and over: Enrolled in grade 9 to grade 12:
+AsnPopGte3y_Erld9to12Gr_PubSchl	Asian alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+AsnPopGte3y_Erld9to12Gr_PrivSchl	Asian alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+AsnPopGte3y_ErldColl	Asian alone population 3 years and over: Enrolled in college:
+AsnPopGte3y_ErldColl_PubSchl	Asian alone population 3 years and over: Enrolled in college: Public school
+AsnPopGte3y_ErldColl_PrivSchl	Asian alone population 3 years and over: Enrolled in college: Private school
+AsnPopGte3y_NotEnrldSchl	Asian alone population 3 years and over: Not enrolled in school
+NatHiPacIslPopGte3y_Tot	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Total:
+NatHiPacIslPopGte3y_ErldNursPre	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in nursery school, preschool:
+NatHiPacIslPopGte3y_ErldNursPre_PubSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+NatHiPacIslPopGte3y_ErldNursPre_PrivSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+NatHiPacIslPopGte3y_ErldKind	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in kindergarten:
+NatHiPacIslPopGte3y_ErldKind_PubSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in kindergarten: Public school
+NatHiPacIslPopGte3y_ErldKind_PrivSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in kindergarten: Private school
+NatHiPacIslPopGte3y_Erld1to8Gr	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 1 to grade 8:
+NatHiPacIslPopGte3y_Erld1to8Gr_PubSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+NatHiPacIslPopGte3y_Erld1to8Gr_PrivSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+NatHiPacIslPopGte3y_Erld9to12Gr	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 9 to grade 12:
+NatHiPacIslPopGte3y_Erld9to12Gr_PubSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+NatHiPacIslPopGte3y_Erld9to12Gr_PrivSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+NatHiPacIslPopGte3y_ErldColl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in college:
+NatHiPacIslPopGte3y_ErldColl_PubSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in college: Public school
+NatHiPacIslPopGte3y_ErldColl_PrivSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Enrolled in college: Private school
+NatHiPacIslPopGte3y_NotEnrldSchl	Native Hawaiian and Other Pacific Islander alone population 3 years and over: Not enrolled in school
+OthRcePopGte3y_Tot	Some other race alone population 3 years and over: Total:
+OthRcePopGte3y_ErldNursPre	Some other race alone population 3 years and over: Enrolled in nursery school, preschool:
+OthRcePopGte3y_ErldNursPre_PubSchl	Some other race alone population 3 years and over: Enrolled in nursery school, preschool: Public school
+OthRcePopGte3y_ErldNursPre_PrivSchl	Some other race alone population 3 years and over: Enrolled in nursery school, preschool: Private school
+OthRcePopGte3y_ErldKind	Some other race alone population 3 years and over: Enrolled in kindergarten:
+OthRcePopGte3y_ErldKind_PubSchl	Some other race alone population 3 years and over: Enrolled in kindergarten: Public school
+OthRcePopGte3y_ErldKind_PrivSchl	Some other race alone population 3 years and over: Enrolled in kindergarten: Private school
+OthRcePopGte3y_Erld1to8Gr	Some other race alone population 3 years and over: Enrolled in grade 1 to grade 8:
+OthRcePopGte3y_Erld1to8Gr_PubSchl	Some other race alone population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+OthRcePopGte3y_Erld1to8Gr_PrivSchl	Some other race alone population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+OthRcePopGte3y_Erld9to12Gr	Some other race alone population 3 years and over: Enrolled in grade 9 to grade 12:
+OthRcePopGte3y_Erld9to12Gr_PubSchl	Some other race alone population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+OthRcePopGte3y_Erld9to12Gr_PrivSchl	Some other race alone population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+OthRcePopGte3y_ErldColl	Some other race alone population 3 years and over: Enrolled in college:
+OthRcePopGte3y_ErldColl_PubSchl	Some other race alone population 3 years and over: Enrolled in college: Public school
+OthRcePopGte3y_ErldColl_PrivSchl	Some other race alone population 3 years and over: Enrolled in college: Private school
+OthRcePopGte3y_NotEnrldSchl	Some other race alone population 3 years and over: Not enrolled in school
+Gte2RcePopGte3y_Tot	Two or more races population 3 years and over: Total:
+Gte2RcePopGte3y_ErldNursPre	Two or more races population 3 years and over: Enrolled in nursery school, preschool:
+Gte2RcePopGte3y_ErldNursPre_PubSchl	Two or more races population 3 years and over: Enrolled in nursery school, preschool: Public school
+Gte2RcePopGte3y_ErldNursPre_PrivSchl	Two or more races population 3 years and over: Enrolled in nursery school, preschool: Private school
+Gte2RcePopGte3y_ErldKind	Two or more races population 3 years and over: Enrolled in kindergarten:
+Gte2RcePopGte3y_ErldKind_PubSchl	Two or more races population 3 years and over: Enrolled in kindergarten: Public school
+Gte2RcePopGte3y_ErldKind_PrivSchl	Two or more races population 3 years and over: Enrolled in kindergarten: Private school
+Gte2RcePopGte3y_Erld1to8Gr	Two or more races population 3 years and over: Enrolled in grade 1 to grade 8:
+Gte2RcePopGte3y_Erld1to8Gr_PubSchl	Two or more races population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+Gte2RcePopGte3y_Erld1to8Gr_PrivSchl	Two or more races population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+Gte2RcePopGte3y_Erld9to12Gr	Two or more races population 3 years and over: Enrolled in grade 9 to grade 12:
+Gte2RcePopGte3y_Erld9to12Gr_PubSchl	Two or more races population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+Gte2RcePopGte3y_Erld9to12Gr_PrivSchl	Two or more races population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+Gte2RcePopGte3y_ErldColl	Two or more races population 3 years and over: Enrolled in college:
+Gte2RcePopGte3y_ErldColl_PubSchl	Two or more races population 3 years and over: Enrolled in college: Public school
+Gte2RcePopGte3y_ErldColl_PrivSchl	Two or more races population 3 years and over: Enrolled in college: Private school
+Gte2RcePopGte3y_NotEnrldSchl	Two or more races population 3 years and over: Not enrolled in school
+HispPopGte3y_Tot	Hispanic or Latino population 3 years and over: Total:
+HispPopGte3y_ErldNursPre	Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool:
+HispPopGte3y_ErldNursPre_PubSchl	Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool: Public school
+HispPopGte3y_ErldNursPre_PrivSchl	Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool: Private school
+HispPopGte3y_ErldKind	Hispanic or Latino population 3 years and over: Enrolled in kindergarten:
+HispPopGte3y_ErldKind_PubSchl	Hispanic or Latino population 3 years and over: Enrolled in kindergarten: Public school
+HispPopGte3y_ErldKind_PrivSchl	Hispanic or Latino population 3 years and over: Enrolled in kindergarten: Private school
+HispPopGte3y_Erld1to8Gr	Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8:
+HispPopGte3y_Erld1to8Gr_PubSchl	Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+HispPopGte3y_Erld1to8Gr_PrivSchl	Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+HispPopGte3y_Erld9to12Gr	Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12:
+HispPopGte3y_Erld9to12Gr_PubSchl	Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+HispPopGte3y_Erld9to12Gr_PrivSchl	Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+HispPopGte3y_ErldColl	Hispanic or Latino population 3 years and over: Enrolled in college:
+HispPopGte3y_ErldColl_PubSchl	Hispanic or Latino population 3 years and over: Enrolled in college: Public school
+HispPopGte3y_ErldColl_PrivSchl	Hispanic or Latino population 3 years and over: Enrolled in college: Private school
+HispPopGte3y_NotEnrldSchl	Hispanic or Latino population 3 years and over: Not enrolled in school
+WhtNotHispPopGte3y_Tot	White alone, not Hispanic or Latino population 3 years and over: Total:
+WhtNotHispPopGte3y_ErldNursPre	White alone, not Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool:
+WhtNotHispPopGte3y_ErldNursPre_PubSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool: Public school
+WhtNotHispPopGte3y_ErldNursPre_PrivSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in nursery school, preschool: Private school
+WhtNotHispPopGte3y_ErldKind	White alone, not Hispanic or Latino population 3 years and over: Enrolled in kindergarten:
+WhtNotHispPopGte3y_ErldKind_PubSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in kindergarten: Public school
+WhtNotHispPopGte3y_ErldKind_PrivSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in kindergarten: Private school
+WhtNotHispPopGte3y_Erld1to8Gr	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8:
+WhtNotHispPopGte3y_Erld1to8Gr_PubSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8: Public school
+WhtNotHispPopGte3y_Erld1to8Gr_PrivSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 1 to grade 8: Private school
+WhtNotHispPopGte3y_Erld9to12Gr	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12:
+WhtNotHispPopGte3y_Erld9to12Gr_PubSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12: Public school
+WhtNotHispPopGte3y_Erld9to12Gr_PrivSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in grade 9 to grade 12: Private school
+WhtNotHispPopGte3y_ErldColl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in college:
+WhtNotHispPopGte3y_ErldColl_PubSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in college: Public school
+WhtNotHispPopGte3y_ErldColl_PrivSchl	White alone, not Hispanic or Latino population 3 years and over: Enrolled in college: Private school
+WhtNotHispPopGte3y_NotEnrldSchl	White alone, not Hispanic or Latino population 3 years and over: Not enrolled in school

@@ -1,0 +1,223 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_WPhysDisab	cn5population: Male: 5 to 15 years: With a physical disability
+CivNonInstPopGte5y_Mle_5to15y_NoPhysDisab	cn5population: Male: 5 to 15 years: No physical disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_WPhysDisab	cn5population: Male: 16 to 20 years: With a physical disability:
+CivNonInstPopGte5y_Mle_16to20y_WPhysDisab_Empl	cn5population: Male: 16 to 20 years: With a physical disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WPhysDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a physical disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoPhysDisab	cn5population: Male: 16 to 20 years: No physical disability:
+CivNonInstPopGte5y_Mle_16to20y_NoPhysDisab_Empl	cn5population: Male: 16 to 20 years: No physical disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoPhysDisab_NotEmpl	cn5population: Male: 16 to 20 years: No physical disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y	cn5population: Male: 21 to 64 years:
+CivNonInstPopGte5y_Mle_21to64y_WPhysDisab	cn5population: Male: 21 to 64 years: With a physical disability:
+CivNonInstPopGte5y_Mle_21to64y_WPhysDisab_Empl	cn5population: Male: 21 to 64 years: With a physical disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_WPhysDisab_NotEmpl	cn5population: Male: 21 to 64 years: With a physical disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y_NoPhysDisab	cn5population: Male: 21 to 64 years: No physical disability:
+CivNonInstPopGte5y_Mle_21to64y_NoPhysDisab_Empl	cn5population: Male: 21 to 64 years: No physical disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_NoPhysDisab_NotEmpl	cn5population: Male: 21 to 64 years: No physical disability: Not employed
+CivNonInstPopGte5y_Mle_65to74y	cn5population: Male: 65 to 74 years:
+CivNonInstPopGte5y_Mle_65to74y_WPhysDisab	cn5population: Male: 65 to 74 years: With a physical disability
+CivNonInstPopGte5y_Mle_65to74y_NoPhysDisab	cn5population: Male: 65 to 74 years: No physical disability
+CivNonInstPopGte5y_Mle_Gte75y	cn5population: Male: 75 years and over:
+CivNonInstPopGte5y_Mle_Gte75y_WPhysDisab	cn5population: Male: 75 years and over: With a physical disability
+CivNonInstPopGte5y_Mle_Gte75y_NoPhysDisab	cn5population: Male: 75 years and over: No physical disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_WPhysDisab	cn5population: Female: 5 to 15 years: With a physical disability
+CivNonInstPopGte5y_Fem_5to15y_NoPhysDisab	cn5population: Female: 5 to 15 years: No physical disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_WPhysDisab	cn5population: Female: 16 to 20 years: With a physical disability:
+CivNonInstPopGte5y_Fem_16to20y_WPhysDisab_Empl	cn5population: Female: 16 to 20 years: With a physical disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WPhysDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a physical disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoPhysDisab	cn5population: Female: 16 to 20 years: No physical disability:
+CivNonInstPopGte5y_Fem_16to20y_NoPhysDisab_Empl	cn5population: Female: 16 to 20 years: No physical disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoPhysDisab_NotEmpl	cn5population: Female: 16 to 20 years: No physical disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y	cn5population: Female: 21 to 64 years:
+CivNonInstPopGte5y_Fem_21to64y_WPhysDisab	cn5population: Female: 21 to 64 years: With a physical disability:
+CivNonInstPopGte5y_Fem_21to64y_WPhysDisab_Empl	cn5population: Female: 21 to 64 years: With a physical disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_WPhysDisab_NotEmpl	cn5population: Female: 21 to 64 years: With a physical disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y_NoPhysDisab	cn5population: Female: 21 to 64 years: No physical disability:
+CivNonInstPopGte5y_Fem_21to64y_NoPhysDisab_Empl	cn5population: Female: 21 to 64 years: No physical disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_NoPhysDisab_NotEmpl	cn5population: Female: 21 to 64 years: No physical disability: Not employed
+CivNonInstPopGte5y_Fem_65to74y	cn5population: Female: 65 to 74 years:
+CivNonInstPopGte5y_Fem_65to74y_WPhysDisab	cn5population: Female: 65 to 74 years: With a physical disability
+CivNonInstPopGte5y_Fem_65to74y_NoPhysDisab	cn5population: Female: 65 to 74 years: No physical disability
+CivNonInstPopGte5y_Fem_Gte75y	cn5population: Female: 75 years and over:
+CivNonInstPopGte5y_Fem_Gte75y_WPhysDisab	cn5population: Female: 75 years and over: With a physical disability
+CivNonInstPopGte5y_Fem_Gte75y_NoPhysDisab	cn5population: Female: 75 years and over: No physical disability
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_WMentDisab	cn5population: Male: 5 to 15 years: With a mental disability
+CivNonInstPopGte5y_Mle_5to15y_NoMentDisab	cn5population: Male: 5 to 15 years: No mental disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab	cn5population: Male: 16 to 20 years: With a mental disability:
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab_Empl	cn5population: Male: 16 to 20 years: With a mental disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a mental disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab	cn5population: Male: 16 to 20 years: No mental disability:
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab_Empl	cn5population: Male: 16 to 20 years: No mental disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab_NotEmpl	cn5population: Male: 16 to 20 years: No mental disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab_21to64y	cn5population: Male: 16 to 20 years: No mental disability: 21 to 64 years:
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab	cn5population: Male: 16 to 20 years: With a mental disability:
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab_Empl	cn5population: Male: 16 to 20 years: With a mental disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WMentDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a mental disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab	cn5population: Male: 16 to 20 years: No mental disability:
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab_Empl	cn5population: Male: 16 to 20 years: No mental disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoMentDisab_NotEmpl	cn5population: Male: 16 to 20 years: No mental disability: Not employed
+CivNonInstPopGte5y_Mle_65to74y	cn5population: Male: 65 to 74 years:
+CivNonInstPopGte5y_Mle_65to74y_WMentDisab	cn5population: Male: 65 to 74 years: With a mental disability
+CivNonInstPopGte5y_Mle_65to74y_NoMentDisab	cn5population: Male: 65 to 74 years: No mental disability
+CivNonInstPopGte5y_Mle_Gte75y	cn5population: Male: 75 years and over:
+CivNonInstPopGte5y_Mle_Gte75y_WMentDisab	cn5population: Male: 75 years and over: With a mental disability
+CivNonInstPopGte5y_Mle_Gte75y_NoMentDisab	cn5population: Male: 75 years and over: No mental disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_WMentDisab	cn5population: Female: 5 to 15 years: With a mental disability
+CivNonInstPopGte5y_Fem_5to15y_NoMentDisab	cn5population: Female: 5 to 15 years: No mental disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab	cn5population: Female: 16 to 20 years: With a mental disability:
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab_Empl	cn5population: Female: 16 to 20 years: With a mental disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a mental disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab	cn5population: Female: 16 to 20 years: No mental disability:
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab_Empl	cn5population: Female: 16 to 20 years: No mental disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab_NotEmpl	cn5population: Female: 16 to 20 years: No mental disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab_21to64y	cn5population: Female: 16 to 20 years: No mental disability: 21 to 64 years:
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab	cn5population: Female: 16 to 20 years: With a mental disability:
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab_Empl	cn5population: Female: 16 to 20 years: With a mental disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WMentDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a mental disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab	cn5population: Female: 16 to 20 years: No mental disability:
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab_Empl	cn5population: Female: 16 to 20 years: No mental disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoMentDisab_NotEmpl	cn5population: Female: 16 to 20 years: No mental disability: Not employed
+CivNonInstPopGte5y_Fem_65to74y	cn5population: Female: 65 to 74 years:
+CivNonInstPopGte5y_Fem_65to74y_WMentDisab	cn5population: Female: 65 to 74 years: With a mental disability
+CivNonInstPopGte5y_Fem_65to74y_NoMentDisab	cn5population: Female: 65 to 74 years: No mental disability
+CivNonInstPopGte5y_Fem_Gte75y	cn5population: Female: 75 years and over:
+CivNonInstPopGte5y_Fem_Gte75y_WMentDisab	cn5population: Female: 75 years and over: With a mental disability
+CivNonInstPopGte5y_Fem_Gte75y_NoMentDisab	cn5population: Female: 75 years and over: No mental disability
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_WSelfCareDisab	cn5population: Male: 5 to 15 years: With a self-care disability
+CivNonInstPopGte5y_Mle_5to15y_NoSelfCareDisab	cn5population: Male: 5 to 15 years: No self-care disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_WSelfCareDisab	cn5population: Male: 16 to 20 years: With a self-care disability:
+CivNonInstPopGte5y_Mle_16to20y_WSelfCareDisab_Empl	cn5population: Male: 16 to 20 years: With a self-care disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WSelfCareDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a self-care disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoSelfCareDisab	cn5population: Male: 16 to 20 years: No self-care disability:
+CivNonInstPopGte5y_Mle_16to20y_NoSelfCareDisab_Empl	cn5population: Male: 16 to 20 years: No self-care disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoSelfCareDisab_NotEmpl	cn5population: Male: 16 to 20 years: No self-care disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y	cn5population: Male: 21 to 64 years:
+CivNonInstPopGte5y_Mle_21to64y_WSelfCareDisab	cn5population: Male: 21 to 64 years: With a self-care disability:
+CivNonInstPopGte5y_Mle_21to64y_WSelfCareDisab_Empl	cn5population: Male: 21 to 64 years: With a self-care disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_WSelfCareDisab_NotEmpl	cn5population: Male: 21 to 64 years: With a self-care disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y_NoSelfCareDisab	cn5population: Male: 21 to 64 years: No self-care disability:
+CivNonInstPopGte5y_Mle_21to64y_NoSelfCareDisab_Empl	cn5population: Male: 21 to 64 years: No self-care disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_NoSelfCareDisab_NotEmpl	cn5population: Male: 21 to 64 years: No self-care disability: Not employed
+CivNonInstPopGte5y_Mle_65to74y	cn5population: Male: 65 to 74 years:
+CivNonInstPopGte5y_Mle_65to74y_WSelfCareDisab	cn5population: Male: 65 to 74 years: With a self-care disability
+CivNonInstPopGte5y_Mle_65to74y_NoSelfCareDisab	cn5population: Male: 65 to 74 years: No self-care disability
+CivNonInstPopGte5y_Mle_Gte75y	cn5population: Male: 75 years and over:
+CivNonInstPopGte5y_Mle_Gte75y_WSelfCareDisab	cn5population: Male: 75 years and over: With a self-care disability
+CivNonInstPopGte5y_Mle_Gte75y_NoSelfCareDisab	cn5population: Male: 75 years and over: No self-care disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_WSelfCareDisab	cn5population: Female: 5 to 15 years: With a self-care disability
+CivNonInstPopGte5y_Fem_5to15y_NoSelfCareDisab	cn5population: Female: 5 to 15 years: No self-care disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_WSelfCareDisab	cn5population: Female: 16 to 20 years: With a self-care disability:
+CivNonInstPopGte5y_Fem_16to20y_WSelfCareDisab_Empl	cn5population: Female: 16 to 20 years: With a self-care disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WSelfCareDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a self-care disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoSelfCareDisab	cn5population: Female: 16 to 20 years: No self-care disability:
+CivNonInstPopGte5y_Fem_16to20y_NoSelfCareDisab_Empl	cn5population: Female: 16 to 20 years: No self-care disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoSelfCareDisab_NotEmpl	cn5population: Female: 16 to 20 years: No self-care disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y	cn5population: Female: 21 to 64 years:
+CivNonInstPopGte5y_Fem_21to64y_WSelfCareDisab	cn5population: Female: 21 to 64 years: With a self-care disability:
+CivNonInstPopGte5y_Fem_21to64y_WSelfCareDisab_Empl	cn5population: Female: 21 to 64 years: With a self-care disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_WSelfCareDisab_NotEmpl	cn5population: Female: 21 to 64 years: With a self-care disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y_NoSelfCareDisab	cn5population: Female: 21 to 64 years: No self-care disability:
+CivNonInstPopGte5y_Fem_21to64y_NoSelfCareDisab_Empl	cn5population: Female: 21 to 64 years: No self-care disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_NoSelfCareDisab_NotEmpl	cn5population: Female: 21 to 64 years: No self-care disability: Not employed
+CivNonInstPopGte5y_Fem_65to74y	cn5population: Female: 65 to 74 years:
+CivNonInstPopGte5y_Fem_65to74y_WSelfCareDisab	cn5population: Female: 65 to 74 years: With a self-care disability
+CivNonInstPopGte5y_Fem_65to74y_NoSelfCareDisab	cn5population: Female: 65 to 74 years: No self-care disability
+CivNonInstPopGte5y_Fem_Gte75y	cn5population: Female: 75 years and over:
+CivNonInstPopGte5y_Fem_Gte75y_WSelfCareDisab	cn5population: Female: 75 years and over: With a self-care disability
+CivNonInstPopGte5y_Fem_Gte75y_NoSelfCareDisab	cn5population: Female: 75 years and over: No self-care disability
+CivNonInstPopGte16y_Tot	cnpopulation 16 years and over: Total:
+CivNonInstPopGte16y_Mle	cnpopulation 16 years and over: Male:
+CivNonInstPopGte16y_Mle_16to20y	cnpopulation 16 years and over: Male: 16 to 20 years:
+CivNonInstPopGte16y_Mle_16to20y_WOutHomeDisab	cnpopulation 16 years and over: Male: 16 to 20 years: With a go-outside-home disability:
+CivNonInstPopGte16y_Mle_16to20y_WOutHomeDisab_Empl	cnpopulation 16 years and over: Male: 16 to 20 years: With a go-outside-home disability: Employed
+CivNonInstPopGte16y_Mle_16to20y_WOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Male: 16 to 20 years: With a go-outside-home disability: Not employed
+CivNonInstPopGte16y_Mle_16to20y_NoOutHomeDisab	cnpopulation 16 years and over: Male: 16 to 20 years: No go-outside-home disability:
+CivNonInstPopGte16y_Mle_16to20y_NoOutHomeDisab_Empl	cnpopulation 16 years and over: Male: 16 to 20 years: No go-outside-home disability: Employed
+CivNonInstPopGte16y_Mle_16to20y_NoOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Male: 16 to 20 years: No go-outside-home disability: Not employed
+CivNonInstPopGte16y_Mle_21to64y	cnpopulation 16 years and over: Male: 21 to 64 years:
+CivNonInstPopGte16y_Mle_21to64y_WOutHomeDisab	cnpopulation 16 years and over: Male: 21 to 64 years: With a go-outside-home disability:
+CivNonInstPopGte16y_Mle_21to64y_WOutHomeDisab_Empl	cnpopulation 16 years and over: Male: 21 to 64 years: With a go-outside-home disability: Employed
+CivNonInstPopGte16y_Mle_21to64y_WOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Male: 21 to 64 years: With a go-outside-home disability: Not employed
+CivNonInstPopGte16y_Mle_21to64y_NoOutHomeDisab	cnpopulation 16 years and over: Male: 21 to 64 years: No go-outside-home disability:
+CivNonInstPopGte16y_Mle_21to64y_NoOutHomeDisab_Empl	cnpopulation 16 years and over: Male: 21 to 64 years: No go-outside-home disability: Employed
+CivNonInstPopGte16y_Mle_21to64y_NoOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Male: 21 to 64 years: No go-outside-home disability: Not employed
+CivNonInstPopGte16y_Mle_65to74y	cnpopulation 16 years and over: Male: 65 to 74 years:
+CivNonInstPopGte16y_Mle_65to74y_WOutHomeDisab	cnpopulation 16 years and over: Male: 65 to 74 years: With a go-outside-home disability
+CivNonInstPopGte16y_Mle_65to74y_NoOutHomeDisab	cnpopulation 16 years and over: Male: 65 to 74 years: No go-outside-home disability
+CivNonInstPopGte16y_Mle_Gte75y	cnpopulation 16 years and over: Male: 75 years and over:
+CivNonInstPopGte16y_Mle_Gte75y_WOutHomeDisab	cnpopulation 16 years and over: Male: 75 years and over: With a go-outside-home disability
+CivNonInstPopGte16y_Mle_Gte75y_NoOutHomeDisab	cnpopulation 16 years and over: Male: 75 years and over: No go-outside-home disability
+CivNonInstPopGte16y_Fem	cnpopulation 16 years and over: Female:
+CivNonInstPopGte16y_Fem_16to20y	cnpopulation 16 years and over: Female: 16 to 20 years:
+CivNonInstPopGte16y_Fem_16to20y_WOutHomeDisab	cnpopulation 16 years and over: Female: 16 to 20 years: With a go-outside-home disability:
+CivNonInstPopGte16y_Fem_16to20y_WOutHomeDisab_Empl	cnpopulation 16 years and over: Female: 16 to 20 years: With a go-outside-home disability: Employed
+CivNonInstPopGte16y_Fem_16to20y_WOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Female: 16 to 20 years: With a go-outside-home disability: Not employed
+CivNonInstPopGte16y_Fem_16to20y_NoOutHomeDisab	cnpopulation 16 years and over: Female: 16 to 20 years: No go-outside-home disability:
+CivNonInstPopGte16y_Fem_16to20y_NoOutHomeDisab_Empl	cnpopulation 16 years and over: Female: 16 to 20 years: No go-outside-home disability: Employed
+CivNonInstPopGte16y_Fem_16to20y_NoOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Female: 16 to 20 years: No go-outside-home disability: Not employed
+CivNonInstPopGte16y_Fem_21to64y	cnpopulation 16 years and over: Female: 21 to 64 years:
+CivNonInstPopGte16y_Fem_21to64y_WOutHomeDisab	cnpopulation 16 years and over: Female: 21 to 64 years: With a go-outside-home disability:
+CivNonInstPopGte16y_Fem_21to64y_WOutHomeDisab_Empl	cnpopulation 16 years and over: Female: 21 to 64 years: With a go-outside-home disability: Employed
+CivNonInstPopGte16y_Fem_21to64y_WOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Female: 21 to 64 years: With a go-outside-home disability: Not employed
+CivNonInstPopGte16y_Fem_21to64y_NoOutHomeDisab	cnpopulation 16 years and over: Female: 21 to 64 years: No go-outside-home disability:
+CivNonInstPopGte16y_Fem_21to64y_NoOutHomeDisab_Empl	cnpopulation 16 years and over: Female: 21 to 64 years: No go-outside-home disability: Employed
+CivNonInstPopGte16y_Fem_21to64y_NoOutHomeDisab_NotEmpl	cnpopulation 16 years and over: Female: 21 to 64 years: No go-outside-home disability: Not employed
+CivNonInstPopGte16y_Fem_65to74y	cnpopulation 16 years and over: Female: 65 to 74 years:
+CivNonInstPopGte16y_Fem_65to74y_WOutHomeDisab	cnpopulation 16 years and over: Female: 65 to 74 years: With a go-outside-home disability
+CivNonInstPopGte16y_Fem_65to74y_NoOutHomeDisab	cnpopulation 16 years and over: Female: 65 to 74 years: No go-outside-home disability
+CivNonInstPopGte16y_Fem_Gte75y	cnpopulation 16 years and over: Female: 75 years and over:
+CivNonInstPopGte16y_Fem_Gte75y_WOutHomeDisab	cnpopulation 16 years and over: Female: 75 years and over: With a go-outside-home disability
+CivNonInstPopGte16y_Fem_Gte75y_NoOutHomeDisab	cnpopulation 16 years and over: Female: 75 years and over: No go-outside-home disability
+CivNonInstPop16to64y_Tot	cnpopulation 16 to 64 years: Total:
+CivNonInstPop16to64y_Mle	cnpopulation 16 to 64 years: Male:
+CivNonInstPop16to64y_Mle_16to20y	cnpopulation 16 to 64 years: Male: 16 to 20 years:
+CivNonInstPop16to64y_Mle_16to20y_WEmplDisab	cnpopulation 16 to 64 years: Male: 16 to 20 years: With an employment disability:
+CivNonInstPop16to64y_Mle_16to20y_WEmplDisab_Empl	cnpopulation 16 to 64 years: Male: 16 to 20 years: With an employment disability: Employed
+CivNonInstPop16to64y_Mle_16to20y_WEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Male: 16 to 20 years: With an employment disability: Not employed
+CivNonInstPop16to64y_Mle_16to20y_NoEmplDisab	cnpopulation 16 to 64 years: Male: 16 to 20 years: No employment disability:
+CivNonInstPop16to64y_Mle_16to20y_NoEmplDisab_Empl	cnpopulation 16 to 64 years: Male: 16 to 20 years: No employment disability: Employed
+CivNonInstPop16to64y_Mle_16to20y_NoEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Male: 16 to 20 years: No employment disability: Not employed
+CivNonInstPop16to64y_Mle_21to64y	cnpopulation 16 to 64 years: Male: 21 to 64 years:
+CivNonInstPop16to64y_Mle_21to64y_WEmplDisab	cnpopulation 16 to 64 years: Male: 21 to 64 years: With an employment disability:
+CivNonInstPop16to64y_Mle_21to64y_WEmplDisab_Empl	cnpopulation 16 to 64 years: Male: 21 to 64 years: With an employment disability: Employed
+CivNonInstPop16to64y_Mle_21to64y_WEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Male: 21 to 64 years: With an employment disability: Not employed
+CivNonInstPop16to64y_Mle_21to64y_NoEmplDisab	cnpopulation 16 to 64 years: Male: 21 to 64 years: No employment disability:
+CivNonInstPop16to64y_Mle_21to64y_NoEmplDisab_Empl	cnpopulation 16 to 64 years: Male: 21 to 64 years: No employment disability: Employed
+CivNonInstPop16to64y_Mle_21to64y_NoEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Male: 21 to 64 years: No employment disability: Not employed
+CivNonInstPop16to64y_Fem	cnpopulation 16 to 64 years: Female:
+CivNonInstPop16to64y_Fem_16to20y	cnpopulation 16 to 64 years: Female: 16 to 20 years:
+CivNonInstPop16to64y_Fem_16to20y_WEmplDisab	cnpopulation 16 to 64 years: Female: 16 to 20 years: With an employment disability:
+CivNonInstPop16to64y_Fem_16to20y_WEmplDisab_Empl	cnpopulation 16 to 64 years: Female: 16 to 20 years: With an employment disability: Employed
+CivNonInstPop16to64y_Fem_16to20y_WEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Female: 16 to 20 years: With an employment disability: Not employed
+CivNonInstPop16to64y_Fem_16to20y_NoEmplDisab	cnpopulation 16 to 64 years: Female: 16 to 20 years: No employment disability:
+CivNonInstPop16to64y_Fem_16to20y_NoEmplDisab_Empl	cnpopulation 16 to 64 years: Female: 16 to 20 years: No employment disability: Employed
+CivNonInstPop16to64y_Fem_16to20y_NoEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Female: 16 to 20 years: No employment disability: Not employed
+CivNonInstPop16to64y_Fem_21to64y	cnpopulation 16 to 64 years: Female: 21 to 64 years:
+CivNonInstPop16to64y_Fem_21to64y_WEmplDisab	cnpopulation 16 to 64 years: Female: 21 to 64 years: With an employment disability:
+CivNonInstPop16to64y_Fem_21to64y_WEmplDisab_Empl	cnpopulation 16 to 64 years: Female: 21 to 64 years: With an employment disability: Employed
+CivNonInstPop16to64y_Fem_21to64y_WEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Female: 21 to 64 years: With an employment disability: Not employed
+CivNonInstPop16to64y_Fem_21to64y_NoEmplDisab	cnpopulation 16 to 64 years: Female: 21 to 64 years: No employment disability:
+CivNonInstPop16to64y_Fem_21to64y_NoEmplDisab_Empl	cnpopulation 16 to 64 years: Female: 21 to 64 years: No employment disability: Employed
+CivNonInstPop16to64y_Fem_21to64y_NoEmplDisab_NotEmpl	cnpopulation 16 to 64 years: Female: 21 to 64 years: No employment disability: Not employed

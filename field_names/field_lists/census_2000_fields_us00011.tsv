@@ -1,0 +1,237 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtNotHispPop_Tot	White alone, not Hispanic or Latino population: Total:
+WhtNotHispPop_Mle	White alone, not Hispanic or Latino population: Male:
+WhtNotHispPop_Mle_Lt5y	White alone, not Hispanic or Latino population: Male: Under 5 years
+WhtNotHispPop_Mle_5to9y	White alone, not Hispanic or Latino population: Male: 5 to 9 years
+WhtNotHispPop_Mle_10to14y	White alone, not Hispanic or Latino population: Male: 10 to 14 years
+WhtNotHispPop_Mle_15to17y	White alone, not Hispanic or Latino population: Male: 15 to 17 years
+WhtNotHispPop_Mle_18and19y	White alone, not Hispanic or Latino population: Male: 18 and 19 years
+WhtNotHispPop_Mle_20y	White alone, not Hispanic or Latino population: Male: 20 years
+WhtNotHispPop_Mle_21y	White alone, not Hispanic or Latino population: Male: 21 years
+WhtNotHispPop_Mle_22to24y	White alone, not Hispanic or Latino population: Male: 22 to 24 years
+WhtNotHispPop_Mle_25to29y	White alone, not Hispanic or Latino population: Male: 25 to 29 years
+WhtNotHispPop_Mle_30to34y	White alone, not Hispanic or Latino population: Male: 30 to 34 years
+WhtNotHispPop_Mle_35to39y	White alone, not Hispanic or Latino population: Male: 35 to 39 years
+WhtNotHispPop_Mle_40to44y	White alone, not Hispanic or Latino population: Male: 40 to 44 years
+WhtNotHispPop_Mle_45to49y	White alone, not Hispanic or Latino population: Male: 45 to 49 years
+WhtNotHispPop_Mle_50to54y	White alone, not Hispanic or Latino population: Male: 50 to 54 years
+WhtNotHispPop_Mle_55to59y	White alone, not Hispanic or Latino population: Male: 55 to 59 years
+WhtNotHispPop_Mle_60and61y	White alone, not Hispanic or Latino population: Male: 60 and 61 years
+WhtNotHispPop_Mle_62to64y	White alone, not Hispanic or Latino population: Male: 62 to 64 years
+WhtNotHispPop_Mle_65and66y	White alone, not Hispanic or Latino population: Male: 65 and 66 years
+WhtNotHispPop_Mle_67to69y	White alone, not Hispanic or Latino population: Male: 67 to 69 years
+WhtNotHispPop_Mle_70to74y	White alone, not Hispanic or Latino population: Male: 70 to 74 years
+WhtNotHispPop_Mle_75to79y	White alone, not Hispanic or Latino population: Male: 75 to 79 years
+WhtNotHispPop_Mle_80to84y	White alone, not Hispanic or Latino population: Male: 80 to 84 years
+WhtNotHispPop_Mle_Gte85y	White alone, not Hispanic or Latino population: Male: 85 years and over
+WhtNotHispPop_Fem	White alone, not Hispanic or Latino population: Female:
+WhtNotHispPop_Fem_Lt5y	White alone, not Hispanic or Latino population: Female: Under 5 years
+WhtNotHispPop_Fem_5to9y	White alone, not Hispanic or Latino population: Female: 5 to 9 years
+WhtNotHispPop_Fem_10to14y	White alone, not Hispanic or Latino population: Female: 10 to 14 years
+WhtNotHispPop_Fem_15to17y	White alone, not Hispanic or Latino population: Female: 15 to 17 years
+WhtNotHispPop_Fem_18and19y	White alone, not Hispanic or Latino population: Female: 18 and 19 years
+WhtNotHispPop_Fem_20y	White alone, not Hispanic or Latino population: Female: 20 years
+WhtNotHispPop_Fem_21y	White alone, not Hispanic or Latino population: Female: 21 years
+WhtNotHispPop_Fem_22to24y	White alone, not Hispanic or Latino population: Female: 22 to 24 years
+WhtNotHispPop_Fem_25to29y	White alone, not Hispanic or Latino population: Female: 25 to 29 years
+WhtNotHispPop_Fem_30to34y	White alone, not Hispanic or Latino population: Female: 30 to 34 years
+WhtNotHispPop_Fem_35to39y	White alone, not Hispanic or Latino population: Female: 35 to 39 years
+WhtNotHispPop_Fem_40to44y	White alone, not Hispanic or Latino population: Female: 40 to 44 years
+WhtNotHispPop_Fem_45to49y	White alone, not Hispanic or Latino population: Female: 45 to 49 years
+WhtNotHispPop_Fem_50to54y	White alone, not Hispanic or Latino population: Female: 50 to 54 years
+WhtNotHispPop_Fem_55to59y	White alone, not Hispanic or Latino population: Female: 55 to 59 years
+WhtNotHispPop_Fem_60and61y	White alone, not Hispanic or Latino population: Female: 60 and 61 years
+WhtNotHispPop_Fem_62to64y	White alone, not Hispanic or Latino population: Female: 62 to 64 years
+WhtNotHispPop_Fem_65and66y	White alone, not Hispanic or Latino population: Female: 65 and 66 years
+WhtNotHispPop_Fem_67to69y	White alone, not Hispanic or Latino population: Female: 67 to 69 years
+WhtNotHispPop_Fem_70to74y	White alone, not Hispanic or Latino population: Female: 70 to 74 years
+WhtNotHispPop_Fem_75to79y	White alone, not Hispanic or Latino population: Female: 75 to 79 years
+WhtNotHispPop_Fem_80to84y	White alone, not Hispanic or Latino population: Female: 80 to 84 years
+WhtNotHispPop_Fem_Gte85y	White alone, not Hispanic or Latino population: Female: 85 years and over
+HHWHhWht_Tot	Households with a householder who is White alone: Total:
+HHWHhWht_Hh15to64y	Households with a householder who is White alone: Householder 15 to 64 years:
+HHWHhWht_Hh15to64y_FamHH	Households with a householder who is White alone: Householder 15 to 64 years: Family households:
+HHWHhWht_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhWht_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhWht_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhWht_Hh15to64y_FamHH_OthFam	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhWht_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhWht_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhWht_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhWht_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhWht_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhWht_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is White alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhWht_Hh15to64y_NFamHH	Households with a householder who is White alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhWht_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is White alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhWht_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is White alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhWht_HhGte65y	Households with a householder who is White alone: Householder 65 years and over:
+HHWHhWht_HhGte65y_FamHH	Households with a householder who is White alone: Householder 65 years and over: Family households:
+HHWHhWht_HhGte65y_FamHH_MrdCplFam	Households with a householder who is White alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhWht_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhWht_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhWht_HhGte65y_FamHH_OthFam	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family:
+HHWHhWht_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhWht_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhWht_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhWht_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhWht_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhWht_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is White alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhWht_HhGte65y_NFamHH	Households with a householder who is White alone: Householder 65 years and over: Nonfamily households:
+HHWHhWht_HhGte65y_NFamHH_HhLivAln	Households with a householder who is White alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhWht_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is White alone: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhBlkAfAm_Tot	Households with a householder who is Black or African American alone: Total:
+HHWHhBlkAfAm_Hh15to64y	Households with a householder who is Black or African American alone: Householder 15 to 64 years:
+HHWHhBlkAfAm_Hh15to64y_FamHH	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households:
+HHWHhBlkAfAm_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhBlkAfAm_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhBlkAfAm_Hh15to64y_NFamHH	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhBlkAfAm_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhBlkAfAm_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is Black or African American alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhBlkAfAm_HhGte65y	Households with a householder who is Black or African American alone: Householder 65 years and over:
+HHWHhBlkAfAm_HhGte65y_FamHH	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households:
+HHWHhBlkAfAm_HhGte65y_FamHH_MrdCplFam	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhBlkAfAm_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhBlkAfAm_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family:
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhBlkAfAm_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Black or African American alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhBlkAfAm_HhGte65y_NFamHH	Households with a householder who is Black or African American alone: Householder 65 years and over: Nonfamily households:
+HHWHhBlkAfAm_HhGte65y_NFamHH_HhLivAln	Households with a householder who is Black or African American alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhBlkAfAm_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is Black or African American alone: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhAmIndAkNat_Tot	Households with a householder who is American Indian and Alaska Native alone: Total:
+HHWHhAmIndAkNat_Hh15to64y	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years:
+HHWHhAmIndAkNat_Hh15to64y_FamHH	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households:
+HHWHhAmIndAkNat_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhAmIndAkNat_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldL_033	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldL_034	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhAmIndAkNat_Hh15to64y_NFamHH	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhAmIndAkNat_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhAmIndAkNat_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is American Indian and Alaska Native alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhAmIndAkNat_HhGte65y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over:
+HHWHhAmIndAkNat_HhGte65y_FamHH	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households:
+HHWHhAmIndAkNat_HhGte65y_FamHH_MrdCplFam	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhAmIndAkNat_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family:
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhAmIndAkNat_HhGte65y_NFamHH	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Nonfamily households:
+HHWHhAmIndAkNat_HhGte65y_NFamHH_HhLivAln	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhAmIndAkNat_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is American Indian and Alaska Native alone: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhAsn_Tot	Households with a householder who is Asian alone: Total:
+HHWHhAsn_Hh15to64y	Households with a householder who is Asian alone: Householder 15 to 64 years:
+HHWHhAsn_Hh15to64y_FamHH	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households:
+HHWHhAsn_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhAsn_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhAsn_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhAsn_Hh15to64y_FamHH_OthFam	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhAsn_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhAsn_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhAsn_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhAsn_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhAsn_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhAsn_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhAsn_Hh15to64y_NFamHH	Households with a householder who is Asian alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhAsn_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is Asian alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhAsn_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is Asian alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhAsn_HhGte65y	Households with a householder who is Asian alone: Householder 65 years and over:
+HHWHhAsn_HhGte65y_FamHH	Households with a householder who is Asian alone: Householder 65 years and over: Family households:
+HHWHhAsn_HhGte65y_FamHH_MrdCplFam	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhAsn_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhAsn_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhAsn_HhGte65y_FamHH_OthFam	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family:
+HHWHhAsn_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhAsn_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhAsn_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhAsn_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhAsn_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhAsn_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Asian alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhAsn_HhGte65y_NFamHH	Households with a householder who is Asian alone: Householder 65 years and over: Nonfamily households:
+HHWHhAsn_HhGte65y_NFamHH_HhLivAln	Households with a householder who is Asian alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhAsn_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is Asian alone: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhNatHiPacIsl_Tot	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+HHWHhNatHiPacIsl_Hh15to64y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldL_035	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChld_036	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldL_037	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChld_038	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhNatHiPacIsl_Hh15to64y_NFamHH	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhNatHiPacIsl_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhNatHiPacIsl_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhNatHiPacIsl_HhGte65y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over:
+HHWHhNatHiPacIsl_HhGte65y_FamHH	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households:
+HHWHhNatHiPacIsl_HhGte65y_FamHH_MrdCplFam	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhNatHiPacIsl_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family:
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldL_039	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldL_040	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhNatHiPacIsl_HhGte65y_NFamHH	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Nonfamily households:
+HHWHhNatHiPacIsl_HhGte65y_NFamHH_HhLivAln	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhNatHiPacIsl_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Householder 65 years and over: Nonfamily households: Householder not living alone
+HHWHhOthRce_Tot	Households with a householder who is Some other race alone: Total:
+HHWHhOthRce_Hh15to64y	Households with a householder who is Some other race alone: Householder 15 to 64 years:
+HHWHhOthRce_Hh15to64y_FamHH	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households:
+HHWHhOthRce_Hh15to64y_FamHH_MrdCplFam	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Married-couple family:
+HHWHhOthRce_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HHWHhOthRce_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HHWHhOthRce_Hh15to64y_FamHH_OthFam	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family:
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhOthRce_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhOthRce_Hh15to64y_NFamHH	Households with a householder who is Some other race alone: Householder 15 to 64 years: Nonfamily households:
+HHWHhOthRce_Hh15to64y_NFamHH_HhLivAln	Households with a householder who is Some other race alone: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HHWHhOthRce_Hh15to64y_NFamHH_HhNotLiv	Households with a householder who is Some other race alone: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HHWHhOthRce_HhGte65y	Households with a householder who is Some other race alone: Householder 65 years and over:
+HHWHhOthRce_HhGte65y_FamHH	Households with a householder who is Some other race alone: Householder 65 years and over: Family households:
+HHWHhOthRce_HhGte65y_FamHH_MrdCplFam	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Married-couple family:
+HHWHhOthRce_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HHWHhOthRce_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HHWHhOthRce_HhGte65y_FamHH_OthFam	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family:
+HHWHhOthRce_HhGte65y_FamHH_OthFam_MleHhNoWife	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HHWHhOthRce_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HHWHhOthRce_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HHWHhOthRce_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HHWHhOthRce_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HHWHhOthRce_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households with a householder who is Some other race alone: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HHWHhOthRce_HhGte65y_NFamHH	Households with a householder who is Some other race alone: Householder 65 years and over: Nonfamily households:
+HHWHhOthRce_HhGte65y_NFamHH_HhLivAln	Households with a householder who is Some other race alone: Householder 65 years and over: Nonfamily households: Householder living alone
+HHWHhOthRce_HhGte65y_NFamHH_HhNotLiv	Households with a householder who is Some other race alone: Householder 65 years and over: Nonfamily households: Householder not living alone

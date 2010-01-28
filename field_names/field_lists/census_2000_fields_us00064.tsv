@@ -1,0 +1,117 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Hh15to24y	Occupied housing units: Owner occupied: Householder 15 to 24 years:
+OcpHsUnt_OwnerOcp_Hh15to24y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 15 to 24 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh15to24y_2to4	Occupied housing units: Owner occupied: Householder 15 to 24 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh15to24y_5to19	Occupied housing units: Owner occupied: Householder 15 to 24 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh15to24y_20to49	Occupied housing units: Owner occupied: Householder 15 to 24 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh15to24y_Gte50	Occupied housing units: Owner occupied: Householder 15 to 24 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh15to24y_MobHome	Occupied housing units: Owner occupied: Householder 15 to 24 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh15to24y_BoatRVvan	Occupied housing units: Owner occupied: Householder 15 to 24 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Hh25to34y	Occupied housing units: Owner occupied: Householder 25 to 34 years:
+OcpHsUnt_OwnerOcp_Hh25to34y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 25 to 34 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh25to34y_2to4	Occupied housing units: Owner occupied: Householder 25 to 34 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh25to34y_5to19	Occupied housing units: Owner occupied: Householder 25 to 34 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh25to34y_20to49	Occupied housing units: Owner occupied: Householder 25 to 34 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh25to34y_Gte50	Occupied housing units: Owner occupied: Householder 25 to 34 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh25to34y_MobHome	Occupied housing units: Owner occupied: Householder 25 to 34 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh25to34y_BoatRVvan	Occupied housing units: Owner occupied: Householder 25 to 34 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Hh35to44y	Occupied housing units: Owner occupied: Householder 35 to 44 years:
+OcpHsUnt_OwnerOcp_Hh35to44y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 35 to 44 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh35to44y_2to4	Occupied housing units: Owner occupied: Householder 35 to 44 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh35to44y_5to19	Occupied housing units: Owner occupied: Householder 35 to 44 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh35to44y_20to49	Occupied housing units: Owner occupied: Householder 35 to 44 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh35to44y_Gte50	Occupied housing units: Owner occupied: Householder 35 to 44 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh35to44y_MobHome	Occupied housing units: Owner occupied: Householder 35 to 44 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh35to44y_BoatRVvan	Occupied housing units: Owner occupied: Householder 35 to 44 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Hh45to54y	Occupied housing units: Owner occupied: Householder 45 to 54 years:
+OcpHsUnt_OwnerOcp_Hh45to54y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 45 to 54 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh45to54y_2to4	Occupied housing units: Owner occupied: Householder 45 to 54 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh45to54y_5to19	Occupied housing units: Owner occupied: Householder 45 to 54 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh45to54y_20to49	Occupied housing units: Owner occupied: Householder 45 to 54 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh45to54y_Gte50	Occupied housing units: Owner occupied: Householder 45 to 54 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh45to54y_MobHome	Occupied housing units: Owner occupied: Householder 45 to 54 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh45to54y_BoatRVvan	Occupied housing units: Owner occupied: Householder 45 to 54 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Hh55to64y	Occupied housing units: Owner occupied: Householder 55 to 64 years:
+OcpHsUnt_OwnerOcp_Hh55to64y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 55 to 64 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh55to64y_2to4	Occupied housing units: Owner occupied: Householder 55 to 64 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh55to64y_5to19	Occupied housing units: Owner occupied: Householder 55 to 64 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh55to64y_20to49	Occupied housing units: Owner occupied: Householder 55 to 64 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh55to64y_Gte50	Occupied housing units: Owner occupied: Householder 55 to 64 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh55to64y_MobHome	Occupied housing units: Owner occupied: Householder 55 to 64 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh55to64y_BoatRVvan	Occupied housing units: Owner occupied: Householder 55 to 64 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Hh65to74y	Occupied housing units: Owner occupied: Householder 65 to 74 years:
+OcpHsUnt_OwnerOcp_Hh65to74y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 65 to 74 years: 1, detached or attached
+OcpHsUnt_OwnerOcp_Hh65to74y_2to4	Occupied housing units: Owner occupied: Householder 65 to 74 years: 2 to 4
+OcpHsUnt_OwnerOcp_Hh65to74y_5to19	Occupied housing units: Owner occupied: Householder 65 to 74 years: 5 to 19
+OcpHsUnt_OwnerOcp_Hh65to74y_20to49	Occupied housing units: Owner occupied: Householder 65 to 74 years: 20 to 49
+OcpHsUnt_OwnerOcp_Hh65to74y_Gte50	Occupied housing units: Owner occupied: Householder 65 to 74 years: 50 or more
+OcpHsUnt_OwnerOcp_Hh65to74y_MobHome	Occupied housing units: Owner occupied: Householder 65 to 74 years: Mobile home
+OcpHsUnt_OwnerOcp_Hh65to74y_BoatRVvan	Occupied housing units: Owner occupied: Householder 65 to 74 years: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_HhGte75y	Occupied housing units: Owner occupied: Householder 75 years and over:
+OcpHsUnt_OwnerOcp_HhGte75y_1DtchdorAtchd	Occupied housing units: Owner occupied: Householder 75 years and over: 1, detached or attached
+OcpHsUnt_OwnerOcp_HhGte75y_2to4	Occupied housing units: Owner occupied: Householder 75 years and over: 2 to 4
+OcpHsUnt_OwnerOcp_HhGte75y_5to19	Occupied housing units: Owner occupied: Householder 75 years and over: 5 to 19
+OcpHsUnt_OwnerOcp_HhGte75y_20to49	Occupied housing units: Owner occupied: Householder 75 years and over: 20 to 49
+OcpHsUnt_OwnerOcp_HhGte75y_Gte50	Occupied housing units: Owner occupied: Householder 75 years and over: 50 or more
+OcpHsUnt_OwnerOcp_HhGte75y_MobHome	Occupied housing units: Owner occupied: Householder 75 years and over: Mobile home
+OcpHsUnt_OwnerOcp_HhGte75y_BoatRVvan	Occupied housing units: Owner occupied: Householder 75 years and over: Boat, RV, van, etc.
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Hh15to24y	Occupied housing units: Renter occupied: Householder 15 to 24 years:
+OcpHsUnt_RentOcp_Hh15to24y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 15 to 24 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh15to24y_2to4	Occupied housing units: Renter occupied: Householder 15 to 24 years: 2 to 4
+OcpHsUnt_RentOcp_Hh15to24y_5to19	Occupied housing units: Renter occupied: Householder 15 to 24 years: 5 to 19
+OcpHsUnt_RentOcp_Hh15to24y_20to49	Occupied housing units: Renter occupied: Householder 15 to 24 years: 20 to 49
+OcpHsUnt_RentOcp_Hh15to24y_Gte50	Occupied housing units: Renter occupied: Householder 15 to 24 years: 50 or more
+OcpHsUnt_RentOcp_Hh15to24y_MobHome	Occupied housing units: Renter occupied: Householder 15 to 24 years: Mobile home
+OcpHsUnt_RentOcp_Hh15to24y_BoatRVvan	Occupied housing units: Renter occupied: Householder 15 to 24 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Hh25to34y	Occupied housing units: Renter occupied: Householder 25 to 34 years:
+OcpHsUnt_RentOcp_Hh25to34y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 25 to 34 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh25to34y_2to4	Occupied housing units: Renter occupied: Householder 25 to 34 years: 2 to 4
+OcpHsUnt_RentOcp_Hh25to34y_5to19	Occupied housing units: Renter occupied: Householder 25 to 34 years: 5 to 19
+OcpHsUnt_RentOcp_Hh25to34y_20to49	Occupied housing units: Renter occupied: Householder 25 to 34 years: 20 to 49
+OcpHsUnt_RentOcp_Hh25to34y_Gte50	Occupied housing units: Renter occupied: Householder 25 to 34 years: 50 or more
+OcpHsUnt_RentOcp_Hh25to34y_MobHome	Occupied housing units: Renter occupied: Householder 25 to 34 years: Mobile home
+OcpHsUnt_RentOcp_Hh25to34y_BoatRVvan	Occupied housing units: Renter occupied: Householder 25 to 34 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Hh35to44y	Occupied housing units: Renter occupied: Householder 35 to 44 years:
+OcpHsUnt_RentOcp_Hh35to44y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 35 to 44 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh35to44y_2to4	Occupied housing units: Renter occupied: Householder 35 to 44 years: 2 to 4
+OcpHsUnt_RentOcp_Hh35to44y_5to19	Occupied housing units: Renter occupied: Householder 35 to 44 years: 5 to 19
+OcpHsUnt_RentOcp_Hh35to44y_20to49	Occupied housing units: Renter occupied: Householder 35 to 44 years: 20 to 49
+OcpHsUnt_RentOcp_Hh35to44y_Gte50	Occupied housing units: Renter occupied: Householder 35 to 44 years: 50 or more
+OcpHsUnt_RentOcp_Hh35to44y_MobHome	Occupied housing units: Renter occupied: Householder 35 to 44 years: Mobile home
+OcpHsUnt_RentOcp_Hh35to44y_BoatRVvan	Occupied housing units: Renter occupied: Householder 35 to 44 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Hh45to54y	Occupied housing units: Renter occupied: Householder 45 to 54 years:
+OcpHsUnt_RentOcp_Hh45to54y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 45 to 54 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh45to54y_2to4	Occupied housing units: Renter occupied: Householder 45 to 54 years: 2 to 4
+OcpHsUnt_RentOcp_Hh45to54y_5to19	Occupied housing units: Renter occupied: Householder 45 to 54 years: 5 to 19
+OcpHsUnt_RentOcp_Hh45to54y_20to49	Occupied housing units: Renter occupied: Householder 45 to 54 years: 20 to 49
+OcpHsUnt_RentOcp_Hh45to54y_Gte50	Occupied housing units: Renter occupied: Householder 45 to 54 years: 50 or more
+OcpHsUnt_RentOcp_Hh45to54y_MobHome	Occupied housing units: Renter occupied: Householder 45 to 54 years: Mobile home
+OcpHsUnt_RentOcp_Hh45to54y_BoatRVvan	Occupied housing units: Renter occupied: Householder 45 to 54 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Hh55to64y	Occupied housing units: Renter occupied: Householder 55 to 64 years:
+OcpHsUnt_RentOcp_Hh55to64y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 55 to 64 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh55to64y_2to4	Occupied housing units: Renter occupied: Householder 55 to 64 years: 2 to 4
+OcpHsUnt_RentOcp_Hh55to64y_5to19	Occupied housing units: Renter occupied: Householder 55 to 64 years: 5 to 19
+OcpHsUnt_RentOcp_Hh55to64y_20to49	Occupied housing units: Renter occupied: Householder 55 to 64 years: 20 to 49
+OcpHsUnt_RentOcp_Hh55to64y_Gte50	Occupied housing units: Renter occupied: Householder 55 to 64 years: 50 or more
+OcpHsUnt_RentOcp_Hh55to64y_MobHome	Occupied housing units: Renter occupied: Householder 55 to 64 years: Mobile home
+OcpHsUnt_RentOcp_Hh55to64y_BoatRVvan	Occupied housing units: Renter occupied: Householder 55 to 64 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Hh65to74y	Occupied housing units: Renter occupied: Householder 65 to 74 years:
+OcpHsUnt_RentOcp_Hh65to74y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 65 to 74 years: 1, detached or attached
+OcpHsUnt_RentOcp_Hh65to74y_2to4	Occupied housing units: Renter occupied: Householder 65 to 74 years: 2 to 4
+OcpHsUnt_RentOcp_Hh65to74y_5to19	Occupied housing units: Renter occupied: Householder 65 to 74 years: 5 to 19
+OcpHsUnt_RentOcp_Hh65to74y_20to49	Occupied housing units: Renter occupied: Householder 65 to 74 years: 20 to 49
+OcpHsUnt_RentOcp_Hh65to74y_Gte50	Occupied housing units: Renter occupied: Householder 65 to 74 years: 50 or more
+OcpHsUnt_RentOcp_Hh65to74y_MobHome	Occupied housing units: Renter occupied: Householder 65 to 74 years: Mobile home
+OcpHsUnt_RentOcp_Hh65to74y_BoatRVvan	Occupied housing units: Renter occupied: Householder 65 to 74 years: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_HhGte75y	Occupied housing units: Renter occupied: Householder 75 years and over:
+OcpHsUnt_RentOcp_HhGte75y_1DtchdorAtchd	Occupied housing units: Renter occupied: Householder 75 years and over: 1, detached or attached
+OcpHsUnt_RentOcp_HhGte75y_2to4	Occupied housing units: Renter occupied: Householder 75 years and over: 2 to 4
+OcpHsUnt_RentOcp_HhGte75y_5to19	Occupied housing units: Renter occupied: Householder 75 years and over: 5 to 19
+OcpHsUnt_RentOcp_HhGte75y_20to49	Occupied housing units: Renter occupied: Householder 75 years and over: 20 to 49
+OcpHsUnt_RentOcp_HhGte75y_Gte50	Occupied housing units: Renter occupied: Householder 75 years and over: 50 or more
+OcpHsUnt_RentOcp_HhGte75y_MobHome	Occupied housing units: Renter occupied: Householder 75 years and over: Mobile home
+OcpHsUnt_RentOcp_HhGte75y_BoatRVvan	Occupied housing units: Renter occupied: Householder 75 years and over: Boat, RV, van, etc.

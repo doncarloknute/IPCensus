@@ -1,0 +1,220 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+Fam_Tot	Families: Total:
+Fam_MrdCplFam	Families: Married-couple family:
+Fam_MrdCplFam_WOwnChldLt18y	Families: Married-couple family: With own children under 18 years:
+Fam_MrdCplFam_WOwnChldLt18y_Lt6yOnly	Families: Married-couple family: With own children under 18 years: Under 6 years only
+Fam_MrdCplFam_WOwnChldLt18y_Lt6yand6to17y	Families: Married-couple family: With own children under 18 years: Under 6 years and 6 to 17 years
+Fam_MrdCplFam_WOwnChldLt18y_6to17yOnly	Families: Married-couple family: With own children under 18 years: 6 to 17 years only
+Fam_MrdCplFam_NoOwnChldLt18y	Families: Married-couple family: No own children under 18 years
+Fam_OthFam	Families: Other family:
+Fam_OthFam_MleHhNoWife	Families: Other family: Male householder, no wife present:
+Fam_OthFam_MleHhNoWife_WOwnChldLt18y	Families: Other family: Male householder, no wife present: With own children under 18 years:
+Fam_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6yOnly	Families: Other family: Male householder, no wife present: With own children under 18 years: Under 6 years only
+Fam_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6yand6to17y	Families: Other family: Male householder, no wife present: With own children under 18 years: Under 6 years and 6 to 17 years
+Fam_OthFam_MleHhNoWife_WOwnChldLt18y_6to17yOnly	Families: Other family: Male householder, no wife present: With own children under 18 years: 6 to 17 years only
+Fam_OthFam_MleHhNoWife_NoOwnChldLt18y	Families: Other family: Male householder, no wife present: No own children under 18 years
+Fam_OthFam_FemHhNoHusb	Families: Other family: Female householder, no husband present:
+Fam_OthFam_FemHhNoHusb_WOwnChldLt18y	Families: Other family: Female householder, no husband present: With own children under 18 years:
+Fam_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6yOnly	Families: Other family: Female householder, no husband present: With own children under 18 years: Under 6 years only
+Fam_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6yand6to17y	Families: Other family: Female householder, no husband present: With own children under 18 years: Under 6 years and 6 to 17 years
+Fam_OthFam_FemHhNoHusb_WOwnChldLt18y_6to17yOnly	Families: Other family: Female householder, no husband present: With own children under 18 years: 6 to 17 years only
+Fam_OthFam_FemHhNoHusb_NoOwnChldLt18y	Families: Other family: Female householder, no husband present: No own children under 18 years
+OwnChldLt18y_Tot	Own children under 18 years: Total:
+OwnChldLt18y_MrdCplFam	Own children under 18 years: In married-couple families:
+OwnChldLt18y_MrdCplFam_Lt3y	Own children under 18 years: In married-couple families: Under 3 years
+OwnChldLt18y_MrdCplFam_3and4y	Own children under 18 years: In married-couple families: 3 and 4 years
+OwnChldLt18y_MrdCplFam_5y	Own children under 18 years: In married-couple families: 5 years
+OwnChldLt18y_MrdCplFam_6to11y	Own children under 18 years: In married-couple families: 6 to 11 years
+OwnChldLt18y_MrdCplFam_12and13y	Own children under 18 years: In married-couple families: 12 and 13 years
+OwnChldLt18y_MrdCplFam_14y	Own children under 18 years: In married-couple families: 14 years
+OwnChldLt18y_MrdCplFam_15to17y	Own children under 18 years: In married-couple families: 15 to 17 years
+OwnChldLt18y_OthFam	Own children under 18 years: In other families:
+OwnChldLt18y_OthFam_MleHhNoWife	Own children under 18 years: In other families: Male householder, no wife present:
+OwnChldLt18y_OthFam_MleHhNoWife_Lt3y	Own children under 18 years: In other families: Male householder, no wife present: Under 3 years
+OwnChldLt18y_OthFam_MleHhNoWife_3and4y	Own children under 18 years: In other families: Male householder, no wife present: 3 and 4 years
+OwnChldLt18y_OthFam_MleHhNoWife_5y	Own children under 18 years: In other families: Male householder, no wife present: 5 years
+OwnChldLt18y_OthFam_MleHhNoWife_6to11y	Own children under 18 years: In other families: Male householder, no wife present: 6 to 11 years
+OwnChldLt18y_OthFam_MleHhNoWife_12and13y	Own children under 18 years: In other families: Male householder, no wife present: 12 and 13 years
+OwnChldLt18y_OthFam_MleHhNoWife_14y	Own children under 18 years: In other families: Male householder, no wife present: 14 years
+OwnChldLt18y_OthFam_MleHhNoWife_15to17y	Own children under 18 years: In other families: Male householder, no wife present: 15 to 17 years
+OwnChldLt18y_OthFam_FemHhNoHusb	Own children under 18 years: In other families: Female householder, no husband present:
+OwnChldLt18y_OthFam_FemHhNoHusb_Lt3y	Own children under 18 years: In other families: Female householder, no husband present: Under 3 years
+OwnChldLt18y_OthFam_FemHhNoHusb_3and4y	Own children under 18 years: In other families: Female householder, no husband present: 3 and 4 years
+OwnChldLt18y_OthFam_FemHhNoHusb_5y	Own children under 18 years: In other families: Female householder, no husband present: 5 years
+OwnChldLt18y_OthFam_FemHhNoHusb_6to11y	Own children under 18 years: In other families: Female householder, no husband present: 6 to 11 years
+OwnChldLt18y_OthFam_FemHhNoHusb_12and13y	Own children under 18 years: In other families: Female householder, no husband present: 12 and 13 years
+OwnChldLt18y_OthFam_FemHhNoHusb_14y	Own children under 18 years: In other families: Female householder, no husband present: 14 years
+OwnChldLt18y_OthFam_FemHhNoHusb_15to17y	Own children under 18 years: In other families: Female householder, no husband present: 15 to 17 years
+Fam_Tot	Families: Total:
+Fam_MrdCplFam	Families: Married-couple family:
+Fam_MrdCplFam_WRelChldLt18y	Families: Married-couple family: With related children under 18 years:
+Fam_MrdCplFam_WRelChldLt18y_Lt6yOnly	Families: Married-couple family: With related children under 18 years: Under 6 years only
+Fam_MrdCplFam_WRelChldLt18y_Lt6yand6to17y	Families: Married-couple family: With related children under 18 years: Under 6 years and 6 to 17 years
+Fam_MrdCplFam_WRelChldLt18y_6to17yOnly	Families: Married-couple family: With related children under 18 years: 6 to 17 years only
+Fam_MrdCplFam_NoRelChldLt18y	Families: Married-couple family: No related children under 18 years
+Fam_OthFam	Families: Other family:
+Fam_OthFam_MleHhNoWife	Families: Other family: Male householder, no wife present:
+Fam_OthFam_MleHhNoWife_WRelChldLt18y	Families: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_OthFam_MleHhNoWife_WRelChldLt18y_Lt6yOnly	Families: Other family: Male householder, no wife present: With related children under 18 years: Under 6 years only
+Fam_OthFam_MleHhNoWife_WRelChldLt18y_Lt6yand6to17y	Families: Other family: Male householder, no wife present: With related children under 18 years: Under 6 years and 6 to 17 years
+Fam_OthFam_MleHhNoWife_WRelChldLt18y_6to17yOnly	Families: Other family: Male householder, no wife present: With related children under 18 years: 6 to 17 years only
+Fam_OthFam_MleHhNoWife_NoRelChldLt18y	Families: Other family: Male householder, no wife present: No related children under 18 years
+Fam_OthFam_FemHhNoHusb	Families: Other family: Female householder, no husband present:
+Fam_OthFam_FemHhNoHusb_WRelChldLt18y	Families: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_OthFam_FemHhNoHusb_WRelChldLt18y_Lt6yOnly	Families: Other family: Female householder, no husband present: With related children under 18 years: Under 6 years only
+Fam_OthFam_FemHhNoHusb_WRelChldLt18y_Lt6yand6to17y	Families: Other family: Female householder, no husband present: With related children under 18 years: Under 6 years and 6 to 17 years
+Fam_OthFam_FemHhNoHusb_WRelChldLt18y_6to17yOnly	Families: Other family: Female householder, no husband present: With related children under 18 years: 6 to 17 years only
+Fam_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: Other family: Female householder, no husband present: No related children under 18 years
+PopGte15y_Tot	Population 15 years and over: Total:
+PopGte15y_Mle	Population 15 years and over: Male:
+PopGte15y_Mle_NevMrd	Population 15 years and over: Male: Never married
+PopGte15y_Mle_NowMrd	Population 15 years and over: Male: Now married:
+PopGte15y_Mle_NowMrd_MrdSpPres	Population 15 years and over: Male: Now married: Married, spouse present
+PopGte15y_Mle_NowMrd_MrdSpAbs	Population 15 years and over: Male: Now married: Married, spouse absent:
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd	Population 15 years and over: Male: Now married: Married, spouse absent: Separated
+PopGte15y_Mle_NowMrd_MrdSpAbs_Oth	Population 15 years and over: Male: Now married: Married, spouse absent: Other
+PopGte15y_Mle_Widowed	Population 15 years and over: Male: Widowed
+PopGte15y_Mle_Div	Population 15 years and over: Male: Divorced
+PopGte15y_Fem	Population 15 years and over: Female:
+PopGte15y_Fem_NevMrd	Population 15 years and over: Female: Never married
+PopGte15y_Fem_NowMrd	Population 15 years and over: Female: Now married:
+PopGte15y_Fem_NowMrd_MrdSpPres	Population 15 years and over: Female: Now married: Married, spouse present
+PopGte15y_Fem_NowMrd_MrdSpAbs	Population 15 years and over: Female: Now married: Married, spouse absent:
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd	Population 15 years and over: Female: Now married: Married, spouse absent: Separated
+PopGte15y_Fem_NowMrd_MrdSpAbs_Oth	Population 15 years and over: Female: Now married: Married, spouse absent: Other
+PopGte15y_Fem_Widowed	Population 15 years and over: Female: Widowed
+PopGte15y_Fem_Div	Population 15 years and over: Female: Divorced
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_5to17y	Population 5 years and over: 5 to 17 years:
+PopGte5y_5to17y_SpkOnlyEngl	Population 5 years and over: 5 to 17 years: Speak only English
+PopGte5y_5to17y_SpkSpanish	Population 5 years and over: 5 to 17 years: Speak Spanish:
+PopGte5y_5to17y_SpkSpanish_SpkEnglVryWell	Population 5 years and over: 5 to 17 years: Speak Spanish: Speak English "very well"
+PopGte5y_5to17y_SpkSpanish_SpkEnglWell	Population 5 years and over: 5 to 17 years: Speak Spanish: Speak English "well"
+PopGte5y_5to17y_SpkSpanish_SpkEnglNotWell	Population 5 years and over: 5 to 17 years: Speak Spanish: Speak English "not well"
+PopGte5y_5to17y_SpkSpanish_SpkEnglNotAtAll	Population 5 years and over: 5 to 17 years: Speak Spanish: Speak English "not at all"
+PopGte5y_5to17y_SpkOthIndoEurLang	Population 5 years and over: 5 to 17 years: Speak other Indo-European languages:
+PopGte5y_5to17y_SpkOthIndoEurLang_SpkEnglVryWell	Population 5 years and over: 5 to 17 years: Speak other Indo-European languages: Speak English "very well"
+PopGte5y_5to17y_SpkOthIndoEurLang_SpkEnglWell	Population 5 years and over: 5 to 17 years: Speak other Indo-European languages: Speak English "well"
+PopGte5y_5to17y_SpkOthIndoEurLang_SpkEnglNotWell	Population 5 years and over: 5 to 17 years: Speak other Indo-European languages: Speak English "not well"
+PopGte5y_5to17y_SpkOthIndoEurLang_SpkEnglNotAtAll	Population 5 years and over: 5 to 17 years: Speak other Indo-European languages: Speak English "not at all"
+PopGte5y_5to17y_SpkAsianPacIslLang	Population 5 years and over: 5 to 17 years: Speak Asian and Pacific Island languages:
+PopGte5y_5to17y_SpkAsianPacIslLang_SpkEnglVryWell	Population 5 years and over: 5 to 17 years: Speak Asian and Pacific Island languages: Speak English "very well"
+PopGte5y_5to17y_SpkAsianPacIslLang_SpkEnglWell	Population 5 years and over: 5 to 17 years: Speak Asian and Pacific Island languages: Speak English "well"
+PopGte5y_5to17y_SpkAsianPacIslLang_SpkEnglNotWell	Population 5 years and over: 5 to 17 years: Speak Asian and Pacific Island languages: Speak English "not well"
+PopGte5y_5to17y_SpkAsianPacIslLang_SpkEnglNotAtAll	Population 5 years and over: 5 to 17 years: Speak Asian and Pacific Island languages: Speak English "not at all"
+PopGte5y_5to17y_SpkOthLang	Population 5 years and over: 5 to 17 years: Speak other languages:
+PopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+PopGte5y_5to17y_SpkOthLang_SpkEnglWell	Population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+PopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+PopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+PopGte5y_18to64y	Population 5 years and over: 18 to 64 years:
+PopGte5y_18to64y_SpkOnlyEngl	Population 5 years and over: 18 to 64 years: Speak only English
+PopGte5y_18to64y_SpkSpanish	Population 5 years and over: 18 to 64 years: Speak Spanish:
+PopGte5y_18to64y_SpkSpanish_SpkEnglVryWell	Population 5 years and over: 18 to 64 years: Speak Spanish: Speak English "very well"
+PopGte5y_18to64y_SpkSpanish_SpkEnglWell	Population 5 years and over: 18 to 64 years: Speak Spanish: Speak English "well"
+PopGte5y_18to64y_SpkSpanish_SpkEnglNotWell	Population 5 years and over: 18 to 64 years: Speak Spanish: Speak English "not well"
+PopGte5y_18to64y_SpkSpanish_SpkEnglNotAtAll	Population 5 years and over: 18 to 64 years: Speak Spanish: Speak English "not at all"
+PopGte5y_18to64y_SpkOthIndoEurLang	Population 5 years and over: 18 to 64 years: Speak other Indo-European languages:
+PopGte5y_18to64y_SpkOthIndoEurLang_SpkEnglVryWell	Population 5 years and over: 18 to 64 years: Speak other Indo-European languages: Speak English "very well"
+PopGte5y_18to64y_SpkOthIndoEurLang_SpkEnglWell	Population 5 years and over: 18 to 64 years: Speak other Indo-European languages: Speak English "well"
+PopGte5y_18to64y_SpkOthIndoEurLang_SpkEnglNotWell	Population 5 years and over: 18 to 64 years: Speak other Indo-European languages: Speak English "not well"
+PopGte5y_18to64y_SpkOthIndoEurLang_SpkEnglNotAtAll	Population 5 years and over: 18 to 64 years: Speak other Indo-European languages: Speak English "not at all"
+PopGte5y_18to64y_SpkAsianPacIslLang	Population 5 years and over: 18 to 64 years: Speak Asian and Pacific Island languages:
+PopGte5y_18to64y_SpkAsianPacIslLang_SpkEnglVryWell	Population 5 years and over: 18 to 64 years: Speak Asian and Pacific Island languages: Speak English "very well"
+PopGte5y_18to64y_SpkAsianPacIslLang_SpkEnglWell	Population 5 years and over: 18 to 64 years: Speak Asian and Pacific Island languages: Speak English "well"
+PopGte5y_18to64y_SpkAsianPacIslLang_SpkEnglNotWell	Population 5 years and over: 18 to 64 years: Speak Asian and Pacific Island languages: Speak English "not well"
+PopGte5y_18to64y_SpkAsianPacIslLang_SpkEnglNotAtAll	Population 5 years and over: 18 to 64 years: Speak Asian and Pacific Island languages: Speak English "not at all"
+PopGte5y_18to64y_SpkOthLang	Population 5 years and over: 18 to 64 years: Speak other languages:
+PopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+PopGte5y_18to64y_SpkOthLang_SpkEnglWell	Population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+PopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+PopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+PopGte5y_Gte65y	Population 5 years and over: 65 years and over:
+PopGte5y_Gte65y_SpkOnlyEngl	Population 5 years and over: 65 years and over: Speak only English
+PopGte5y_Gte65y_SpkSpanish	Population 5 years and over: 65 years and over: Speak Spanish:
+PopGte5y_Gte65y_SpkSpanish_SpkEnglVryWell	Population 5 years and over: 65 years and over: Speak Spanish: Speak English "very well"
+PopGte5y_Gte65y_SpkSpanish_SpkEnglWell	Population 5 years and over: 65 years and over: Speak Spanish: Speak English "well"
+PopGte5y_Gte65y_SpkSpanish_SpkEnglNotWell	Population 5 years and over: 65 years and over: Speak Spanish: Speak English "not well"
+PopGte5y_Gte65y_SpkSpanish_SpkEnglNotAtAll	Population 5 years and over: 65 years and over: Speak Spanish: Speak English "not at all"
+PopGte5y_Gte65y_SpkOthIndoEurLang	Population 5 years and over: 65 years and over: Speak other Indo-European languages:
+PopGte5y_Gte65y_SpkOthIndoEurLang_SpkEnglVryWell	Population 5 years and over: 65 years and over: Speak other Indo-European languages: Speak English "very well"
+PopGte5y_Gte65y_SpkOthIndoEurLang_SpkEnglWell	Population 5 years and over: 65 years and over: Speak other Indo-European languages: Speak English "well"
+PopGte5y_Gte65y_SpkOthIndoEurLang_SpkEnglNotWell	Population 5 years and over: 65 years and over: Speak other Indo-European languages: Speak English "not well"
+PopGte5y_Gte65y_SpkOthIndoEurLang_SpkEnglNotAtAll	Population 5 years and over: 65 years and over: Speak other Indo-European languages: Speak English "not at all"
+PopGte5y_Gte65y_SpkAsianPacIslLang	Population 5 years and over: 65 years and over: Speak Asian and Pacific Island languages:
+PopGte5y_Gte65y_SpkAsianPacIslLang_SpkEnglVryWell	Population 5 years and over: 65 years and over: Speak Asian and Pacific Island languages: Speak English "very well"
+PopGte5y_Gte65y_SpkAsianPacIslLang_SpkEnglWell	Population 5 years and over: 65 years and over: Speak Asian and Pacific Island languages: Speak English "well"
+PopGte5y_Gte65y_SpkAsianPacIslLang_SpkEnglNotWell	Population 5 years and over: 65 years and over: Speak Asian and Pacific Island languages: Speak English "not well"
+PopGte5y_Gte65y_SpkAsianPacIslLang_SpkEnglNotAtAll	Population 5 years and over: 65 years and over: Speak Asian and Pacific Island languages: Speak English "not at all"
+PopGte5y_Gte65y_SpkOthLang	Population 5 years and over: 65 years and over: Speak other languages:
+PopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+PopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+PopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+PopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+HH_Tot	Households: Total:
+HH_Engl	Households: English
+HH_Spanish	Households: Spanish:
+HH_Spanish_LingIso	Households: Spanish: Linguistically isolated
+HH_Spanish_NotLingIsol	Households: Spanish: Not linguistically isolated
+HH_OthIndoEurLang	Households: Other Indo-European languages:
+HH_OthIndoEurLang_LingIso	Households: Other Indo-European languages: Linguistically isolated
+HH_OthIndoEurLang_NotLingIsol	Households: Other Indo-European languages: Not linguistically isolated
+HH_AsianPacIsldLang	Households: Asian and Pacific Island languages:
+HH_AsianPacIsldLang_LingIso	Households: Asian and Pacific Island languages: Linguistically isolated
+HH_AsianPacIsldLang_NotLingIsol	Households: Asian and Pacific Island languages: Not linguistically isolated
+HH_OthLang	Households: Other languages:
+HH_OthLang_LingIso	Households: Other languages: Linguistically isolated
+HH_OthLang_NotLingIsol	Households: Other languages: Not linguistically isolated
+TotPop_Tot	Total population: Total:
+TotPop_Native	Total population: Native:
+TotPop_Native_BornStateRes	Total population: Native: Born in state of residence
+TotPop_Native_BornOthStUS	Total population: Native: Born in other state in the United States:
+TotPop_Native_BornOthStUS_NorthEast	Total population: Native: Born in other state in the United States: Northeast
+TotPop_Native_BornOthStUS_MidWest	Total population: Native: Born in other state in the United States: Midwest
+TotPop_Native_BornOthStUS_South	Total population: Native: Born in other state in the United States: South
+TotPop_Native_BornOthStUS_West	Total population: Native: Born in other state in the United States: West
+TotPop_Native_BornOutUS	Total population: Native: Born outside the United States:
+TotPop_Native_BornOutUS_PrtoRico	Total population: Native: Born outside the United States: Puerto Rico
+TotPop_Native_BornOutUS_USIslAreas	Total population: Native: Born outside the United States: U.S. Island Areas
+TotPop_Native_BornOutUS_BrnAbrdAmerPar	Total population: Native: Born outside the United States: Born abroad of American parent(s)
+TotPop_FrgnBorn	Total population: Foreign born:
+TotPop_FrgnBorn_NatlzdCit	Total population: Foreign born: Naturalized citizen
+TotPop_FrgnBorn_NotCitzn	Total population: Foreign born: Not a citizen
+FrgnBornPop_Tot	Foreign-born population: Total:
+FrgnBornPop_95toMar2000	Foreign-born population: 1995 to March 2000
+FrgnBornPop_90to94	Foreign-born population: 1990 to 1994
+FrgnBornPop_85to89	Foreign-born population: 1985 to 1989
+FrgnBornPop_80to84	Foreign-born population: 1980 to 1984
+FrgnBornPop_75to79	Foreign-born population: 1975 to 1979
+FrgnBornPop_70to74	Foreign-born population: 1970 to 1974
+FrgnBornPop_65to69	Foreign-born population: 1965 to 1969
+FrgnBornPop_Bef65	Foreign-born population: Before 1965
+FrgnBornPop_Tot	Foreign-born population: Total:
+FrgnBornPop_YearEntry90toMar2000	Foreign-born population: Year of entry 1990 to March 2000:
+FrgnBornPop_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_YearEntry90toMar2000_NotCitzn	Foreign-born population: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_YearEntry80to89	Foreign-born population: Year of entry 1980 to 1989:
+FrgnBornPop_YearEntry80to89_NatlzdCit	Foreign-born population: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_YearEntry80to89_NotCitzn	Foreign-born population: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_YearEntryBef80	Foreign-born population: Year of entry before 1980:
+FrgnBornPop_YearEntryBef80_NatlzdCit	Foreign-born population: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_YearEntryBef80_NotCitzn	Foreign-born population: Year of entry before 1980: Not a citizen
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_SameHs95	Population 5 years and over: Same house in 1995
+PopGte5y_DiffHs95	Population 5 years and over: Different house in 1995:
+PopGte5y_DiffHs95_InUS95	Population 5 years and over: Different house in 1995: In United States in 1995:
+PopGte5y_DiffHs95_InUS95_SameCnty	Population 5 years and over: Different house in 1995: In United States in 1995: Same county
+PopGte5y_DiffHs95_InUS95_DiffCnty	Population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+PopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+PopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+PopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+PopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+PopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+PopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+PopGte5y_DiffHs95_PRico95	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_DiffHs95_PRico95_SameMunic	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+PopGte5y_DiffHs95_PRico95_DiffMunic	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+PopGte5y_DiffHs95_Else95	Population 5 years and over: Different house in 1995: Elsewhere in 1995:
+PopGte5y_DiffHs95_Else95_USIslAreas	Population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+PopGte5y_DiffHs95_Else95_FrgnCntrySea	Population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea

@@ -1,0 +1,235 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+FrgnBornPop_Tot	Foreign-born population: Total:
+FrgnBornPop_Eur	Foreign-born population: Europe:
+FrgnBornPop_Eur_YearEntry90toMar2000	Foreign-born population: Europe: Year of entry 1990 to March 2000:
+FrgnBornPop_Eur_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Europe: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Eur_YearEntry90toMar2000_NotCitzn	Foreign-born population: Europe: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Eur_YearEntry80to89	Foreign-born population: Europe: Year of entry 1980 to 1989:
+FrgnBornPop_Eur_YearEntry80to89_NatlzdCit	Foreign-born population: Europe: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Eur_YearEntry80to89_NotCitzn	Foreign-born population: Europe: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Eur_YearEntryBef80	Foreign-born population: Europe: Year of entry before 1980:
+FrgnBornPop_Eur_YearEntryBef80_NatlzdCit	Foreign-born population: Europe: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Eur_YearEntryBef80_NotCitzn	Foreign-born population: Europe: Year of entry before 1980: Not a citizen
+FrgnBornPop_Asia	Foreign-born population: Asia:
+FrgnBornPop_Asia_YearEntry90toMar2000	Foreign-born population: Asia: Year of entry 1990 to March 2000:
+FrgnBornPop_Asia_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Asia: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Asia_YearEntry90toMar2000_NotCitzn	Foreign-born population: Asia: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Asia_YearEntry80to89	Foreign-born population: Asia: Year of entry 1980 to 1989:
+FrgnBornPop_Asia_YearEntry80to89_NatlzdCit	Foreign-born population: Asia: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Asia_YearEntry80to89_NotCitzn	Foreign-born population: Asia: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Asia_YearEntryBef80	Foreign-born population: Asia: Year of entry before 1980:
+FrgnBornPop_Asia_YearEntryBef80_NatlzdCit	Foreign-born population: Asia: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Asia_YearEntryBef80_NotCitzn	Foreign-born population: Asia: Year of entry before 1980: Not a citizen
+FrgnBornPop_Africa	Foreign-born population: Africa:
+FrgnBornPop_Africa_YearEntry90toMar2000	Foreign-born population: Africa: Year of entry 1990 to March 2000:
+FrgnBornPop_Africa_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Africa: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Africa_YearEntry90toMar2000_NotCitzn	Foreign-born population: Africa: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Africa_YearEntry80to89	Foreign-born population: Africa: Year of entry 1980 to 1989:
+FrgnBornPop_Africa_YearEntry80to89_NatlzdCit	Foreign-born population: Africa: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Africa_YearEntry80to89_NotCitzn	Foreign-born population: Africa: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Africa_YearEntryBef80	Foreign-born population: Africa: Year of entry before 1980:
+FrgnBornPop_Africa_YearEntryBef80_NatlzdCit	Foreign-born population: Africa: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Africa_YearEntryBef80_NotCitzn	Foreign-born population: Africa: Year of entry before 1980: Not a citizen
+FrgnBornPop_Oceania	Foreign-born population: Oceania:
+FrgnBornPop_Oceania_YearEntry90toMar2000	Foreign-born population: Oceania: Year of entry 1990 to March 2000:
+FrgnBornPop_Oceania_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Oceania: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Oceania_YearEntry90toMar2000_NotCitzn	Foreign-born population: Oceania: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Oceania_YearEntry80to89	Foreign-born population: Oceania: Year of entry 1980 to 1989:
+FrgnBornPop_Oceania_YearEntry80to89_NatlzdCit	Foreign-born population: Oceania: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Oceania_YearEntry80to89_NotCitzn	Foreign-born population: Oceania: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Oceania_YearEntryBef80	Foreign-born population: Oceania: Year of entry before 1980:
+FrgnBornPop_Oceania_YearEntryBef80_NatlzdCit	Foreign-born population: Oceania: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Oceania_YearEntryBef80_NotCitzn	Foreign-born population: Oceania: Year of entry before 1980: Not a citizen
+FrgnBornPop_Amer	Foreign-born population: Americas:
+FrgnBornPop_Amer_LatAmer	Foreign-born population: Americas: Latin America:
+FrgnBornPop_Amer_LatAmer_Carib	Foreign-born population: Americas: Latin America: Caribbean:
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry90toMar2000	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1990 to March 2000:
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry90toMar2000_NotCitzn	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry80to89	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1980 to 1989:
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry80to89_NatlzdCit	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_Carib_YearEntry80to89_NotCitzn	Foreign-born population: Americas: Latin America: Caribbean: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Amer_LatAmer_Carib_YearEntryBef80	Foreign-born population: Americas: Latin America: Caribbean: Year of entry before 1980:
+FrgnBornPop_Amer_LatAmer_Carib_YearEntryBef80_NatlzdCit	Foreign-born population: Americas: Latin America: Caribbean: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_Carib_YearEntryBef80_NotCitzn	Foreign-born population: Americas: Latin America: Caribbean: Year of entry before 1980: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer	Foreign-born population: Americas: Latin America: Central America:
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico	Foreign-born population: Americas: Latin America: Central America: Mexico:
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry90toMar2000	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1990 to March 2000:
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry90toMar2000_153	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry90toMar2000_154	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry80to89	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1980 to 1989:
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry80to89_Natl_155	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntry80to89_NotC_156	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntryBef80	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry before 1980:
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntryBef80_Natlz_157	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_Mexico_YearEntryBef80_NotCitzn	Foreign-born population: Americas: Latin America: Central America: Mexico: Year of entry before 1980: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer	Foreign-born population: Americas: Latin America: Central America: Other Central America:
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry90toMa_158	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1990 to March 2000:
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry90toMa_159	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry90toMa_160	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry80to89	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1980 to 1989:
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry80to89_161	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntry80to89_162	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntryBef80	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry before 1980:
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntryBef80__163	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_YearEntryBef80__164	Foreign-born population: Americas: Latin America: Central America: Other Central America: Year of entry before 1980: Not a citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer	Foreign-born population: Americas: Latin America: South America:
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry90toMar2000	Foreign-born population: Americas: Latin America: South America: Year of entry 1990 to March 2000:
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry90toMar2000_Natlz_165	Foreign-born population: Americas: Latin America: South America: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry90toMar2000_NotCitzn	Foreign-born population: Americas: Latin America: South America: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry80to89	Foreign-born population: Americas: Latin America: South America: Year of entry 1980 to 1989:
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry80to89_NatlzdCit	Foreign-born population: Americas: Latin America: South America: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntry80to89_NotCitzn	Foreign-born population: Americas: Latin America: South America: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntryBef80	Foreign-born population: Americas: Latin America: South America: Year of entry before 1980:
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntryBef80_NatlzdCit	Foreign-born population: Americas: Latin America: South America: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Amer_LatAmer_SouthAmer_YearEntryBef80_NotCitzn	Foreign-born population: Americas: Latin America: South America: Year of entry before 1980: Not a citizen
+FrgnBornPop_Amer_NrthAmer	Foreign-born population: Americas: Northern America:
+FrgnBornPop_Amer_NrthAmer_YearEntry90toMar2000	Foreign-born population: Americas: Northern America: Year of entry 1990 to March 2000:
+FrgnBornPop_Amer_NrthAmer_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Americas: Northern America: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_Amer_NrthAmer_YearEntry90toMar2000_NotCitzn	Foreign-born population: Americas: Northern America: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_Amer_NrthAmer_YearEntry80to89	Foreign-born population: Americas: Northern America: Year of entry 1980 to 1989:
+FrgnBornPop_Amer_NrthAmer_YearEntry80to89_NatlzdCit	Foreign-born population: Americas: Northern America: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_Amer_NrthAmer_YearEntry80to89_NotCitzn	Foreign-born population: Americas: Northern America: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_Amer_NrthAmer_YearEntryBef80	Foreign-born population: Americas: Northern America: Year of entry before 1980:
+FrgnBornPop_Amer_NrthAmer_YearEntryBef80_NatlzdCit	Foreign-born population: Americas: Northern America: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_Amer_NrthAmer_YearEntryBef80_NotCitzn	Foreign-born population: Americas: Northern America: Year of entry before 1980: Not a citizen
+FrgnBornPop_BornSea	Foreign-born population: Born at sea:
+FrgnBornPop_BornSea_YearEntry90toMar2000	Foreign-born population: Born at sea: Year of entry 1990 to March 2000:
+FrgnBornPop_BornSea_YearEntry90toMar2000_NatlzdCit	Foreign-born population: Born at sea: Year of entry 1990 to March 2000: Naturalized citizen
+FrgnBornPop_BornSea_YearEntry90toMar2000_NotCitzn	Foreign-born population: Born at sea: Year of entry 1990 to March 2000: Not a citizen
+FrgnBornPop_BornSea_YearEntry80to89	Foreign-born population: Born at sea: Year of entry 1980 to 1989:
+FrgnBornPop_BornSea_YearEntry80to89_NatlzdCit	Foreign-born population: Born at sea: Year of entry 1980 to 1989: Naturalized citizen
+FrgnBornPop_BornSea_YearEntry80to89_NotCitzn	Foreign-born population: Born at sea: Year of entry 1980 to 1989: Not a citizen
+FrgnBornPop_BornSea_YearEntryBef80	Foreign-born population: Born at sea: Year of entry before 1980:
+FrgnBornPop_BornSea_YearEntryBef80_NatlzdCit	Foreign-born population: Born at sea: Year of entry before 1980: Naturalized citizen
+FrgnBornPop_BornSea_YearEntryBef80_NotCitzn	Foreign-born population: Born at sea: Year of entry before 1980: Not a citizen
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_SameHs95	Population 5 years and over: Same house in 1995
+PopGte5y_DiffHs95	Population 5 years and over: Different house in 1995:
+PopGte5y_DiffHs95_InUS95	Population 5 years and over: Different house in 1995: In United States in 1995:
+PopGte5y_DiffHs95_InUS95_SameCityTown	Population 5 years and over: Different house in 1995: In United States in 1995: Same city or town:
+PopGte5y_DiffHs95_InUS95_SameCityTown_SameCnty	Population 5 years and over: Different house in 1995: In United States in 1995: Same city or town: Same county
+PopGte5y_DiffHs95_InUS95_SameCityTown_DiffCntySmSt	Population 5 years and over: Different house in 1995: In United States in 1995: Same city or town: Different county (same state)
+PopGte5y_DiffHs95_InUS95_NotSameCityTown	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town:
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_SameCnty	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Same county
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county:
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_SameSt	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Same state
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_DiffSt	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Different state:
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_DiffSt_Nort_166	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Different state: Northeast
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_DiffSt_MidWest	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Different state: Midwest
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_DiffSt_South	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Different state: South
+PopGte5y_DiffHs95_InUS95_NotSameCityTown_DiffCnty_DiffSt_West	Population 5 years and over: Different house in 1995: In United States in 1995: Not same city or town: Different county: Different state: West
+PopGte5y_DiffHs95_PRico95	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_DiffHs95_PRico95_SameCityTown	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same city or town
+PopGte5y_DiffHs95_PRico95_NotSameCityTown	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Not same city or town:
+PopGte5y_DiffHs95_PRico95_NotSameCityTown_SameMunic	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Not same city or town: Same municipio
+PopGte5y_DiffHs95_PRico95_NotSameCityTown_DiffMunic	Population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Not same city or town: Different municipio
+PopGte5y_DiffHs95_Else95	Population 5 years and over: Different house in 1995: Elsewhere in 1995:
+PopGte5y_DiffHs95_Else95_USIslAreas	Population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+PopGte5y_DiffHs95_Else95_FrgnCntrySea	Population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_LivPMSA2000	Population 5 years and over: Living in an MSA/PMSA in 2000:
+PopGte5y_LivPMSA2000_SameHs95	Population 5 years and over: Living in an MSA/PMSA in 2000: Same house in 1995:
+PopGte5y_LivPMSA2000_SameHs95_CentCityThisPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Same house in 1995: Central city of this MSA/PMSA
+PopGte5y_LivPMSA2000_SameHs95_RemThisPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Same house in 1995: Remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_MvdInSameCent_167	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Moved within same central city
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_MvdBtwCentCities	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Moved between central cities
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_MvdCentCityRe_168	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Moved from central city to remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_MvdRemPMSAtoC_169	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Moved from remainder of this MSA/PMSA to central city
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_MvdInRemPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Moved within remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95_CentCityDiffPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995: Central city in different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95_RemDiffPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995: Remainder of different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_NotPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_LivPMSA2000_DiffHs95_PRico95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_MvdInSameCen_170	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Moved within same central city
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_MvdBtwCentCi_171	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Moved between central cities
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_MvdCentCityR_172	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Moved from central city to remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_MvdRemPMSAto_173	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Moved from remainder of this MSA/PMSA to central city
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_MvdInRemPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Moved within remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95_CentCityDiff_174	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995: Central city in different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95_RemDiffPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995: Remainder of different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_NotPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_LivPMSA2000_DiffHs95_Else95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: Elsewhere in 1995
+PopGte5y_NotLivPMSA2000	Population 5 years and over: Not living in an MSA/PMSA in 2000:
+PopGte5y_NotLivPMSA2000_SameHs95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Same house in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95_CentCity	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995: Central city
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95_RemAnPMSA	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995: Remainder of an MSA/PMSA
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_NotPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95_CentCity	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995: Central city
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95_RemAnPMSA	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995: Remainder of an MSA/PMSA
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_NotPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95_Else95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: Elsewhere in 1995
+PopGte3y_Tot	Population 3 years and over: Total:
+PopGte3y_Mle	Population 3 years and over: Male:
+PopGte3y_Mle_ErldSch	Population 3 years and over: Male: Enrolled in school:
+PopGte3y_Mle_ErldSch_3and4y	Population 3 years and over: Male: Enrolled in school: 3 and 4 years
+PopGte3y_Mle_ErldSch_5to9y	Population 3 years and over: Male: Enrolled in school: 5 to 9 years
+PopGte3y_Mle_ErldSch_10to14y	Population 3 years and over: Male: Enrolled in school: 10 to 14 years
+PopGte3y_Mle_ErldSch_15to17y	Population 3 years and over: Male: Enrolled in school: 15 to 17 years
+PopGte3y_Mle_ErldSch_18and19y	Population 3 years and over: Male: Enrolled in school: 18 and 19 years
+PopGte3y_Mle_ErldSch_20to24y	Population 3 years and over: Male: Enrolled in school: 20 to 24 years
+PopGte3y_Mle_ErldSch_25to34y	Population 3 years and over: Male: Enrolled in school: 25 to 34 years
+PopGte3y_Mle_ErldSch_Gte35y	Population 3 years and over: Male: Enrolled in school: 35 years and over
+PopGte3y_Mle_NotEnrldSchl	Population 3 years and over: Male: Not enrolled in school:
+PopGte3y_Mle_NotEnrldSchl_3and4y	Population 3 years and over: Male: Not enrolled in school: 3 and 4 years
+PopGte3y_Mle_NotEnrldSchl_5to9y	Population 3 years and over: Male: Not enrolled in school: 5 to 9 years
+PopGte3y_Mle_NotEnrldSchl_10to14y	Population 3 years and over: Male: Not enrolled in school: 10 to 14 years
+PopGte3y_Mle_NotEnrldSchl_15to17y	Population 3 years and over: Male: Not enrolled in school: 15 to 17 years
+PopGte3y_Mle_NotEnrldSchl_18and19y	Population 3 years and over: Male: Not enrolled in school: 18 and 19 years
+PopGte3y_Mle_NotEnrldSchl_20to24y	Population 3 years and over: Male: Not enrolled in school: 20 to 24 years
+PopGte3y_Mle_NotEnrldSchl_25to34y	Population 3 years and over: Male: Not enrolled in school: 25 to 34 years
+PopGte3y_Mle_NotEnrldSchl_Gte35y	Population 3 years and over: Male: Not enrolled in school: 35 years and over
+PopGte3y_Fem	Population 3 years and over: Female:
+PopGte3y_Fem_ErldSch	Population 3 years and over: Female: Enrolled in school:
+PopGte3y_Fem_ErldSch_3and4y	Population 3 years and over: Female: Enrolled in school: 3 and 4 years
+PopGte3y_Fem_ErldSch_5to9y	Population 3 years and over: Female: Enrolled in school: 5 to 9 years
+PopGte3y_Fem_ErldSch_10to14y	Population 3 years and over: Female: Enrolled in school: 10 to 14 years
+PopGte3y_Fem_ErldSch_15to17y	Population 3 years and over: Female: Enrolled in school: 15 to 17 years
+PopGte3y_Fem_ErldSch_18and19y	Population 3 years and over: Female: Enrolled in school: 18 and 19 years
+PopGte3y_Fem_ErldSch_20to24y	Population 3 years and over: Female: Enrolled in school: 20 to 24 years
+PopGte3y_Fem_ErldSch_25to34y	Population 3 years and over: Female: Enrolled in school: 25 to 34 years
+PopGte3y_Fem_ErldSch_Gte35y	Population 3 years and over: Female: Enrolled in school: 35 years and over
+PopGte3y_Fem_NotEnrldSchl	Population 3 years and over: Female: Not enrolled in school:
+PopGte3y_Fem_NotEnrldSchl_3and4y	Population 3 years and over: Female: Not enrolled in school: 3 and 4 years
+PopGte3y_Fem_NotEnrldSchl_5to9y	Population 3 years and over: Female: Not enrolled in school: 5 to 9 years
+PopGte3y_Fem_NotEnrldSchl_10to14y	Population 3 years and over: Female: Not enrolled in school: 10 to 14 years
+PopGte3y_Fem_NotEnrldSchl_15to17y	Population 3 years and over: Female: Not enrolled in school: 15 to 17 years
+PopGte3y_Fem_NotEnrldSchl_18and19y	Population 3 years and over: Female: Not enrolled in school: 18 and 19 years
+PopGte3y_Fem_NotEnrldSchl_20to24y	Population 3 years and over: Female: Not enrolled in school: 20 to 24 years
+PopGte3y_Fem_NotEnrldSchl_25to34y	Population 3 years and over: Female: Not enrolled in school: 25 to 34 years
+PopGte3y_Fem_NotEnrldSchl_Gte35y	Population 3 years and over: Female: Not enrolled in school: 35 years and over
+PopGte15y_Tot	Population 15 years and over: Total:
+PopGte15y_Mle	Population 15 years and over: Male:
+PopGte15y_Mle_ErldCollGradSchl	Population 15 years and over: Male: Enrolled in college or graduate school:
+PopGte15y_Mle_ErldCollGradSchl_15to17y	Population 15 years and over: Male: Enrolled in college or graduate school: 15 to 17 years
+PopGte15y_Mle_ErldCollGradSchl_18to24y	Population 15 years and over: Male: Enrolled in college or graduate school: 18 to 24 years
+PopGte15y_Mle_ErldCollGradSchl_25to34y	Population 15 years and over: Male: Enrolled in college or graduate school: 25 to 34 years
+PopGte15y_Mle_ErldCollGradSchl_Gte35y	Population 15 years and over: Male: Enrolled in college or graduate school: 35 years and over
+PopGte15y_Mle_NotEnrldCollGrad	Population 15 years and over: Male: Not enrolled in college or graduate school:
+PopGte15y_Mle_NotEnrldCollGrad_15to17y	Population 15 years and over: Male: Not enrolled in college or graduate school: 15 to 17 years
+PopGte15y_Mle_NotEnrldCollGrad_18to24y	Population 15 years and over: Male: Not enrolled in college or graduate school: 18 to 24 years
+PopGte15y_Mle_NotEnrldCollGrad_25to34y	Population 15 years and over: Male: Not enrolled in college or graduate school: 25 to 34 years
+PopGte15y_Mle_NotEnrldCollGrad_Gte35y	Population 15 years and over: Male: Not enrolled in college or graduate school: 35 years and over
+PopGte15y_Fem	Population 15 years and over: Female:
+PopGte15y_Fem_ErldCollGradSchl	Population 15 years and over: Female: Enrolled in college or graduate school:
+PopGte15y_Fem_ErldCollGradSchl_15to17y	Population 15 years and over: Female: Enrolled in college or graduate school: 15 to 17 years
+PopGte15y_Fem_ErldCollGradSchl_18to24y	Population 15 years and over: Female: Enrolled in college or graduate school: 18 to 24 years
+PopGte15y_Fem_ErldCollGradSchl_25to34y	Population 15 years and over: Female: Enrolled in college or graduate school: 25 to 34 years
+PopGte15y_Fem_ErldCollGradSchl_Gte35y	Population 15 years and over: Female: Enrolled in college or graduate school: 35 years and over
+PopGte15y_Fem_NotEnrldCollGrad	Population 15 years and over: Female: Not enrolled in college or graduate school:
+PopGte15y_Fem_NotEnrldCollGrad_15to17y	Population 15 years and over: Female: Not enrolled in college or graduate school: 15 to 17 years
+PopGte15y_Fem_NotEnrldCollGrad_18to24y	Population 15 years and over: Female: Not enrolled in college or graduate school: 18 to 24 years
+PopGte15y_Fem_NotEnrldCollGrad_25to34y	Population 15 years and over: Female: Not enrolled in college or graduate school: 25 to 34 years
+PopGte15y_Fem_NotEnrldCollGrad_Gte35y	Population 15 years and over: Female: Not enrolled in college or graduate school: 35 years and over

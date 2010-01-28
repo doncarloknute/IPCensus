@@ -1,0 +1,242 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+FamWHhNatHiPacIsl_Tot	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+FamWHhNatHiPacIsl_LtUsd10k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: Less than $10,000
+FamWHhNatHiPacIsl_Usd10kto15k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $10,000 to $14,999
+FamWHhNatHiPacIsl_Usd15kto20k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $15,000 to $19,999
+FamWHhNatHiPacIsl_Usd20kto25k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $20,000 to $24,999
+FamWHhNatHiPacIsl_Usd25kto30k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $25,000 to $29,999
+FamWHhNatHiPacIsl_Usd30kto35k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $30,000 to $34,999
+FamWHhNatHiPacIsl_Usd35kto40k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $35,000 to $39,999
+FamWHhNatHiPacIsl_Usd40kto45k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $40,000 to $44,999
+FamWHhNatHiPacIsl_Usd45kto50k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $45,000 to $49,999
+FamWHhNatHiPacIsl_Usd50kto60k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $50,000 to $59,999
+FamWHhNatHiPacIsl_Usd60kto75k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $60,000 to $74,999
+FamWHhNatHiPacIsl_Usd75kto100k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $75,000 to $99,999
+FamWHhNatHiPacIsl_Usd100kto125k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $100,000 to $124,999
+FamWHhNatHiPacIsl_Usd125kto150k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $125,000 to $149,999
+FamWHhNatHiPacIsl_Usd150kto200k	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $150,000 to $199,999
+FamWHhNatHiPacIsl_Usd200korM	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: $200,000 or more
+FamWHhOthRce_Tot	Families with a householder who is Some other race alone: Total:
+FamWHhOthRce_LtUsd10k	Families with a householder who is Some other race alone: Less than $10,000
+FamWHhOthRce_Usd10kto15k	Families with a householder who is Some other race alone: $10,000 to $14,999
+FamWHhOthRce_Usd15kto20k	Families with a householder who is Some other race alone: $15,000 to $19,999
+FamWHhOthRce_Usd20kto25k	Families with a householder who is Some other race alone: $20,000 to $24,999
+FamWHhOthRce_Usd25kto30k	Families with a householder who is Some other race alone: $25,000 to $29,999
+FamWHhOthRce_Usd30kto35k	Families with a householder who is Some other race alone: $30,000 to $34,999
+FamWHhOthRce_Usd35kto40k	Families with a householder who is Some other race alone: $35,000 to $39,999
+FamWHhOthRce_Usd40kto45k	Families with a householder who is Some other race alone: $40,000 to $44,999
+FamWHhOthRce_Usd45kto50k	Families with a householder who is Some other race alone: $45,000 to $49,999
+FamWHhOthRce_Usd50kto60k	Families with a householder who is Some other race alone: $50,000 to $59,999
+FamWHhOthRce_Usd60kto75k	Families with a householder who is Some other race alone: $60,000 to $74,999
+FamWHhOthRce_Usd75kto100k	Families with a householder who is Some other race alone: $75,000 to $99,999
+FamWHhOthRce_Usd100kto125k	Families with a householder who is Some other race alone: $100,000 to $124,999
+FamWHhOthRce_Usd125kto150k	Families with a householder who is Some other race alone: $125,000 to $149,999
+FamWHhOthRce_Usd150kto200k	Families with a householder who is Some other race alone: $150,000 to $199,999
+FamWHhOthRce_Usd200korM	Families with a householder who is Some other race alone: $200,000 or more
+FamWHhGte2Rce_Tot	Families with a householder who is Two or more races: Total:
+FamWHhGte2Rce_LtUsd10k	Families with a householder who is Two or more races: Less than $10,000
+FamWHhGte2Rce_Usd10kto15k	Families with a householder who is Two or more races: $10,000 to $14,999
+FamWHhGte2Rce_Usd15kto20k	Families with a householder who is Two or more races: $15,000 to $19,999
+FamWHhGte2Rce_Usd20kto25k	Families with a householder who is Two or more races: $20,000 to $24,999
+FamWHhGte2Rce_Usd25kto30k	Families with a householder who is Two or more races: $25,000 to $29,999
+FamWHhGte2Rce_Usd30kto35k	Families with a householder who is Two or more races: $30,000 to $34,999
+FamWHhGte2Rce_Usd35kto40k	Families with a householder who is Two or more races: $35,000 to $39,999
+FamWHhGte2Rce_Usd40kto45k	Families with a householder who is Two or more races: $40,000 to $44,999
+FamWHhGte2Rce_Usd45kto50k	Families with a householder who is Two or more races: $45,000 to $49,999
+FamWHhGte2Rce_Usd50kto60k	Families with a householder who is Two or more races: $50,000 to $59,999
+FamWHhGte2Rce_Usd60kto75k	Families with a householder who is Two or more races: $60,000 to $74,999
+FamWHhGte2Rce_Usd75kto100k	Families with a householder who is Two or more races: $75,000 to $99,999
+FamWHhGte2Rce_Usd100kto125k	Families with a householder who is Two or more races: $100,000 to $124,999
+FamWHhGte2Rce_Usd125kto150k	Families with a householder who is Two or more races: $125,000 to $149,999
+FamWHhGte2Rce_Usd150kto200k	Families with a householder who is Two or more races: $150,000 to $199,999
+FamWHhGte2Rce_Usd200korM	Families with a householder who is Two or more races: $200,000 or more
+FamWHhHisp_Tot	Families with a householder who is Hispanic or Latino: Total:
+FamWHhHisp_LtUsd10k	Families with a householder who is Hispanic or Latino: Less than $10,000
+FamWHhHisp_Usd10kto15k	Families with a householder who is Hispanic or Latino: $10,000 to $14,999
+FamWHhHisp_Usd15kto20k	Families with a householder who is Hispanic or Latino: $15,000 to $19,999
+FamWHhHisp_Usd20kto25k	Families with a householder who is Hispanic or Latino: $20,000 to $24,999
+FamWHhHisp_Usd25kto30k	Families with a householder who is Hispanic or Latino: $25,000 to $29,999
+FamWHhHisp_Usd30kto35k	Families with a householder who is Hispanic or Latino: $30,000 to $34,999
+FamWHhHisp_Usd35kto40k	Families with a householder who is Hispanic or Latino: $35,000 to $39,999
+FamWHhHisp_Usd40kto45k	Families with a householder who is Hispanic or Latino: $40,000 to $44,999
+FamWHhHisp_Usd45kto50k	Families with a householder who is Hispanic or Latino: $45,000 to $49,999
+FamWHhHisp_Usd50kto60k	Families with a householder who is Hispanic or Latino: $50,000 to $59,999
+FamWHhHisp_Usd60kto75k	Families with a householder who is Hispanic or Latino: $60,000 to $74,999
+FamWHhHisp_Usd75kto100k	Families with a householder who is Hispanic or Latino: $75,000 to $99,999
+FamWHhHisp_Usd100kto125k	Families with a householder who is Hispanic or Latino: $100,000 to $124,999
+FamWHhHisp_Usd125kto150k	Families with a householder who is Hispanic or Latino: $125,000 to $149,999
+FamWHhHisp_Usd150kto200k	Families with a householder who is Hispanic or Latino: $150,000 to $199,999
+FamWHhHisp_Usd200korM	Families with a householder who is Hispanic or Latino: $200,000 or more
+FamWHhWhtNotHisp_Tot	Families with a householder who is White alone, not Hispanic or Latino: Total:
+FamWHhWhtNotHisp_LtUsd10k	Families with a householder who is White alone, not Hispanic or Latino: Less than $10,000
+FamWHhWhtNotHisp_Usd10kto15k	Families with a householder who is White alone, not Hispanic or Latino: $10,000 to $14,999
+FamWHhWhtNotHisp_Usd15kto20k	Families with a householder who is White alone, not Hispanic or Latino: $15,000 to $19,999
+FamWHhWhtNotHisp_Usd20kto25k	Families with a householder who is White alone, not Hispanic or Latino: $20,000 to $24,999
+FamWHhWhtNotHisp_Usd25kto30k	Families with a householder who is White alone, not Hispanic or Latino: $25,000 to $29,999
+FamWHhWhtNotHisp_Usd30kto35k	Families with a householder who is White alone, not Hispanic or Latino: $30,000 to $34,999
+FamWHhWhtNotHisp_Usd35kto40k	Families with a householder who is White alone, not Hispanic or Latino: $35,000 to $39,999
+FamWHhWhtNotHisp_Usd40kto45k	Families with a householder who is White alone, not Hispanic or Latino: $40,000 to $44,999
+FamWHhWhtNotHisp_Usd45kto50k	Families with a householder who is White alone, not Hispanic or Latino: $45,000 to $49,999
+FamWHhWhtNotHisp_Usd50kto60k	Families with a householder who is White alone, not Hispanic or Latino: $50,000 to $59,999
+FamWHhWhtNotHisp_Usd60kto75k	Families with a householder who is White alone, not Hispanic or Latino: $60,000 to $74,999
+FamWHhWhtNotHisp_Usd75kto100k	Families with a householder who is White alone, not Hispanic or Latino: $75,000 to $99,999
+FamWHhWhtNotHisp_Usd100kto125k	Families with a householder who is White alone, not Hispanic or Latino: $100,000 to $124,999
+FamWHhWhtNotHisp_Usd125kto150k	Families with a householder who is White alone, not Hispanic or Latino: $125,000 to $149,999
+FamWHhWhtNotHisp_Usd150kto200k	Families with a householder who is White alone, not Hispanic or Latino: $150,000 to $199,999
+FamWHhWhtNotHisp_Usd200korM	Families with a householder who is White alone, not Hispanic or Latino: $200,000 or more
+FamWHhWht_MedFamInc99	Families with a householder who is White alone: Median family income in 1999
+FamWHhBlkAfAm_MedFamInc99	Families with a householder who is Black or African American alone: Median family income in 1999
+FamWHhAmIndAkNat_MedFamInc99	Families with a householder who is American Indian and Alaska Native alone: Median family income in 1999
+FamWHhAsn_MedFamInc99	Families with a householder who is Asian alone: Median family income in 1999
+FamWHhNatHiPacIsl_MedFamInc99	Families with a householder who is Native Hawaiian and Other Pacific Islander alone: Median family income in 1999
+FamWHhOthRce_MedFamInc99	Families with a householder who is Some other race alone: Median family income in 1999
+FamWHhGte2Rce_MedFamInc99	Families with a householder who is Two or more races: Median family income in 1999
+FamWHhHisp_MedFamInc99	Families with a householder who is Hispanic or Latino: Median family income in 1999
+FamWHhWhtNotHisp_MedFamInc99	Families with a householder who is White alone, not Hispanic or Latino: Median family income in 1999
+NFamHHWHhWht_MedBFamHHInc99	Nonfamily households with a householder who is White alone: Median nonfamily household income in 1999
+NFamHHWHhBlkAfAm_MedBFamHHInc99	Nonfamily households with a householder who is Black or African American alone: Median nonfamily household income in 1999
+NFamHHWHhAmIndAkNat_MedBFamHHInc99	Nonfamily households with a householder who is American Indian and Alaska Native alone: Median nonfamily household income in 1999
+NFamHHWHhAsn_MedBFamHHInc99	Nonfamily households with a householder who is Asian alone: Median nonfamily household income in 1999
+NFamHHWHhNatHiPacIsl_MedBFamHHInc99	Nonfamily households with a householder who is Native Hawaiian and Other Pacific Islander alone: Median nonfamily household income in 1999
+NFamHHWHhOthRce_MedBFamHHInc99	Nonfamily households with a householder who is Some other race alone: Median nonfamily household income in 1999
+NFamHHWHhGte2Rce_MedBFamHHInc99	Nonfamily households with a householder who is Two or more races: Median nonfamily household income in 1999
+NFamHHWHhHisp_MedBFamHHInc99	Nonfamily households with a householder who is Hispanic or Latino: Median nonfamily household income in 1999
+NFamHHWHhWhtNotHisp_MedBFamHHInc99	Nonfamily households with a householder who is White alone, not Hispanic or Latino: Median nonfamily household income in 1999
+WhtAlnPop_PerCapInc99	White alone population: Per capita income in 1999
+BlkAfAmPop_PerCapInc99	Black or African American alone population: Per capita income in 1999
+AmIndAkNatPop_PerCapInc99	American Indian and Alaska Native alone population: Per capita income in 1999
+AsnAlnPop_PerCapInc99	Asian alone population: Per capita income in 1999
+NatHiPacIslPop_PerCapInc99	Native Hawaiian and Other Pacific Islander alone population: Per capita income in 1999
+OthRcePop_PerCapInc99	Some other race alone population: Per capita income in 1999
+Gte2RcePop_PerCapInc99	Two or more races population: Per capita income in 1999
+HispPop_PerCapInc99	Hispanic or Latino population: Per capita income in 1999
+WhtNotHispPop_PerCapInc99	White alone, not Hispanic or Latino population: Per capita income in 1999
+WhtPopGte15y_AggInc99	White alone population 15 years and over: Aggregate income in 1999
+BlkAfAmPopGte15y_AggInc99	Black or African American alone population 15 years and over: Aggregate income in 1999
+AmIndAkNatPopGte15y_AggInc99	American Indian and Alaska Native alone population 15 years and over: Aggregate income in 1999
+AsnPopGte15y_AggInc99	Asian alone population 15 years and over: Aggregate income in 1999
+NatHiPacIslPopGte15y_AggInc99	Native Hawaiian and Other Pacific Islander alone population 15 years and over: Aggregate income in 1999
+OthRcePopGte15y_AggInc99	Some other race alone population 15 years and over: Aggregate income in 1999
+Gte2RcePopGte15y_AggInc99	Two or more races population 15 years and over: Aggregate income in 1999
+HispPopGte15y_AggInc99	Hispanic or Latino population 15 years and over: Aggregate income in 1999
+WhtNotHispPopGte15y_AggInc99	White alone, not Hispanic or Latino population 15 years and over: Aggregate income in 1999
+WhtPopPovDet_Tot	White alone population for whom poverty status is determined: Total:
+WhtPopPovDet_Inc99LtPov	White alone population for whom poverty status is determined: Income in 1999 below poverty level:
+WhtPopPovDet_Inc99LtPov_Lt5y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+WhtPopPovDet_Inc99LtPov_5y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+WhtPopPovDet_Inc99LtPov_6to11y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+WhtPopPovDet_Inc99LtPov_12to17y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+WhtPopPovDet_Inc99LtPov_18to64y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+WhtPopPovDet_Inc99LtPov_65to74y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+WhtPopPovDet_Inc99LtPov_Gte75y	White alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+WhtPopPovDet_Inc99GtePov	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+WhtPopPovDet_Inc99GtePov_Lt5y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+WhtPopPovDet_Inc99GtePov_5y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+WhtPopPovDet_Inc99GtePov_6to11y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+WhtPopPovDet_Inc99GtePov_12to17y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+WhtPopPovDet_Inc99GtePov_18to64y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+WhtPopPovDet_Inc99GtePov_65to74y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+WhtPopPovDet_Inc99GtePov_Gte75y	White alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+BlkAfAmPopPovDet_Tot	Black or African American alone population for whom poverty status is determined: Total:
+BlkAfAmPopPovDet_Inc99LtPov	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level:
+BlkAfAmPopPovDet_Inc99LtPov_Lt5y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+BlkAfAmPopPovDet_Inc99LtPov_5y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+BlkAfAmPopPovDet_Inc99LtPov_6to11y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+BlkAfAmPopPovDet_Inc99LtPov_12to17y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+BlkAfAmPopPovDet_Inc99LtPov_18to64y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+BlkAfAmPopPovDet_Inc99LtPov_65to74y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+BlkAfAmPopPovDet_Inc99LtPov_Gte75y	Black or African American alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+BlkAfAmPopPovDet_Inc99GtePov	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+BlkAfAmPopPovDet_Inc99GtePov_Lt5y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+BlkAfAmPopPovDet_Inc99GtePov_5y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+BlkAfAmPopPovDet_Inc99GtePov_6to11y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+BlkAfAmPopPovDet_Inc99GtePov_12to17y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+BlkAfAmPopPovDet_Inc99GtePov_18to64y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+BlkAfAmPopPovDet_Inc99GtePov_65to74y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+BlkAfAmPopPovDet_Inc99GtePov_Gte75y	Black or African American alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+AmIndAkNatPopPovDet_Tot	American Indian and Alaska Native alone population for whom poverty status is determined: Total:
+AmIndAkNatPopPovDet_Inc99LtPov	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level:
+AmIndAkNatPopPovDet_Inc99LtPov_Lt5y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+AmIndAkNatPopPovDet_Inc99LtPov_5y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+AmIndAkNatPopPovDet_Inc99LtPov_6to11y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+AmIndAkNatPopPovDet_Inc99LtPov_12to17y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+AmIndAkNatPopPovDet_Inc99LtPov_18to64y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+AmIndAkNatPopPovDet_Inc99LtPov_65to74y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+AmIndAkNatPopPovDet_Inc99LtPov_Gte75y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+AmIndAkNatPopPovDet_Inc99GtePov	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+AmIndAkNatPopPovDet_Inc99GtePov_Lt5y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+AmIndAkNatPopPovDet_Inc99GtePov_5y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+AmIndAkNatPopPovDet_Inc99GtePov_6to11y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+AmIndAkNatPopPovDet_Inc99GtePov_12to17y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+AmIndAkNatPopPovDet_Inc99GtePov_18to64y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+AmIndAkNatPopPovDet_Inc99GtePov_65to74y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+AmIndAkNatPopPovDet_Inc99GtePov_Gte75y	American Indian and Alaska Native alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+AsnPopPovDet_Tot	Asian alone population for whom poverty status is determined: Total:
+AsnPopPovDet_Inc99LtPov	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level:
+AsnPopPovDet_Inc99LtPov_Lt5y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+AsnPopPovDet_Inc99LtPov_5y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+AsnPopPovDet_Inc99LtPov_6to11y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+AsnPopPovDet_Inc99LtPov_12to17y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+AsnPopPovDet_Inc99LtPov_18to64y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+AsnPopPovDet_Inc99LtPov_65to74y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+AsnPopPovDet_Inc99LtPov_Gte75y	Asian alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+AsnPopPovDet_Inc99GtePov	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+AsnPopPovDet_Inc99GtePov_Lt5y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+AsnPopPovDet_Inc99GtePov_5y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+AsnPopPovDet_Inc99GtePov_6to11y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+AsnPopPovDet_Inc99GtePov_12to17y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+AsnPopPovDet_Inc99GtePov_18to64y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+AsnPopPovDet_Inc99GtePov_65to74y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+AsnPopPovDet_Inc99GtePov_Gte75y	Asian alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+NatHiPacIslPopPovDet_Tot	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Total:
+NatHiPacIslPopPovDet_Inc99LtPov	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level:
+NatHiPacIslPopPovDet_Inc99LtPov_Lt5y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+NatHiPacIslPopPovDet_Inc99LtPov_5y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+NatHiPacIslPopPovDet_Inc99LtPov_6to11y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+NatHiPacIslPopPovDet_Inc99LtPov_12to17y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+NatHiPacIslPopPovDet_Inc99LtPov_18to64y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+NatHiPacIslPopPovDet_Inc99LtPov_65to74y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+NatHiPacIslPopPovDet_Inc99LtPov_Gte75y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+NatHiPacIslPopPovDet_Inc99GtePov	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+NatHiPacIslPopPovDet_Inc99GtePov_Lt5y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+NatHiPacIslPopPovDet_Inc99GtePov_5y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+NatHiPacIslPopPovDet_Inc99GtePov_6to11y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+NatHiPacIslPopPovDet_Inc99GtePov_12to17y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+NatHiPacIslPopPovDet_Inc99GtePov_18to64y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+NatHiPacIslPopPovDet_Inc99GtePov_65to74y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+NatHiPacIslPopPovDet_Inc99GtePov_Gte75y	Native Hawaiian and Other Pacific Islander alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+OthRcePopPovDet_Tot	Some other race alone population for whom poverty status is determined: Total:
+OthRcePopPovDet_Inc99LtPov	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level:
+OthRcePopPovDet_Inc99LtPov_Lt5y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+OthRcePopPovDet_Inc99LtPov_5y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+OthRcePopPovDet_Inc99LtPov_6to11y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+OthRcePopPovDet_Inc99LtPov_12to17y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+OthRcePopPovDet_Inc99LtPov_18to64y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+OthRcePopPovDet_Inc99LtPov_65to74y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+OthRcePopPovDet_Inc99LtPov_Gte75y	Some other race alone population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+OthRcePopPovDet_Inc99GtePov	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level:
+OthRcePopPovDet_Inc99GtePov_Lt5y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+OthRcePopPovDet_Inc99GtePov_5y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+OthRcePopPovDet_Inc99GtePov_6to11y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+OthRcePopPovDet_Inc99GtePov_12to17y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+OthRcePopPovDet_Inc99GtePov_18to64y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+OthRcePopPovDet_Inc99GtePov_65to74y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+OthRcePopPovDet_Inc99GtePov_Gte75y	Some other race alone population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+Gte2RcePopPovDet_Tot	Two or more races population for whom poverty status is determined: Total:
+Gte2RcePopPovDet_Inc99LtPov	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level:
+Gte2RcePopPovDet_Inc99LtPov_Lt5y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+Gte2RcePopPovDet_Inc99LtPov_5y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+Gte2RcePopPovDet_Inc99LtPov_6to11y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+Gte2RcePopPovDet_Inc99LtPov_12to17y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+Gte2RcePopPovDet_Inc99LtPov_18to64y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+Gte2RcePopPovDet_Inc99LtPov_65to74y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+Gte2RcePopPovDet_Inc99LtPov_Gte75y	Two or more races population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+Gte2RcePopPovDet_Inc99GtePov	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level:
+Gte2RcePopPovDet_Inc99GtePov_Lt5y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+Gte2RcePopPovDet_Inc99GtePov_5y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+Gte2RcePopPovDet_Inc99GtePov_6to11y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+Gte2RcePopPovDet_Inc99GtePov_12to17y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+Gte2RcePopPovDet_Inc99GtePov_18to64y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+Gte2RcePopPovDet_Inc99GtePov_65to74y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+Gte2RcePopPovDet_Inc99GtePov_Gte75y	Two or more races population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over

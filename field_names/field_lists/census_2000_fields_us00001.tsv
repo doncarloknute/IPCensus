@@ -1,0 +1,250 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+TotPop_Tot	Total population: Total
+TotPop_Tot	Total population: Total
+TotPop_Tot	Total population: Total
+TotPop_PctPopSample	Total population: Percent of the population in sample
+TotPop_Tot	Total population: Total:
+TotPop_Urban	Total population: Urban:
+TotPop_Urban_UrbArea	Total population: Urban: Inside urbanized areas
+TotPop_Urban_UrbClust	Total population: Urban: Inside urban clusters
+TotPop_Rural	Total population: Rural:
+TotPop_Rural_Farm	Total population: Rural: Farm
+TotPop_Rural_Nonfarm	Total population: Rural: Nonfarm
+TotPop_Tot	Total population: Total:
+TotPop_WhtAln	Total population: White alone
+TotPop_BlkAfAmAln	Total population: Black or African American alone
+TotPop_AmIndAkNatAlone	Total population: American Indian and Alaska Native alone
+TotPop_AsianAln	Total population: Asian alone
+TotPop_NatHawOthPacIsl	Total population: Native Hawaiian and Other Pacific Islander alone
+TotPop_OthRceAlone	Total population: Some other race alone
+TotPop_Gte2Rce	Total population: Two or more races
+TotPop_Tot	Total population: Total:
+TotPop_NotHisp	Total population: Not Hispanic or Latino:
+TotPop_NotHisp_WhtAln	Total population: Not Hispanic or Latino: White alone
+TotPop_NotHisp_BlkAfAmAln	Total population: Not Hispanic or Latino: Black or African American alone
+TotPop_NotHisp_AmIndAkNatAlone	Total population: Not Hispanic or Latino: American Indian and Alaska Native alone
+TotPop_NotHisp_AsianAln	Total population: Not Hispanic or Latino: Asian alone
+TotPop_NotHisp_NatHawOthPacIsl	Total population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+TotPop_NotHisp_OthRceAlone	Total population: Not Hispanic or Latino: Some other race alone
+TotPop_NotHisp_Gte2Rce	Total population: Not Hispanic or Latino: Two or more races
+TotPop_Hisp	Total population: Hispanic or Latino:
+TotPop_Hisp_WhtAln	Total population: Hispanic or Latino: White alone
+TotPop_Hisp_BlkAfAmAln	Total population: Hispanic or Latino: Black or African American alone
+TotPop_Hisp_AmIndAkNatAlone	Total population: Hispanic or Latino: American Indian and Alaska Native alone
+TotPop_Hisp_AsianAln	Total population: Hispanic or Latino: Asian alone
+TotPop_Hisp_NatHawOthPacIsl	Total population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+TotPop_Hisp_OthRceAlone	Total population: Hispanic or Latino: Some other race alone
+TotPop_Hisp_Gte2Rce	Total population: Hispanic or Latino: Two or more races
+TotPop_Tot	Total population: Total:
+TotPop_Mle	Total population: Male:
+TotPop_Mle_Lt1y	Total population: Male: Under 1 year
+TotPop_Mle_1y	Total population: Male: 1 year
+TotPop_Mle_2y	Total population: Male: 2 years
+TotPop_Mle_3y	Total population: Male: 3 years
+TotPop_Mle_4y	Total population: Male: 4 years
+TotPop_Mle_5y	Total population: Male: 5 years
+TotPop_Mle_6y	Total population: Male: 6 years
+TotPop_Mle_7y	Total population: Male: 7 years
+TotPop_Mle_8y	Total population: Male: 8 years
+TotPop_Mle_9y	Total population: Male: 9 years
+TotPop_Mle_10y	Total population: Male: 10 years
+TotPop_Mle_11y	Total population: Male: 11 years
+TotPop_Mle_12y	Total population: Male: 12 years
+TotPop_Mle_13y	Total population: Male: 13 years
+TotPop_Mle_14y	Total population: Male: 14 years
+TotPop_Mle_15y	Total population: Male: 15 years
+TotPop_Mle_16y	Total population: Male: 16 years
+TotPop_Mle_17y	Total population: Male: 17 years
+TotPop_Mle_18y	Total population: Male: 18 years
+TotPop_Mle_19y	Total population: Male: 19 years
+TotPop_Mle_20y	Total population: Male: 20 years
+TotPop_Mle_21y	Total population: Male: 21 years
+TotPop_Mle_22to24y	Total population: Male: 22 to 24 years
+TotPop_Mle_25to29y	Total population: Male: 25 to 29 years
+TotPop_Mle_30to34y	Total population: Male: 30 to 34 years
+TotPop_Mle_35to39y	Total population: Male: 35 to 39 years
+TotPop_Mle_40to44y	Total population: Male: 40 to 44 years
+TotPop_Mle_45to49y	Total population: Male: 45 to 49 years
+TotPop_Mle_50to54y	Total population: Male: 50 to 54 years
+TotPop_Mle_55to59y	Total population: Male: 55 to 59 years
+TotPop_Mle_60and61y	Total population: Male: 60 and 61 years
+TotPop_Mle_62to64y	Total population: Male: 62 to 64 years
+TotPop_Mle_65and66y	Total population: Male: 65 and 66 years
+TotPop_Mle_67to69y	Total population: Male: 67 to 69 years
+TotPop_Mle_70to74y	Total population: Male: 70 to 74 years
+TotPop_Mle_75to79y	Total population: Male: 75 to 79 years
+TotPop_Mle_80to84y	Total population: Male: 80 to 84 years
+TotPop_Mle_Gte85y	Total population: Male: 85 years and over
+TotPop_Fem	Total population: Female:
+TotPop_Fem_Lt1y	Total population: Female: Under 1 year
+TotPop_Fem_1y	Total population: Female: 1 year
+TotPop_Fem_2y	Total population: Female: 2 years
+TotPop_Fem_3y	Total population: Female: 3 years
+TotPop_Fem_4y	Total population: Female: 4 years
+TotPop_Fem_5y	Total population: Female: 5 years
+TotPop_Fem_6y	Total population: Female: 6 years
+TotPop_Fem_7y	Total population: Female: 7 years
+TotPop_Fem_8y	Total population: Female: 8 years
+TotPop_Fem_9y	Total population: Female: 9 years
+TotPop_Fem_10y	Total population: Female: 10 years
+TotPop_Fem_11y	Total population: Female: 11 years
+TotPop_Fem_12y	Total population: Female: 12 years
+TotPop_Fem_13y	Total population: Female: 13 years
+TotPop_Fem_14y	Total population: Female: 14 years
+TotPop_Fem_15y	Total population: Female: 15 years
+TotPop_Fem_16y	Total population: Female: 16 years
+TotPop_Fem_17y	Total population: Female: 17 years
+TotPop_Fem_18y	Total population: Female: 18 years
+TotPop_Fem_19y	Total population: Female: 19 years
+TotPop_Fem_20y	Total population: Female: 20 years
+TotPop_Fem_21y	Total population: Female: 21 years
+TotPop_Fem_22to24y	Total population: Female: 22 to 24 years
+TotPop_Fem_25to29y	Total population: Female: 25 to 29 years
+TotPop_Fem_30to34y	Total population: Female: 30 to 34 years
+TotPop_Fem_35to39y	Total population: Female: 35 to 39 years
+TotPop_Fem_40to44y	Total population: Female: 40 to 44 years
+TotPop_Fem_45to49y	Total population: Female: 45 to 49 years
+TotPop_Fem_50to54y	Total population: Female: 50 to 54 years
+TotPop_Fem_55to59y	Total population: Female: 55 to 59 years
+TotPop_Fem_60and61y	Total population: Female: 60 and 61 years
+TotPop_Fem_62to64y	Total population: Female: 62 to 64 years
+TotPop_Fem_65and66y	Total population: Female: 65 and 66 years
+TotPop_Fem_67to69y	Total population: Female: 67 to 69 years
+TotPop_Fem_70to74y	Total population: Female: 70 to 74 years
+TotPop_Fem_75to79y	Total population: Female: 75 to 79 years
+TotPop_Fem_80to84y	Total population: Female: 80 to 84 years
+TotPop_Fem_Gte85y	Total population: Female: 85 years and over
+TotPop_Tot	Total population: Total:
+TotPop_InHH	Total population: In households:
+TotPop_InHH_FamHH	Total population: In households: In family households:
+TotPop_InHH_FamHH_Hh	Total population: In households: In family households: Householder:
+TotPop_InHH_FamHH_Hh_Mle	Total population: In households: In family households: Householder: Male
+TotPop_InHH_FamHH_Hh_Fem	Total population: In households: In family households: Householder: Female
+TotPop_InHH_FamHH_Spouse	Total population: In households: In family households: Spouse
+TotPop_InHH_FamHH_Child	Total population: In households: In family households: Child:
+TotPop_InHH_FamHH_Child_NatBorn	Total population: In households: In family households: Child: Natural-born
+TotPop_InHH_FamHH_Child_Adptd	Total population: In households: In family households: Child: Adopted
+TotPop_InHH_FamHH_Child_Step	Total population: In households: In family households: Child: Step
+TotPop_InHH_FamHH_GndChild	Total population: In households: In family households: Grandchild
+TotPop_InHH_FamHH_BrthrSistr	Total population: In households: In family households: Brother or sister
+TotPop_InHH_FamHH_Prnt	Total population: In households: In family households: Parent
+TotPop_InHH_FamHH_OthRel	Total population: In households: In family households: Other relatives
+TotPop_InHH_FamHH_NonRel	Total population: In households: In family households: Nonrelatives
+TotPop_InHH_NonFamHH	Total population: In households: In nonfamily households:
+TotPop_InHH_NonFamHH_MleHh	Total population: In households: In nonfamily households: Male householder:
+TotPop_InHH_NonFamHH_MleHh_LivAln	Total population: In households: In nonfamily households: Male householder: Living alone
+TotPop_InHH_NonFamHH_MleHh_NotLivAln	Total population: In households: In nonfamily households: Male householder: Not living alone
+TotPop_InHH_NonFamHH_FemHh	Total population: In households: In nonfamily households: Female householder:
+TotPop_InHH_NonFamHH_FemHh_LivAln	Total population: In households: In nonfamily households: Female householder: Living alone
+TotPop_InHH_NonFamHH_FemHh_NotLivAln	Total population: In households: In nonfamily households: Female householder: Not living alone
+TotPop_InHH_NonFamHH_NonRel	Total population: In households: In nonfamily households: Nonrelatives
+TotPop_InHH_GrpQuart	Total population: In households: In group quarters:
+TotPop_InHH_GrpQuart_InstPop	Total population: In households: In group quarters: Institutionalized population
+TotPop_InHH_GrpQuart_NonInstPop	Total population: In households: In group quarters: Noninstitutionalized population
+HH_Tot	Households: Total:
+HH_1pHH	Households: 1-person household:
+HH_1pHH_MleHh	Households: 1-person household: Male householder
+HH_1pHH_FemHh	Households: 1-person household: Female householder
+HH_Gte2pHH	Households: 2-or-more-person household:
+HH_Gte2pHH_FamHH	Households: 2-or-more-person household: Family households:
+HH_Gte2pHH_FamHH_MrdCplFam	Households: 2-or-more-person household: Family households: Married-couple family:
+HH_Gte2pHH_FamHH_MrdCplFam_WOwnChldLt18y	Households: 2-or-more-person household: Family households: Married-couple family: With own children under 18 years
+HH_Gte2pHH_FamHH_MrdCplFam_NoOwnChldLt18y	Households: 2-or-more-person household: Family households: Married-couple family: No own children under 18 years
+HH_Gte2pHH_FamHH_OthFam	Households: 2-or-more-person household: Family households: Other family:
+HH_Gte2pHH_FamHH_OthFam_MleHhNoWife	Households: 2-or-more-person household: Family households: Other family: Male householder, no wife present:
+HH_Gte2pHH_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households: 2-or-more-person household: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HH_Gte2pHH_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households: 2-or-more-person household: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HH_Gte2pHH_FamHH_OthFam_FemHhNoHusb	Households: 2-or-more-person household: Family households: Other family: Female householder, no husband present:
+HH_Gte2pHH_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households: 2-or-more-person household: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HH_Gte2pHH_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households: 2-or-more-person household: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HH_Gte2pHH_NFamHH	Households: 2-or-more-person household: Nonfamily households:
+HH_Gte2pHH_NFamHH_MleHh	Households: 2-or-more-person household: Nonfamily households: Male householder
+HH_Gte2pHH_NFamHH_FemHh	Households: 2-or-more-person household: Nonfamily households: Female householder
+PopGte65y_Tot	Population 65 years and over: Total:
+PopGte65y_InHH	Population 65 years and over: In households:
+PopGte65y_InHH_FamHH	Population 65 years and over: In households: In family households:
+PopGte65y_InHH_FamHH_Hh	Population 65 years and over: In households: In family households: Householder:
+PopGte65y_InHH_FamHH_Hh_Mle	Population 65 years and over: In households: In family households: Householder: Male
+PopGte65y_InHH_FamHH_Hh_Fem	Population 65 years and over: In households: In family households: Householder: Female
+PopGte65y_InHH_FamHH_Spouse	Population 65 years and over: In households: In family households: Spouse
+PopGte65y_InHH_FamHH_Prnt	Population 65 years and over: In households: In family households: Parent
+PopGte65y_InHH_FamHH_OthRel	Population 65 years and over: In households: In family households: Other relatives
+PopGte65y_InHH_FamHH_NonRel	Population 65 years and over: In households: In family households: Nonrelatives
+PopGte65y_InHH_NonFamHH	Population 65 years and over: In households: In nonfamily households:
+PopGte65y_InHH_NonFamHH_MleHh	Population 65 years and over: In households: In nonfamily households: Male householder:
+PopGte65y_InHH_NonFamHH_MleHh_LivAln	Population 65 years and over: In households: In nonfamily households: Male householder: Living alone
+PopGte65y_InHH_NonFamHH_MleHh_NotLivAln	Population 65 years and over: In households: In nonfamily households: Male householder: Not living alone
+PopGte65y_InHH_NonFamHH_FemHh	Population 65 years and over: In households: In nonfamily households: Female householder:
+PopGte65y_InHH_NonFamHH_FemHh_LivAln	Population 65 years and over: In households: In nonfamily households: Female householder: Living alone
+PopGte65y_InHH_NonFamHH_FemHh_NotLivAln	Population 65 years and over: In households: In nonfamily households: Female householder: Not living alone
+PopGte65y_InHH_NonFamHH_NonRel	Population 65 years and over: In households: In nonfamily households: Nonrelatives
+PopGte65y_GrpQuart	Population 65 years and over: In group quarters:
+PopGte65y_GrpQuart_InstPop	Population 65 years and over: In group quarters: Institutionalized population
+PopGte65y_GrpQuart_NonInstPop	Population 65 years and over: In group quarters: Noninstitutionalized population
+HH_Tot	Households: Total:
+HH_Hh15to64y	Households: Householder 15 to 64 years:
+HH_Hh15to64y_FamHH	Households: Householder 15 to 64 years: Family households:
+HH_Hh15to64y_FamHH_MrdCplFam	Households: Householder 15 to 64 years: Family households: Married-couple family:
+HH_Hh15to64y_FamHH_MrdCplFam_WOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Married-couple family: With own children under 18 years
+HH_Hh15to64y_FamHH_MrdCplFam_NoOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Married-couple family: No own children under 18 years
+HH_Hh15to64y_FamHH_OthFam	Households: Householder 15 to 64 years: Family households: Other family:
+HH_Hh15to64y_FamHH_OthFam_MleHhNoWife	Households: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present:
+HH_Hh15to64y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HH_Hh15to64y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HH_Hh15to64y_FamHH_OthFam_FemHhNoHusb	Households: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present:
+HH_Hh15to64y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HH_Hh15to64y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households: Householder 15 to 64 years: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HH_Hh15to64y_NFamHH	Households: Householder 15 to 64 years: Nonfamily households:
+HH_Hh15to64y_NFamHH_HhLivAln	Households: Householder 15 to 64 years: Nonfamily households: Householder living alone
+HH_Hh15to64y_NFamHH_HhNotLiv	Households: Householder 15 to 64 years: Nonfamily households: Householder not living alone
+HH_HhGte65y	Households: Householder 65 years and over:
+HH_HhGte65y_FamHH	Households: Householder 65 years and over: Family households:
+HH_HhGte65y_FamHH_MrdCplFam	Households: Householder 65 years and over: Family households: Married-couple family:
+HH_HhGte65y_FamHH_MrdCplFam_WOwnChldLt18y	Households: Householder 65 years and over: Family households: Married-couple family: With own children under 18 years
+HH_HhGte65y_FamHH_MrdCplFam_NoOwnChldLt18y	Households: Householder 65 years and over: Family households: Married-couple family: No own children under 18 years
+HH_HhGte65y_FamHH_OthFam	Households: Householder 65 years and over: Family households: Other family:
+HH_HhGte65y_FamHH_OthFam_MleHhNoWife	Households: Householder 65 years and over: Family households: Other family: Male householder, no wife present:
+HH_HhGte65y_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Households: Householder 65 years and over: Family households: Other family: Male householder, no wife present: With own children under 18 years
+HH_HhGte65y_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Households: Householder 65 years and over: Family households: Other family: Male householder, no wife present: No own children under 18 years
+HH_HhGte65y_FamHH_OthFam_FemHhNoHusb	Households: Householder 65 years and over: Family households: Other family: Female householder, no husband present:
+HH_HhGte65y_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Households: Householder 65 years and over: Family households: Other family: Female householder, no husband present: With own children under 18 years
+HH_HhGte65y_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Households: Householder 65 years and over: Family households: Other family: Female householder, no husband present: No own children under 18 years
+HH_HhGte65y_NFamHH	Households: Householder 65 years and over: Nonfamily households:
+HH_HhGte65y_NFamHH_HhLivAln	Households: Householder 65 years and over: Nonfamily households: Householder living alone
+HH_HhGte65y_NFamHH_HhNotLiv	Households: Householder 65 years and over: Nonfamily households: Householder not living alone
+HH_Tot	Households: Total:
+HH_FamHH	Households: Family households:
+HH_FamHH_Hh15to24y	Households: Family households: Householder 15 to 24 years
+HH_FamHH_Hh25to34y	Households: Family households: Householder 25 to 34 years
+HH_FamHH_Hh35to44y	Households: Family households: Householder 35 to 44 years
+HH_FamHH_Hh45to54y	Households: Family households: Householder 45 to 54 years
+HH_FamHH_Hh55to64y	Households: Family households: Householder 55 to 64 years
+HH_FamHH_Hh65to74y	Households: Family households: Householder 65 to 74 years
+HH_FamHH_Hh75to84y	Households: Family households: Householder 75 to 84 years
+HH_FamHH_HhGte85y	Households: Family households: Householder 85 years and over
+HH_NFamHH	Households: Nonfamily households:
+HH_NFamHH_Hh15to24y	Households: Nonfamily households: Householder 15 to 24 years
+HH_NFamHH_Hh25to34y	Households: Nonfamily households: Householder 25 to 34 years
+HH_NFamHH_Hh35to44y	Households: Nonfamily households: Householder 35 to 44 years
+HH_NFamHH_Hh45to54y	Households: Nonfamily households: Householder 45 to 54 years
+HH_NFamHH_Hh55to64y	Households: Nonfamily households: Householder 55 to 64 years
+HH_NFamHH_Hh65to74y	Households: Nonfamily households: Householder 65 to 74 years
+HH_NFamHH_Hh75to84y	Households: Nonfamily households: Householder 75 to 84 years
+HH_NFamHH_HhGte85y	Households: Nonfamily households: Householder 85 years and over
+HH_Tot	Households: Total:
+HH_FamHH	Households: Family households:
+HH_FamHH_2pHH	Households: Family households: 2-person household
+HH_FamHH_3pHH	Households: Family households: 3-person household
+HH_FamHH_4pHH	Households: Family households: 4-person household
+HH_FamHH_5pHH	Households: Family households: 5-person household
+HH_FamHH_6pHH	Households: Family households: 6-person household
+HH_FamHH_Gte7pHH	Households: Family households: 7-or-more-person household
+HH_NFamHH	Households: Nonfamily households:
+HH_NFamHH_1pHH	Households: Nonfamily households: 1-person household
+HH_NFamHH_2pHH	Households: Nonfamily households: 2-person household
+HH_NFamHH_3pHH	Households: Nonfamily households: 3-person household
+HH_NFamHH_4pHH	Households: Nonfamily households: 4-person household
+HH_NFamHH_5pHH	Households: Nonfamily households: 5-person household
+HH_NFamHH_6pHH	Households: Nonfamily households: 6-person household
+HH_NFamHH_Gte7pHH	Households: Nonfamily households: 7-or-more-person household

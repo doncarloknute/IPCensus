@@ -1,0 +1,247 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+AsnCNIPopGte5y_Tot	Asian alone civilian noninstitutionalized population 5 years and over: Total:
+AsnCNIPopGte5y_Mle	Asian alone civilian noninstitutionalized population 5 years and over: Male:
+AsnCNIPopGte5y_Mle_5to15y	Asian alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+AsnCNIPopGte5y_Mle_5to15y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+AsnCNIPopGte5y_Mle_5to15y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+AsnCNIPopGte5y_Mle_16to20y	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+AsnCNIPopGte5y_Mle_16to20y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+AsnCNIPopGte5y_Mle_16to20y_WDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+AsnCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+AsnCNIPopGte5y_Mle_16to20y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+AsnCNIPopGte5y_Mle_16to20y_NoDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+AsnCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+AsnCNIPopGte5y_Mle_21to64y	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+AsnCNIPopGte5y_Mle_21to64y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+AsnCNIPopGte5y_Mle_21to64y_WDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+AsnCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+AsnCNIPopGte5y_Mle_21to64y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+AsnCNIPopGte5y_Mle_21to64y_NoDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+AsnCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+AsnCNIPopGte5y_Mle_65to74y	Asian alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years:
+AsnCNIPopGte5y_Mle_65to74y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: With a disability
+AsnCNIPopGte5y_Mle_65to74y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: No disability
+AsnCNIPopGte5y_Mle_Gte75y	Asian alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over:
+AsnCNIPopGte5y_Mle_Gte75y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: With a disability
+AsnCNIPopGte5y_Mle_Gte75y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: No disability
+AsnCNIPopGte5y_Fem	Asian alone civilian noninstitutionalized population 5 years and over: Female:
+AsnCNIPopGte5y_Fem_5to15y	Asian alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+AsnCNIPopGte5y_Fem_5to15y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+AsnCNIPopGte5y_Fem_5to15y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+AsnCNIPopGte5y_Fem_16to20y	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+AsnCNIPopGte5y_Fem_16to20y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+AsnCNIPopGte5y_Fem_16to20y_WDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+AsnCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+AsnCNIPopGte5y_Fem_16to20y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+AsnCNIPopGte5y_Fem_16to20y_NoDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+AsnCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+AsnCNIPopGte5y_Fem_21to64y	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+AsnCNIPopGte5y_Fem_21to64y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+AsnCNIPopGte5y_Fem_21to64y_WDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+AsnCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+AsnCNIPopGte5y_Fem_21to64y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+AsnCNIPopGte5y_Fem_21to64y_NoDisab_Empl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+AsnCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	Asian alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+AsnCNIPopGte5y_Fem_65to74y	Asian alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years:
+AsnCNIPopGte5y_Fem_65to74y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: With a disability
+AsnCNIPopGte5y_Fem_65to74y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: No disability
+AsnCNIPopGte5y_Fem_Gte75y	Asian alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over:
+AsnCNIPopGte5y_Fem_Gte75y_WDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: With a disability
+AsnCNIPopGte5y_Fem_Gte75y_NoDisab	Asian alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: No disability
+NatHiPacIslCNIPopGte5y_Tot	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Total:
+NatHiPacIslCNIPopGte5y_Mle	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male:
+NatHiPacIslCNIPopGte5y_Mle_5to15y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+NatHiPacIslCNIPopGte5y_Mle_5to15y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+NatHiPacIslCNIPopGte5y_Mle_5to15y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+NatHiPacIslCNIPopGte5y_Mle_16to20y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+NatHiPacIslCNIPopGte5y_Mle_16to20y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+NatHiPacIslCNIPopGte5y_Mle_16to20y_WDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+NatHiPacIslCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+NatHiPacIslCNIPopGte5y_Mle_16to20y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+NatHiPacIslCNIPopGte5y_Mle_16to20y_NoDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+NatHiPacIslCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+NatHiPacIslCNIPopGte5y_Mle_21to64y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+NatHiPacIslCNIPopGte5y_Mle_21to64y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+NatHiPacIslCNIPopGte5y_Mle_21to64y_WDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+NatHiPacIslCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+NatHiPacIslCNIPopGte5y_Mle_21to64y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+NatHiPacIslCNIPopGte5y_Mle_21to64y_NoDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+NatHiPacIslCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+NatHiPacIslCNIPopGte5y_Mle_65to74y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years:
+NatHiPacIslCNIPopGte5y_Mle_65to74y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: With a disability
+NatHiPacIslCNIPopGte5y_Mle_65to74y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: No disability
+NatHiPacIslCNIPopGte5y_Mle_Gte75y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over:
+NatHiPacIslCNIPopGte5y_Mle_Gte75y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: With a disability
+NatHiPacIslCNIPopGte5y_Mle_Gte75y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: No disability
+NatHiPacIslCNIPopGte5y_Fem	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female:
+NatHiPacIslCNIPopGte5y_Fem_5to15y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+NatHiPacIslCNIPopGte5y_Fem_5to15y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+NatHiPacIslCNIPopGte5y_Fem_5to15y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+NatHiPacIslCNIPopGte5y_Fem_16to20y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+NatHiPacIslCNIPopGte5y_Fem_16to20y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+NatHiPacIslCNIPopGte5y_Fem_16to20y_WDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+NatHiPacIslCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+NatHiPacIslCNIPopGte5y_Fem_16to20y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+NatHiPacIslCNIPopGte5y_Fem_16to20y_NoDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+NatHiPacIslCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+NatHiPacIslCNIPopGte5y_Fem_21to64y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+NatHiPacIslCNIPopGte5y_Fem_21to64y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+NatHiPacIslCNIPopGte5y_Fem_21to64y_WDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+NatHiPacIslCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+NatHiPacIslCNIPopGte5y_Fem_21to64y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+NatHiPacIslCNIPopGte5y_Fem_21to64y_NoDisab_Empl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+NatHiPacIslCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+NatHiPacIslCNIPopGte5y_Fem_65to74y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years:
+NatHiPacIslCNIPopGte5y_Fem_65to74y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: With a disability
+NatHiPacIslCNIPopGte5y_Fem_65to74y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: No disability
+NatHiPacIslCNIPopGte5y_Fem_Gte75y	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over:
+NatHiPacIslCNIPopGte5y_Fem_Gte75y_WDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: With a disability
+NatHiPacIslCNIPopGte5y_Fem_Gte75y_NoDisab	Native Hawaiian and Other Pacific Islander alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: No disability
+OthRceCNIPopGte5y_Tot	Some other race alone civilian noninstitutionalized population 5 years and over: Total:
+OthRceCNIPopGte5y_Mle	Some other race alone civilian noninstitutionalized population 5 years and over: Male:
+OthRceCNIPopGte5y_Mle_5to15y	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+OthRceCNIPopGte5y_Mle_5to15y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+OthRceCNIPopGte5y_Mle_5to15y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+OthRceCNIPopGte5y_Mle_16to20y	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+OthRceCNIPopGte5y_Mle_16to20y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+OthRceCNIPopGte5y_Mle_16to20y_WDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+OthRceCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+OthRceCNIPopGte5y_Mle_16to20y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+OthRceCNIPopGte5y_Mle_16to20y_NoDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+OthRceCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+OthRceCNIPopGte5y_Mle_21to64y	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+OthRceCNIPopGte5y_Mle_21to64y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+OthRceCNIPopGte5y_Mle_21to64y_WDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+OthRceCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+OthRceCNIPopGte5y_Mle_21to64y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+OthRceCNIPopGte5y_Mle_21to64y_NoDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+OthRceCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+OthRceCNIPopGte5y_Mle_65to74y	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years:
+OthRceCNIPopGte5y_Mle_65to74y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: With a disability
+OthRceCNIPopGte5y_Mle_65to74y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: No disability
+OthRceCNIPopGte5y_Mle_Gte75y	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over:
+OthRceCNIPopGte5y_Mle_Gte75y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: With a disability
+OthRceCNIPopGte5y_Mle_Gte75y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Male: 75 years and over: No disability
+OthRceCNIPopGte5y_Fem	Some other race alone civilian noninstitutionalized population 5 years and over: Female:
+OthRceCNIPopGte5y_Fem_5to15y	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+OthRceCNIPopGte5y_Fem_5to15y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+OthRceCNIPopGte5y_Fem_5to15y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+OthRceCNIPopGte5y_Fem_16to20y	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+OthRceCNIPopGte5y_Fem_16to20y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+OthRceCNIPopGte5y_Fem_16to20y_WDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+OthRceCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+OthRceCNIPopGte5y_Fem_16to20y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+OthRceCNIPopGte5y_Fem_16to20y_NoDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+OthRceCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+OthRceCNIPopGte5y_Fem_21to64y	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+OthRceCNIPopGte5y_Fem_21to64y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+OthRceCNIPopGte5y_Fem_21to64y_WDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+OthRceCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+OthRceCNIPopGte5y_Fem_21to64y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+OthRceCNIPopGte5y_Fem_21to64y_NoDisab_Empl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+OthRceCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+OthRceCNIPopGte5y_Fem_65to74y	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years:
+OthRceCNIPopGte5y_Fem_65to74y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: With a disability
+OthRceCNIPopGte5y_Fem_65to74y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: No disability
+OthRceCNIPopGte5y_Fem_Gte75y	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over:
+OthRceCNIPopGte5y_Fem_Gte75y_WDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: With a disability
+OthRceCNIPopGte5y_Fem_Gte75y_NoDisab	Some other race alone civilian noninstitutionalized population 5 years and over: Female: 75 years and over: No disability
+Gte2RceCNIPopGte5y_Tot	Two or more races civilian noninstitutionalized population 5 years and over: Total:
+Gte2RceCNIPopGte5y_Mle	Two or more races civilian noninstitutionalized population 5 years and over: Male:
+Gte2RceCNIPopGte5y_Mle_5to15y	Two or more races civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+Gte2RceCNIPopGte5y_Mle_5to15y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+Gte2RceCNIPopGte5y_Mle_5to15y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+Gte2RceCNIPopGte5y_Mle_16to20y	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+Gte2RceCNIPopGte5y_Mle_16to20y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+Gte2RceCNIPopGte5y_Mle_16to20y_WDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+Gte2RceCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+Gte2RceCNIPopGte5y_Mle_16to20y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+Gte2RceCNIPopGte5y_Mle_16to20y_NoDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+Gte2RceCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+Gte2RceCNIPopGte5y_Mle_21to64y	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+Gte2RceCNIPopGte5y_Mle_21to64y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+Gte2RceCNIPopGte5y_Mle_21to64y_WDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+Gte2RceCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+Gte2RceCNIPopGte5y_Mle_21to64y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+Gte2RceCNIPopGte5y_Mle_21to64y_NoDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+Gte2RceCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+Gte2RceCNIPopGte5y_Mle_65to74y	Two or more races civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years:
+Gte2RceCNIPopGte5y_Mle_65to74y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: With a disability
+Gte2RceCNIPopGte5y_Mle_65to74y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: No disability
+Gte2RceCNIPopGte5y_Mle_Gte75y	Two or more races civilian noninstitutionalized population 5 years and over: Male: 75 years and over:
+Gte2RceCNIPopGte5y_Mle_Gte75y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 75 years and over: With a disability
+Gte2RceCNIPopGte5y_Mle_Gte75y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Male: 75 years and over: No disability
+Gte2RceCNIPopGte5y_Fem	Two or more races civilian noninstitutionalized population 5 years and over: Female:
+Gte2RceCNIPopGte5y_Fem_5to15y	Two or more races civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+Gte2RceCNIPopGte5y_Fem_5to15y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+Gte2RceCNIPopGte5y_Fem_5to15y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+Gte2RceCNIPopGte5y_Fem_16to20y	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+Gte2RceCNIPopGte5y_Fem_16to20y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+Gte2RceCNIPopGte5y_Fem_16to20y_WDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+Gte2RceCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+Gte2RceCNIPopGte5y_Fem_16to20y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+Gte2RceCNIPopGte5y_Fem_16to20y_NoDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+Gte2RceCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+Gte2RceCNIPopGte5y_Fem_21to64y	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+Gte2RceCNIPopGte5y_Fem_21to64y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+Gte2RceCNIPopGte5y_Fem_21to64y_WDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+Gte2RceCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+Gte2RceCNIPopGte5y_Fem_21to64y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+Gte2RceCNIPopGte5y_Fem_21to64y_NoDisab_Empl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+Gte2RceCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	Two or more races civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+Gte2RceCNIPopGte5y_Fem_65to74y	Two or more races civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years:
+Gte2RceCNIPopGte5y_Fem_65to74y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: With a disability
+Gte2RceCNIPopGte5y_Fem_65to74y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: No disability
+Gte2RceCNIPopGte5y_Fem_Gte75y	Two or more races civilian noninstitutionalized population 5 years and over: Female: 75 years and over:
+Gte2RceCNIPopGte5y_Fem_Gte75y_WDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 75 years and over: With a disability
+Gte2RceCNIPopGte5y_Fem_Gte75y_NoDisab	Two or more races civilian noninstitutionalized population 5 years and over: Female: 75 years and over: No disability
+HispCNIPopGte5y_Tot	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Total:
+HispCNIPopGte5y_Mle	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male:
+HispCNIPopGte5y_Mle_5to15y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+HispCNIPopGte5y_Mle_5to15y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+HispCNIPopGte5y_Mle_5to15y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+HispCNIPopGte5y_Mle_16to20y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+HispCNIPopGte5y_Mle_16to20y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+HispCNIPopGte5y_Mle_16to20y_WDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+HispCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+HispCNIPopGte5y_Mle_16to20y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+HispCNIPopGte5y_Mle_16to20y_NoDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+HispCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+HispCNIPopGte5y_Mle_21to64y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+HispCNIPopGte5y_Mle_21to64y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+HispCNIPopGte5y_Mle_21to64y_WDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+HispCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+HispCNIPopGte5y_Mle_21to64y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+HispCNIPopGte5y_Mle_21to64y_NoDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+HispCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+HispCNIPopGte5y_Mle_21to64y_65to74y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 65 to 74 years:
+HispCNIPopGte5y_Mle_21to64y_65to74y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 65 to 74 years: With a disability
+HispCNIPopGte5y_Mle_21to64y_65to74y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 65 to 74 years: No disability
+HispCNIPopGte5y_Mle_21to64y_Gte75y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 75 years and over:
+HispCNIPopGte5y_Mle_21to64y_Gte75y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 75 years and over: With a disability
+HispCNIPopGte5y_Mle_21to64y_Gte75y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: 75 years and over: No disability
+HispCNIPopGte5y_Fem	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female:
+HispCNIPopGte5y_Fem_5to15y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+HispCNIPopGte5y_Fem_5to15y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+HispCNIPopGte5y_Fem_5to15y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+HispCNIPopGte5y_Fem_16to20y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+HispCNIPopGte5y_Fem_16to20y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+HispCNIPopGte5y_Fem_16to20y_WDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+HispCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+HispCNIPopGte5y_Fem_16to20y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+HispCNIPopGte5y_Fem_16to20y_NoDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+HispCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+HispCNIPopGte5y_Fem_21to64y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+HispCNIPopGte5y_Fem_21to64y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+HispCNIPopGte5y_Fem_21to64y_WDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+HispCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+HispCNIPopGte5y_Fem_21to64y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+HispCNIPopGte5y_Fem_21to64y_NoDisab_Empl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+HispCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+HispCNIPopGte5y_Fem_21to64y_65to74y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 65 to 74 years:
+HispCNIPopGte5y_Fem_21to64y_65to74y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 65 to 74 years: With a disability
+HispCNIPopGte5y_Fem_21to64y_65to74y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 65 to 74 years: No disability
+HispCNIPopGte5y_Fem_21to64y_Gte75y	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 75 years and over:
+HispCNIPopGte5y_Fem_21to64y_Gte75y_WDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 75 years and over: With a disability
+HispCNIPopGte5y_Fem_21to64y_Gte75y_NoDisab	Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: 75 years and over: No disability

@@ -1,0 +1,236 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+AsnAlnPop_Tot	Asian alone population: Total:
+AsnAlnPop_Native	Asian alone population: Native:
+AsnAlnPop_Native_BornStateRes	Asian alone population: Native: Born in state of residence
+AsnAlnPop_Native_BornOthStUS	Asian alone population: Native: Born in other state in the United States:
+AsnAlnPop_Native_BornOthStUS_NorthEast	Asian alone population: Native: Born in other state in the United States: Northeast
+AsnAlnPop_Native_BornOthStUS_MidWest	Asian alone population: Native: Born in other state in the United States: Midwest
+AsnAlnPop_Native_BornOthStUS_South	Asian alone population: Native: Born in other state in the United States: South
+AsnAlnPop_Native_BornOthStUS_West	Asian alone population: Native: Born in other state in the United States: West
+AsnAlnPop_Native_BornOutUS	Asian alone population: Native: Born outside the United States:
+AsnAlnPop_Native_BornOutUS_PrtoRico	Asian alone population: Native: Born outside the United States: Puerto Rico
+AsnAlnPop_Native_BornOutUS_USIslAreas	Asian alone population: Native: Born outside the United States: U.S. Island Areas
+AsnAlnPop_Native_BornOutUS_BrnAbrdAmerPar	Asian alone population: Native: Born outside the United States: Born abroad of American parent(s)
+AsnAlnPop_FrgnBorn	Asian alone population: Foreign born:
+AsnAlnPop_FrgnBorn_NatlzdCit	Asian alone population: Foreign born: Naturalized citizen
+AsnAlnPop_FrgnBorn_NotCitzn	Asian alone population: Foreign born: Not a citizen
+NatHiPacIslPop_Tot	Native Hawaiian and Other Pacific Islander alone population: Total:
+NatHiPacIslPop_Native	Native Hawaiian and Other Pacific Islander alone population: Native:
+NatHiPacIslPop_Native_BornStateRes	Native Hawaiian and Other Pacific Islander alone population: Native: Born in state of residence
+NatHiPacIslPop_Native_BornOthStUS	Native Hawaiian and Other Pacific Islander alone population: Native: Born in other state in the United States:
+NatHiPacIslPop_Native_BornOthStUS_NorthEast	Native Hawaiian and Other Pacific Islander alone population: Native: Born in other state in the United States: Northeast
+NatHiPacIslPop_Native_BornOthStUS_MidWest	Native Hawaiian and Other Pacific Islander alone population: Native: Born in other state in the United States: Midwest
+NatHiPacIslPop_Native_BornOthStUS_South	Native Hawaiian and Other Pacific Islander alone population: Native: Born in other state in the United States: South
+NatHiPacIslPop_Native_BornOthStUS_West	Native Hawaiian and Other Pacific Islander alone population: Native: Born in other state in the United States: West
+NatHiPacIslPop_Native_BornOutUS	Native Hawaiian and Other Pacific Islander alone population: Native: Born outside the United States:
+NatHiPacIslPop_Native_BornOutUS_PrtoRico	Native Hawaiian and Other Pacific Islander alone population: Native: Born outside the United States: Puerto Rico
+NatHiPacIslPop_Native_BornOutUS_USIslAreas	Native Hawaiian and Other Pacific Islander alone population: Native: Born outside the United States: U.S. Island Areas
+NatHiPacIslPop_Native_BornOutUS_BrnAbrdAmerPar	Native Hawaiian and Other Pacific Islander alone population: Native: Born outside the United States: Born abroad of American parent(s)
+NatHiPacIslPop_FrgnBorn	Native Hawaiian and Other Pacific Islander alone population: Foreign born:
+NatHiPacIslPop_FrgnBorn_NatlzdCit	Native Hawaiian and Other Pacific Islander alone population: Foreign born: Naturalized citizen
+NatHiPacIslPop_FrgnBorn_NotCitzn	Native Hawaiian and Other Pacific Islander alone population: Foreign born: Not a citizen
+OthRcePop_Tot	Some other race alone population: Total:
+OthRcePop_Native	Some other race alone population: Native:
+OthRcePop_Native_BornStateRes	Some other race alone population: Native: Born in state of residence
+OthRcePop_Native_BornOthStUS	Some other race alone population: Native: Born in other state in the United States:
+OthRcePop_Native_BornOthStUS_NorthEast	Some other race alone population: Native: Born in other state in the United States: Northeast
+OthRcePop_Native_BornOthStUS_MidWest	Some other race alone population: Native: Born in other state in the United States: Midwest
+OthRcePop_Native_BornOthStUS_South	Some other race alone population: Native: Born in other state in the United States: South
+OthRcePop_Native_BornOthStUS_West	Some other race alone population: Native: Born in other state in the United States: West
+OthRcePop_Native_BornOutUS	Some other race alone population: Native: Born outside the United States:
+OthRcePop_Native_BornOutUS_PrtoRico	Some other race alone population: Native: Born outside the United States: Puerto Rico
+OthRcePop_Native_BornOutUS_USIslAreas	Some other race alone population: Native: Born outside the United States: U.S. Island Areas
+OthRcePop_Native_BornOutUS_BrnAbrdAmerPar	Some other race alone population: Native: Born outside the United States: Born abroad of American parent(s)
+OthRcePop_FrgnBorn	Some other race alone population: Foreign born:
+OthRcePop_FrgnBorn_NatlzdCit	Some other race alone population: Foreign born: Naturalized citizen
+OthRcePop_FrgnBorn_NotCitzn	Some other race alone population: Foreign born: Not a citizen
+Gte2RcePop_Tot	Two or more races population: Total:
+Gte2RcePop_Native	Two or more races population: Native:
+Gte2RcePop_Native_BornStateRes	Two or more races population: Native: Born in state of residence
+Gte2RcePop_Native_BornOthStUS	Two or more races population: Native: Born in other state in the United States:
+Gte2RcePop_Native_BornOthStUS_NorthEast	Two or more races population: Native: Born in other state in the United States: Northeast
+Gte2RcePop_Native_BornOthStUS_MidWest	Two or more races population: Native: Born in other state in the United States: Midwest
+Gte2RcePop_Native_BornOthStUS_South	Two or more races population: Native: Born in other state in the United States: South
+Gte2RcePop_Native_BornOthStUS_West	Two or more races population: Native: Born in other state in the United States: West
+Gte2RcePop_Native_BornOutUS	Two or more races population: Native: Born outside the United States:
+Gte2RcePop_Native_BornOutUS_PrtoRico	Two or more races population: Native: Born outside the United States: Puerto Rico
+Gte2RcePop_Native_BornOutUS_USIslAreas	Two or more races population: Native: Born outside the United States: U.S. Island Areas
+Gte2RcePop_Native_BornOutUS_BrnAbrdAmerPar	Two or more races population: Native: Born outside the United States: Born abroad of American parent(s)
+Gte2RcePop_FrgnBorn	Two or more races population: Foreign born:
+Gte2RcePop_FrgnBorn_NatlzdCit	Two or more races population: Foreign born: Naturalized citizen
+Gte2RcePop_FrgnBorn_NotCitzn	Two or more races population: Foreign born: Not a citizen
+HispPop_Tot	Hispanic or Latino population: Total:
+HispPop_Native	Hispanic or Latino population: Native:
+HispPop_Native_BornStateRes	Hispanic or Latino population: Native: Born in state of residence
+HispPop_Native_BornOthStUS	Hispanic or Latino population: Native: Born in other state in the United States:
+HispPop_Native_BornOthStUS_NorthEast	Hispanic or Latino population: Native: Born in other state in the United States: Northeast
+HispPop_Native_BornOthStUS_MidWest	Hispanic or Latino population: Native: Born in other state in the United States: Midwest
+HispPop_Native_BornOthStUS_South	Hispanic or Latino population: Native: Born in other state in the United States: South
+HispPop_Native_BornOthStUS_West	Hispanic or Latino population: Native: Born in other state in the United States: West
+HispPop_Native_BornOutUS	Hispanic or Latino population: Native: Born outside the United States:
+HispPop_Native_BornOutUS_PrtoRico	Hispanic or Latino population: Native: Born outside the United States: Puerto Rico
+HispPop_Native_BornOutUS_USIslAreas	Hispanic or Latino population: Native: Born outside the United States: U.S. Island Areas
+HispPop_Native_BornOutUS_BrnAbrdAmerPar	Hispanic or Latino population: Native: Born outside the United States: Born abroad of American parent(s)
+HispPop_FrgnBorn	Hispanic or Latino population: Foreign born:
+HispPop_FrgnBorn_NatlzdCit	Hispanic or Latino population: Foreign born: Naturalized citizen
+HispPop_FrgnBorn_NotCitzn	Hispanic or Latino population: Foreign born: Not a citizen
+WhtNotHispPop_Tot	White Alone, not Hispanic or Latino population: Total:
+WhtNotHispPop_Native	White Alone, not Hispanic or Latino population: Native:
+WhtNotHispPop_Native_BornStateRes	White Alone, not Hispanic or Latino population: Native: Born in state of residence
+WhtNotHispPop_Native_BornOthStUS	White Alone, not Hispanic or Latino population: Native: Born in other state in the United States:
+WhtNotHispPop_Native_BornOthStUS_NorthEast	White Alone, not Hispanic or Latino population: Native: Born in other state in the United States: Northeast
+WhtNotHispPop_Native_BornOthStUS_MidWest	White Alone, not Hispanic or Latino population: Native: Born in other state in the United States: Midwest
+WhtNotHispPop_Native_BornOthStUS_South	White Alone, not Hispanic or Latino population: Native: Born in other state in the United States: South
+WhtNotHispPop_Native_BornOthStUS_West	White Alone, not Hispanic or Latino population: Native: Born in other state in the United States: West
+WhtNotHispPop_Native_BornOutUS	White Alone, not Hispanic or Latino population: Native: Born outside the United States:
+WhtNotHispPop_Native_BornOutUS_PrtoRico	White Alone, not Hispanic or Latino population: Native: Born outside the United States: Puerto Rico
+WhtNotHispPop_Native_BornOutUS_USIslAreas	White Alone, not Hispanic or Latino population: Native: Born outside the United States: U.S. Island Areas
+WhtNotHispPop_Native_BornOutUS_BrnAbrdAmerPar	White Alone, not Hispanic or Latino population: Native: Born outside the United States: Born abroad of American parent(s)
+WhtNotHispPop_FrgnBorn	White Alone, not Hispanic or Latino population: Foreign born:
+WhtNotHispPop_FrgnBorn_NatlzdCit	White Alone, not Hispanic or Latino population: Foreign born: Naturalized citizen
+WhtNotHispPop_FrgnBorn_NotCitzn	White Alone, not Hispanic or Latino population: Foreign born: Not a citizen
+WhtPopGte5y_Tot	White alone population 5 years and over: Total:
+WhtPopGte5y_SameHs95	White alone population 5 years and over: Same house in 1995
+WhtPopGte5y_DiffHs95	White alone population 5 years and over: Different house in 1995:
+WhtPopGte5y_DiffHs95_InUS95	White alone population 5 years and over: Different house in 1995: In United States in 1995:
+WhtPopGte5y_DiffHs95_InUS95_SameCnty	White alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+WhtPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	White alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+WhtPopGte5y_DiffHs95_PRico95	White alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+WhtPopGte5y_DiffHs95_PRico95_SameMunic	White alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+WhtPopGte5y_DiffHs95_PRico95_DiffMunic	White alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+WhtPopGte5y_DiffHs95_Else95	White alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+WhtPopGte5y_DiffHs95_Else95_USIslAreas	White alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+WhtPopGte5y_DiffHs95_Else95_FrgnCntrySea	White alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+BlkAfAmPopGte5y_Tot	Black or African American alone population 5 years and over: Total:
+BlkAfAmPopGte5y_SameHs95	Black or African American alone population 5 years and over: Same house in 1995
+BlkAfAmPopGte5y_DiffHs95	Black or African American alone population 5 years and over: Different house in 1995:
+BlkAfAmPopGte5y_DiffHs95_InUS95	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995:
+BlkAfAmPopGte5y_DiffHs95_InUS95_SameCnty	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+BlkAfAmPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Black or African American alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+BlkAfAmPopGte5y_DiffHs95_PRico95	Black or African American alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+BlkAfAmPopGte5y_DiffHs95_PRico95_SameMunic	Black or African American alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+BlkAfAmPopGte5y_DiffHs95_PRico95_DiffMunic	Black or African American alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+BlkAfAmPopGte5y_DiffHs95_Else95	Black or African American alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+BlkAfAmPopGte5y_DiffHs95_Else95_USIslAreas	Black or African American alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+BlkAfAmPopGte5y_DiffHs95_Else95_FrgnCntrySea	Black or African American alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+AmIndAkNatPopGte5y_Tot	American Indian and Alaska Native alone population 5 years and over: Total:
+AmIndAkNatPopGte5y_SameHs95	American Indian and Alaska Native alone population 5 years and over: Same house in 1995
+AmIndAkNatPopGte5y_DiffHs95	American Indian and Alaska Native alone population 5 years and over: Different house in 1995:
+AmIndAkNatPopGte5y_DiffHs95_InUS95	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995:
+AmIndAkNatPopGte5y_DiffHs95_InUS95_SameCnty	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+AmIndAkNatPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+AmIndAkNatPopGte5y_DiffHs95_PRico95	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+AmIndAkNatPopGte5y_DiffHs95_PRico95_SameMunic	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+AmIndAkNatPopGte5y_DiffHs95_PRico95_DiffMunic	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+AmIndAkNatPopGte5y_DiffHs95_Else95	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+AmIndAkNatPopGte5y_DiffHs95_Else95_USIslAreas	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+AmIndAkNatPopGte5y_DiffHs95_Else95_FrgnCntrySea	American Indian and Alaska Native alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+AsnPopGte5y_Tot	Asian alone population 5 years and over: Total:
+AsnPopGte5y_SameHs95	Asian alone population 5 years and over: Same house in 1995
+AsnPopGte5y_DiffHs95	Asian alone population 5 years and over: Different house in 1995:
+AsnPopGte5y_DiffHs95_InUS95	Asian alone population 5 years and over: Different house in 1995: In United States in 1995:
+AsnPopGte5y_DiffHs95_InUS95_SameCnty	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+AsnPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Asian alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+AsnPopGte5y_DiffHs95_PRico95	Asian alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+AsnPopGte5y_DiffHs95_PRico95_SameMunic	Asian alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+AsnPopGte5y_DiffHs95_PRico95_DiffMunic	Asian alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+AsnPopGte5y_DiffHs95_Else95	Asian alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+AsnPopGte5y_DiffHs95_Else95_USIslAreas	Asian alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+AsnPopGte5y_DiffHs95_Else95_FrgnCntrySea	Asian alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+NatHiPacIslPopGte5y_Tot	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Total:
+NatHiPacIslPopGte5y_SameHs95	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Same house in 1995
+NatHiPacIslPopGte5y_DiffHs95	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995:
+NatHiPacIslPopGte5y_DiffHs95_InUS95	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995:
+NatHiPacIslPopGte5y_DiffHs95_InUS95_SameCnty	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+NatHiPacIslPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+NatHiPacIslPopGte5y_DiffHs95_PRico95	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+NatHiPacIslPopGte5y_DiffHs95_PRico95_SameMunic	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+NatHiPacIslPopGte5y_DiffHs95_PRico95_DiffMunic	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+NatHiPacIslPopGte5y_DiffHs95_Else95	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+NatHiPacIslPopGte5y_DiffHs95_Else95_USIslAreas	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+NatHiPacIslPopGte5y_DiffHs95_Else95_FrgnCntrySea	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+OthRcePopGte5y_Tot	Some other race alone population 5 years and over: Total:
+OthRcePopGte5y_SameHs95	Some other race alone population 5 years and over: Same house in 1995
+OthRcePopGte5y_DiffHs95	Some other race alone population 5 years and over: Different house in 1995:
+OthRcePopGte5y_DiffHs95_InUS95	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995:
+OthRcePopGte5y_DiffHs95_InUS95_SameCnty	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Same county
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+OthRcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Some other race alone population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+OthRcePopGte5y_DiffHs95_PRico95	Some other race alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+OthRcePopGte5y_DiffHs95_PRico95_SameMunic	Some other race alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+OthRcePopGte5y_DiffHs95_PRico95_DiffMunic	Some other race alone population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+OthRcePopGte5y_DiffHs95_Else95	Some other race alone population 5 years and over: Different house in 1995: Elsewhere in 1995:
+OthRcePopGte5y_DiffHs95_Else95_USIslAreas	Some other race alone population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+OthRcePopGte5y_DiffHs95_Else95_FrgnCntrySea	Some other race alone population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+Gte2RcePopGte5y_Tot	Two or more races population 5 years and over: Total:
+Gte2RcePopGte5y_SameHs95	Two or more races population 5 years and over: Same house in 1995
+Gte2RcePopGte5y_DiffHs95	Two or more races population 5 years and over: Different house in 1995:
+Gte2RcePopGte5y_DiffHs95_InUS95	Two or more races population 5 years and over: Different house in 1995: In United States in 1995:
+Gte2RcePopGte5y_DiffHs95_InUS95_SameCnty	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Same county
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+Gte2RcePopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Two or more races population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+Gte2RcePopGte5y_DiffHs95_PRico95	Two or more races population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+Gte2RcePopGte5y_DiffHs95_PRico95_SameMunic	Two or more races population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+Gte2RcePopGte5y_DiffHs95_PRico95_DiffMunic	Two or more races population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+Gte2RcePopGte5y_DiffHs95_Else95	Two or more races population 5 years and over: Different house in 1995: Elsewhere in 1995:
+Gte2RcePopGte5y_DiffHs95_Else95_USIslAreas	Two or more races population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+Gte2RcePopGte5y_DiffHs95_Else95_FrgnCntrySea	Two or more races population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+HispPopGte5y_Tot	Hispanic or Latino population 5 years and over: Total:
+HispPopGte5y_SameHs95	Hispanic or Latino population 5 years and over: Same house in 1995
+HispPopGte5y_DiffHs95	Hispanic or Latino population 5 years and over: Different house in 1995:
+HispPopGte5y_DiffHs95_InUS95	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995:
+HispPopGte5y_DiffHs95_InUS95_SameCnty	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Same county
+HispPopGte5y_DiffHs95_InUS95_DiffCnty	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+HispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+HispPopGte5y_DiffHs95_PRico95	Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+HispPopGte5y_DiffHs95_PRico95_SameMunic	Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+HispPopGte5y_DiffHs95_PRico95_DiffMunic	Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+HispPopGte5y_DiffHs95_Else95	Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995:
+HispPopGte5y_DiffHs95_Else95_USIslAreas	Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+HispPopGte5y_DiffHs95_Else95_FrgnCntrySea	Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea

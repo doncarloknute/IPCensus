@@ -1,0 +1,129 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HsUnt_Tot	Housing units: Total
+HsUnt_Tot	Housing units: Total:
+HsUnt_Ocpd	Housing units: Occupied
+HsUnt_Vacant	Housing units: Vacant
+HsUnt_Tot	Housing units: Total
+HsUnt_PctOcpHsUntSample	Housing units: Percent of occupied housing units in sample
+HsUnt_PctVacHsUntSample	Housing units: Percent of vacant housing units in sample
+HsUnt_Tot	Housing units: Total:
+HsUnt_Urban	Housing units: Urban:
+HsUnt_Urban_UrbArea	Housing units: Urban: Inside urbanized areas
+HsUnt_Urban_UrbClust	Housing units: Urban: Inside urban clusters
+HsUnt_Rural	Housing units: Rural:
+HsUnt_Rural_Farm	Housing units: Rural: Farm
+HsUnt_Rural_Nonfarm	Housing units: Rural: Nonfarm
+HsUnt_Tot	Housing units: Total:
+HsUnt_Ocpd	Housing units: Occupied
+HsUnt_Vacant	Housing units: Vacant
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+VacantHsUnt_Tot	Vacant housing units: Total:
+VacantHsUnt_ForRent	Vacant housing units: For rent
+VacantHsUnt_ForSaleOnly	Vacant housing units: For sale only
+VacantHsUnt_RentSoldNotOcp	Vacant housing units: Rented or sold, not occupied
+VacantHsUnt_ForSeasRec	Vacant housing units: For seasonal, recreational, or occasional use
+VacantHsUnt_ForMigWrkr	Vacant housing units: For migrant workers
+VacantHsUnt_OthVacant	Vacant housing units: Other vacant
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_HhWhtAln	Occupied housing units: Householder who is White alone
+OcpHsUnt_HhBlkAfAm	Occupied housing units: Householder who is Black or African American alone
+OcpHsUnt_HhAmIndAkNat	Occupied housing units: Householder who is American Indian and Alaska Native alone
+OcpHsUnt_HhAsnAln	Occupied housing units: Householder who is Asian alone
+OcpHsUnt_HhNatHiPacIsl	Occupied housing units: Householder who is Native Hawaiian and Other Pacific Islander alone
+OcpHsUnt_HhOthRce	Occupied housing units: Householder who is Some other race alone
+OcpHsUnt_HhGte2Rce	Occupied housing units: Householder who is Two or more races
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_NotHispHh	Occupied housing units: Not Hispanic or Latino householder:
+OcpHsUnt_NotHispHh_HhWhtAln	Occupied housing units: Not Hispanic or Latino householder: Householder who is White alone
+OcpHsUnt_NotHispHh_HhBlkAfAm	Occupied housing units: Not Hispanic or Latino householder: Householder who is Black or African American alone
+OcpHsUnt_NotHispHh_HhAmIndAkNat	Occupied housing units: Not Hispanic or Latino householder: Householder who is American Indian and Alaska Native alone
+OcpHsUnt_NotHispHh_HhAsnAln	Occupied housing units: Not Hispanic or Latino householder: Householder who is Asian alone
+OcpHsUnt_NotHispHh_HhNatHiPacIsl	Occupied housing units: Not Hispanic or Latino householder: Householder who is Native Hawaiian and Other Pacific Islander alone
+OcpHsUnt_NotHispHh_HhOthRce	Occupied housing units: Not Hispanic or Latino householder: Householder who is Some other race alone
+OcpHsUnt_NotHispHh_HhGte2Rce	Occupied housing units: Not Hispanic or Latino householder: Householder who is Two or more races
+OcpHsUnt_HispHh	Occupied housing units: Hispanic or Latino householder:
+OcpHsUnt_HispHh_HhWhtAln	Occupied housing units: Hispanic or Latino householder: Householder who is White alone
+OcpHsUnt_HispHh_HhBlkAfAm	Occupied housing units: Hispanic or Latino householder: Householder who is Black or African American alone
+OcpHsUnt_HispHh_HhAmIndAkNat	Occupied housing units: Hispanic or Latino householder: Householder who is American Indian and Alaska Native alone
+OcpHsUnt_HispHh_HhAsnAln	Occupied housing units: Hispanic or Latino householder: Householder who is Asian alone
+OcpHsUnt_HispHh_HhNatHiPacIsl	Occupied housing units: Hispanic or Latino householder: Householder who is Native Hawaiian and Other Pacific Islander alone
+OcpHsUnt_HispHh_HhOthRce	Occupied housing units: Hispanic or Latino householder: Householder who is Some other race alone
+OcpHsUnt_HispHh_HhGte2Rce	Occupied housing units: Hispanic or Latino householder: Householder who is Two or more races
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_HhWhtAln	Occupied housing units: Owner occupied: Householder who is White alone
+OcpHsUnt_OwnerOcp_HhBlkAfAm	Occupied housing units: Owner occupied: Householder who is Black or African American alone
+OcpHsUnt_OwnerOcp_HhAmIndAkNat	Occupied housing units: Owner occupied: Householder who is American Indian and Alaska Native alone
+OcpHsUnt_OwnerOcp_HhAsnAln	Occupied housing units: Owner occupied: Householder who is Asian alone
+OcpHsUnt_OwnerOcp_HhNatHiPacIsl	Occupied housing units: Owner occupied: Householder who is Native Hawaiian and Other Pacific Islander alone
+OcpHsUnt_OwnerOcp_HhOthRce	Occupied housing units: Owner occupied: Householder who is Some other race alone
+OcpHsUnt_OwnerOcp_HhGte2Rce	Occupied housing units: Owner occupied: Householder who is Two or more races
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_HhWhtAln	Occupied housing units: Renter occupied: Householder who is White alone
+OcpHsUnt_RentOcp_HhBlkAfAm	Occupied housing units: Renter occupied: Householder who is Black or African American alone
+OcpHsUnt_RentOcp_HhAmIndAkNat	Occupied housing units: Renter occupied: Householder who is American Indian and Alaska Native alone
+OcpHsUnt_RentOcp_HhAsnAln	Occupied housing units: Renter occupied: Householder who is Asian alone
+OcpHsUnt_RentOcp_HhNatHiPacIsl	Occupied housing units: Renter occupied: Householder who is Native Hawaiian and Other Pacific Islander alone
+OcpHsUnt_RentOcp_HhOthRce	Occupied housing units: Renter occupied: Householder who is Some other race alone
+OcpHsUnt_RentOcp_HhGte2Rce	Occupied housing units: Renter occupied: Householder who is Two or more races
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_OwnerOcp	Occupied housing units with a householder who is Hispanic or Latino: Owner occupied
+OcpHsUntWHhHisp_RentOcp	Occupied housing units with a householder who is Hispanic or Latino: Renter occupied
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_OwnerOcp	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Owner occupied
+OcpHsUntWHhWhtNotHisp_RentOcp	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Renter occupied
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Hh15to24y	Occupied housing units: Owner occupied: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_Hh25to34y	Occupied housing units: Owner occupied: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_Hh35to44y	Occupied housing units: Owner occupied: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_Hh45to54y	Occupied housing units: Owner occupied: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_Hh55to59y	Occupied housing units: Owner occupied: Householder 55 to 59 years
+OcpHsUnt_OwnerOcp_Hh60to64y	Occupied housing units: Owner occupied: Householder 60 to 64 years
+OcpHsUnt_OwnerOcp_Hh65to74y	Occupied housing units: Owner occupied: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_Hh75to84y	Occupied housing units: Owner occupied: Householder 75 to 84 years
+OcpHsUnt_OwnerOcp_HhGte85y	Occupied housing units: Owner occupied: Householder 85 years and over
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Hh15to24y	Occupied housing units: Renter occupied: Householder 15 to 24 years
+OcpHsUnt_RentOcp_Hh25to34y	Occupied housing units: Renter occupied: Householder 25 to 34 years
+OcpHsUnt_RentOcp_Hh35to44y	Occupied housing units: Renter occupied: Householder 35 to 44 years
+OcpHsUnt_RentOcp_Hh45to54y	Occupied housing units: Renter occupied: Householder 45 to 54 years
+OcpHsUnt_RentOcp_Hh55to59y	Occupied housing units: Renter occupied: Householder 55 to 59 years
+OcpHsUnt_RentOcp_Hh60to64y	Occupied housing units: Renter occupied: Householder 60 to 64 years
+OcpHsUnt_RentOcp_Hh65to74y	Occupied housing units: Renter occupied: Householder 65 to 74 years
+OcpHsUnt_RentOcp_Hh75to84y	Occupied housing units: Renter occupied: Householder 75 to 84 years
+OcpHsUnt_RentOcp_HhGte85y	Occupied housing units: Renter occupied: Householder 85 years and over
+PopOcpHsUnt_TotPopOcpHsUnt	Population in occupied housing units: Total population in occupied housing units:
+PopOcpHsUnt_OwnerOcp	Population in occupied housing units: Owner occupied
+PopOcpHsUnt_RentOcp	Population in occupied housing units: Renter occupied
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_1pHH	Occupied housing units: 1-person household
+OcpHsUnt_2pHH	Occupied housing units: 2-person household
+OcpHsUnt_3pHH	Occupied housing units: 3-person household
+OcpHsUnt_4pHH	Occupied housing units: 4-person household
+OcpHsUnt_5pHH	Occupied housing units: 5-person household
+OcpHsUnt_6pHH	Occupied housing units: 6-person household
+OcpHsUnt_Gte7pHH	Occupied housing units: 7-or-more-person household
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_1pHH	Occupied housing units: Owner occupied: 1-person household
+OcpHsUnt_OwnerOcp_2pHH	Occupied housing units: Owner occupied: 2-person household
+OcpHsUnt_OwnerOcp_3pHH	Occupied housing units: Owner occupied: 3-person household
+OcpHsUnt_OwnerOcp_4pHH	Occupied housing units: Owner occupied: 4-person household
+OcpHsUnt_OwnerOcp_5pHH	Occupied housing units: Owner occupied: 5-person household
+OcpHsUnt_OwnerOcp_6pHH	Occupied housing units: Owner occupied: 6-person household
+OcpHsUnt_OwnerOcp_Gte7pHH	Occupied housing units: Owner occupied: 7-or-more-person household
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_1pHH	Occupied housing units: Renter occupied: 1-person household
+OcpHsUnt_RentOcp_2pHH	Occupied housing units: Renter occupied: 2-person household
+OcpHsUnt_RentOcp_3pHH	Occupied housing units: Renter occupied: 3-person household
+OcpHsUnt_RentOcp_4pHH	Occupied housing units: Renter occupied: 4-person household
+OcpHsUnt_RentOcp_5pHH	Occupied housing units: Renter occupied: 5-person household
+OcpHsUnt_RentOcp_6pHH	Occupied housing units: Renter occupied: 6-person household
+OcpHsUnt_RentOcp_Gte7pHH	Occupied housing units: Renter occupied: 7-or-more-person household
+OcpHsUnt_Tot	Occupied housing units: Total
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied

@@ -1,0 +1,218 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+OcpHsUnt_AggNumRms	Occupied housing units: Aggregate number of rooms:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+VacantHsUnt_AggNumRms	Vacant housing units: Aggregate number of rooms:
+VacantHsUnt_ForRent	Vacant housing units: For rent
+VacantHsUnt_ForSaleOnly	Vacant housing units: For sale only
+VacantHsUnt_RentSoldNotOcp	Vacant housing units: Rented or sold, not occupied
+VacantHsUnt_ForSeasRec	Vacant housing units: For seasonal, recreational, or occasional use
+VacantHsUnt_ForMigWrkr	Vacant housing units: For migrant workers
+VacantHsUnt_OthVacant	Vacant housing units: Other vacant
+HsUnt_Tot	Housing units: Total:
+HsUnt_1Dtchd	Housing units: 1, detached
+HsUnt_1Atchd	Housing units: 1, attached
+HsUnt_2	Housing units: 2
+HsUnt_3or4	Housing units: 3 or 4
+HsUnt_5to9	Housing units: 5 to 9
+HsUnt_10to19	Housing units: 10 to 19
+HsUnt_20to49	Housing units: 20 to 49
+HsUnt_Gte50	Housing units: 50 or more
+HsUnt_MobHome	Housing units: Mobile home
+HsUnt_BoatRVvan	Housing units: Boat, RV, van, etc.
+VacantHsUnt_Tot	Vacant housing units: Total:
+VacantHsUnt_1Dtchd	Vacant housing units: 1, detached
+VacantHsUnt_1Atchd	Vacant housing units: 1, attached
+VacantHsUnt_2	Vacant housing units: 2
+VacantHsUnt_3or4	Vacant housing units: 3 or 4
+VacantHsUnt_5to9	Vacant housing units: 5 to 9
+VacantHsUnt_10to19	Vacant housing units: 10 to 19
+VacantHsUnt_20to49	Vacant housing units: 20 to 49
+VacantHsUnt_Gte50	Vacant housing units: 50 or more
+VacantHsUnt_MobHome	Vacant housing units: Mobile home
+VacantHsUnt_BoatRVvan	Vacant housing units: Boat, RV, van, etc.
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_1Dtchd	Occupied housing units: Owner occupied: 1, detached
+OcpHsUnt_OwnerOcp_1Atchd	Occupied housing units: Owner occupied: 1, attached
+OcpHsUnt_OwnerOcp_2	Occupied housing units: Owner occupied: 2
+OcpHsUnt_OwnerOcp_3or4	Occupied housing units: Owner occupied: 3 or 4
+OcpHsUnt_OwnerOcp_5to9	Occupied housing units: Owner occupied: 5 to 9
+OcpHsUnt_OwnerOcp_10to19	Occupied housing units: Owner occupied: 10 to 19
+OcpHsUnt_OwnerOcp_20to49	Occupied housing units: Owner occupied: 20 to 49
+OcpHsUnt_OwnerOcp_Gte50	Occupied housing units: Owner occupied: 50 or more
+OcpHsUnt_OwnerOcp_MobHome	Occupied housing units: Owner occupied: Mobile home
+OcpHsUnt_OwnerOcp_BoatRVvan	Occupied housing units: Owner occupied: Boat, RV, van, etc.
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_1Dtchd	Occupied housing units: Renter occupied: 1, detached
+OcpHsUnt_RentOcp_1Atchd	Occupied housing units: Renter occupied: 1, attached
+OcpHsUnt_RentOcp_2	Occupied housing units: Renter occupied: 2
+OcpHsUnt_RentOcp_3or4	Occupied housing units: Renter occupied: 3 or 4
+OcpHsUnt_RentOcp_5to9	Occupied housing units: Renter occupied: 5 to 9
+OcpHsUnt_RentOcp_10to19	Occupied housing units: Renter occupied: 10 to 19
+OcpHsUnt_RentOcp_20to49	Occupied housing units: Renter occupied: 20 to 49
+OcpHsUnt_RentOcp_Gte50	Occupied housing units: Renter occupied: 50 or more
+OcpHsUnt_RentOcp_MobHome	Occupied housing units: Renter occupied: Mobile home
+OcpHsUnt_RentOcp_BoatRVvan	Occupied housing units: Renter occupied: Boat, RV, van, etc.
+PopOcpHsUnt_TotPopOcpHsUnt	Population in occupied housing units: Total population in occupied housing units:
+PopOcpHsUnt_OwnerOcp	Population in occupied housing units: Owner occupied:
+PopOcpHsUnt_OwnerOcp_1Dtchd	Population in occupied housing units: Owner occupied: 1, detached
+PopOcpHsUnt_OwnerOcp_1Atchd	Population in occupied housing units: Owner occupied: 1, attached
+PopOcpHsUnt_OwnerOcp_2	Population in occupied housing units: Owner occupied: 2
+PopOcpHsUnt_OwnerOcp_3or4	Population in occupied housing units: Owner occupied: 3 or 4
+PopOcpHsUnt_OwnerOcp_5to9	Population in occupied housing units: Owner occupied: 5 to 9
+PopOcpHsUnt_OwnerOcp_10to19	Population in occupied housing units: Owner occupied: 10 to 19
+PopOcpHsUnt_OwnerOcp_20to49	Population in occupied housing units: Owner occupied: 20 to 49
+PopOcpHsUnt_OwnerOcp_Gte50	Population in occupied housing units: Owner occupied: 50 or more
+PopOcpHsUnt_OwnerOcp_MobHome	Population in occupied housing units: Owner occupied: Mobile home
+PopOcpHsUnt_OwnerOcp_BoatRVvan	Population in occupied housing units: Owner occupied: Boat, RV, van, etc.
+PopOcpHsUnt_RentOcp	Population in occupied housing units: Renter occupied:
+PopOcpHsUnt_RentOcp_1Dtchd	Population in occupied housing units: Renter occupied: 1, detached
+PopOcpHsUnt_RentOcp_1Atchd	Population in occupied housing units: Renter occupied: 1, attached
+PopOcpHsUnt_RentOcp_2	Population in occupied housing units: Renter occupied: 2
+PopOcpHsUnt_RentOcp_3or4	Population in occupied housing units: Renter occupied: 3 or 4
+PopOcpHsUnt_RentOcp_5to9	Population in occupied housing units: Renter occupied: 5 to 9
+PopOcpHsUnt_RentOcp_10to19	Population in occupied housing units: Renter occupied: 10 to 19
+PopOcpHsUnt_RentOcp_20to49	Population in occupied housing units: Renter occupied: 20 to 49
+PopOcpHsUnt_RentOcp_Gte50	Population in occupied housing units: Renter occupied: 50 or more
+PopOcpHsUnt_RentOcp_MobHome	Population in occupied housing units: Renter occupied: Mobile home
+PopOcpHsUnt_RentOcp_BoatRVvan	Population in occupied housing units: Renter occupied: Boat, RV, van, etc.
+HsUnt_Tot	Housing units: Total:
+HsUnt_Blt99toMar2000	Housing units: Built 1999 to March 2000
+HsUnt_Blt95to98	Housing units: Built 1995 to 1998
+HsUnt_Blt90to94	Housing units: Built 1990 to 1994
+HsUnt_Blt80to89	Housing units: Built 1980 to 1989
+HsUnt_Blt70to79	Housing units: Built 1970 to 1979
+HsUnt_Blt60to69	Housing units: Built 1960 to 1969
+HsUnt_Blt50to59	Housing units: Built 1950 to 1959
+HsUnt_Blt40to49	Housing units: Built 1940 to 1949
+HsUnt_Blt39Erlr	Housing units: Built 1939 or earlier
+HsUnt_MedYearStructBlt	Housing units: Median year structure built
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Blt99toMar2000	Occupied housing units: Owner occupied: Built 1999 to March 2000
+OcpHsUnt_OwnerOcp_Blt95to98	Occupied housing units: Owner occupied: Built 1995 to 1998
+OcpHsUnt_OwnerOcp_Blt90to94	Occupied housing units: Owner occupied: Built 1990 to 1994
+OcpHsUnt_OwnerOcp_Blt80to89	Occupied housing units: Owner occupied: Built 1980 to 1989
+OcpHsUnt_OwnerOcp_Blt70to79	Occupied housing units: Owner occupied: Built 1970 to 1979
+OcpHsUnt_OwnerOcp_Blt60to69	Occupied housing units: Owner occupied: Built 1960 to 1969
+OcpHsUnt_OwnerOcp_Blt50to59	Occupied housing units: Owner occupied: Built 1950 to 1959
+OcpHsUnt_OwnerOcp_Blt40to49	Occupied housing units: Owner occupied: Built 1940 to 1949
+OcpHsUnt_OwnerOcp_Blt39Erlr	Occupied housing units: Owner occupied: Built 1939 or earlier
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Blt99toMar2000	Occupied housing units: Renter occupied: Built 1999 to March 2000
+OcpHsUnt_RentOcp_Blt95to98	Occupied housing units: Renter occupied: Built 1995 to 1998
+OcpHsUnt_RentOcp_Blt90to94	Occupied housing units: Renter occupied: Built 1990 to 1994
+OcpHsUnt_RentOcp_Blt80to89	Occupied housing units: Renter occupied: Built 1980 to 1989
+OcpHsUnt_RentOcp_Blt70to79	Occupied housing units: Renter occupied: Built 1970 to 1979
+OcpHsUnt_RentOcp_Blt60to69	Occupied housing units: Renter occupied: Built 1960 to 1969
+OcpHsUnt_RentOcp_Blt50to59	Occupied housing units: Renter occupied: Built 1950 to 1959
+OcpHsUnt_RentOcp_Blt40to49	Occupied housing units: Renter occupied: Built 1940 to 1949
+OcpHsUnt_RentOcp_Blt39Erlr	Occupied housing units: Renter occupied: Built 1939 or earlier
+OcpHsUnt_Tot	Occupied housing units: Total
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Mvd99toMar2000	Occupied housing units: Owner occupied: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Mvd95to98	Occupied housing units: Owner occupied: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Mvd90to94	Occupied housing units: Owner occupied: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Mvd80to89	Occupied housing units: Owner occupied: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Mvd70to79	Occupied housing units: Owner occupied: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_MvdLte69	Occupied housing units: Owner occupied: Moved in 1969 or earlier
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Mvd99toMar2000	Occupied housing units: Renter occupied: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Mvd95to98	Occupied housing units: Renter occupied: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Mvd90to94	Occupied housing units: Renter occupied: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Mvd80to89	Occupied housing units: Renter occupied: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Mvd70to79	Occupied housing units: Renter occupied: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_MvdLte69	Occupied housing units: Renter occupied: Moved in 1969 or earlier
+OcpHsUnt_Tot	Occupied housing units: Total
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_UtilGas	Occupied housing units: Utility gas
+OcpHsUnt_BtldTankLPgas	Occupied housing units: Bottled, tank, or LP gas
+OcpHsUnt_Elec	Occupied housing units: Electricity
+OcpHsUnt_FuelOilKer	Occupied housing units: Fuel oil, kerosene, etc.
+OcpHsUnt_CoalCoke	Occupied housing units: Coal or coke
+OcpHsUnt_Wood	Occupied housing units: Wood
+OcpHsUnt_SolEnrgy	Occupied housing units: Solar energy
+OcpHsUnt_Othfuel	Occupied housing units: Other fuel
+OcpHsUnt_NoFuelUsed	Occupied housing units: No fuel used
+HsUnt_Tot	Housing units: Total:
+HsUnt_NoBedrm	Housing units: No bedroom
+HsUnt_1Bedrm	Housing units: 1 bedroom
+HsUnt_2Bedrm	Housing units: 2 bedrooms
+HsUnt_3Bedrm	Housing units: 3 bedrooms
+HsUnt_4Bedrm	Housing units: 4 bedrooms
+HsUnt_Gte5Bedrm	Housing units: 5 or more bedrooms
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_NoBedrm	Occupied housing units: Owner occupied: No bedroom
+OcpHsUnt_OwnerOcp_1Bedrm	Occupied housing units: Owner occupied: 1 bedroom
+OcpHsUnt_OwnerOcp_2Bedrm	Occupied housing units: Owner occupied: 2 bedrooms
+OcpHsUnt_OwnerOcp_3Bedrm	Occupied housing units: Owner occupied: 3 bedrooms
+OcpHsUnt_OwnerOcp_4Bedrm	Occupied housing units: Owner occupied: 4 bedrooms
+OcpHsUnt_OwnerOcp_Gte5Bedrm	Occupied housing units: Owner occupied: 5 or more bedrooms
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_NoBedrm	Occupied housing units: Renter occupied: No bedroom
+OcpHsUnt_RentOcp_1Bedrm	Occupied housing units: Renter occupied: 1 bedroom
+OcpHsUnt_RentOcp_2Bedrm	Occupied housing units: Renter occupied: 2 bedrooms
+OcpHsUnt_RentOcp_3Bedrm	Occupied housing units: Renter occupied: 3 bedrooms
+OcpHsUnt_RentOcp_4Bedrm	Occupied housing units: Renter occupied: 4 bedrooms
+OcpHsUnt_RentOcp_Gte5Bedrm	Occupied housing units: Renter occupied: 5 or more bedrooms
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_WPhoneServAvail	Occupied housing units: Owner occupied: With telephone service available:
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh15to24y	Occupied housing units: Owner occupied: With telephone service available: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh25to34y	Occupied housing units: Owner occupied: With telephone service available: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh35to44y	Occupied housing units: Owner occupied: With telephone service available: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh45to54y	Occupied housing units: Owner occupied: With telephone service available: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh55to64y	Occupied housing units: Owner occupied: With telephone service available: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_Hh65to74y	Occupied housing units: Owner occupied: With telephone service available: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_WPhoneServAvail_HhGte75y	Occupied housing units: Owner occupied: With telephone service available: Householder 75 years and over
+OcpHsUnt_OwnerOcp_NoPhoneServAvail	Occupied housing units: Owner occupied: No telephone service available:
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh15to24y	Occupied housing units: Owner occupied: No telephone service available: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh25to34y	Occupied housing units: Owner occupied: No telephone service available: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh35to44y	Occupied housing units: Owner occupied: No telephone service available: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh45to54y	Occupied housing units: Owner occupied: No telephone service available: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh55to64y	Occupied housing units: Owner occupied: No telephone service available: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_Hh65to74y	Occupied housing units: Owner occupied: No telephone service available: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_NoPhoneServAvail_HhGte75y	Occupied housing units: Owner occupied: No telephone service available: Householder 75 years and over
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_WPhoneServAvail	Occupied housing units: Renter occupied: With telephone service available:
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh15to24y	Occupied housing units: Renter occupied: With telephone service available: Householder 15 to 24 years
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh25to34y	Occupied housing units: Renter occupied: With telephone service available: Householder 25 to 34 years
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh35to44y	Occupied housing units: Renter occupied: With telephone service available: Householder 35 to 44 years
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh45to54y	Occupied housing units: Renter occupied: With telephone service available: Householder 45 to 54 years
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh55to64y	Occupied housing units: Renter occupied: With telephone service available: Householder 55 to 64 years
+OcpHsUnt_RentOcp_WPhoneServAvail_Hh65to74y	Occupied housing units: Renter occupied: With telephone service available: Householder 65 to 74 years
+OcpHsUnt_RentOcp_WPhoneServAvail_HhGte75y	Occupied housing units: Renter occupied: With telephone service available: Householder 75 years and over
+OcpHsUnt_RentOcp_NoPhoneServAvail	Occupied housing units: Renter occupied: No telephone service available:
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh15to24y	Occupied housing units: Renter occupied: No telephone service available: Householder 15 to 24 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh25to34y	Occupied housing units: Renter occupied: No telephone service available: Householder 25 to 34 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh35to44y	Occupied housing units: Renter occupied: No telephone service available: Householder 35 to 44 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh45to54y	Occupied housing units: Renter occupied: No telephone service available: Householder 45 to 54 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh55to64y	Occupied housing units: Renter occupied: No telephone service available: Householder 55 to 64 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_Hh65to74y	Occupied housing units: Renter occupied: No telephone service available: Householder 65 to 74 years
+OcpHsUnt_RentOcp_NoPhoneServAvail_HhGte75y	Occupied housing units: Renter occupied: No telephone service available: Householder 75 years and over
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_NoVhclAvail	Occupied housing units: Owner occupied: No vehicle available
+OcpHsUnt_OwnerOcp_1VhclAvail	Occupied housing units: Owner occupied: 1 vehicle available
+OcpHsUnt_OwnerOcp_2VhclAvail	Occupied housing units: Owner occupied: 2 vehicles available
+OcpHsUnt_OwnerOcp_3VhclAvail	Occupied housing units: Owner occupied: 3 vehicles available
+OcpHsUnt_OwnerOcp_4VhclAvail	Occupied housing units: Owner occupied: 4 vehicles available
+OcpHsUnt_OwnerOcp_Gte5VhclAvail	Occupied housing units: Owner occupied: 5 or more vehicles available
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_NoVhclAvail	Occupied housing units: Renter occupied: No vehicle available
+OcpHsUnt_RentOcp_1VhclAvail	Occupied housing units: Renter occupied: 1 vehicle available
+OcpHsUnt_RentOcp_2VhclAvail	Occupied housing units: Renter occupied: 2 vehicles available
+OcpHsUnt_RentOcp_3VhclAvail	Occupied housing units: Renter occupied: 3 vehicles available
+OcpHsUnt_RentOcp_4VhclAvail	Occupied housing units: Renter occupied: 4 vehicles available
+OcpHsUnt_RentOcp_Gte5VhclAvail	Occupied housing units: Renter occupied: 5 or more vehicles available

@@ -1,0 +1,247 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HH_Tot	Households: Total:
+HH_Inc99LtPov	Households: Income in 1999 below poverty level:
+HH_Inc99LtPov_FamHH	Households: Income in 1999 below poverty level: Family households:
+HH_Inc99LtPov_FamHH_MrdCplFam	Households: Income in 1999 below poverty level: Family households: Married-couple family:
+HH_Inc99LtPov_FamHH_MrdCplFam_HhLt25y	Households: Income in 1999 below poverty level: Family households: Married-couple family: Householder under 25 years
+HH_Inc99LtPov_FamHH_MrdCplFam_Hh25to44y	Households: Income in 1999 below poverty level: Family households: Married-couple family: Householder 25 to 44 years
+HH_Inc99LtPov_FamHH_MrdCplFam_Hh45to64y	Households: Income in 1999 below poverty level: Family households: Married-couple family: Householder 45 to 64 years
+HH_Inc99LtPov_FamHH_MrdCplFam_HhGte65y	Households: Income in 1999 below poverty level: Family households: Married-couple family: Householder 65 years and over
+HH_Inc99LtPov_FamHH_OthFam	Households: Income in 1999 below poverty level: Family households: Other family:
+HH_Inc99LtPov_FamHH_OthFam_MleHhNoWife	Households: Income in 1999 below poverty level: Family households: Other family: Male householder, no wife present:
+HH_Inc99LtPov_FamHH_OthFam_MleHhNoWife_HhLt25y	Households: Income in 1999 below poverty level: Family households: Other family: Male householder, no wife present: Householder under 25 years
+HH_Inc99LtPov_FamHH_OthFam_MleHhNoWife_Hh25to44y	Households: Income in 1999 below poverty level: Family households: Other family: Male householder, no wife present: Householder 25 to 44 years
+HH_Inc99LtPov_FamHH_OthFam_MleHhNoWife_Hh45to64y	Households: Income in 1999 below poverty level: Family households: Other family: Male householder, no wife present: Householder 45 to 64 years
+HH_Inc99LtPov_FamHH_OthFam_MleHhNoWife_HhGte65y	Households: Income in 1999 below poverty level: Family households: Other family: Male householder, no wife present: Householder 65 years and over
+HH_Inc99LtPov_FamHH_OthFam_FemHhNoHusb	Households: Income in 1999 below poverty level: Family households: Other family: Female householder, no husband present:
+HH_Inc99LtPov_FamHH_OthFam_FemHhNoHusb_HhLt25y	Households: Income in 1999 below poverty level: Family households: Other family: Female householder, no husband present: Householder under 25 years
+HH_Inc99LtPov_FamHH_OthFam_FemHhNoHusb_Hh25to44y	Households: Income in 1999 below poverty level: Family households: Other family: Female householder, no husband present: Householder 25 to 44 years
+HH_Inc99LtPov_FamHH_OthFam_FemHhNoHusb_Hh45to64y	Households: Income in 1999 below poverty level: Family households: Other family: Female householder, no husband present: Householder 45 to 64 years
+HH_Inc99LtPov_FamHH_OthFam_FemHhNoHusb_HhGte65y	Households: Income in 1999 below poverty level: Family households: Other family: Female householder, no husband present: Householder 65 years and over
+HH_Inc99LtPov_NFamHH	Households: Income in 1999 below poverty level: Nonfamily households:
+HH_Inc99LtPov_NFamHH_MleHh	Households: Income in 1999 below poverty level: Nonfamily households: Male householder:
+HH_Inc99LtPov_NFamHH_MleHh_HhLt25y	Households: Income in 1999 below poverty level: Nonfamily households: Male householder: Householder under 25 years
+HH_Inc99LtPov_NFamHH_MleHh_Hh25to44y	Households: Income in 1999 below poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+HH_Inc99LtPov_NFamHH_MleHh_Hh45to64y	Households: Income in 1999 below poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+HH_Inc99LtPov_NFamHH_MleHh_HhGte65y	Households: Income in 1999 below poverty level: Nonfamily households: Male householder: Householder 65 years and over
+HH_Inc99LtPov_NFamHH_FemHh	Households: Income in 1999 below poverty level: Nonfamily households: Female householder:
+HH_Inc99LtPov_NFamHH_FemHh_HhLt25y	Households: Income in 1999 below poverty level: Nonfamily households: Female householder: Householder under 25 years
+HH_Inc99LtPov_NFamHH_FemHh_Hh25to44y	Households: Income in 1999 below poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+HH_Inc99LtPov_NFamHH_FemHh_Hh45to64y	Households: Income in 1999 below poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+HH_Inc99LtPov_NFamHH_FemHh_HhGte65y	Households: Income in 1999 below poverty level: Nonfamily households: Female householder: Householder 65 years and over
+HH_Inc99GtePov	Households: Income in 1999 at or above poverty level:
+HH_Inc99GtePov_FamHH	Households: Income in 1999 at or above poverty level: Family households:
+HH_Inc99GtePov_FamHH_MrdCplFam	Households: Income in 1999 at or above poverty level: Family households: Married-couple family:
+HH_Inc99GtePov_FamHH_MrdCplFam_HhLt25y	Households: Income in 1999 at or above poverty level: Family households: Married-couple family: Householder under 25 years
+HH_Inc99GtePov_FamHH_MrdCplFam_Hh25to44y	Households: Income in 1999 at or above poverty level: Family households: Married-couple family: Householder 25 to 44 years
+HH_Inc99GtePov_FamHH_MrdCplFam_Hh45to64y	Households: Income in 1999 at or above poverty level: Family households: Married-couple family: Householder 45 to 64 years
+HH_Inc99GtePov_FamHH_MrdCplFam_HhGte65y	Households: Income in 1999 at or above poverty level: Family households: Married-couple family: Householder 65 years and over
+HH_Inc99GtePov_FamHH_OthFam	Households: Income in 1999 at or above poverty level: Family households: Other family:
+HH_Inc99GtePov_FamHH_OthFam_MleHhNoWife	Households: Income in 1999 at or above poverty level: Family households: Other family: Male householder, no wife present:
+HH_Inc99GtePov_FamHH_OthFam_MleHhNoWife_HhLt25y	Households: Income in 1999 at or above poverty level: Family households: Other family: Male householder, no wife present: Householder under 25 years
+HH_Inc99GtePov_FamHH_OthFam_MleHhNoWife_Hh25to44y	Households: Income in 1999 at or above poverty level: Family households: Other family: Male householder, no wife present: Householder 25 to 44 years
+HH_Inc99GtePov_FamHH_OthFam_MleHhNoWife_Hh45to64y	Households: Income in 1999 at or above poverty level: Family households: Other family: Male householder, no wife present: Householder 45 to 64 years
+HH_Inc99GtePov_FamHH_OthFam_MleHhNoWife_HhGte65y	Households: Income in 1999 at or above poverty level: Family households: Other family: Male householder, no wife present: Householder 65 years and over
+HH_Inc99GtePov_FamHH_OthFam_FemHhNoHusb	Households: Income in 1999 at or above poverty level: Family households: Other family: Female householder, no husband present:
+HH_Inc99GtePov_FamHH_OthFam_FemHhNoHusb_HhLt25y	Households: Income in 1999 at or above poverty level: Family households: Other family: Female householder, no husband present: Householder under 25 years
+HH_Inc99GtePov_FamHH_OthFam_FemHhNoHusb_Hh25to44y	Households: Income in 1999 at or above poverty level: Family households: Other family: Female householder, no husband present: Householder 25 to 44 years
+HH_Inc99GtePov_FamHH_OthFam_FemHhNoHusb_Hh45to64y	Households: Income in 1999 at or above poverty level: Family households: Other family: Female householder, no husband present: Householder 45 to 64 years
+HH_Inc99GtePov_FamHH_OthFam_FemHhNoHusb_HhGte65y	Households: Income in 1999 at or above poverty level: Family households: Other family: Female householder, no husband present: Householder 65 years and over
+HH_Inc99GtePov_NFamHH	Households: Income in 1999 at or above poverty level: Nonfamily households:
+HH_Inc99GtePov_NFamHH_MleHh	Households: Income in 1999 at or above poverty level: Nonfamily households: Male householder:
+HH_Inc99GtePov_NFamHH_MleHh_HhLt25y	Households: Income in 1999 at or above poverty level: Nonfamily households: Male householder: Householder under 25 years
+HH_Inc99GtePov_NFamHH_MleHh_Hh25to44y	Households: Income in 1999 at or above poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+HH_Inc99GtePov_NFamHH_MleHh_Hh45to64y	Households: Income in 1999 at or above poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+HH_Inc99GtePov_NFamHH_MleHh_HhGte65y	Households: Income in 1999 at or above poverty level: Nonfamily households: Male householder: Householder 65 years and over
+HH_Inc99GtePov_NFamHH_FemHh	Households: Income in 1999 at or above poverty level: Nonfamily households: Female householder:
+HH_Inc99GtePov_NFamHH_FemHh_HhLt25y	Households: Income in 1999 at or above poverty level: Nonfamily households: Female householder: Householder under 25 years
+HH_Inc99GtePov_NFamHH_FemHh_Hh25to44y	Households: Income in 1999 at or above poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+HH_Inc99GtePov_NFamHH_FemHh_Hh45to64y	Households: Income in 1999 at or above poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+HH_Inc99GtePov_NFamHH_FemHh_HhGte65y	Households: Income in 1999 at or above poverty level: Nonfamily households: Female householder: Householder 65 years and over
+HH_Tot	Households: Total:
+HH_Lt1.50	Households: Under 1.50:
+HH_Lt1.50_FamHH	Households: Under 1.50: Family households:
+HH_Lt1.50_FamHH_MrdCplFam	Households: Under 1.50: Family households: Married-couple family
+HH_Lt1.50_FamHH_OthFam	Households: Under 1.50: Family households: Other family:
+HH_Lt1.50_FamHH_OthFam_MleHhNoWife	Households: Under 1.50: Family households: Other family: Male householder, no wife present
+HH_Lt1.50_FamHH_OthFam_FemHhNoHusb	Households: Under 1.50: Family households: Other family: Female householder, no husband present
+HH_Lt1.50_NFamHH	Households: Under 1.50: Nonfamily households:
+HH_Lt1.50_NFamHH_MleHh	Households: Under 1.50: Nonfamily households: Male householder
+HH_Lt1.50_NFamHH_FemHh	Households: Under 1.50: Nonfamily households: Female householder
+HH_Gte1.50	Households: 1.50 and over:
+HH_Gte1.50_FamHH	Households: 1.50 and over: Family households:
+HH_Gte1.50_FamHH_MrdCplFam	Households: 1.50 and over: Family households: Married-couple family
+HH_Gte1.50_FamHH_OthFam	Households: 1.50 and over: Family households: Other family:
+HH_Gte1.50_FamHH_OthFam_MleHhNoWife	Households: 1.50 and over: Family households: Other family: Male householder, no wife present
+HH_Gte1.50_FamHH_OthFam_FemHhNoHusb	Households: 1.50 and over: Family households: Other family: Female householder, no husband present
+HH_Gte1.50_NFamHH	Households: 1.50 and over: Nonfamily households:
+HH_Gte1.50_NFamHH_MleHh	Households: 1.50 and over: Nonfamily households: Male householder
+HH_Gte1.50_NFamHH_FemHh	Households: 1.50 and over: Nonfamily households: Female householder
+TotPop_Tot	Total population: Total:
+TotPop_NoItemImp	Total population: No items imputed
+TotPop_Gte1ItemImp	Total population: One or more items imputed
+PopGrpQuart_Tot	Population in group quarters: Total:
+PopGrpQuart_NoItemImp	Population in group quarters: No items imputed
+PopGrpQuart_Gte1ItemImp	Population in group quarters: One or more items imputed
+PopHH_Tot	Population in households: Total:
+PopHH_Imp	Population in households: Imputed
+PopHH_NotImp	Population in households: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+PopGte30yHH_Tot	Population 30 years and over in households: Total:
+PopGte30yHH_Imp	Population 30 years and over in households: Imputed
+PopGte30yHH_NotImp	Population 30 years and over in households: Not imputed
+PopGte30yHH_Tot	Population 30 years and over in households: Total:
+PopGte30yHH_LivWOwnGrdCldLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years:
+PopGte30yHH_LivWOwnGrdCldLt18y_NFamHH_Imp	Population 30 years and over in households: Living with own grandchildren under 18 years: Nonfamily households: Imputed
+PopGte30yHH_LivWOwnGrdCldLt18y_NFamHH_NotImp	Population 30 years and over in households: Living with own grandchildren under 18 years: Nonfamily households: Not imputed
+PopGte30yHH_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Not living with own grandchildren under 18 years
+PopGte30yHH_Tot	Population 30 years and over in households: Total:
+PopGte30yHH_LivWOwnGrdCldLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years:
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years:
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_No_029	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: Not imputed Imputed
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_No_030	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: Not imputed Not imputed
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntNotRespOwnGndChildLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent not responsible for own grandchildren under 18 years
+PopGte30yHH_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Not living with own grandchildren under 18 years
+PopGte15y_Tot	Population 15 years and over: Total:
+PopGte15y_Imp	Population 15 years and over: Imputed
+PopGte15y_NotImp	Population 15 years and over: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+TotPop_Tot	Total population: Total:
+TotPop_Imp	Total population: Imputed
+TotPop_NotImp	Total population: Not imputed
+FrgnBornPop_Tot	Foreign-born population: Total:
+FrgnBornPop_Imp	Foreign-born population: Imputed
+FrgnBornPop_NotImp	Foreign-born population: Not imputed
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_Imp	Population 5 years and over: Imputed
+PopGte5y_NotImp	Population 5 years and over: Not imputed
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_SpkOnlyEngl	Population 5 years and over: Speak only English
+PopGte5y_SpkOthLang	Population 5 years and over: Speak other languages:
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_Imp	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Imputed:
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_Imp_LangSt_031	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Imputed: Language status imputed
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_Imp_LangSt_032	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Imputed: Language status not imputed
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_NotImp	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Not imputed
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_SpkOnlyEngl	Population 5 years and over: Speak only English
+PopGte5y_SpkOthLang	Population 5 years and over: Speak other languages:
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_Imp	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Imputed
+PopGte5y_SpkOthLang_GndPrntNotRespOwnGndChildLt18y_NotImp	Population 5 years and over: Speak other languages: Grandparent not responsible for own grandchildren under 18 years Not imputed
+PopGte3y_Tot	Population 3 years and over: Total:
+PopGte3y_Imp	Population 3 years and over: Imputed
+PopGte3y_NotImp	Population 3 years and over: Not imputed
+PopGte3yEnrlSchl_Tot	Population 3 years and over enrolled in school: Total:
+PopGte3yEnrlSchl_Imp	Population 3 years and over enrolled in school: Imputed
+PopGte3yEnrlSchl_NotImp	Population 3 years and over enrolled in school: Not imputed
+PopGte25y_Tot	Population 25 years and over: Total:
+PopGte25y_Imp	Population 25 years and over: Imputed
+PopGte25y_NotImp	Population 25 years and over: Not imputed
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_Imp	Population 5 years and over: Imputed
+PopGte5y_NotImp	Population 5 years and over: Not imputed
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_DiffHs	Population 5 years and over: Different house:
+PopGte5y_DiffHs_Imp	Population 5 years and over: Different house: Imputed:
+PopGte5y_DiffHs_Imp_Gte1ButNotAllGeoImp	Population 5 years and over: Different house: Imputed: One or more but not all geographic parts imputed
+PopGte5y_DiffHs_Imp_AllGeoPart	Population 5 years and over: Different house: Imputed: All geographic parts imputed
+PopGte5y_DiffHs_NotImp	Population 5 years and over: Different house: Not imputed
+PopGte5y_SameHs	Population 5 years and over: Same house
+PopGte18y_Tot	Population 18 years and over: Total:
+PopGte18y_Imp	Population 18 years and over: Imputed
+PopGte18y_NotImp	Population 18 years and over: Not imputed
+CivVetGte18y_Tot	Civilian veterans 18 years and over: Total:
+CivVetGte18y_Imp	Civilian veterans 18 years and over: Imputed
+CivVetGte18y_NotImp	Civilian veterans 18 years and over: Not imputed
+CivVetGte18y_Tot	Civilian veterans 18 years and over: Total:
+CivVetGte18y_Imp	Civilian veterans 18 years and over: Imputed
+CivVetGte18y_NotImp	Civilian veterans 18 years and over: Not imputed
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_NoDisabItem	cn5population: No disability items imputed
+CivNonInstPopGte5y_Gte1DisabItemImp	cn5population: One or more disability items imputed
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Imp	cn5population: Imputed
+CivNonInstPopGte5y_NotImp	cn5population: Not imputed
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Imp	cn5population: Imputed
+CivNonInstPopGte5y_NotImp	cn5population: Not imputed
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Imp	cn5population: Imputed
+CivNonInstPopGte5y_NotImp	cn5population: Not imputed
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Imp	cn5population: Imputed
+CivNonInstPopGte5y_NotImp	cn5population: Not imputed
+CivNonInstPopGte16y_Tot	cnpopulation 16 years and over: Total:
+CivNonInstPopGte16y_Imp	cnpopulation 16 years and over: Imputed
+CivNonInstPopGte16y_NotImp	cnpopulation 16 years and over: Not imputed
+CivNonInstPop16to64y_Tot	cnpopulation 16 to 64 years: Total:
+CivNonInstPop16to64y_Imp	cnpopulation 16 to 64 years: Imputed
+CivNonInstPop16to64y_NotImp	cnpopulation 16 to 64 years: Not imputed
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_Imp	Workers 16 years and over: Imputed:
+WrkrsGte16y_Imp_Gte1ButNotAllGeoImp	Workers 16 years and over: Imputed: One or more but not all geographic parts imputed
+WrkrsGte16y_Imp_AllGeoPart	Workers 16 years and over: Imputed: All geographic parts imputed
+WrkrsGte16y_NotImp	Workers 16 years and over: Not imputed
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_Imp	Workers 16 years and over: Imputed
+WrkrsGte16y_NotImp	Workers 16 years and over: Not imputed
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_CarTrckVan	Workers 16 years and over: Car, truck, or van:
+WrkrsGte16y_CarTrckVan_Imp	Workers 16 years and over: Car, truck, or van: Imputed
+WrkrsGte16y_CarTrckVan_NotImp	Workers 16 years and over: Car, truck, or van: Not imputed
+WrkrsGte16y_OthMeansWrkHome	Workers 16 years and over: Other means (including those who worked at home)
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_DNWorkHome	Workers 16 years and over: Did not work at home:
+WrkrsGte16y_DNWorkHome_NotImp_Imp	Workers 16 years and over: Did not work at home: Not imputed Imputed
+WrkrsGte16y_DNWorkHome_NotImp_NotImp	Workers 16 years and over: Did not work at home: Not imputed Not imputed
+WrkrsGte16y_WrkdAtHome	Workers 16 years and over: Worked at home
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_DNWorkHome	Workers 16 years and over: Did not work at home:
+WrkrsGte16y_DNWorkHome_NotImp_Imp	Workers 16 years and over: Did not work at home: Not imputed Imputed
+WrkrsGte16y_DNWorkHome_NotImp_NotImp	Workers 16 years and over: Did not work at home: Not imputed Not imputed
+WrkrsGte16y_WrkdAtHome	Workers 16 years and over: Worked at home
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Imp	Population 16 years and over: Imputed
+PopGte16y_NotImp	Population 16 years and over: Not imputed
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Imp	Population 16 years and over: Imputed
+PopGte16y_NotImp	Population 16 years and over: Not imputed
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Wrkd99	Population 16 years and over: Worked in 1999:
+PopGte16y_Wrkd99_NotImp_Imp	Population 16 years and over: Worked in 1999: Not imputed Imputed
+PopGte16y_Wrkd99_NotImp_NotImp	Population 16 years and over: Worked in 1999: Not imputed Not imputed
+PopGte16y_DNWork99	Population 16 years and over: Did not work in 1999
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Wrkd99	Population 16 years and over: Worked in 1999:
+PopGte16y_Wrkd99_NotImp_Imp	Population 16 years and over: Worked in 1999: Not imputed Imputed
+PopGte16y_Wrkd99_NotImp_NotImp	Population 16 years and over: Worked in 1999: Not imputed Not imputed
+PopGte16y_DNWork99	Population 16 years and over: Did not work in 1999
+EmplCivGtePop16y_Tot	Employed civilian population 16 years and over: Total:
+EmplCivGtePop16y_Imp	Employed civilian population 16 years and over: Imputed
+EmplCivGtePop16y_NotImp	Employed civilian population 16 years and over: Not imputed
+EmplCivGtePop16y_Tot	Employed civilian population 16 years and over: Total:
+EmplCivGtePop16y_Imp	Employed civilian population 16 years and over: Imputed
+EmplCivGtePop16y_NotImp	Employed civilian population 16 years and over: Not imputed
+EmplCivGtePop16y_Tot	Employed civilian population 16 years and over: Total:
+EmplCivGtePop16y_Imp	Employed civilian population 16 years and over: Imputed
+EmplCivGtePop16y_NotImp	Employed civilian population 16 years and over: Not imputed
+PopGte15y_NoIncImp	Population 15 years and over: No income imputed
+PopGte15y_UsdVal0	Population 15 years and over: Dollar value of zero imputed
+PopGte15y_Gt0toLt10pctTotIncInd	Population 15 years and over: More than 0 to less than 10 percent of total income for individual imputed
+PopGte15y_10toLt25pctTotIncInd	Population 15 years and over: 10 to less than 25 percent of total income for individual imputed
+PopGte15y_25toLt50pctTotIncInd	Population 15 years and over: 25 to less than 50 percent of total income for individual imputed
+PopGte15y_50toLt100pctTotIncInd	Population 15 years and over: 50 to less than 100 percent of total income for individual imputed
+PopGte15y_100pctTotIncInd	Population 15 years and over: 100 percent of total income for individual imputed

@@ -1,0 +1,245 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtPopGte5y_Tot	White alone population 5 years and over: Total:
+WhtPopGte5y_5to17y	White alone population 5 years and over: 5 to 17 years:
+WhtPopGte5y_5to17y_SpkOnlyEngl	White alone population 5 years and over: 5 to 17 years: Speak only English
+WhtPopGte5y_5to17y_SpkOthLang	White alone population 5 years and over: 5 to 17 years: Speak other languages:
+WhtPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	White alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+WhtPopGte5y_5to17y_SpkOthLang_SpkEnglWell	White alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+WhtPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	White alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+WhtPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	White alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+WhtPopGte5y_18to64y	White alone population 5 years and over: 18 to 64 years:
+WhtPopGte5y_18to64y_SpkOnlyEngl	White alone population 5 years and over: 18 to 64 years: Speak only English
+WhtPopGte5y_18to64y_SpkOthLang	White alone population 5 years and over: 18 to 64 years: Speak other languages:
+WhtPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	White alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+WhtPopGte5y_18to64y_SpkOthLang_SpkEnglWell	White alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+WhtPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	White alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+WhtPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	White alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+WhtPopGte5y_Gte65y	White alone population 5 years and over: 65 years and over:
+WhtPopGte5y_Gte65y_SpkOnlyEngl	White alone population 5 years and over: 65 years and over: Speak only English
+WhtPopGte5y_Gte65y_SpkOthLang	White alone population 5 years and over: 65 years and over: Speak other languages:
+WhtPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	White alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+WhtPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	White alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+WhtPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	White alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+WhtPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	White alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+BlkAfAmPopGte5y_Tot	Black or African American alone population 5 years and over: Total:
+BlkAfAmPopGte5y_5to17y	Black or African American alone population 5 years and over: 5 to 17 years:
+BlkAfAmPopGte5y_5to17y_SpkOnlyEngl	Black or African American alone population 5 years and over: 5 to 17 years: Speak only English
+BlkAfAmPopGte5y_5to17y_SpkOthLang	Black or African American alone population 5 years and over: 5 to 17 years: Speak other languages:
+BlkAfAmPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Black or African American alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+BlkAfAmPopGte5y_5to17y_SpkOthLang_SpkEnglWell	Black or African American alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+BlkAfAmPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Black or African American alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+BlkAfAmPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Black or African American alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+BlkAfAmPopGte5y_18to64y	Black or African American alone population 5 years and over: 18 to 64 years:
+BlkAfAmPopGte5y_18to64y_SpkOnlyEngl	Black or African American alone population 5 years and over: 18 to 64 years: Speak only English
+BlkAfAmPopGte5y_18to64y_SpkOthLang	Black or African American alone population 5 years and over: 18 to 64 years: Speak other languages:
+BlkAfAmPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Black or African American alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+BlkAfAmPopGte5y_18to64y_SpkOthLang_SpkEnglWell	Black or African American alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+BlkAfAmPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Black or African American alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+BlkAfAmPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Black or African American alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+BlkAfAmPopGte5y_Gte65y	Black or African American alone population 5 years and over: 65 years and over:
+BlkAfAmPopGte5y_Gte65y_SpkOnlyEngl	Black or African American alone population 5 years and over: 65 years and over: Speak only English
+BlkAfAmPopGte5y_Gte65y_SpkOthLang	Black or African American alone population 5 years and over: 65 years and over: Speak other languages:
+BlkAfAmPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Black or African American alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+BlkAfAmPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Black or African American alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+BlkAfAmPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Black or African American alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+BlkAfAmPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Black or African American alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+AmIndAkNatPopGte5y_Tot	American Indian and Alaska Native alone population 5 years and over: Total:
+AmIndAkNatPopGte5y_5to17y	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years:
+AmIndAkNatPopGte5y_5to17y_SpkOnlyEngl	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak only English
+AmIndAkNatPopGte5y_5to17y_SpkOthLang	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak other languages:
+AmIndAkNatPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+AmIndAkNatPopGte5y_5to17y_SpkOthLang_SpkEnglWell	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+AmIndAkNatPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+AmIndAkNatPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	American Indian and Alaska Native alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+AmIndAkNatPopGte5y_18to64y	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years:
+AmIndAkNatPopGte5y_18to64y_SpkOnlyEngl	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak only English
+AmIndAkNatPopGte5y_18to64y_SpkOthLang	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak other languages:
+AmIndAkNatPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+AmIndAkNatPopGte5y_18to64y_SpkOthLang_SpkEnglWell	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+AmIndAkNatPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+AmIndAkNatPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	American Indian and Alaska Native alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+AmIndAkNatPopGte5y_Gte65y	American Indian and Alaska Native alone population 5 years and over: 65 years and over:
+AmIndAkNatPopGte5y_Gte65y_SpkOnlyEngl	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak only English
+AmIndAkNatPopGte5y_Gte65y_SpkOthLang	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak other languages:
+AmIndAkNatPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+AmIndAkNatPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+AmIndAkNatPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+AmIndAkNatPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	American Indian and Alaska Native alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+AsnPopGte5y_Tot	Asian alone population 5 years and over: Total:
+AsnPopGte5y_5to17y	Asian alone population 5 years and over: 5 to 17 years:
+AsnPopGte5y_5to17y_SpkOnlyEngl	Asian alone population 5 years and over: 5 to 17 years: Speak only English
+AsnPopGte5y_5to17y_SpkOthLang	Asian alone population 5 years and over: 5 to 17 years: Speak other languages:
+AsnPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Asian alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+AsnPopGte5y_5to17y_SpkOthLang_SpkEnglWell	Asian alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+AsnPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Asian alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+AsnPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Asian alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+AsnPopGte5y_18to64y	Asian alone population 5 years and over: 18 to 64 years:
+AsnPopGte5y_18to64y_SpkOnlyEngl	Asian alone population 5 years and over: 18 to 64 years: Speak only English
+AsnPopGte5y_18to64y_SpkOthLang	Asian alone population 5 years and over: 18 to 64 years: Speak other languages:
+AsnPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Asian alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+AsnPopGte5y_18to64y_SpkOthLang_SpkEnglWell	Asian alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+AsnPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Asian alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+AsnPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Asian alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+AsnPopGte5y_Gte65y	Asian alone population 5 years and over: 65 years and over:
+AsnPopGte5y_Gte65y_SpkOnlyEngl	Asian alone population 5 years and over: 65 years and over: Speak only English
+AsnPopGte5y_Gte65y_SpkOthLang	Asian alone population 5 years and over: 65 years and over: Speak other languages:
+AsnPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Asian alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+AsnPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Asian alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+AsnPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Asian alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+AsnPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Asian alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+NatHiPacIslPopGte5y_Tot	Native Hawaiian and Other Pacific Islander alone population 5 years and over: Total:
+NatHiPacIslPopGte5y_5to17y	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years:
+NatHiPacIslPopGte5y_5to17y_SpkOnlyEngl	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak only English
+NatHiPacIslPopGte5y_5to17y_SpkOthLang	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak other languages:
+NatHiPacIslPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+NatHiPacIslPopGte5y_5to17y_SpkOthLang_SpkEnglWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+NatHiPacIslPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+NatHiPacIslPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+NatHiPacIslPopGte5y_18to64y	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years:
+NatHiPacIslPopGte5y_18to64y_SpkOnlyEngl	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak only English
+NatHiPacIslPopGte5y_18to64y_SpkOthLang	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak other languages:
+NatHiPacIslPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+NatHiPacIslPopGte5y_18to64y_SpkOthLang_SpkEnglWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+NatHiPacIslPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+NatHiPacIslPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+NatHiPacIslPopGte5y_Gte65y	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over:
+NatHiPacIslPopGte5y_Gte65y_SpkOnlyEngl	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak only English
+NatHiPacIslPopGte5y_Gte65y_SpkOthLang	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak other languages:
+NatHiPacIslPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+NatHiPacIslPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+NatHiPacIslPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+NatHiPacIslPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Native Hawaiian and Other Pacific Islander alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+OthRcePopGte5y_Tot	Some other race alone population 5 years and over: Total:
+OthRcePopGte5y_5to17y	Some other race alone population 5 years and over: 5 to 17 years:
+OthRcePopGte5y_5to17y_SpkOnlyEngl	Some other race alone population 5 years and over: 5 to 17 years: Speak only English
+OthRcePopGte5y_5to17y_SpkOthLang	Some other race alone population 5 years and over: 5 to 17 years: Speak other languages:
+OthRcePopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Some other race alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+OthRcePopGte5y_5to17y_SpkOthLang_SpkEnglWell	Some other race alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+OthRcePopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Some other race alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+OthRcePopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Some other race alone population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+OthRcePopGte5y_18to64y	Some other race alone population 5 years and over: 18 to 64 years:
+OthRcePopGte5y_18to64y_SpkOnlyEngl	Some other race alone population 5 years and over: 18 to 64 years: Speak only English
+OthRcePopGte5y_18to64y_SpkOthLang	Some other race alone population 5 years and over: 18 to 64 years: Speak other languages:
+OthRcePopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Some other race alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+OthRcePopGte5y_18to64y_SpkOthLang_SpkEnglWell	Some other race alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+OthRcePopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Some other race alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+OthRcePopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Some other race alone population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+OthRcePopGte5y_Gte65y	Some other race alone population 5 years and over: 65 years and over:
+OthRcePopGte5y_Gte65y_SpkOnlyEngl	Some other race alone population 5 years and over: 65 years and over: Speak only English
+OthRcePopGte5y_Gte65y_SpkOthLang	Some other race alone population 5 years and over: 65 years and over: Speak other languages:
+OthRcePopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Some other race alone population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+OthRcePopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Some other race alone population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+OthRcePopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Some other race alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+OthRcePopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Some other race alone population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+Gte2RcePopGte5y_Tot	Two or more races population 5 years and over: Total:
+Gte2RcePopGte5y_5to17y	Two or more races population 5 years and over: 5 to 17 years:
+Gte2RcePopGte5y_5to17y_SpkOnlyEngl	Two or more races population 5 years and over: 5 to 17 years: Speak only English
+Gte2RcePopGte5y_5to17y_SpkOthLang	Two or more races population 5 years and over: 5 to 17 years: Speak other languages:
+Gte2RcePopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Two or more races population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+Gte2RcePopGte5y_5to17y_SpkOthLang_SpkEnglWell	Two or more races population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+Gte2RcePopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Two or more races population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+Gte2RcePopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Two or more races population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+Gte2RcePopGte5y_18to64y	Two or more races population 5 years and over: 18 to 64 years:
+Gte2RcePopGte5y_18to64y_SpkOnlyEngl	Two or more races population 5 years and over: 18 to 64 years: Speak only English
+Gte2RcePopGte5y_18to64y_SpkOthLang	Two or more races population 5 years and over: 18 to 64 years: Speak other languages:
+Gte2RcePopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Two or more races population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+Gte2RcePopGte5y_18to64y_SpkOthLang_SpkEnglWell	Two or more races population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+Gte2RcePopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Two or more races population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+Gte2RcePopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Two or more races population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+Gte2RcePopGte5y_Gte65y	Two or more races population 5 years and over: 65 years and over:
+Gte2RcePopGte5y_Gte65y_SpkOnlyEngl	Two or more races population 5 years and over: 65 years and over: Speak only English
+Gte2RcePopGte5y_Gte65y_SpkOthLang	Two or more races population 5 years and over: 65 years and over: Speak other languages:
+Gte2RcePopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Two or more races population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+Gte2RcePopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Two or more races population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+Gte2RcePopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Two or more races population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+Gte2RcePopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Two or more races population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+HispPopGte5y_Tot	Hispanic or Latino population 5 years and over: Total:
+HispPopGte5y_5to17y	Hispanic or Latino population 5 years and over: 5 to 17 years:
+HispPopGte5y_5to17y_SpkOnlyEngl	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak only English
+HispPopGte5y_5to17y_SpkOthLang	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages:
+HispPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+HispPopGte5y_5to17y_SpkOthLang_SpkEnglWell	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+HispPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+HispPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+HispPopGte5y_18to64y	Hispanic or Latino population 5 years and over: 18 to 64 years:
+HispPopGte5y_18to64y_SpkOnlyEngl	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak only English
+HispPopGte5y_18to64y_SpkOthLang	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages:
+HispPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+HispPopGte5y_18to64y_SpkOthLang_SpkEnglWell	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+HispPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+HispPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+HispPopGte5y_Gte65y	Hispanic or Latino population 5 years and over: 65 years and over:
+HispPopGte5y_Gte65y_SpkOnlyEngl	Hispanic or Latino population 5 years and over: 65 years and over: Speak only English
+HispPopGte5y_Gte65y_SpkOthLang	Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages:
+HispPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+HispPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+HispPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+HispPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+WhtNotHispPopGte5y_Tot	White alone, not Hispanic or Latino population 5 years and over: Total:
+WhtNotHispPopGte5y_5to17y	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years:
+WhtNotHispPopGte5y_5to17y_SpkOnlyEngl	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak only English
+WhtNotHispPopGte5y_5to17y_SpkOthLang	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages:
+WhtNotHispPopGte5y_5to17y_SpkOthLang_SpkEnglVryWell	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "very well"
+WhtNotHispPopGte5y_5to17y_SpkOthLang_SpkEnglWell	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "well"
+WhtNotHispPopGte5y_5to17y_SpkOthLang_SpkEnglNotWell	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not well"
+WhtNotHispPopGte5y_5to17y_SpkOthLang_SpkEnglNotAtAll	White alone, not Hispanic or Latino population 5 years and over: 5 to 17 years: Speak other languages: Speak English "not at all"
+WhtNotHispPopGte5y_18to64y	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years:
+WhtNotHispPopGte5y_18to64y_SpkOnlyEngl	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak only English
+WhtNotHispPopGte5y_18to64y_SpkOthLang	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages:
+WhtNotHispPopGte5y_18to64y_SpkOthLang_SpkEnglVryWell	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "very well"
+WhtNotHispPopGte5y_18to64y_SpkOthLang_SpkEnglWell	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "well"
+WhtNotHispPopGte5y_18to64y_SpkOthLang_SpkEnglNotWell	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not well"
+WhtNotHispPopGte5y_18to64y_SpkOthLang_SpkEnglNotAtAll	White alone, not Hispanic or Latino population 5 years and over: 18 to 64 years: Speak other languages: Speak English "not at all"
+WhtNotHispPopGte5y_Gte65y	White alone, not Hispanic or Latino population 5 years and over: 65 years and over:
+WhtNotHispPopGte5y_Gte65y_SpkOnlyEngl	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak only English
+WhtNotHispPopGte5y_Gte65y_SpkOthLang	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages:
+WhtNotHispPopGte5y_Gte65y_SpkOthLang_SpkEnglVryWell	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "very well"
+WhtNotHispPopGte5y_Gte65y_SpkOthLang_SpkEnglWell	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "well"
+WhtNotHispPopGte5y_Gte65y_SpkOthLang_SpkEnglNotWell	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "not well"
+WhtNotHispPopGte5y_Gte65y_SpkOthLang_SpkEnglNotAtAll	White alone, not Hispanic or Latino population 5 years and over: 65 years and over: Speak other languages: Speak English "not at all"
+WhtAlnPop_Tot	White alone population: Total:
+WhtAlnPop_Native	White alone population: Native:
+WhtAlnPop_Native_BornStateRes	White alone population: Native: Born in state of residence
+WhtAlnPop_Native_BornOthStUS	White alone population: Native: Born in other state in the United States:
+WhtAlnPop_Native_BornOthStUS_NorthEast	White alone population: Native: Born in other state in the United States: Northeast
+WhtAlnPop_Native_BornOthStUS_MidWest	White alone population: Native: Born in other state in the United States: Midwest
+WhtAlnPop_Native_BornOthStUS_South	White alone population: Native: Born in other state in the United States: South
+WhtAlnPop_Native_BornOthStUS_West	White alone population: Native: Born in other state in the United States: West
+WhtAlnPop_Native_BornOutUS	White alone population: Native: Born outside the United States:
+WhtAlnPop_Native_BornOutUS_PrtoRico	White alone population: Native: Born outside the United States: Puerto Rico
+WhtAlnPop_Native_BornOutUS_USIslAreas	White alone population: Native: Born outside the United States: U.S. Island Areas
+WhtAlnPop_Native_BornOutUS_BrnAbrdAmerPar	White alone population: Native: Born outside the United States: Born abroad of American parent(s)
+WhtAlnPop_FrgnBorn	White alone population: Foreign born:
+WhtAlnPop_FrgnBorn_NatlzdCit	White alone population: Foreign born: Naturalized citizen
+WhtAlnPop_FrgnBorn_NotCitzn	White alone population: Foreign born: Not a citizen
+BlkAfAmPop_Tot	Black or African American alone population: Total:
+BlkAfAmPop_Native	Black or African American alone population: Native:
+BlkAfAmPop_Native_BornStateRes	Black or African American alone population: Native: Born in state of residence
+BlkAfAmPop_Native_BornOthStUS	Black or African American alone population: Native: Born in other state in the United States:
+BlkAfAmPop_Native_BornOthStUS_NorthEast	Black or African American alone population: Native: Born in other state in the United States: Northeast
+BlkAfAmPop_Native_BornOthStUS_MidWest	Black or African American alone population: Native: Born in other state in the United States: Midwest
+BlkAfAmPop_Native_BornOthStUS_South	Black or African American alone population: Native: Born in other state in the United States: South
+BlkAfAmPop_Native_BornOthStUS_West	Black or African American alone population: Native: Born in other state in the United States: West
+BlkAfAmPop_Native_BornOutUS	Black or African American alone population: Native: Born outside the United States:
+BlkAfAmPop_Native_BornOutUS_PrtoRico	Black or African American alone population: Native: Born outside the United States: Puerto Rico
+BlkAfAmPop_Native_BornOutUS_USIslAreas	Black or African American alone population: Native: Born outside the United States: U.S. Island Areas
+BlkAfAmPop_Native_BornOutUS_BrnAbrdAmerPar	Black or African American alone population: Native: Born outside the United States: Born abroad of American parent(s)
+BlkAfAmPop_FrgnBorn	Black or African American alone population: Foreign born:
+BlkAfAmPop_FrgnBorn_NatlzdCit	Black or African American alone population: Foreign born: Naturalized citizen
+BlkAfAmPop_FrgnBorn_NotCitzn	Black or African American alone population: Foreign born: Not a citizen
+AmIndAkNatPop_Tot	American Indian and Alaska Native alone population: Total:
+AmIndAkNatPop_Native	American Indian and Alaska Native alone population: Native:
+AmIndAkNatPop_Native_BornStateRes	American Indian and Alaska Native alone population: Native: Born in state of residence
+AmIndAkNatPop_Native_BornOthStUS	American Indian and Alaska Native alone population: Native: Born in other state in the United States:
+AmIndAkNatPop_Native_BornOthStUS_NorthEast	American Indian and Alaska Native alone population: Native: Born in other state in the United States: Northeast
+AmIndAkNatPop_Native_BornOthStUS_MidWest	American Indian and Alaska Native alone population: Native: Born in other state in the United States: Midwest
+AmIndAkNatPop_Native_BornOthStUS_South	American Indian and Alaska Native alone population: Native: Born in other state in the United States: South
+AmIndAkNatPop_Native_BornOthStUS_West	American Indian and Alaska Native alone population: Native: Born in other state in the United States: West
+AmIndAkNatPop_Native_BornOutUS	American Indian and Alaska Native alone population: Native: Born outside the United States:
+AmIndAkNatPop_Native_BornOutUS_PrtoRico	American Indian and Alaska Native alone population: Native: Born outside the United States: Puerto Rico
+AmIndAkNatPop_Native_BornOutUS_USIslAreas	American Indian and Alaska Native alone population: Native: Born outside the United States: U.S. Island Areas
+AmIndAkNatPop_Native_BornOutUS_BrnAbrdAmerPar	American Indian and Alaska Native alone population: Native: Born outside the United States: Born abroad of American parent(s)
+AmIndAkNatPop_FrgnBorn	American Indian and Alaska Native alone population: Foreign born:
+AmIndAkNatPop_FrgnBorn_NatlzdCit	American Indian and Alaska Native alone population: Foreign born: Naturalized citizen
+AmIndAkNatPop_FrgnBorn_NotCitzn	American Indian and Alaska Native alone population: Foreign born: Not a citizen

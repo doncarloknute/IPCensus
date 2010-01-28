@@ -1,0 +1,245 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+UnrelIndPovDet_Tot	Unrelated individuals for whom poverty status is determined: Total:
+UnrelIndPovDet_Inc99LtPov	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level:
+UnrelIndPovDet_Inc99LtPov_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: With Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WSocSecInc99_WPubAssI_183	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WSocSecInc99_WoutPubA_184	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WoutSocSecInc99_WPubA_185	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_LivAln_WoutSocSecInc99_WoutP_186	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone:
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WSocSecInc99_WPubA_187	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WSocSecInc99_WoutP_188	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WoutSocSecInc99_WP_189	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_NFamHh_NotLivAln_WoutSocSecInc99_Wo_190	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals:
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: With Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WSocSecInc99_WPubAssInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WSocSecInc99_WoutPubAss_191	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WoutSocSecInc99_WPubAss_192	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99LtPov_OthUnrelInd_WoutSocSecInc99_WoutPub_193	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Other unrelated individuals: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level:
+UnrelIndPovDet_Inc99GtePov_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: With Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WSocSecInc99_WPubAss_194	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WSocSecInc99_WoutPub_195	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WoutSocSecInc99_WPub_196	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_LivAln_WoutSocSecInc99_Wout_197	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Living alone: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone:
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WSocSecInc99_WPub_198	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WSocSecInc99_Wout_199	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WoutSocSecInc99_W_200	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_NFamHh_NotLivAln_WoutSocSecInc99_W_201	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Nonfamily householder: Not living alone: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals:
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: With Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WSocSecInc99_WPubAssInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: With Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WSocSecInc99_WoutPubAs_202	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: With Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WoutSocSecInc99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: Without Social Security income in 1999:
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WoutSocSecInc99_WPubAs_203	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: Without Social Security income in 1999: With public assistance income in 1999
+UnrelIndPovDet_Inc99GtePov_OthUnrelInd_WoutSocSecInc99_WoutPu_204	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Other unrelated individuals: Without Social Security income in 1999: Without public assistance income in 1999
+UnrelIndPovDet_Tot	Unrelated individuals for whom poverty status is determined: Total:
+UnrelIndPovDet_Inc99LtPov	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level:
+UnrelIndPovDet_Inc99LtPov_WrkdFTyear99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked full-time, year-round in 1999:
+UnrelIndPovDet_Inc99LtPov_WrkdFTyear99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked full-time, year-round in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99LtPov_WrkdFTyear99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked full-time, year-round in 1999: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_WrkdLtFTyear99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked less than full-time, year-round in 1999:
+UnrelIndPovDet_Inc99LtPov_WrkdLtFTyear99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked less than full-time, year-round in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99LtPov_WrkdLtFTyear99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Worked less than full-time, year-round in 1999: Other unrelated individuals
+UnrelIndPovDet_Inc99LtPov_DNWork99	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Did not work in 1999:
+UnrelIndPovDet_Inc99LtPov_DNWork99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Did not work in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99LtPov_DNWork99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 below poverty level: Did not work in 1999: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level:
+UnrelIndPovDet_Inc99GtePov_WrkdFTyear99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked full-time, year-round in 1999:
+UnrelIndPovDet_Inc99GtePov_WrkdFTyear99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked full-time, year-round in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99GtePov_WrkdFTyear99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked full-time, year-round in 1999: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_WrkdLtFTyear99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked less than full-time, year-round in 1999:
+UnrelIndPovDet_Inc99GtePov_WrkdLtFTyear99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked less than full-time, year-round in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99GtePov_WrkdLtFTyear99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Worked less than full-time, year-round in 1999: Other unrelated individuals
+UnrelIndPovDet_Inc99GtePov_DNWork99	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Did not work in 1999:
+UnrelIndPovDet_Inc99GtePov_DNWork99_NFamHh	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Did not work in 1999: Nonfamily householder
+UnrelIndPovDet_Inc99GtePov_DNWork99_OthUnrelInd	Unrelated individuals for whom poverty status is determined: Income in 1999 at or above poverty level: Did not work in 1999: Other unrelated individuals
+Fam_Tot	Families: Total:
+Fam_Inc99LtPov	Families: Income in 1999 below poverty level:
+Fam_Inc99LtPov_MrdCplFam	Families: Income in 1999 below poverty level: Married-couple family:
+Fam_Inc99LtPov_MrdCplFam_WSocSecInc99	Families: Income in 1999 below poverty level: Married-couple family: With Social Security income in 1999:
+Fam_Inc99LtPov_MrdCplFam_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 below poverty level: Married-couple family: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_MrdCplFam_WSocSecInc99_WoutSSIPubAssInc99	Families: Income in 1999 below poverty level: Married-couple family: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99LtPov_MrdCplFam_WoutSocSecInc99	Families: Income in 1999 below poverty level: Married-couple family: Without Social Security income in 1999:
+Fam_Inc99LtPov_MrdCplFam_WoutSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 below poverty level: Married-couple family: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_MrdCplFam_WoutSocSecInc99_WoutSSIPubAssInc99	Families: Income in 1999 below poverty level: Married-couple family: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99LtPov_OthFam	Families: Income in 1999 below poverty level: Other family:
+Fam_Inc99LtPov_OthFam_MleHhNoWife	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WSocSecInc99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With Social Security income in 1999:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WSocSecInc99_WoutSSIPubAssI_205	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WoutSocSecInc99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WoutSocSecInc99_WSSIPubAssI_206	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WoutSocSecInc99_WoutSSIPubA_207	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WSocSecInc99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With Social Security income in 1999:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WSocSecInc99_WoutSSIPubAssI_208	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WoutSocSecInc99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WoutSocSecInc99_WSSIPubAssI_209	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WoutSocSecInc99_WoutSSIPubA_210	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov	Families: Income in 1999 at or above poverty level:
+Fam_Inc99GtePov_MrdCplFam	Families: Income in 1999 at or above poverty level: Married-couple family:
+Fam_Inc99GtePov_MrdCplFam_WSocSecInc99	Families: Income in 1999 at or above poverty level: Married-couple family: With Social Security income in 1999:
+Fam_Inc99GtePov_MrdCplFam_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Married-couple family: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_MrdCplFam_WSocSecInc99_WoutSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Married-couple family: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov_MrdCplFam_WoutSocSecInc99	Families: Income in 1999 at or above poverty level: Married-couple family: Without Social Security income in 1999:
+Fam_Inc99GtePov_MrdCplFam_WoutSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Married-couple family: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_MrdCplFam_WoutSocSecInc99_WoutSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Married-couple family: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov_OthFam	Families: Income in 1999 at or above poverty level: Other family:
+Fam_Inc99GtePov_OthFam_MleHhNoWife	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WSocSecInc99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With Social Security income in 1999:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WSocSecInc99_WoutSSIPubAss_211	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WoutSocSecInc99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WoutSocSecInc99_WSSIPubAss_212	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WoutSocSecInc99_WoutSSIPub_213	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WSocSecInc99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With Social Security income in 1999:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WSocSecInc99_WSSIPubAssInc99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WSocSecInc99_WoutSSIPubAss_214	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WoutSocSecInc99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WoutSocSecInc99_WSSIPubAss_215	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999: With SSI and/or public assistance income in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WoutSocSecInc99_WoutSSIPub_216	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Without Social Security income in 1999: Without SSI or public assistance income in 1999
+Fam_Tot	Families: Total:
+Fam_Inc99LtPov	Families: Income in 1999 below poverty level:
+Fam_Inc99LtPov_MrdCplFam	Families: Income in 1999 below poverty level: Married-couple family:
+Fam_Inc99LtPov_MrdCplFam_HhWrkdFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked full-time, year-round in 1999:
+Fam_Inc99LtPov_MrdCplFam_HhWrkdFTyear99_SpouseWrkdFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhWrkdFTyear99_SpouseWrkdLtFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhWrkdFTyear99_SpouseDidNotWork99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse did not work in 1999
+Fam_Inc99LtPov_MrdCplFam_HhWrkdLtFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999:
+Fam_Inc99LtPov_MrdCplFam_HhWrkdLtFTyear99_SpouseWrkdFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhWrkdLtFTyear99_SpouseWrkdLtFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhWrkdLtFTyear99_SpouseDidNotWork99	Families: Income in 1999 below poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse did not work in 1999
+Fam_Inc99LtPov_MrdCplFam_HhNotWork99	Families: Income in 1999 below poverty level: Married-couple family: Householder did not work in 1999:
+Fam_Inc99LtPov_MrdCplFam_HhNotWork99_SpouseWrkdFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder did not work in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhNotWork99_SpouseWrkdLtFTyear99	Families: Income in 1999 below poverty level: Married-couple family: Householder did not work in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99LtPov_MrdCplFam_HhNotWork99_SpouseDidNotWork99	Families: Income in 1999 below poverty level: Married-couple family: Householder did not work in 1999: Spouse did not work in 1999
+Fam_Inc99LtPov_OthFam	Families: Income in 1999 below poverty level: Other family:
+Fam_Inc99LtPov_OthFam_MleHhNoWife	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_HhWrkdFTyear99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Householder worked full-time, year-round in 1999
+Fam_Inc99LtPov_OthFam_MleHhNoWife_HhWrkdLtFTyear99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Householder worked less than full-time, year-round in 1999
+Fam_Inc99LtPov_OthFam_MleHhNoWife_HhNotWork99	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: Householder did not work in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_HhWrkdFTyear99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Householder worked full-time, year-round in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_HhWrkdLtFTyear99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Householder worked less than full-time, year-round in 1999
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_HhNotWork99	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: Householder did not work in 1999
+Fam_Inc99GtePov	Families: Income in 1999 at or above poverty level:
+Fam_Inc99GtePov_MrdCplFam	Families: Income in 1999 at or above poverty level: Married-couple family:
+Fam_Inc99GtePov_MrdCplFam_HhWrkdFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked full-time, year-round in 1999:
+Fam_Inc99GtePov_MrdCplFam_HhWrkdFTyear99_SpouseWrkdFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhWrkdFTyear99_SpouseWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhWrkdFTyear99_SpouseDidNotWork99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked full-time, year-round in 1999: Spouse did not work in 1999
+Fam_Inc99GtePov_MrdCplFam_HhWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999:
+Fam_Inc99GtePov_MrdCplFam_HhWrkdLtFTyear99_SpouseWrkdFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhWrkdLtFTyear99_SpouseWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhWrkdLtFTyear99_SpouseDidNotWork99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder worked less than full-time, year-round in 1999: Spouse did not work in 1999
+Fam_Inc99GtePov_MrdCplFam_HhNotWork99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder did not work in 1999:
+Fam_Inc99GtePov_MrdCplFam_HhNotWork99_SpouseWrkdFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder did not work in 1999: Spouse worked full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhNotWork99_SpouseWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder did not work in 1999: Spouse worked less than full-time, year-round in 1999
+Fam_Inc99GtePov_MrdCplFam_HhNotWork99_SpouseDidNotWork99	Families: Income in 1999 at or above poverty level: Married-couple family: Householder did not work in 1999: Spouse did not work in 1999
+Fam_Inc99GtePov_OthFam	Families: Income in 1999 at or above poverty level: Other family:
+Fam_Inc99GtePov_OthFam_MleHhNoWife	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_HhWrkdFTyear99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Householder worked full-time, year-round in 1999
+Fam_Inc99GtePov_OthFam_MleHhNoWife_HhWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Householder worked less than full-time, year-round in 1999
+Fam_Inc99GtePov_OthFam_MleHhNoWife_HhNotWork99	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: Householder did not work in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_HhWrkdFTyear99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Householder worked full-time, year-round in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_HhWrkdLtFTyear99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Householder worked less than full-time, year-round in 1999
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_HhNotWork99	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: Householder did not work in 1999
+Fam_Tot	Families: Total:
+Fam_Lt1.30	Families: Under 1.30:
+Fam_Lt1.30_MrdCplFam	Families: Under 1.30: Married-couple family:
+Fam_Lt1.30_MrdCplFam_WRelChldLt18y	Families: Under 1.30: Married-couple family: With related children under 18 years:
+Fam_Lt1.30_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: Under 1.30: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_Lt1.30_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: Under 1.30: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Lt1.30_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: Under 1.30: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_Lt1.30_MrdCplFam_NoRelChldLt18y	Families: Under 1.30: Married-couple family: No related children under 18 years
+Fam_Lt1.30_OthFam	Families: Under 1.30: Other family:
+Fam_Lt1.30_OthFam_MleHhNoWife	Families: Under 1.30: Other family: Male householder, no wife present:
+Fam_Lt1.30_OthFam_MleHhNoWife_WRelChldLt18y	Families: Under 1.30: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_Lt1.30_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: Under 1.30: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_Lt1.30_OthFam_MleHhNoWife_WRelChldLt18y_Lt5and5to17y	Families: Under 1.30: Other family: Male householder, no wife present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_Lt1.30_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: Under 1.30: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_Lt1.30_OthFam_MleHhNoWife_NoRelChldLt18y	Families: Under 1.30: Other family: Male householder, no wife present: No related children under 18 years
+Fam_Lt1.30_OthFam_FemHhNoHusb	Families: Under 1.30: Other family: Female householder, no husband present:
+Fam_Lt1.30_OthFam_FemHhNoHusb_WRelChldLt18y	Families: Under 1.30: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_Lt1.30_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: Under 1.30: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_Lt1.30_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5and5to17y	Families: Under 1.30: Other family: Female householder, no husband present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_Lt1.30_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: Under 1.30: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_Lt1.30_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: Under 1.30: Other family: Female householder, no husband present: No related children under 18 years
+Fam_1.30to1.49	Families: 1.30 to 1.49:
+Fam_1.30to1.49_MrdCplFam	Families: 1.30 to 1.49: Married-couple family:
+Fam_1.30to1.49_MrdCplFam_WRelChldLt18y	Families: 1.30 to 1.49: Married-couple family: With related children under 18 years:
+Fam_1.30to1.49_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: 1.30 to 1.49: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_1.30to1.49_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: 1.30 to 1.49: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_1.30to1.49_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: 1.30 to 1.49: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_1.30to1.49_MrdCplFam_NoRelChldLt18y	Families: 1.30 to 1.49: Married-couple family: No related children under 18 years
+Fam_1.30to1.49_OthFam	Families: 1.30 to 1.49: Other family:
+Fam_1.30to1.49_OthFam_MleHhNoWife	Families: 1.30 to 1.49: Other family: Male householder, no wife present:
+Fam_1.30to1.49_OthFam_MleHhNoWife_WRelChldLt18y	Families: 1.30 to 1.49: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_1.30to1.49_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: 1.30 to 1.49: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_1.30to1.49_OthFam_MleHhNoWife_WRelChldLt18y_Lt5and5to17y	Families: 1.30 to 1.49: Other family: Male householder, no wife present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_1.30to1.49_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: 1.30 to 1.49: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_1.30to1.49_OthFam_MleHhNoWife_NoRelChldLt18y	Families: 1.30 to 1.49: Other family: Male householder, no wife present: No related children under 18 years
+Fam_1.30to1.49_OthFam_FemHhNoHusb	Families: 1.30 to 1.49: Other family: Female householder, no husband present:
+Fam_1.30to1.49_OthFam_FemHhNoHusb_WRelChldLt18y	Families: 1.30 to 1.49: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_1.30to1.49_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: 1.30 to 1.49: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_1.30to1.49_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5and5to17y	Families: 1.30 to 1.49: Other family: Female householder, no husband present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_1.30to1.49_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: 1.30 to 1.49: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_1.30to1.49_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: 1.30 to 1.49: Other family: Female householder, no husband present: No related children under 18 years
+Fam_1.50to1.84	Families: 1.50 to 1.84:
+Fam_1.50to1.84_MrdCplFam	Families: 1.50 to 1.84: Married-couple family:
+Fam_1.50to1.84_MrdCplFam_WRelChldLt18y	Families: 1.50 to 1.84: Married-couple family: With related children under 18 years:
+Fam_1.50to1.84_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: 1.50 to 1.84: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_1.50to1.84_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: 1.50 to 1.84: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_1.50to1.84_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: 1.50 to 1.84: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_1.50to1.84_MrdCplFam_NoRelChldLt18y	Families: 1.50 to 1.84: Married-couple family: No related children under 18 years
+Fam_1.50to1.84_OthFam	Families: 1.50 to 1.84: Other family:
+Fam_1.50to1.84_OthFam_MleHhNoWife	Families: 1.50 to 1.84: Other family: Male householder, no wife present:
+Fam_1.50to1.84_OthFam_MleHhNoWife_WRelChldLt18y	Families: 1.50 to 1.84: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_1.50to1.84_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: 1.50 to 1.84: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_1.50to1.84_OthFam_MleHhNoWife_WRelChldLt18y_Lt5and5to17y	Families: 1.50 to 1.84: Other family: Male householder, no wife present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_1.50to1.84_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: 1.50 to 1.84: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_1.50to1.84_OthFam_MleHhNoWife_NoRelChldLt18y	Families: 1.50 to 1.84: Other family: Male householder, no wife present: No related children under 18 years
+Fam_1.50to1.84_OthFam_FemHhNoHusb	Families: 1.50 to 1.84: Other family: Female householder, no husband present:
+Fam_1.50to1.84_OthFam_FemHhNoHusb_WRelChldLt18y	Families: 1.50 to 1.84: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_1.50to1.84_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: 1.50 to 1.84: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_1.50to1.84_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5and5to17y	Families: 1.50 to 1.84: Other family: Female householder, no husband present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_1.50to1.84_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: 1.50 to 1.84: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_1.50to1.84_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: 1.50 to 1.84: Other family: Female householder, no husband present: No related children under 18 years
+Fam_Gte1.85	Families: 1.85 and above:
+Fam_Gte1.85_MrdCplFam	Families: 1.85 and above: Married-couple family:
+Fam_Gte1.85_MrdCplFam_WRelChldLt18y	Families: 1.85 and above: Married-couple family: With related children under 18 years:
+Fam_Gte1.85_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: 1.85 and above: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_Gte1.85_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: 1.85 and above: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Gte1.85_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: 1.85 and above: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_Gte1.85_MrdCplFam_NoRelChldLt18y	Families: 1.85 and above: Married-couple family: No related children under 18 years
+Fam_Gte1.85_OthFam	Families: 1.85 and above: Other family:
+Fam_Gte1.85_OthFam_MleHhNoWife	Families: 1.85 and above: Other family: Male householder, no wife present:
+Fam_Gte1.85_OthFam_MleHhNoWife_WRelChldLt18y	Families: 1.85 and above: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_Gte1.85_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: 1.85 and above: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_Gte1.85_OthFam_MleHhNoWife_WRelChldLt18y_Lt5and5to17y	Families: 1.85 and above: Other family: Male householder, no wife present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_Gte1.85_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: 1.85 and above: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_Gte1.85_OthFam_MleHhNoWife_NoRelChldLt18y	Families: 1.85 and above: Other family: Male householder, no wife present: No related children under 18 years
+Fam_Gte1.85_OthFam_FemHhNoHusb	Families: 1.85 and above: Other family: Female householder, no husband present:
+Fam_Gte1.85_OthFam_FemHhNoHusb_WRelChldLt18y	Families: 1.85 and above: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_Gte1.85_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: 1.85 and above: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_Gte1.85_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5and5to17y	Families: 1.85 and above: Other family: Female householder, no husband present: With related children under 18 years: Under 5 and 5 to 17 years
+Fam_Gte1.85_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: 1.85 and above: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_Gte1.85_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: 1.85 and above: Other family: Female householder, no husband present: No related children under 18 years

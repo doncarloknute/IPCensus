@@ -1,0 +1,206 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopGte30yHH_Tot	Population 30 years and over in households: Total:
+PopGte30yHH_HhOrSpse	Population 30 years and over in households: Householder or spouse:
+PopGte30yHH_HhOrSpse_LivWOwnGrdCldLt18y	Population 30 years and over in households: Householder or spouse: Living with own grandchildren under 18 years:
+PopGte30yHH_HhOrSpse_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChil_147	Population 30 years and over in households: Householder or spouse: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years
+PopGte30yHH_HhOrSpse_LivWOwnGrdCldLt18y_GndPrntNotRespOwnGndC_148	Population 30 years and over in households: Householder or spouse: Living with own grandchildren under 18 years: Grandparent not responsible for own grandchildren under 18 years
+PopGte30yHH_HhOrSpse_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Householder or spouse: Not living with own grandchildren under 18 years
+PopGte30yHH_PrntorPrntLawHh	Population 30 years and over in households: Parent or parent-in-law of householder:
+PopGte30yHH_PrntorPrntLawHh_LivWOwnGrdCldLt18y	Population 30 years and over in households: Parent or parent-in-law of householder: Living with own grandchildren under 18 years:
+PopGte30yHH_PrntorPrntLawHh_LivWOwnGrdCldLt18y_GndPrntRespOwn_149	Population 30 years and over in households: Parent or parent-in-law of householder: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years
+PopGte30yHH_PrntorPrntLawHh_LivWOwnGrdCldLt18y_GndPrntNotResp_150	Population 30 years and over in households: Parent or parent-in-law of householder: Living with own grandchildren under 18 years: Grandparent not responsible for own grandchildren under 18 years
+PopGte30yHH_PrntorPrntLawHh_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Parent or parent-in-law of householder: Not living with own grandchildren under 18 years
+PopGte30yHH_OthRelNonRelHh	Population 30 years and over in households: Other relatives or nonrelatives of householder:
+PopGte30yHH_OthRelNonRelHh_LivWOwnGrdCldLt18y	Population 30 years and over in households: Other relatives or nonrelatives of householder: Living with own grandchildren under 18 years:
+PopGte30yHH_OthRelNonRelHh_LivWOwnGrdCldLt18y_GndPrntRespOwnG_151	Population 30 years and over in households: Other relatives or nonrelatives of householder: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years
+PopGte30yHH_OthRelNonRelHh_LivWOwnGrdCldLt18y_GndPrntNotRespO_152	Population 30 years and over in households: Other relatives or nonrelatives of householder: Living with own grandchildren under 18 years: Grandparent not responsible for own grandchildren under 18 years
+PopGte30yHH_OthRelNonRelHh_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Other relatives or nonrelatives of householder: Not living with own grandchildren under 18 years
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_5to17y	Population 5 years and over: 5 to 17 years:
+PopGte5y_5to17y_SpkOnlyEngl	Population 5 years and over: 5 to 17 years: Speak only English
+PopGte5y_5to17y_SpanOrSpanCreole	Population 5 years and over: 5 to 17 years: Spanish or Spanish Creole
+PopGte5y_5to17y_FrnchPatCaj	Population 5 years and over: 5 to 17 years: French (incl. Patois, Cajun)
+PopGte5y_5to17y_FrnchCrle	Population 5 years and over: 5 to 17 years: French Creole
+PopGte5y_5to17y_Italian	Population 5 years and over: 5 to 17 years: Italian
+PopGte5y_5to17y_PortOrPortCreole	Population 5 years and over: 5 to 17 years: Portuguese or Portuguese Creole
+PopGte5y_5to17y_German	Population 5 years and over: 5 to 17 years: German
+PopGte5y_5to17y_Yiddish	Population 5 years and over: 5 to 17 years: Yiddish
+PopGte5y_5to17y_OthWestGermLang	Population 5 years and over: 5 to 17 years: Other West Germanic languages
+PopGte5y_5to17y_ScandLang	Population 5 years and over: 5 to 17 years: Scandinavian languages
+PopGte5y_5to17y_Greek	Population 5 years and over: 5 to 17 years: Greek
+PopGte5y_5to17y_Russian	Population 5 years and over: 5 to 17 years: Russian
+PopGte5y_5to17y_Polish	Population 5 years and over: 5 to 17 years: Polish
+PopGte5y_5to17y_SerbCroat	Population 5 years and over: 5 to 17 years: Serbo-Croatian
+PopGte5y_5to17y_OthSlavLang	Population 5 years and over: 5 to 17 years: Other Slavic languages
+PopGte5y_5to17y_Armenian	Population 5 years and over: 5 to 17 years: Armenian
+PopGte5y_5to17y_Persian	Population 5 years and over: 5 to 17 years: Persian
+PopGte5y_5to17y_Gujarathi	Population 5 years and over: 5 to 17 years: Gujarathi
+PopGte5y_5to17y_Hindi	Population 5 years and over: 5 to 17 years: Hindi
+PopGte5y_5to17y_Urdu	Population 5 years and over: 5 to 17 years: Urdu
+PopGte5y_5to17y_OthIndLang	Population 5 years and over: 5 to 17 years: Other Indic languages
+PopGte5y_5to17y_OthIndoEurLang	Population 5 years and over: 5 to 17 years: Other Indo-European languages
+PopGte5y_5to17y_Chinese	Population 5 years and over: 5 to 17 years: Chinese
+PopGte5y_5to17y_Japanese	Population 5 years and over: 5 to 17 years: Japanese
+PopGte5y_5to17y_Korean	Population 5 years and over: 5 to 17 years: Korean
+PopGte5y_5to17y_MonKhmerCamb	Population 5 years and over: 5 to 17 years: Mon-Khmer, Cambodian
+PopGte5y_5to17y_MiaoHmong	Population 5 years and over: 5 to 17 years: Miao, Hmong
+PopGte5y_5to17y_Thai	Population 5 years and over: 5 to 17 years: Thai
+PopGte5y_5to17y_Laotian	Population 5 years and over: 5 to 17 years: Laotian
+PopGte5y_5to17y_Vietnamese	Population 5 years and over: 5 to 17 years: Vietnamese
+PopGte5y_5to17y_OthAsnLang	Population 5 years and over: 5 to 17 years: Other Asian languages
+PopGte5y_5to17y_Tagalog	Population 5 years and over: 5 to 17 years: Tagalog
+PopGte5y_5to17y_OthPacIslLang	Population 5 years and over: 5 to 17 years: Other Pacific Island languages
+PopGte5y_5to17y_Navajo	Population 5 years and over: 5 to 17 years: Navajo
+PopGte5y_5to17y_OthNatNrthAmerLang	Population 5 years and over: 5 to 17 years: Other Native North American languages
+PopGte5y_5to17y_Hungarian	Population 5 years and over: 5 to 17 years: Hungarian
+PopGte5y_5to17y_Arabic	Population 5 years and over: 5 to 17 years: Arabic
+PopGte5y_5to17y_Hebrew	Population 5 years and over: 5 to 17 years: Hebrew
+PopGte5y_5to17y_AfrcnLang	Population 5 years and over: 5 to 17 years: African languages
+PopGte5y_5to17y_OthUnspecLang	Population 5 years and over: 5 to 17 years: Other and unspecified languages
+PopGte5y_Gte18y	Population 5 years and over: 18 years and over:
+PopGte5y_Gte18y_SpkOnlyEngl	Population 5 years and over: 18 years and over: Speak only English
+PopGte5y_Gte18y_SpanOrSpanCreole	Population 5 years and over: 18 years and over: Spanish or Spanish Creole
+PopGte5y_Gte18y_FrnchPatCaj	Population 5 years and over: 18 years and over: French (incl. Patois, Cajun)
+PopGte5y_Gte18y_FrnchCrle	Population 5 years and over: 18 years and over: French Creole
+PopGte5y_Gte18y_Italian	Population 5 years and over: 18 years and over: Italian
+PopGte5y_Gte18y_PortOrPortCreole	Population 5 years and over: 18 years and over: Portuguese or Portuguese Creole
+PopGte5y_Gte18y_German	Population 5 years and over: 18 years and over: German
+PopGte5y_Gte18y_Yiddish	Population 5 years and over: 18 years and over: Yiddish
+PopGte5y_Gte18y_OthWestGermLang	Population 5 years and over: 18 years and over: Other West Germanic languages
+PopGte5y_Gte18y_ScandLang	Population 5 years and over: 18 years and over: Scandinavian languages
+PopGte5y_Gte18y_Greek	Population 5 years and over: 18 years and over: Greek
+PopGte5y_Gte18y_Russian	Population 5 years and over: 18 years and over: Russian
+PopGte5y_Gte18y_Polish	Population 5 years and over: 18 years and over: Polish
+PopGte5y_Gte18y_SerbCroat	Population 5 years and over: 18 years and over: Serbo-Croatian
+PopGte5y_Gte18y_OthSlavLang	Population 5 years and over: 18 years and over: Other Slavic languages
+PopGte5y_Gte18y_Armenian	Population 5 years and over: 18 years and over: Armenian
+PopGte5y_Gte18y_Persian	Population 5 years and over: 18 years and over: Persian
+PopGte5y_Gte18y_Gujarathi	Population 5 years and over: 18 years and over: Gujarathi
+PopGte5y_Gte18y_Hindi	Population 5 years and over: 18 years and over: Hindi
+PopGte5y_Gte18y_Urdu	Population 5 years and over: 18 years and over: Urdu
+PopGte5y_Gte18y_OthIndLang	Population 5 years and over: 18 years and over: Other Indic languages
+PopGte5y_Gte18y_OthIndoEurLang	Population 5 years and over: 18 years and over: Other Indo-European languages
+PopGte5y_Gte18y_Chinese	Population 5 years and over: 18 years and over: Chinese
+PopGte5y_Gte18y_Japanese	Population 5 years and over: 18 years and over: Japanese
+PopGte5y_Gte18y_Korean	Population 5 years and over: 18 years and over: Korean
+PopGte5y_Gte18y_MonKhmerCamb	Population 5 years and over: 18 years and over: Mon-Khmer, Cambodian
+PopGte5y_Gte18y_MiaoHmong	Population 5 years and over: 18 years and over: Miao, Hmong
+PopGte5y_Gte18y_Thai	Population 5 years and over: 18 years and over: Thai
+PopGte5y_Gte18y_Laotian	Population 5 years and over: 18 years and over: Laotian
+PopGte5y_Gte18y_Vietnamese	Population 5 years and over: 18 years and over: Vietnamese
+PopGte5y_Gte18y_OthAsnLang	Population 5 years and over: 18 years and over: Other Asian languages
+PopGte5y_Gte18y_Tagalog	Population 5 years and over: 18 years and over: Tagalog
+PopGte5y_Gte18y_OthPacIslLang	Population 5 years and over: 18 years and over: Other Pacific Island languages
+PopGte5y_Gte18y_Navajo	Population 5 years and over: 18 years and over: Navajo
+PopGte5y_Gte18y_OthNatNrthAmerLang	Population 5 years and over: 18 years and over: Other Native North American languages
+PopGte5y_Gte18y_Hungarian	Population 5 years and over: 18 years and over: Hungarian
+PopGte5y_Gte18y_Arabic	Population 5 years and over: 18 years and over: Arabic
+PopGte5y_Gte18y_Hebrew	Population 5 years and over: 18 years and over: Hebrew
+PopGte5y_Gte18y_AfrcnLang	Population 5 years and over: 18 years and over: African languages
+PopGte5y_Gte18y_OthUnspecLang	Population 5 years and over: 18 years and over: Other and unspecified languages
+HispPopGte5y_Tot	Hispanic or Latino population 5 years and over: Total:
+HispPopGte5y_SpkOnlyEngl	Hispanic or Latino population 5 years and over: Speak only English
+HispPopGte5y_SpkSpanish	Hispanic or Latino population 5 years and over: Speak Spanish:
+HispPopGte5y_SpkSpanish_SpkEnglVryWell	Hispanic or Latino population 5 years and over: Speak Spanish: Speak English "very well"
+HispPopGte5y_SpkSpanish_SpkEnglWell	Hispanic or Latino population 5 years and over: Speak Spanish: Speak English "well"
+HispPopGte5y_SpkSpanish_SpkEnglNotWell	Hispanic or Latino population 5 years and over: Speak Spanish: Speak English "not well"
+HispPopGte5y_SpkSpanish_SpkEnglNotAtAll	Hispanic or Latino population 5 years and over: Speak Spanish: Speak English "not at all"
+HispPopGte5y_SpkOthLang	Hispanic or Latino population 5 years and over: Speak other language
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_Native	Population 5 years and over: Native:
+PopGte5y_Native_SpkOnlyEngl	Population 5 years and over: Native: Speak only English
+PopGte5y_Native_SpkSpanish	Population 5 years and over: Native: Speak Spanish:
+PopGte5y_Native_SpkSpanish_SpkEnglVryWell	Population 5 years and over: Native: Speak Spanish: Speak English "very well"
+PopGte5y_Native_SpkSpanish_SpkEnglWell	Population 5 years and over: Native: Speak Spanish: Speak English "well"
+PopGte5y_Native_SpkSpanish_SpkEnglNotWell	Population 5 years and over: Native: Speak Spanish: Speak English "not well"
+PopGte5y_Native_SpkSpanish_SpkEnglNotAtAll	Population 5 years and over: Native: Speak Spanish: Speak English "not at all"
+PopGte5y_Native_SpkOthIndoEurLang	Population 5 years and over: Native: Speak other Indo-European languages:
+PopGte5y_Native_SpkOthIndoEurLang_SpkEnglVryWell	Population 5 years and over: Native: Speak other Indo-European languages: Speak English "very well"
+PopGte5y_Native_SpkOthIndoEurLang_SpkEnglWell	Population 5 years and over: Native: Speak other Indo-European languages: Speak English "well"
+PopGte5y_Native_SpkOthIndoEurLang_SpkEnglNotWell	Population 5 years and over: Native: Speak other Indo-European languages: Speak English "not well"
+PopGte5y_Native_SpkOthIndoEurLang_SpkEnglNotAtAll	Population 5 years and over: Native: Speak other Indo-European languages: Speak English "not at all"
+PopGte5y_Native_SpkAsianPacIslLang	Population 5 years and over: Native: Speak Asian and Pacific Island languages:
+PopGte5y_Native_SpkAsianPacIslLang_SpkEnglVryWell	Population 5 years and over: Native: Speak Asian and Pacific Island languages: Speak English "very well"
+PopGte5y_Native_SpkAsianPacIslLang_SpkEnglWell	Population 5 years and over: Native: Speak Asian and Pacific Island languages: Speak English "well"
+PopGte5y_Native_SpkAsianPacIslLang_SpkEnglNotWell	Population 5 years and over: Native: Speak Asian and Pacific Island languages: Speak English "not well"
+PopGte5y_Native_SpkAsianPacIslLang_SpkEnglNotAtAll	Population 5 years and over: Native: Speak Asian and Pacific Island languages: Speak English "not at all"
+PopGte5y_Native_SpkOthLang	Population 5 years and over: Native: Speak other languages:
+PopGte5y_Native_SpkOthLang_SpkEnglVryWell	Population 5 years and over: Native: Speak other languages: Speak English "very well"
+PopGte5y_Native_SpkOthLang_SpkEnglWell	Population 5 years and over: Native: Speak other languages: Speak English "well"
+PopGte5y_Native_SpkOthLang_SpkEnglNotWell	Population 5 years and over: Native: Speak other languages: Speak English "not well"
+PopGte5y_Native_SpkOthLang_SpkEnglNotAtAll	Population 5 years and over: Native: Speak other languages: Speak English "not at all"
+PopGte5y_FrgnBorn	Population 5 years and over: Foreign born:
+PopGte5y_FrgnBorn_SpkOnlyEngl	Population 5 years and over: Foreign born: Speak only English
+PopGte5y_FrgnBorn_SpkSpanish	Population 5 years and over: Foreign born: Speak Spanish:
+PopGte5y_FrgnBorn_SpkSpanish_SpkEnglVryWell	Population 5 years and over: Foreign born: Speak Spanish: Speak English "very well"
+PopGte5y_FrgnBorn_SpkSpanish_SpkEnglWell	Population 5 years and over: Foreign born: Speak Spanish: Speak English "well"
+PopGte5y_FrgnBorn_SpkSpanish_SpkEnglNotWell	Population 5 years and over: Foreign born: Speak Spanish: Speak English "not well"
+PopGte5y_FrgnBorn_SpkSpanish_SpkEnglNotAtAll	Population 5 years and over: Foreign born: Speak Spanish: Speak English "not at all"
+PopGte5y_FrgnBorn_SpkOthIndoEurLang	Population 5 years and over: Foreign born: Speak other Indo-European languages:
+PopGte5y_FrgnBorn_SpkOthIndoEurLang_SpkEnglVryWell	Population 5 years and over: Foreign born: Speak other Indo-European languages: Speak English "very well"
+PopGte5y_FrgnBorn_SpkOthIndoEurLang_SpkEnglWell	Population 5 years and over: Foreign born: Speak other Indo-European languages: Speak English "well"
+PopGte5y_FrgnBorn_SpkOthIndoEurLang_SpkEnglNotWell	Population 5 years and over: Foreign born: Speak other Indo-European languages: Speak English "not well"
+PopGte5y_FrgnBorn_SpkOthIndoEurLang_SpkEnglNotAtAll	Population 5 years and over: Foreign born: Speak other Indo-European languages: Speak English "not at all"
+PopGte5y_FrgnBorn_SpkAsianPacIslLang	Population 5 years and over: Foreign born: Speak Asian and Pacific Island languages:
+PopGte5y_FrgnBorn_SpkAsianPacIslLang_SpkEnglVryWell	Population 5 years and over: Foreign born: Speak Asian and Pacific Island languages: Speak English "very well"
+PopGte5y_FrgnBorn_SpkAsianPacIslLang_SpkEnglWell	Population 5 years and over: Foreign born: Speak Asian and Pacific Island languages: Speak English "well"
+PopGte5y_FrgnBorn_SpkAsianPacIslLang_SpkEnglNotWell	Population 5 years and over: Foreign born: Speak Asian and Pacific Island languages: Speak English "not well"
+PopGte5y_FrgnBorn_SpkAsianPacIslLang_SpkEnglNotAtAll	Population 5 years and over: Foreign born: Speak Asian and Pacific Island languages: Speak English "not at all"
+PopGte5y_FrgnBorn_SpkOthLang	Population 5 years and over: Foreign born: Speak other languages:
+PopGte5y_FrgnBorn_SpkOthLang_SpkEnglVryWell	Population 5 years and over: Foreign born: Speak other languages: Speak English "very well"
+PopGte5y_FrgnBorn_SpkOthLang_SpkEnglWell	Population 5 years and over: Foreign born: Speak other languages: Speak English "well"
+PopGte5y_FrgnBorn_SpkOthLang_SpkEnglNotWell	Population 5 years and over: Foreign born: Speak other languages: Speak English "not well"
+PopGte5y_FrgnBorn_SpkOthLang_SpkEnglNotAtAll	Population 5 years and over: Foreign born: Speak other languages: Speak English "not at all"
+PopGte5yLingIsolHH_Tot	Population 5 years and over in linguistically isolated households: Total:
+PopGte5yLingIsolHH_5to17y	Population 5 years and over in linguistically isolated households: 5 to 17 years:
+PopGte5yLingIsolHH_5to17y_SpkonlyEngl	Population 5 years and over in linguistically isolated households: 5 to 17 years: Speak only English:
+PopGte5yLingIsolHH_5to17y_SpkSpanish	Population 5 years and over in linguistically isolated households: 5 to 17 years: Speak Spanish:
+PopGte5yLingIsolHH_5to17y_SpkOthIndoEurLang	Population 5 years and over in linguistically isolated households: 5 to 17 years: Speak other Indo-European languages:
+PopGte5yLingIsolHH_5to17y_SpkAsianPacIslLang	Population 5 years and over in linguistically isolated households: 5 to 17 years: Speak Asian and Pacific Island languages:
+PopGte5yLingIsolHH_5to17y_SpkOthLang	Population 5 years and over in linguistically isolated households: 5 to 17 years: Speak other languages:
+PopGte5yLingIsolHH_18to64y	Population 5 years and over in linguistically isolated households: 18 to 64 years:
+PopGte5yLingIsolHH_18to64y_SpkSpanish	Population 5 years and over in linguistically isolated households: 18 to 64 years: Speak Spanish:
+PopGte5yLingIsolHH_18to64y_SpkOthIndoEurLang	Population 5 years and over in linguistically isolated households: 18 to 64 years: Speak other Indo-European languages:
+PopGte5yLingIsolHH_18to64y_SpkAsianPacIslLang	Population 5 years and over in linguistically isolated households: 18 to 64 years: Speak Asian and Pacific Island languages:
+PopGte5yLingIsolHH_18to64y_SpkOthLang	Population 5 years and over in linguistically isolated households: 18 to 64 years: Speak other languages:
+PopGte5yLingIsolHH_Gte65y	Population 5 years and over in linguistically isolated households: 65 years and over:
+PopGte5yLingIsolHH_Gte65y_SpkSpanish	Population 5 years and over in linguistically isolated households: 65 years and over: Speak Spanish:
+PopGte5yLingIsolHH_Gte65y_SpkOthIndoEurLang	Population 5 years and over in linguistically isolated households: 65 years and over: Speak other Indo-European languages:
+PopGte5yLingIsolHH_Gte65y_SpkAsianPacIslLang	Population 5 years and over in linguistically isolated households: 65 years and over: Speak Asian and Pacific Island languages:
+PopGte5yLingIsolHH_Gte65y_SpkOthLang	Population 5 years and over in linguistically isolated households: 65 years and over: Speak other languages:
+PopGte5yHH_Tot	Population 5 years and over in households: Total:
+PopGte5yHH_HHAllSpkEngOnly	Population 5 years and over in households: In households where all members speak English only:
+PopGte5yHH_HHAllSpkEngOnly_5to17y	Population 5 years and over in households: In households where all members speak English only: 5 to 17 years
+PopGte5yHH_HHAllSpkEngOnly_18to44y	Population 5 years and over in households: In households where all members speak English only: 18 to 44 years
+PopGte5yHH_HHAllSpkEngOnly_45to64y	Population 5 years and over in households: In households where all members speak English only: 45 to 64 years
+PopGte5yHH_HHAllSpkEngOnly_Gte65y	Population 5 years and over in households: In households where all members speak English only: 65 years and over
+PopGte5yHH_HHSomeMemSpkNonEng	Population 5 years and over in households: In households where some members speak a non-English language:
+PopGte5yHH_HHSomeMemSpkNonEng_NotLingIsol	Population 5 years and over in households: In households where some members speak a non-English language: Not linguistically isolated:
+PopGte5yHH_HHSomeMemSpkNonEng_NotLingIsol_5to17y	Population 5 years and over in households: In households where some members speak a non-English language: Not linguistically isolated: 5 to 17 years
+PopGte5yHH_HHSomeMemSpkNonEng_NotLingIsol_18to44y	Population 5 years and over in households: In households where some members speak a non-English language: Not linguistically isolated: 18 to 44 years
+PopGte5yHH_HHSomeMemSpkNonEng_NotLingIsol_45to64y	Population 5 years and over in households: In households where some members speak a non-English language: Not linguistically isolated: 45 to 64 years
+PopGte5yHH_HHSomeMemSpkNonEng_NotLingIsol_Gte65y	Population 5 years and over in households: In households where some members speak a non-English language: Not linguistically isolated: 65 years and over
+PopGte5yHH_HHSomeMemSpkNonEng_LingIso	Population 5 years and over in households: In households where some members speak a non-English language: Linguistically isolated:
+PopGte5yHH_HHSomeMemSpkNonEng_LingIso_5to17y	Population 5 years and over in households: In households where some members speak a non-English language: Linguistically isolated: 5 to 17 years
+PopGte5yHH_HHSomeMemSpkNonEng_LingIso_18to44y	Population 5 years and over in households: In households where some members speak a non-English language: Linguistically isolated: 18 to 44 years
+PopGte5yHH_HHSomeMemSpkNonEng_LingIso_45to64y	Population 5 years and over in households: In households where some members speak a non-English language: Linguistically isolated: 45 to 64 years
+PopGte5yHH_HHSomeMemSpkNonEng_LingIso_Gte65y	Population 5 years and over in households: In households where some members speak a non-English language: Linguistically isolated: 65 years and over
+PopGte5yHH_HHAllSpkNonEngLang	Population 5 years and over in households: In households where all members speak a non-English language:
+PopGte5yHH_HHAllSpkNonEngLang_NotLingIsol	Population 5 years and over in households: In households where all members speak a non-English language: Not linguistically isolated:
+PopGte5yHH_HHAllSpkNonEngLang_NotLingIsol_5to17y	Population 5 years and over in households: In households where all members speak a non-English language: Not linguistically isolated: 5 to 17 years
+PopGte5yHH_HHAllSpkNonEngLang_NotLingIsol_18to44y	Population 5 years and over in households: In households where all members speak a non-English language: Not linguistically isolated: 18 to 44 years
+PopGte5yHH_HHAllSpkNonEngLang_NotLingIsol_45to64y	Population 5 years and over in households: In households where all members speak a non-English language: Not linguistically isolated: 45 to 64 years
+PopGte5yHH_HHAllSpkNonEngLang_NotLingIsol_Gte65y	Population 5 years and over in households: In households where all members speak a non-English language: Not linguistically isolated: 65 years and over
+PopGte5yHH_HHAllSpkNonEngLang_LingIso	Population 5 years and over in households: In households where all members speak a non-English language: Linguistically isolated:
+PopGte5yHH_HHAllSpkNonEngLang_LingIso_5to17y	Population 5 years and over in households: In households where all members speak a non-English language: Linguistically isolated: 5 to 17 years
+PopGte5yHH_HHAllSpkNonEngLang_LingIso_18to44y	Population 5 years and over in households: In households where all members speak a non-English language: Linguistically isolated: 18 to 44 years
+PopGte5yHH_HHAllSpkNonEngLang_LingIso_45to64y	Population 5 years and over in households: In households where all members speak a non-English language: Linguistically isolated: 45 to 64 years
+PopGte5yHH_HHAllSpkNonEngLang_LingIso_Gte65y	Population 5 years and over in households: In households where all members speak a non-English language: Linguistically isolated: 65 years and over
+TotPop_Tot	Total population: Total:
+TotPop_AncSpec	Total population: Ancestry specified:
+TotPop_AncSpec_SingAnc	Total population: Ancestry specified: Single ancestry
+TotPop_AncSpec_MultAncst	Total population: Ancestry specified: Multiple ancestry
+TotPop_AncNotSpec	Total population: Ancestry not specified:
+TotPop_AncNotSpec_AncUnclass	Total population: Ancestry not specified: Ancestry unclassified
+TotPop_AncNotSpec_AncNotRep	Total population: Ancestry not specified: Ancestry not reported

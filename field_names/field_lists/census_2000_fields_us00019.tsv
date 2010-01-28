@@ -1,0 +1,249 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HH_Tot	Households: Total:
+HH_UnmarriedPartHH	Households: Unmarried-partner households:
+HH_UnmarriedPartHH_MleHhMlePart	Households: Unmarried-partner households: Male householder and male partner
+HH_UnmarriedPartHH_MleHhFemPart	Households: Unmarried-partner households: Male householder and female partner
+HH_UnmarriedPartHH_FemHhFemPart	Households: Unmarried-partner households: Female householder and female partner
+HH_UnmarriedPartHH_FemHhMlePart	Households: Unmarried-partner households: Female householder and male partner
+HH_AllOthHH	Households: All other households
+NFamHH_Tot	Nonfamily households: Total:
+NFamHH_MleHh	Nonfamily households: Male householder:
+NFamHH_MleHh_LivAln	Nonfamily households: Male householder: Living alone:
+NFamHH_MleHh_LivAln_Hh15to64y	Nonfamily households: Male householder: Living alone: Householder 15 to 64 years
+NFamHH_MleHh_LivAln_HhGte65y	Nonfamily households: Male householder: Living alone: Householder 65 years and over
+NFamHH_MleHh_NotLivAln	Nonfamily households: Male householder: Not living alone:
+NFamHH_MleHh_NotLivAln_Hh15to64y	Nonfamily households: Male householder: Not living alone: Householder 15 to 64 years
+NFamHH_MleHh_NotLivAln_HhGte65y	Nonfamily households: Male householder: Not living alone: Householder 65 years and over
+NFamHH_FemHh	Nonfamily households: Female householder:
+NFamHH_FemHh_LivAln	Nonfamily households: Female householder: Living alone:
+NFamHH_FemHh_LivAln_Hh15to64y	Nonfamily households: Female householder: Living alone: Householder 15 to 64 years
+NFamHH_FemHh_LivAln_HhGte65y	Nonfamily households: Female householder: Living alone: Householder 65 years and over
+NFamHH_FemHh_NotLivAln	Nonfamily households: Female householder: Not living alone:
+NFamHH_FemHh_NotLivAln_Hh15to64y	Nonfamily households: Female householder: Not living alone: Householder 15 to 64 years
+NFamHH_FemHh_NotLivAln_HhGte65y	Nonfamily households: Female householder: Not living alone: Householder 65 years and over
+Fam_Tot	Families: Total:
+Fam_MrdCplFam	Families: Married-couple family:
+Fam_MrdCplFam_Hh15to24y	Families: Married-couple family: Householder 15 to 24 years
+Fam_MrdCplFam_Hh25to34y	Families: Married-couple family: Householder 25 to 34 years
+Fam_MrdCplFam_Hh35to44y	Families: Married-couple family: Householder 35 to 44 years
+Fam_MrdCplFam_Hh45to54y	Families: Married-couple family: Householder 45 to 54 years
+Fam_MrdCplFam_Hh55to59y	Families: Married-couple family: Householder 55 to 59 years
+Fam_MrdCplFam_Hh60to64y	Families: Married-couple family: Householder 60 to 64 years
+Fam_MrdCplFam_Hh65to74y	Families: Married-couple family: Householder 65 to 74 years
+Fam_MrdCplFam_HhGte75y	Families: Married-couple family: Householder 75 years and over
+Fam_OthFam	Families: Other family:
+Fam_OthFam_MleHhNoWife	Families: Other family: Male householder, no wife present:
+Fam_OthFam_MleHhNoWife_Hh15to24y	Families: Other family: Male householder, no wife present: Householder 15 to 24 years
+Fam_OthFam_MleHhNoWife_Hh25to34y	Families: Other family: Male householder, no wife present: Householder 25 to 34 years
+Fam_OthFam_MleHhNoWife_Hh35to44y	Families: Other family: Male householder, no wife present: Householder 35 to 44 years
+Fam_OthFam_MleHhNoWife_Hh45to54y	Families: Other family: Male householder, no wife present: Householder 45 to 54 years
+Fam_OthFam_MleHhNoWife_Hh55to59y	Families: Other family: Male householder, no wife present: Householder 55 to 59 years
+Fam_OthFam_MleHhNoWife_Hh60to64y	Families: Other family: Male householder, no wife present: Householder 60 to 64 years
+Fam_OthFam_MleHhNoWife_Hh65to74y	Families: Other family: Male householder, no wife present: Householder 65 to 74 years
+Fam_OthFam_MleHhNoWife_HhGte75y	Families: Other family: Male householder, no wife present: Householder 75 years and over
+Fam_OthFam_FemHhNoHusb	Families: Other family: Female householder, no husband present:
+Fam_OthFam_FemHhNoHusb_Hh15to24y	Families: Other family: Female householder, no husband present: Householder 15 to 24 years
+Fam_OthFam_FemHhNoHusb_Hh25to34y	Families: Other family: Female householder, no husband present: Householder 25 to 34 years
+Fam_OthFam_FemHhNoHusb_Hh35to44y	Families: Other family: Female householder, no husband present: Householder 35 to 44 years
+Fam_OthFam_FemHhNoHusb_Hh45to54y	Families: Other family: Female householder, no husband present: Householder 45 to 54 years
+Fam_OthFam_FemHhNoHusb_Hh55to59y	Families: Other family: Female householder, no husband present: Householder 55 to 59 years
+Fam_OthFam_FemHhNoHusb_Hh60to64y	Families: Other family: Female householder, no husband present: Householder 60 to 64 years
+Fam_OthFam_FemHhNoHusb_Hh65to74y	Families: Other family: Female householder, no husband present: Householder 65 to 74 years
+Fam_OthFam_FemHhNoHusb_HhGte75y	Families: Other family: Female householder, no husband present: Householder 75 years and over
+SubFam_Tot	Subfamilies: Total:
+SubFam_MrdCplSubFam	Subfamilies: Married-couple subfamily:
+SubFam_MrdCplSubFam_WOwnChldLt18y	Subfamilies: Married-couple subfamily: With own children under 18 years
+SubFam_MrdCplSubFam_NoOwnChldLt18y	Subfamilies: Married-couple subfamily: No own children under 18 years
+SubFam_MothChldSubFam	Subfamilies: Mother-child subfamily
+SubFam_FatherChldSubFam	Subfamilies: Father-child subfamily
+PopSubFam_Tot	Population in subfamilies: Total:
+PopSubFam_MrdCplSubFam	Population in subfamilies: In married-couple subfamilies:
+PopSubFam_MrdCplSubFam_HusbWifeSubFamNoChld	Population in subfamilies: In married-couple subfamilies: Husband/wife in a subfamily with no children present
+PopSubFam_MrdCplSubFam_HusbWifeSubFamChldPres	Population in subfamilies: In married-couple subfamilies: Husband/wife in a subfamily with children present
+PopSubFam_MrdCplSubFam_Child	Population in subfamilies: In married-couple subfamilies: Child
+PopSubFam_MothChldSubFam	Population in subfamilies: In mother-child subfamilies:
+PopSubFam_MothChldSubFam_Prnt	Population in subfamilies: In mother-child subfamilies: Parent
+PopSubFam_MothChldSubFam_Child	Population in subfamilies: In mother-child subfamilies: Child
+PopSubFam_FathChldSubFam	Population in subfamilies: In father-child subfamilies:
+PopSubFam_FathChldSubFam_Prnt	Population in subfamilies: In father-child subfamilies: Parent
+PopSubFam_FathChldSubFam_Child	Population in subfamilies: In father-child subfamilies: Child
+HH_Tot	Households: Total:
+HH_NoSubFam	Households: No subfamilies
+HH_1SubFam	Households: 1 subfamily
+HH_2SubFam	Households: 2 subfamilies
+HH_3SubFam	Households: 3 subfamilies
+HH_Gte4SubFam	Households: 4 or more subfamilies
+PopGte15y_Tot	Population 15 years and over: Total:
+PopGte15y_Mle	Population 15 years and over: Male:
+PopGte15y_Mle_NevMrd	Population 15 years and over: Male: Never married:
+PopGte15y_Mle_NevMrd_15to17y	Population 15 years and over: Male: Never married: 15 to 17 years
+PopGte15y_Mle_NevMrd_18and19y	Population 15 years and over: Male: Never married: 18 and 19 years
+PopGte15y_Mle_NevMrd_20to24y	Population 15 years and over: Male: Never married: 20 to 24 years
+PopGte15y_Mle_NevMrd_25to29y	Population 15 years and over: Male: Never married: 25 to 29 years
+PopGte15y_Mle_NevMrd_30to34y	Population 15 years and over: Male: Never married: 30 to 34 years
+PopGte15y_Mle_NevMrd_35to44y	Population 15 years and over: Male: Never married: 35 to 44 years
+PopGte15y_Mle_NevMrd_45to54y	Population 15 years and over: Male: Never married: 45 to 54 years
+PopGte15y_Mle_NevMrd_55to59y	Population 15 years and over: Male: Never married: 55 to 59 years
+PopGte15y_Mle_NevMrd_60to64y	Population 15 years and over: Male: Never married: 60 to 64 years
+PopGte15y_Mle_NevMrd_65to74y	Population 15 years and over: Male: Never married: 65 to 74 years
+PopGte15y_Mle_NevMrd_75to84y	Population 15 years and over: Male: Never married: 75 to 84 years
+PopGte15y_Mle_NevMrd_Gte85y	Population 15 years and over: Male: Never married: 85 years and over
+PopGte15y_Mle_NowMrd	Population 15 years and over: Male: Now married:
+PopGte15y_Mle_NowMrd_MrdSpPres	Population 15 years and over: Male: Now married: Married, spouse present:
+PopGte15y_Mle_NowMrd_MrdSpPres_15to17y	Population 15 years and over: Male: Now married: Married, spouse present: 15 to 17 years
+PopGte15y_Mle_NowMrd_MrdSpPres_18and19y	Population 15 years and over: Male: Now married: Married, spouse present: 18 and 19 years
+PopGte15y_Mle_NowMrd_MrdSpPres_20to24y	Population 15 years and over: Male: Now married: Married, spouse present: 20 to 24 years
+PopGte15y_Mle_NowMrd_MrdSpPres_25to29y	Population 15 years and over: Male: Now married: Married, spouse present: 25 to 29 years
+PopGte15y_Mle_NowMrd_MrdSpPres_30to34y	Population 15 years and over: Male: Now married: Married, spouse present: 30 to 34 years
+PopGte15y_Mle_NowMrd_MrdSpPres_35to44y	Population 15 years and over: Male: Now married: Married, spouse present: 35 to 44 years
+PopGte15y_Mle_NowMrd_MrdSpPres_45to54y	Population 15 years and over: Male: Now married: Married, spouse present: 45 to 54 years
+PopGte15y_Mle_NowMrd_MrdSpPres_55to59y	Population 15 years and over: Male: Now married: Married, spouse present: 55 to 59 years
+PopGte15y_Mle_NowMrd_MrdSpPres_60to64y	Population 15 years and over: Male: Now married: Married, spouse present: 60 to 64 years
+PopGte15y_Mle_NowMrd_MrdSpPres_65to74y	Population 15 years and over: Male: Now married: Married, spouse present: 65 to 74 years
+PopGte15y_Mle_NowMrd_MrdSpPres_75to84y	Population 15 years and over: Male: Now married: Married, spouse present: 75 to 84 years
+PopGte15y_Mle_NowMrd_MrdSpPres_Gte85y	Population 15 years and over: Male: Now married: Married, spouse present: 85 years and over
+PopGte15y_Mle_NowMrd_MrdSpAbs	Population 15 years and over: Male: Now married: Married, spouse absent:
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd	Population 15 years and over: Male: Now married: Married, spouse absent: Separated:
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_15to17y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 15 to 17 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_18and19y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 18 and 19 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_20to24y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 20 to 24 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_25to29y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 25 to 29 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_30to34y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 30 to 34 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_35to44y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 35 to 44 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_45to54y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 45 to 54 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_55to59y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 55 to 59 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_60to64y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 60 to 64 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_65to74y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 65 to 74 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_75to84y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 75 to 84 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Seprtd_Gte85y	Population 15 years and over: Male: Now married: Married, spouse absent: Separated: 85 years and over
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other	Population 15 years and over: Male: Now married: Married, spouse absent: Other:
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_15to17y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 15 to 17 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_18and19y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 18 and 19 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_20to24y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 20 to 24 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_25to29y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 25 to 29 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_30to34y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 30 to 34 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_35to44y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 35 to 44 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_45to54y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 45 to 54 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_55to59y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 55 to 59 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_60to64y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 60 to 64 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_65to74y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 65 to 74 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_75to84y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 75 to 84 years
+PopGte15y_Mle_NowMrd_MrdSpAbs_Other_Gte85y	Population 15 years and over: Male: Now married: Married, spouse absent: Other: 85 years and over
+PopGte15y_Mle_Widowed	Population 15 years and over: Male: Widowed:
+PopGte15y_Mle_Widowed_15to17y	Population 15 years and over: Male: Widowed: 15 to 17 years
+PopGte15y_Mle_Widowed_18and19y	Population 15 years and over: Male: Widowed: 18 and 19 years
+PopGte15y_Mle_Widowed_20to24y	Population 15 years and over: Male: Widowed: 20 to 24 years
+PopGte15y_Mle_Widowed_25to29y	Population 15 years and over: Male: Widowed: 25 to 29 years
+PopGte15y_Mle_Widowed_30to34y	Population 15 years and over: Male: Widowed: 30 to 34 years
+PopGte15y_Mle_Widowed_35to44y	Population 15 years and over: Male: Widowed: 35 to 44 years
+PopGte15y_Mle_Widowed_45to54y	Population 15 years and over: Male: Widowed: 45 to 54 years
+PopGte15y_Mle_Widowed_55to59y	Population 15 years and over: Male: Widowed: 55 to 59 years
+PopGte15y_Mle_Widowed_60to64y	Population 15 years and over: Male: Widowed: 60 to 64 years
+PopGte15y_Mle_Widowed_65to74y	Population 15 years and over: Male: Widowed: 65 to 74 years
+PopGte15y_Mle_Widowed_75to84y	Population 15 years and over: Male: Widowed: 75 to 84 years
+PopGte15y_Mle_Widowed_Gte85y	Population 15 years and over: Male: Widowed: 85 years and over
+PopGte15y_Mle_Div	Population 15 years and over: Male: Divorced:
+PopGte15y_Mle_Div_15to17y	Population 15 years and over: Male: Divorced: 15 to 17 years
+PopGte15y_Mle_Div_18and19y	Population 15 years and over: Male: Divorced: 18 and 19 years
+PopGte15y_Mle_Div_20to24y	Population 15 years and over: Male: Divorced: 20 to 24 years
+PopGte15y_Mle_Div_25to29y	Population 15 years and over: Male: Divorced: 25 to 29 years
+PopGte15y_Mle_Div_30to34y	Population 15 years and over: Male: Divorced: 30 to 34 years
+PopGte15y_Mle_Div_35to44y	Population 15 years and over: Male: Divorced: 35 to 44 years
+PopGte15y_Mle_Div_45to54y	Population 15 years and over: Male: Divorced: 45 to 54 years
+PopGte15y_Mle_Div_55to59y	Population 15 years and over: Male: Divorced: 55 to 59 years
+PopGte15y_Mle_Div_60to64y	Population 15 years and over: Male: Divorced: 60 to 64 years
+PopGte15y_Mle_Div_65to74y	Population 15 years and over: Male: Divorced: 65 to 74 years
+PopGte15y_Mle_Div_75to84y	Population 15 years and over: Male: Divorced: 75 to 84 years
+PopGte15y_Mle_Div_Gte85y	Population 15 years and over: Male: Divorced: 85 years and over
+PopGte15y_Fem	Population 15 years and over: Female:
+PopGte15y_Fem_NevMrd	Population 15 years and over: Female: Never married:
+PopGte15y_Fem_NevMrd_15to17y	Population 15 years and over: Female: Never married: 15 to 17 years
+PopGte15y_Fem_NevMrd_18and19y	Population 15 years and over: Female: Never married: 18 and 19 years
+PopGte15y_Fem_NevMrd_20to24y	Population 15 years and over: Female: Never married: 20 to 24 years
+PopGte15y_Fem_NevMrd_25to29y	Population 15 years and over: Female: Never married: 25 to 29 years
+PopGte15y_Fem_NevMrd_30to34y	Population 15 years and over: Female: Never married: 30 to 34 years
+PopGte15y_Fem_NevMrd_35to44y	Population 15 years and over: Female: Never married: 35 to 44 years
+PopGte15y_Fem_NevMrd_45to54y	Population 15 years and over: Female: Never married: 45 to 54 years
+PopGte15y_Fem_NevMrd_55to59y	Population 15 years and over: Female: Never married: 55 to 59 years
+PopGte15y_Fem_NevMrd_60to64y	Population 15 years and over: Female: Never married: 60 to 64 years
+PopGte15y_Fem_NevMrd_65to74y	Population 15 years and over: Female: Never married: 65 to 74 years
+PopGte15y_Fem_NevMrd_75to84y	Population 15 years and over: Female: Never married: 75 to 84 years
+PopGte15y_Fem_NevMrd_Gte85y	Population 15 years and over: Female: Never married: 85 years and over
+PopGte15y_Fem_NowMrd	Population 15 years and over: Female: Now married:
+PopGte15y_Fem_NowMrd_MrdSpPres	Population 15 years and over: Female: Now married: Married, spouse present:
+PopGte15y_Fem_NowMrd_MrdSpPres_15to17y	Population 15 years and over: Female: Now married: Married, spouse present: 15 to 17 years
+PopGte15y_Fem_NowMrd_MrdSpPres_18and19y	Population 15 years and over: Female: Now married: Married, spouse present: 18 and 19 years
+PopGte15y_Fem_NowMrd_MrdSpPres_20to24y	Population 15 years and over: Female: Now married: Married, spouse present: 20 to 24 years
+PopGte15y_Fem_NowMrd_MrdSpPres_25to29y	Population 15 years and over: Female: Now married: Married, spouse present: 25 to 29 years
+PopGte15y_Fem_NowMrd_MrdSpPres_30to34y	Population 15 years and over: Female: Now married: Married, spouse present: 30 to 34 years
+PopGte15y_Fem_NowMrd_MrdSpPres_35to44y	Population 15 years and over: Female: Now married: Married, spouse present: 35 to 44 years
+PopGte15y_Fem_NowMrd_MrdSpPres_45to54y	Population 15 years and over: Female: Now married: Married, spouse present: 45 to 54 years
+PopGte15y_Fem_NowMrd_MrdSpPres_55to59y	Population 15 years and over: Female: Now married: Married, spouse present: 55 to 59 years
+PopGte15y_Fem_NowMrd_MrdSpPres_60to64y	Population 15 years and over: Female: Now married: Married, spouse present: 60 to 64 years
+PopGte15y_Fem_NowMrd_MrdSpPres_65to74y	Population 15 years and over: Female: Now married: Married, spouse present: 65 to 74 years
+PopGte15y_Fem_NowMrd_MrdSpPres_75to84y	Population 15 years and over: Female: Now married: Married, spouse present: 75 to 84 years
+PopGte15y_Fem_NowMrd_MrdSpPres_Gte85y	Population 15 years and over: Female: Now married: Married, spouse present: 85 years and over
+PopGte15y_Fem_NowMrd_MrdSpAbs	Population 15 years and over: Female: Now married: Married, spouse absent:
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd	Population 15 years and over: Female: Now married: Married, spouse absent: Separated:
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_15to17y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 15 to 17 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_18and19y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 18 and 19 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_20to24y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 20 to 24 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_25to29y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 25 to 29 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_30to34y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 30 to 34 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_35to44y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 35 to 44 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_45to54y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 45 to 54 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_55to59y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 55 to 59 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_60to64y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 60 to 64 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_65to74y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 65 to 74 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_75to84y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 75 to 84 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Seprtd_Gte85y	Population 15 years and over: Female: Now married: Married, spouse absent: Separated: 85 years and over
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other	Population 15 years and over: Female: Now married: Married, spouse absent: Other:
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_15to17y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 15 to 17 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_18and19y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 18 and 19 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_20to24y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 20 to 24 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_25to29y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 25 to 29 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_30to34y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 30 to 34 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_35to44y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 35 to 44 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_45to54y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 45 to 54 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_55to59y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 55 to 59 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_60to64y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 60 to 64 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_65to74y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 65 to 74 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_75to84y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 75 to 84 years
+PopGte15y_Fem_NowMrd_MrdSpAbs_Other_Gte85y	Population 15 years and over: Female: Now married: Married, spouse absent: Other: 85 years and over
+PopGte15y_Fem_Widowed	Population 15 years and over: Female: Widowed:
+PopGte15y_Fem_Widowed_15to17y	Population 15 years and over: Female: Widowed: 15 to 17 years
+PopGte15y_Fem_Widowed_18and19y	Population 15 years and over: Female: Widowed: 18 and 19 years
+PopGte15y_Fem_Widowed_20to24y	Population 15 years and over: Female: Widowed: 20 to 24 years
+PopGte15y_Fem_Widowed_25to29y	Population 15 years and over: Female: Widowed: 25 to 29 years
+PopGte15y_Fem_Widowed_30to34y	Population 15 years and over: Female: Widowed: 30 to 34 years
+PopGte15y_Fem_Widowed_35to44y	Population 15 years and over: Female: Widowed: 35 to 44 years
+PopGte15y_Fem_Widowed_45to54y	Population 15 years and over: Female: Widowed: 45 to 54 years
+PopGte15y_Fem_Widowed_55to59y	Population 15 years and over: Female: Widowed: 55 to 59 years
+PopGte15y_Fem_Widowed_60to64y	Population 15 years and over: Female: Widowed: 60 to 64 years
+PopGte15y_Fem_Widowed_65to74y	Population 15 years and over: Female: Widowed: 65 to 74 years
+PopGte15y_Fem_Widowed_75to84y	Population 15 years and over: Female: Widowed: 75 to 84 years
+PopGte15y_Fem_Widowed_Gte85y	Population 15 years and over: Female: Widowed: 85 years and over
+PopGte15y_Fem_Div	Population 15 years and over: Female: Divorced:
+PopGte15y_Fem_Div_15to17y	Population 15 years and over: Female: Divorced: 15 to 17 years
+PopGte15y_Fem_Div_18and19y	Population 15 years and over: Female: Divorced: 18 and 19 years
+PopGte15y_Fem_Div_20to24y	Population 15 years and over: Female: Divorced: 20 to 24 years
+PopGte15y_Fem_Div_25to29y	Population 15 years and over: Female: Divorced: 25 to 29 years
+PopGte15y_Fem_Div_30to34y	Population 15 years and over: Female: Divorced: 30 to 34 years
+PopGte15y_Fem_Div_35to44y	Population 15 years and over: Female: Divorced: 35 to 44 years
+PopGte15y_Fem_Div_45to54y	Population 15 years and over: Female: Divorced: 45 to 54 years
+PopGte15y_Fem_Div_55to59y	Population 15 years and over: Female: Divorced: 55 to 59 years
+PopGte15y_Fem_Div_60to64y	Population 15 years and over: Female: Divorced: 60 to 64 years
+PopGte15y_Fem_Div_65to74y	Population 15 years and over: Female: Divorced: 65 to 74 years
+PopGte15y_Fem_Div_75to84y	Population 15 years and over: Female: Divorced: 75 to 84 years
+PopGte15y_Fem_Div_Gte85y	Population 15 years and over: Female: Divorced: 85 years and over
+PopGte30yHH_Tot	Population 30 years and over in households: Total:
+PopGte30yHH_LivWOwnGrdCldLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years:
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years:
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_Gt_142	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: 85 years and over Less than 6 months
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_Gt_143	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: 85 years and over 6 to 11 months
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_Gt_144	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: 85 years and over 1 or 2 years
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_Gt_145	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: 85 years and over 3 or 4 years
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntRespOwnGndChildLt18y_Gt_146	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent responsible for own grandchildren under 18 years: 85 years and over 5 years or more
+PopGte30yHH_LivWOwnGrdCldLt18y_GndPrntNotRespOwnGndChildLt18y	Population 30 years and over in households: Living with own grandchildren under 18 years: Grandparent not responsible for own grandchildren under 18 years
+PopGte30yHH_NotLivWOwnGndChldLt18y	Population 30 years and over in households: Not living with own grandchildren under 18 years

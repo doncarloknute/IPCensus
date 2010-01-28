@@ -1,0 +1,248 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_Mvd99toMar2000	Occupied housing units with a householder who is Asian alone: Moved in 1999 to March 2000
+OcpHsUntWHhAsn_Mvd95to98	Occupied housing units with a householder who is Asian alone: Moved in 1995 to 1998
+OcpHsUntWHhAsn_Mvd90to94	Occupied housing units with a householder who is Asian alone: Moved in 1990 to 1994
+OcpHsUntWHhAsn_Mvd80to89	Occupied housing units with a householder who is Asian alone: Moved in 1980 to 1989
+OcpHsUntWHhAsn_Mvd70to79	Occupied housing units with a householder who is Asian alone: Moved in 1970 to 1979
+OcpHsUntWHhAsn_MvdLte69	Occupied housing units with a householder who is Asian alone: Moved in 1969 or earlier
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_Mvd99toMar2000	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1999 to March 2000
+OcpHsUntWHhNatHiPacIsl_Mvd95to98	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1995 to 1998
+OcpHsUntWHhNatHiPacIsl_Mvd90to94	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1990 to 1994
+OcpHsUntWHhNatHiPacIsl_Mvd80to89	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1980 to 1989
+OcpHsUntWHhNatHiPacIsl_Mvd70to79	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1970 to 1979
+OcpHsUntWHhNatHiPacIsl_MvdLte69	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Moved in 1969 or earlier
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_Mvd99toMar2000	Occupied housing units with a householder who is Some other race alone: Moved in 1999 to March 2000
+OcpHsUntWHhOthRce_Mvd95to98	Occupied housing units with a householder who is Some other race alone: Moved in 1995 to 1998
+OcpHsUntWHhOthRce_Mvd90to94	Occupied housing units with a householder who is Some other race alone: Moved in 1990 to 1994
+OcpHsUntWHhOthRce_Mvd80to89	Occupied housing units with a householder who is Some other race alone: Moved in 1980 to 1989
+OcpHsUntWHhOthRce_Mvd70to79	Occupied housing units with a householder who is Some other race alone: Moved in 1970 to 1979
+OcpHsUntWHhOthRce_MvdLte69	Occupied housing units with a householder who is Some other race alone: Moved in 1969 or earlier
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_Mvd99toMar2000	Occupied housing units with a householder who is Two or more races: Moved in 1999 to March 2000
+OcpHsUntWHhGte2Rce_Mvd95to98	Occupied housing units with a householder who is Two or more races: Moved in 1995 to 1998
+OcpHsUntWHhGte2Rce_Mvd90to94	Occupied housing units with a householder who is Two or more races: Moved in 1990 to 1994
+OcpHsUntWHhGte2Rce_Mvd80to89	Occupied housing units with a householder who is Two or more races: Moved in 1980 to 1989
+OcpHsUntWHhGte2Rce_Mvd70to79	Occupied housing units with a householder who is Two or more races: Moved in 1970 to 1979
+OcpHsUntWHhGte2Rce_MvdLte69	Occupied housing units with a householder who is Two or more races: Moved in 1969 or earlier
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_Mvd99toMar2000	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1999 to March 2000
+OcpHsUntWHhHisp_Mvd95to98	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1995 to 1998
+OcpHsUntWHhHisp_Mvd90to94	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1990 to 1994
+OcpHsUntWHhHisp_Mvd80to89	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1980 to 1989
+OcpHsUntWHhHisp_Mvd70to79	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1970 to 1979
+OcpHsUntWHhHisp_MvdLte69	Occupied housing units with a householder who is Hispanic or Latino: Moved in 1969 or earlier
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_Mvd99toMar2000	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1999 to March 2000
+OcpHsUntWHhWhtNotHisp_Mvd95to98	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1995 to 1998
+OcpHsUntWHhWhtNotHisp_Mvd90to94	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1990 to 1994
+OcpHsUntWHhWhtNotHisp_Mvd80to89	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1980 to 1989
+OcpHsUntWHhWhtNotHisp_Mvd70to79	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1970 to 1979
+OcpHsUntWHhWhtNotHisp_MvdLte69	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Moved in 1969 or earlier
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_WPhoneServAvail	Occupied housing units with a householder who is White alone: With telephone service available
+OcpHsUntWHhWht_NoPhoneServAvail	Occupied housing units with a householder who is White alone: No telephone service available
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_WPhoneServAvail	Occupied housing units with a householder who is Black or African American alone: With telephone service available
+OcpHsUntWHhBlkAfAm_NoPhoneServAvail	Occupied housing units with a householder who is Black or African American alone: No telephone service available
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_WPhoneServAvail	Occupied housing units with a householder who is American Indian and Alaska Native alone: With telephone service available
+OcpHsUntWHhAmIndAkNat_NoPhoneServAvail	Occupied housing units with a householder who is American Indian and Alaska Native alone: No telephone service available
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_WPhoneServAvail	Occupied housing units with a householder who is Asian alone: With telephone service available
+OcpHsUntWHhAsn_NoPhoneServAvail	Occupied housing units with a householder who is Asian alone: No telephone service available
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_WPhoneServAvail	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: With telephone service available
+OcpHsUntWHhNatHiPacIsl_NoPhoneServAvail	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: No telephone service available
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_WPhoneServAvail	Occupied housing units with a householder who is Some other race alone: With telephone service available
+OcpHsUntWHhOthRce_NoPhoneServAvail	Occupied housing units with a householder who is Some other race alone: No telephone service available
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_WPhoneServAvail	Occupied housing units with a householder who is Two or more races: With telephone service available
+OcpHsUntWHhGte2Rce_NoPhoneServAvail	Occupied housing units with a householder who is Two or more races: No telephone service available
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_WPhoneServAvail	Occupied housing units with a householder who is Hispanic or Latino: With telephone service available
+OcpHsUntWHhHisp_NoPhoneServAvail	Occupied housing units with a householder who is Hispanic or Latino: No telephone service available
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_WPhoneServAvail	Occupied housing units with a householder who is White alone, not Hispanic or Latino: With telephone service available
+OcpHsUntWHhWhtNotHisp_NoPhoneServAvail	Occupied housing units with a householder who is White alone, not Hispanic or Latino: No telephone service available
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_NoVhclAvail	Occupied housing units with a householder who is White alone: No vehicle available
+OcpHsUntWHhWht_Gte1VhclAvail	Occupied housing units with a householder who is White alone: 1 or more vehicles available
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_NoVhclAvail	Occupied housing units with a householder who is Black or African American alone: No vehicle available
+OcpHsUntWHhBlkAfAm_Gte1VhclAvail	Occupied housing units with a householder who is Black or African American alone: 1 or more vehicles available
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_NoVhclAvail	Occupied housing units with a householder who is American Indian and Alaska Native alone: No vehicle available
+OcpHsUntWHhAmIndAkNat_Gte1VhclAvail	Occupied housing units with a householder who is American Indian and Alaska Native alone: 1 or more vehicles available
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_NoVhclAvail	Occupied housing units with a householder who is Asian alone: No vehicle available
+OcpHsUntWHhAsn_Gte1VhclAvail	Occupied housing units with a householder who is Asian alone: 1 or more vehicles available
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_NoVhclAvail	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: No vehicle available
+OcpHsUntWHhNatHiPacIsl_Gte1VhclAvail	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 1 or more vehicles available
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_NoVhclAvail	Occupied housing units with a householder who is Some other race alone: No vehicle available
+OcpHsUntWHhOthRce_Gte1VhclAvail	Occupied housing units with a householder who is Some other race alone: 1 or more vehicles available
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_NoVhclAvail	Occupied housing units with a householder who is Two or more races: No vehicle available
+OcpHsUntWHhGte2Rce_Gte1VhclAvail	Occupied housing units with a householder who is Two or more races: 1 or more vehicles available
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_NoVhclAvail	Occupied housing units with a householder who is Hispanic or Latino: No vehicle available
+OcpHsUntWHhHisp_Gte1VhclAvail	Occupied housing units with a householder who is Hispanic or Latino: 1 or more vehicles available
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_NoVhclAvail	Occupied housing units with a householder who is White alone, not Hispanic or Latino: No vehicle available
+OcpHsUntWHhWhtNotHisp_Gte1VhclAvail	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 1 or more vehicles available
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_CompPlmbFac	Occupied housing units with a householder who is White alone: Complete plumbing facilities
+OcpHsUntWHhWht_LackCompPlumbFac	Occupied housing units with a householder who is White alone: Lacking complete plumbing facilities
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_CompPlmbFac	Occupied housing units with a householder who is Black or African American alone: Complete plumbing facilities
+OcpHsUntWHhBlkAfAm_LackCompPlumbFac	Occupied housing units with a householder who is Black or African American alone: Lacking complete plumbing facilities
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_CompPlmbFac	Occupied housing units with a householder who is American Indian and Alaska Native alone: Complete plumbing facilities
+OcpHsUntWHhAmIndAkNat_LackCompPlumbFac	Occupied housing units with a householder who is American Indian and Alaska Native alone: Lacking complete plumbing facilities
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_CompPlmbFac	Occupied housing units with a householder who is Asian alone: Complete plumbing facilities
+OcpHsUntWHhAsn_LackCompPlumbFac	Occupied housing units with a householder who is Asian alone: Lacking complete plumbing facilities
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_CompPlmbFac	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Complete plumbing facilities
+OcpHsUntWHhNatHiPacIsl_LackCompPlumbFac	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Lacking complete plumbing facilities
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_CompPlmbFac	Occupied housing units with a householder who is Some other race alone: Complete plumbing facilities
+OcpHsUntWHhOthRce_LackCompPlumbFac	Occupied housing units with a householder who is Some other race alone: Lacking complete plumbing facilities
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_CompPlmbFac	Occupied housing units with a householder who is Two or more races: Complete plumbing facilities
+OcpHsUntWHhGte2Rce_LackCompPlumbFac	Occupied housing units with a householder who is Two or more races: Lacking complete plumbing facilities
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_CompPlmbFac	Occupied housing units with a householder who is Hispanic or Latino: Complete plumbing facilities
+OcpHsUntWHhHisp_LackCompPlumbFac	Occupied housing units with a householder who is Hispanic or Latino: Lacking complete plumbing facilities
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_CompPlmbFac	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Complete plumbing facilities
+OcpHsUntWHhWhtNotHisp_LackCompPlumbFac	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Lacking complete plumbing facilities
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_CompKitchFac	Occupied housing units with a householder who is White alone: Complete kitchen facilities
+OcpHsUntWHhWht_LackCompKitchFac	Occupied housing units with a householder who is White alone: Lacking complete kitchen facilities
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_CompKitchFac	Occupied housing units with a householder who is Black or African American alone: Complete kitchen facilities
+OcpHsUntWHhBlkAfAm_LackCompPlumbFac	Occupied housing units with a householder who is Black or African American alone: Lacking complete plumbing facilities
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_CompKitchFac	Occupied housing units with a householder who is American Indian and Alaska Native alone: Complete kitchen facilities
+OcpHsUntWHhAmIndAkNat_LackCompKitchFac	Occupied housing units with a householder who is American Indian and Alaska Native alone: Lacking complete kitchen facilities
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_CompKitchFac	Occupied housing units with a householder who is Asian alone: Complete kitchen facilities
+OcpHsUntWHhAsn_LackCompKitchFac	Occupied housing units with a householder who is Asian alone: Lacking complete kitchen facilities
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_CompKitchFac	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Complete kitchen facilities
+OcpHsUntWHhNatHiPacIsl_LackCompKitchFac	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Lacking complete kitchen facilities
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_CompKitchFac	Occupied housing units with a householder who is Some other race alone: Complete kitchen facilities
+OcpHsUntWHhOthRce_LackCompKitchFac	Occupied housing units with a householder who is Some other race alone: Lacking complete kitchen facilities
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_CompKitchFac	Occupied housing units with a householder who is Two or more races: Complete kitchen facilities
+OcpHsUntWHhGte2Rce_LackCompKitchFac	Occupied housing units with a householder who is Two or more races: Lacking complete kitchen facilities
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_CompKitchFac	Occupied housing units with a householder who is Hispanic or Latino: Complete kitchen facilities
+OcpHsUntWHhHisp_LackCompKitchFac	Occupied housing units with a householder who is Hispanic or Latino: Lacking complete kitchen facilities
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_CompKitchFac	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Complete kitchen facilities
+OcpHsUntWHhWhtNotHisp_LackCompKitchFac	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Lacking complete kitchen facilities
+RentOcpHsUntHhWht_Tot	Specified renter-occupied housing units with a householder who is White alone: Total:
+RentOcpHsUntHhWht_WCashRent	Specified renter-occupied housing units with a householder who is White alone: With cash rent:
+RentOcpHsUntHhWht_WCashRent_Lt$100	Specified renter-occupied housing units with a householder who is White alone: With cash rent: Less than $100
+RentOcpHsUntHhWht_WCashRent_Usd100to149	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $100 to $149
+RentOcpHsUntHhWht_WCashRent_Usd150to199	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $150 to $199
+RentOcpHsUntHhWht_WCashRent_Usd200to249	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $200 to $249
+RentOcpHsUntHhWht_WCashRent_Usd250to299	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $250 to $299
+RentOcpHsUntHhWht_WCashRent_Usd300to349	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $300 to $349
+RentOcpHsUntHhWht_WCashRent_Usd350to399	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $350 to $399
+RentOcpHsUntHhWht_WCashRent_Usd400to449	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $400 to $449
+RentOcpHsUntHhWht_WCashRent_Usd450to499	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $450 to $499
+RentOcpHsUntHhWht_WCashRent_Usd500to549	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $500 to $549
+RentOcpHsUntHhWht_WCashRent_Usd550to599	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $550 to $599
+RentOcpHsUntHhWht_WCashRent_Usd600to649	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $600 to $649
+RentOcpHsUntHhWht_WCashRent_Usd650to699	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $650 to $699
+RentOcpHsUntHhWht_WCashRent_Usd700to749	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $700 to $749
+RentOcpHsUntHhWht_WCashRent_Usd750to799	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $750 to $799
+RentOcpHsUntHhWht_WCashRent_Usd800to899	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $800 to $899
+RentOcpHsUntHhWht_WCashRent_Usd900to999	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $900 to $999
+RentOcpHsUntHhWht_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $1,000 to $1,249
+RentOcpHsUntHhWht_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $1,250 to $1,499
+RentOcpHsUntHhWht_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $1,500 to $1,999
+RentOcpHsUntHhWht_WCashRent_Usd2korM	Specified renter-occupied housing units with a householder who is White alone: With cash rent: $2,000 or more
+RentOcpHsUntHhWht_NoCashRent	Specified renter-occupied housing units with a householder who is White alone: No cash rent
+RentOcpHsUntHhBlkAfAm_Tot	Specified renter-occupied housing units with a householder who is Black or African American alone: Total:
+RentOcpHsUntHhBlkAfAm_WCashRent	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent:
+RentOcpHsUntHhBlkAfAm_WCashRent_Lt$100	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: Less than $100
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd100to149	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $100 to $149
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd150to199	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $150 to $199
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd200to249	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $200 to $249
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd250to299	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $250 to $299
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd300to349	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $300 to $349
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd350to399	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $350 to $399
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd400to449	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $400 to $449
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd450to499	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $450 to $499
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd500to549	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $500 to $549
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd550to599	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $550 to $599
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd600to649	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $600 to $649
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd650to699	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $650 to $699
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd700to749	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $700 to $749
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd750to799	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $750 to $799
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd800to899	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $800 to $899
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd900to999	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $900 to $999
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $1,000 to $1,249
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $1,250 to $1,499
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $1,500 to $1,999
+RentOcpHsUntHhBlkAfAm_WCashRent_Usd2korM	Specified renter-occupied housing units with a householder who is Black or African American alone: With cash rent: $2,000 or more
+RentOcpHsUntHhBlkAfAm_NoCashRent	Specified renter-occupied housing units with a householder who is Black or African American alone: No cash rent
+RentOcpHsUntHhAmIndAkNat_Tot	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+RentOcpHsUntHhAmIndAkNat_WCashRent	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent:
+RentOcpHsUntHhAmIndAkNat_WCashRent_Lt$100	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: Less than $100
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd100to149	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $100 to $149
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd150to199	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $150 to $199
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd200to249	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $200 to $249
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd250to299	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $250 to $299
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd300to349	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $300 to $349
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd350to399	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $350 to $399
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd400to449	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $400 to $449
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd450to499	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $450 to $499
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd500to549	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $500 to $549
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd550to599	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $550 to $599
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd600to649	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $600 to $649
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd650to699	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $650 to $699
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd700to749	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $700 to $749
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd750to799	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $750 to $799
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd800to899	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $800 to $899
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd900to999	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $900 to $999
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $1,000 to $1,249
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $1,250 to $1,499
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $1,500 to $1,999
+RentOcpHsUntHhAmIndAkNat_WCashRent_Usd2korM	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: With cash rent: $2,000 or more
+RentOcpHsUntHhAmIndAkNat_NoCashRent	Specified renter-occupied housing units with a householder who is American Indian and Alaska Native alone: No cash rent
+RentOcpHsUntRentHhAsn_Tot	Specified renter-occupied housing units rent with a householder who is Asian alone: Total:
+RentOcpHsUntRentHhAsn_WCashRent	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent:
+RentOcpHsUntRentHhAsn_WCashRent_Lt$100	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: Less than $100
+RentOcpHsUntRentHhAsn_WCashRent_Usd100to149	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $100 to $149
+RentOcpHsUntRentHhAsn_WCashRent_Usd150to199	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $150 to $199
+RentOcpHsUntRentHhAsn_WCashRent_Usd200to249	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $200 to $249
+RentOcpHsUntRentHhAsn_WCashRent_Usd250to299	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $250 to $299
+RentOcpHsUntRentHhAsn_WCashRent_Usd300to349	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $300 to $349
+RentOcpHsUntRentHhAsn_WCashRent_Usd350to399	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $350 to $399
+RentOcpHsUntRentHhAsn_WCashRent_Usd400to449	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $400 to $449
+RentOcpHsUntRentHhAsn_WCashRent_Usd450to499	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $450 to $499
+RentOcpHsUntRentHhAsn_WCashRent_Usd500to549	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $500 to $549
+RentOcpHsUntRentHhAsn_WCashRent_Usd550to599	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $550 to $599
+RentOcpHsUntRentHhAsn_WCashRent_Usd600to649	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $600 to $649
+RentOcpHsUntRentHhAsn_WCashRent_Usd650to699	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $650 to $699
+RentOcpHsUntRentHhAsn_WCashRent_Usd700to749	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $700 to $749
+RentOcpHsUntRentHhAsn_WCashRent_Usd750to799	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $750 to $799
+RentOcpHsUntRentHhAsn_WCashRent_Usd800to899	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $800 to $899
+RentOcpHsUntRentHhAsn_WCashRent_Usd900to999	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $900 to $999
+RentOcpHsUntRentHhAsn_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $1,000 to $1,249
+RentOcpHsUntRentHhAsn_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $1,250 to $1,499
+RentOcpHsUntRentHhAsn_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $1,500 to $1,999
+RentOcpHsUntRentHhAsn_WCashRent_Usd2korM	Specified renter-occupied housing units rent with a householder who is Asian alone: With cash rent: $2,000 or more
+RentOcpHsUntRentHhAsn_NoCashRent	Specified renter-occupied housing units rent with a householder who is Asian alone: No cash rent

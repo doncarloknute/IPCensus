@@ -1,0 +1,243 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtPopGte25y_Tot	White alone population 25 years and over: Total:
+WhtPopGte25y_Mle	White alone population 25 years and over: Male:
+WhtPopGte25y_Mle_Lt9thGr	White alone population 25 years and over: Male: Less than 9th grade
+WhtPopGte25y_Mle_9thto12thGrNoDip	White alone population 25 years and over: Male: 9th to 12th grade, no diploma
+WhtPopGte25y_Mle_HighSchGradEquiv	White alone population 25 years and over: Male: High school graduate (includes equivalency)
+WhtPopGte25y_Mle_SmeCollNoDeg	White alone population 25 years and over: Male: Some college, no degree
+WhtPopGte25y_Mle_AssDeg	White alone population 25 years and over: Male: Associate degree
+WhtPopGte25y_Mle_BacDeg	White alone population 25 years and over: Male: Bachelor's degree
+WhtPopGte25y_Mle_GradProfDeg	White alone population 25 years and over: Male: Graduate or professional degree
+WhtPopGte25y_Fem	White alone population 25 years and over: Female:
+WhtPopGte25y_Fem_Lt9thGr	White alone population 25 years and over: Female: Less than 9th grade
+WhtPopGte25y_Fem_9thto12thGrNoDip	White alone population 25 years and over: Female: 9th to 12th grade, no diploma
+WhtPopGte25y_Fem_HighSchGradEquiv	White alone population 25 years and over: Female: High school graduate (includes equivalency)
+WhtPopGte25y_Fem_SmeCollNoDeg	White alone population 25 years and over: Female: Some college, no degree
+WhtPopGte25y_Fem_AssDeg	White alone population 25 years and over: Female: Associate degree
+WhtPopGte25y_Fem_BacDeg	White alone population 25 years and over: Female: Bachelor's degree
+WhtPopGte25y_Fem_GradProfDeg	White alone population 25 years and over: Female: Graduate or professional degree
+BlkAfAmPopGte25y_Tot	Black or African American alone population 25 years and over: Total:
+BlkAfAmPopGte25y_Mle	Black or African American alone population 25 years and over: Male:
+BlkAfAmPopGte25y_Mle_Lt9thGr	Black or African American alone population 25 years and over: Male: Less than 9th grade
+BlkAfAmPopGte25y_Mle_9thto12thGrNoDip	Black or African American alone population 25 years and over: Male: 9th to 12th grade, no diploma
+BlkAfAmPopGte25y_Mle_HighSchGradEquiv	Black or African American alone population 25 years and over: Male: High school graduate (includes equivalency)
+BlkAfAmPopGte25y_Mle_SmeCollNoDeg	Black or African American alone population 25 years and over: Male: Some college, no degree
+BlkAfAmPopGte25y_Mle_AssDeg	Black or African American alone population 25 years and over: Male: Associate degree
+BlkAfAmPopGte25y_Mle_BacDeg	Black or African American alone population 25 years and over: Male: Bachelor's degree
+BlkAfAmPopGte25y_Mle_GradProfDeg	Black or African American alone population 25 years and over: Male: Graduate or professional degree
+BlkAfAmPopGte25y_Fem	Black or African American alone population 25 years and over: Female:
+BlkAfAmPopGte25y_Fem_Lt9thGr	Black or African American alone population 25 years and over: Female: Less than 9th grade
+BlkAfAmPopGte25y_Fem_9thto12thGrNoDip	Black or African American alone population 25 years and over: Female: 9th to 12th grade, no diploma
+BlkAfAmPopGte25y_Fem_HighSchGradEquiv	Black or African American alone population 25 years and over: Female: High school graduate (includes equivalency)
+BlkAfAmPopGte25y_Fem_SmeCollNoDeg	Black or African American alone population 25 years and over: Female: Some college, no degree
+BlkAfAmPopGte25y_Fem_AssDeg	Black or African American alone population 25 years and over: Female: Associate degree
+BlkAfAmPopGte25y_Fem_BacDeg	Black or African American alone population 25 years and over: Female: Bachelor's degree
+BlkAfAmPopGte25y_Fem_GradProfDeg	Black or African American alone population 25 years and over: Female: Graduate or professional degree
+AmIndAkNatPopGte25y_Tot	American Indian and Alaska Native alone population 25 years and over: Total:
+AmIndAkNatPopGte25y_Mle	American Indian and Alaska Native alone population 25 years and over: Male:
+AmIndAkNatPopGte25y_Mle_Lt9thGr	American Indian and Alaska Native alone population 25 years and over: Male: Less than 9th grade
+AmIndAkNatPopGte25y_Mle_9thto12thGrNoDip	American Indian and Alaska Native alone population 25 years and over: Male: 9th to 12th grade, no diploma
+AmIndAkNatPopGte25y_Mle_HighSchGradEquiv	American Indian and Alaska Native alone population 25 years and over: Male: High school graduate (includes equivalency)
+AmIndAkNatPopGte25y_Mle_SmeCollNoDeg	American Indian and Alaska Native alone population 25 years and over: Male: Some college, no degree
+AmIndAkNatPopGte25y_Mle_AssDeg	American Indian and Alaska Native alone population 25 years and over: Male: Associate degree
+AmIndAkNatPopGte25y_Mle_BacDeg	American Indian and Alaska Native alone population 25 years and over: Male: Bachelor's degree
+AmIndAkNatPopGte25y_Mle_GradProfDeg	American Indian and Alaska Native alone population 25 years and over: Male: Graduate or professional degree
+AmIndAkNatPopGte25y_Fem	American Indian and Alaska Native alone population 25 years and over: Female:
+AmIndAkNatPopGte25y_Fem_Lt9thGr	American Indian and Alaska Native alone population 25 years and over: Female: Less than 9th grade
+AmIndAkNatPopGte25y_Fem_9thto12thGrNoDip	American Indian and Alaska Native alone population 25 years and over: Female: 9th to 12th grade, no diploma
+AmIndAkNatPopGte25y_Fem_HighSchGradEquiv	American Indian and Alaska Native alone population 25 years and over: Female: High school graduate (includes equivalency)
+AmIndAkNatPopGte25y_Fem_SmeCollNoDeg	American Indian and Alaska Native alone population 25 years and over: Female: Some college, no degree
+AmIndAkNatPopGte25y_Fem_AssDeg	American Indian and Alaska Native alone population 25 years and over: Female: Associate degree
+AmIndAkNatPopGte25y_Fem_BacDeg	American Indian and Alaska Native alone population 25 years and over: Female: Bachelor's degree
+AmIndAkNatPopGte25y_Fem_GradProfDeg	American Indian and Alaska Native alone population 25 years and over: Female: Graduate or professional degree
+AsnPopGte25y_Tot	Asian alone population 25 years and over: Total:
+AsnPopGte25y_Mle	Asian alone population 25 years and over: Male:
+AsnPopGte25y_Mle_Lt9thGr	Asian alone population 25 years and over: Male: Less than 9th grade
+AsnPopGte25y_Mle_9thto12thGrNoDip	Asian alone population 25 years and over: Male: 9th to 12th grade, no diploma
+AsnPopGte25y_Mle_HighSchGradEquiv	Asian alone population 25 years and over: Male: High school graduate (includes equivalency)
+AsnPopGte25y_Mle_SmeCollNoDeg	Asian alone population 25 years and over: Male: Some college, no degree
+AsnPopGte25y_Mle_AssDeg	Asian alone population 25 years and over: Male: Associate degree
+AsnPopGte25y_Mle_BacDeg	Asian alone population 25 years and over: Male: Bachelor's degree
+AsnPopGte25y_Mle_GradProfDeg	Asian alone population 25 years and over: Male: Graduate or professional degree
+AsnPopGte25y_Fem	Asian alone population 25 years and over: Female:
+AsnPopGte25y_Fem_Lt9thGr	Asian alone population 25 years and over: Female: Less than 9th grade
+AsnPopGte25y_Fem_9thto12thGrNoDip	Asian alone population 25 years and over: Female: 9th to 12th grade, no diploma
+AsnPopGte25y_Fem_HighSchGradEquiv	Asian alone population 25 years and over: Female: High school graduate (includes equivalency)
+AsnPopGte25y_Fem_SmeCollNoDeg	Asian alone population 25 years and over: Female: Some college, no degree
+AsnPopGte25y_Fem_AssDeg	Asian alone population 25 years and over: Female: Associate degree
+AsnPopGte25y_Fem_BacDeg	Asian alone population 25 years and over: Female: Bachelor's degree
+AsnPopGte25y_Fem_GradProfDeg	Asian alone population 25 years and over: Female: Graduate or professional degree
+NatHiPacIslPopGte25y_Tot	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Total:
+NatHiPacIslPopGte25y_Mle	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male:
+NatHiPacIslPopGte25y_Mle_Lt9thGr	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: Less than 9th grade
+NatHiPacIslPopGte25y_Mle_9thto12thGrNoDip	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: 9th to 12th grade, no diploma
+NatHiPacIslPopGte25y_Mle_HighSchGradEquiv	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: High school graduate (includes equivalency)
+NatHiPacIslPopGte25y_Mle_SmeCollNoDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: Some college, no degree
+NatHiPacIslPopGte25y_Mle_AssDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: Associate degree
+NatHiPacIslPopGte25y_Mle_BacDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: Bachelor's degree
+NatHiPacIslPopGte25y_Mle_GradProfDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Male: Graduate or professional degree
+NatHiPacIslPopGte25y_Fem	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female:
+NatHiPacIslPopGte25y_Fem_Lt9thGr	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: Less than 9th grade
+NatHiPacIslPopGte25y_Fem_9thto12thGrNoDip	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: 9th to 12th grade, no diploma
+NatHiPacIslPopGte25y_Fem_HighSchGradEquiv	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: High school graduate (includes equivalency)
+NatHiPacIslPopGte25y_Fem_SmeCollNoDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: Some college, no degree
+NatHiPacIslPopGte25y_Fem_AssDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: Associate degree
+NatHiPacIslPopGte25y_Fem_BacDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: Bachelor's degree
+NatHiPacIslPopGte25y_Fem_GradProfDeg	Native Hawaiian and Other Pacific Islander alone population 25 years and over: Female: Graduate or professional degree
+OthRcePopGte25y_Tot	Some other race alone population 25 years and over: Total:
+OthRcePopGte25y_Mle	Some other race alone population 25 years and over: Male:
+OthRcePopGte25y_Mle_Lt9thGr	Some other race alone population 25 years and over: Male: Less than 9th grade
+OthRcePopGte25y_Mle_9thto12thGrNoDip	Some other race alone population 25 years and over: Male: 9th to 12th grade, no diploma
+OthRcePopGte25y_Mle_HighSchGradEquiv	Some other race alone population 25 years and over: Male: High school graduate (includes equivalency)
+OthRcePopGte25y_Mle_SmeCollNoDeg	Some other race alone population 25 years and over: Male: Some college, no degree
+OthRcePopGte25y_Mle_AssDeg	Some other race alone population 25 years and over: Male: Associate degree
+OthRcePopGte25y_Mle_BacDeg	Some other race alone population 25 years and over: Male: Bachelor's degree
+OthRcePopGte25y_Mle_GradProfDeg	Some other race alone population 25 years and over: Male: Graduate or professional degree
+OthRcePopGte25y_Fem	Some other race alone population 25 years and over: Female:
+OthRcePopGte25y_Fem_Lt9thGr	Some other race alone population 25 years and over: Female: Less than 9th grade
+OthRcePopGte25y_Fem_9thto12thGrNoDip	Some other race alone population 25 years and over: Female: 9th to 12th grade, no diploma
+OthRcePopGte25y_Fem_HighSchGradEquiv	Some other race alone population 25 years and over: Female: High school graduate (includes equivalency)
+OthRcePopGte25y_Fem_SmeCollNoDeg	Some other race alone population 25 years and over: Female: Some college, no degree
+OthRcePopGte25y_Fem_AssDeg	Some other race alone population 25 years and over: Female: Associate degree
+OthRcePopGte25y_Fem_BacDeg	Some other race alone population 25 years and over: Female: Bachelor's degree
+OthRcePopGte25y_Fem_GradProfDeg	Some other race alone population 25 years and over: Female: Graduate or professional degree
+Gte2RcePopGte25y_Tot	Two or more races population 25 years and over: Total:
+Gte2RcePopGte25y_Mle	Two or more races population 25 years and over: Male:
+Gte2RcePopGte25y_Mle_Lt9thGr	Two or more races population 25 years and over: Male: Less than 9th grade
+Gte2RcePopGte25y_Mle_9thto12thGrNoDip	Two or more races population 25 years and over: Male: 9th to 12th grade, no diploma
+Gte2RcePopGte25y_Mle_HighSchGradEquiv	Two or more races population 25 years and over: Male: High school graduate (includes equivalency)
+Gte2RcePopGte25y_Mle_SmeCollNoDeg	Two or more races population 25 years and over: Male: Some college, no degree
+Gte2RcePopGte25y_Mle_AssDeg	Two or more races population 25 years and over: Male: Associate degree
+Gte2RcePopGte25y_Mle_BacDeg	Two or more races population 25 years and over: Male: Bachelor's degree
+Gte2RcePopGte25y_Mle_GradProfDeg	Two or more races population 25 years and over: Male: Graduate or professional degree
+Gte2RcePopGte25y_Fem	Two or more races population 25 years and over: Female:
+Gte2RcePopGte25y_Fem_Lt9thGr	Two or more races population 25 years and over: Female: Less than 9th grade
+Gte2RcePopGte25y_Fem_9thto12thGrNoDip	Two or more races population 25 years and over: Female: 9th to 12th grade, no diploma
+Gte2RcePopGte25y_Fem_HighSchGradEquiv	Two or more races population 25 years and over: Female: High school graduate (includes equivalency)
+Gte2RcePopGte25y_Fem_SmeCollNoDeg	Two or more races population 25 years and over: Female: Some college, no degree
+Gte2RcePopGte25y_Fem_AssDeg	Two or more races population 25 years and over: Female: Associate degree
+Gte2RcePopGte25y_Fem_BacDeg	Two or more races population 25 years and over: Female: Bachelor's degree
+Gte2RcePopGte25y_Fem_GradProfDeg	Two or more races population 25 years and over: Female: Graduate or professional degree
+HispPopGte25y_Tot	Hispanic or Latino population 25 years and over: Total:
+HispPopGte25y_Mle	Hispanic or Latino population 25 years and over: Male:
+HispPopGte25y_Mle_Lt9thGr	Hispanic or Latino population 25 years and over: Male: Less than 9th grade
+HispPopGte25y_Mle_9thto12thGrNoDip	Hispanic or Latino population 25 years and over: Male: 9th to 12th grade, no diploma
+HispPopGte25y_Mle_HighSchGradEquiv	Hispanic or Latino population 25 years and over: Male: High school graduate (includes equivalency)
+HispPopGte25y_Mle_SmeCollNoDeg	Hispanic or Latino population 25 years and over: Male: Some college, no degree
+HispPopGte25y_Mle_AssDeg	Hispanic or Latino population 25 years and over: Male: Associate degree
+HispPopGte25y_Mle_BacDeg	Hispanic or Latino population 25 years and over: Male: Bachelor's degree
+HispPopGte25y_Mle_GradProfDeg	Hispanic or Latino population 25 years and over: Male: Graduate or professional degree
+HispPopGte25y_Fem	Hispanic or Latino population 25 years and over: Female:
+HispPopGte25y_Fem_Lt9thGr	Hispanic or Latino population 25 years and over: Female: Less than 9th grade
+HispPopGte25y_Fem_9thto12thGrNoDip	Hispanic or Latino population 25 years and over: Female: 9th to 12th grade, no diploma
+HispPopGte25y_Fem_HighSchGradEquiv	Hispanic or Latino population 25 years and over: Female: High school graduate (includes equivalency)
+HispPopGte25y_Fem_SmeCollNoDeg	Hispanic or Latino population 25 years and over: Female: Some college, no degree
+HispPopGte25y_Fem_AssDeg	Hispanic or Latino population 25 years and over: Female: Associate degree
+HispPopGte25y_Fem_BacDeg	Hispanic or Latino population 25 years and over: Female: Bachelor's degree
+HispPopGte25y_Fem_GradProfDeg	Hispanic or Latino population 25 years and over: Female: Graduate or professional degree
+WhtNotHispPopGte25y_Tot	White alone, not Hispanic or Latino population 25 years and over: Total:
+WhtNotHispPopGte25y_Mle	White alone, not Hispanic or Latino population 25 years and over: Male:
+WhtNotHispPopGte25y_Mle_Lt9thGr	White alone, not Hispanic or Latino population 25 years and over: Male: Less than 9th grade
+WhtNotHispPopGte25y_Mle_9thto12thGrNoDip	White alone, not Hispanic or Latino population 25 years and over: Male: 9th to 12th grade, no diploma
+WhtNotHispPopGte25y_Mle_HighSchGradEquiv	White alone, not Hispanic or Latino population 25 years and over: Male: High school graduate (includes equivalency)
+WhtNotHispPopGte25y_Mle_SmeCollNoDeg	White alone, not Hispanic or Latino population 25 years and over: Male: Some college, no degree
+WhtNotHispPopGte25y_Mle_AssDeg	White alone, not Hispanic or Latino population 25 years and over: Male: Associate degree
+WhtNotHispPopGte25y_Mle_BacDeg	White alone, not Hispanic or Latino population 25 years and over: Male: Bachelor's degree
+WhtNotHispPopGte25y_Mle_GradProfDeg	White alone, not Hispanic or Latino population 25 years and over: Male: Graduate or professional degree
+WhtNotHispPopGte25y_Fem	White alone, not Hispanic or Latino population 25 years and over: Female:
+WhtNotHispPopGte25y_Fem_Lt9thGr	White alone, not Hispanic or Latino population 25 years and over: Female: Less than 9th grade
+WhtNotHispPopGte25y_Fem_9thto12thGrNoDip	White alone, not Hispanic or Latino population 25 years and over: Female: 9th to 12th grade, no diploma
+WhtNotHispPopGte25y_Fem_HighSchGradEquiv	White alone, not Hispanic or Latino population 25 years and over: Female: High school graduate (includes equivalency)
+WhtNotHispPopGte25y_Fem_SmeCollNoDeg	White alone, not Hispanic or Latino population 25 years and over: Female: Some college, no degree
+WhtNotHispPopGte25y_Fem_AssDeg	White alone, not Hispanic or Latino population 25 years and over: Female: Associate degree
+WhtNotHispPopGte25y_Fem_BacDeg	White alone, not Hispanic or Latino population 25 years and over: Female: Bachelor's degree
+WhtNotHispPopGte25y_Fem_GradProfDeg	White alone, not Hispanic or Latino population 25 years and over: Female: Graduate or professional degree
+WhtPop16to19y_Tot	White alone population 16 to 19 years: Total:
+WhtPop16to19y_ArmForce	White alone population 16 to 19 years: In Armed Forces:
+WhtPop16to19y_ArmForce_ErldSch	White alone population 16 to 19 years: In Armed Forces: Enrolled in school:
+WhtPop16to19y_ArmForce_ErldSch_HighSchGrad	White alone population 16 to 19 years: In Armed Forces: Enrolled in school: High school graduate
+WhtPop16to19y_ArmForce_ErldSch_NotHighSchlGrad	White alone population 16 to 19 years: In Armed Forces: Enrolled in school: Not high school graduate
+WhtPop16to19y_ArmForce_NotEnrldSchl	White alone population 16 to 19 years: In Armed Forces: Not enrolled in school:
+WhtPop16to19y_ArmForce_NotEnrldSchl_HighSchGrad	White alone population 16 to 19 years: In Armed Forces: Not enrolled in school: High school graduate
+WhtPop16to19y_ArmForce_NotEnrldSchl_NotHighSchlGrad	White alone population 16 to 19 years: In Armed Forces: Not enrolled in school: Not high school graduate
+WhtPop16to19y_Civ	White alone population 16 to 19 years: Civilian:
+WhtPop16to19y_Civ_ErldSch	White alone population 16 to 19 years: Civilian: Enrolled in school:
+WhtPop16to19y_Civ_ErldSch_Empl	White alone population 16 to 19 years: Civilian: Enrolled in school: Employed
+WhtPop16to19y_Civ_ErldSch_Unempl	White alone population 16 to 19 years: Civilian: Enrolled in school: Unemployed
+WhtPop16to19y_Civ_ErldSch_NotLabrFor	White alone population 16 to 19 years: Civilian: Enrolled in school: Not in labor force
+WhtPop16to19y_Civ_NotEnrldSchl	White alone population 16 to 19 years: Civilian: Not enrolled in school:
+WhtPop16to19y_Civ_NotEnrldSchl_HighSchGrad	White alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate:
+WhtPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Empl	White alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Employed
+WhtPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Unempl	White alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Unemployed
+WhtPop16to19y_Civ_NotEnrldSchl_HighSchGrad_NotLabrFor	White alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Not in labor force
+WhtPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad	White alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate:
+WhtPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Empl	White alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Employed
+WhtPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Unempl	White alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Unemployed
+WhtPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_NotLabrFor	White alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Not in labor force
+BlkAfAmPop16to19y_Tot	Black or African American alone population 16 to 19 years: Total:
+BlkAfAmPop16to19y_ArmForce	Black or African American alone population 16 to 19 years: In Armed Forces:
+BlkAfAmPop16to19y_ArmForce_ErldSch	Black or African American alone population 16 to 19 years: In Armed Forces: Enrolled in school:
+BlkAfAmPop16to19y_ArmForce_ErldSch_HighSchGrad	Black or African American alone population 16 to 19 years: In Armed Forces: Enrolled in school: High school graduate
+BlkAfAmPop16to19y_ArmForce_ErldSch_NotHighSchlGrad	Black or African American alone population 16 to 19 years: In Armed Forces: Enrolled in school: Not high school graduate
+BlkAfAmPop16to19y_ArmForce_NotEnrldSchl	Black or African American alone population 16 to 19 years: In Armed Forces: Not enrolled in school:
+BlkAfAmPop16to19y_ArmForce_NotEnrldSchl_HighSchGrad	Black or African American alone population 16 to 19 years: In Armed Forces: Not enrolled in school: High school graduate
+BlkAfAmPop16to19y_ArmForce_NotEnrldSchl_NotHighSchlGrad	Black or African American alone population 16 to 19 years: In Armed Forces: Not enrolled in school: Not high school graduate
+BlkAfAmPop16to19y_Civ	Black or African American alone population 16 to 19 years: Civilian:
+BlkAfAmPop16to19y_Civ_ErldSch	Black or African American alone population 16 to 19 years: Civilian: Enrolled in school:
+BlkAfAmPop16to19y_Civ_ErldSch_Empl	Black or African American alone population 16 to 19 years: Civilian: Enrolled in school: Employed
+BlkAfAmPop16to19y_Civ_ErldSch_Unempl	Black or African American alone population 16 to 19 years: Civilian: Enrolled in school: Unemployed
+BlkAfAmPop16to19y_Civ_ErldSch_NotLabrFor	Black or African American alone population 16 to 19 years: Civilian: Enrolled in school: Not in labor force
+BlkAfAmPop16to19y_Civ_NotEnrldSchl	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school:
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_HighSchGrad	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate:
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Empl	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Employed
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Unempl	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Unemployed
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_HighSchGrad_NotLabrFor	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Not in labor force
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate:
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Empl	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Employed
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Unempl	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Unemployed
+BlkAfAmPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_NotLabrFor	Black or African American alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Not in labor force
+AmIndAkNatPop16to19y_Tot	American Indian and Alaska Native alone population 16 to 19 years: Total:
+AmIndAkNatPop16to19y_ArmForce	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces:
+AmIndAkNatPop16to19y_ArmForce_ErldSch	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Enrolled in school:
+AmIndAkNatPop16to19y_ArmForce_ErldSch_HighSchGrad	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Enrolled in school: High school graduate
+AmIndAkNatPop16to19y_ArmForce_ErldSch_NotHighSchlGrad	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Enrolled in school: Not high school graduate
+AmIndAkNatPop16to19y_ArmForce_NotEnrldSchl	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Not enrolled in school:
+AmIndAkNatPop16to19y_ArmForce_NotEnrldSchl_HighSchGrad	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Not enrolled in school: High school graduate
+AmIndAkNatPop16to19y_ArmForce_NotEnrldSchl_NotHighSchlGrad	American Indian and Alaska Native alone population 16 to 19 years: In Armed Forces: Not enrolled in school: Not high school graduate
+AmIndAkNatPop16to19y_Civ	American Indian and Alaska Native alone population 16 to 19 years: Civilian:
+AmIndAkNatPop16to19y_Civ_ErldSch	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Enrolled in school:
+AmIndAkNatPop16to19y_Civ_ErldSch_Empl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Enrolled in school: Employed
+AmIndAkNatPop16to19y_Civ_ErldSch_Unempl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Enrolled in school: Unemployed
+AmIndAkNatPop16to19y_Civ_ErldSch_NotLabrFor	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Enrolled in school: Not in labor force
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school:
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_HighSchGrad	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate:
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Empl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Employed
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Unempl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Unemployed
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_HighSchGrad_NotLabrFor	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Not in labor force
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate:
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Empl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Employed
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Unempl	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Unemployed
+AmIndAkNatPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_NotLabrFor	American Indian and Alaska Native alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Not in labor force
+AsnPop16to19y_Tot	Asian alone population 16 to 19 years: Total:
+AsnPop16to19y_ArmForce	Asian alone population 16 to 19 years: In Armed Forces:
+AsnPop16to19y_ArmForce_ErldSch	Asian alone population 16 to 19 years: In Armed Forces: Enrolled in school:
+AsnPop16to19y_ArmForce_ErldSch_HighSchGrad	Asian alone population 16 to 19 years: In Armed Forces: Enrolled in school: High school graduate
+AsnPop16to19y_ArmForce_ErldSch_NotHighSchlGrad	Asian alone population 16 to 19 years: In Armed Forces: Enrolled in school: Not high school graduate
+AsnPop16to19y_ArmForce_NotEnrldSchl	Asian alone population 16 to 19 years: In Armed Forces: Not enrolled in school:
+AsnPop16to19y_ArmForce_NotEnrldSchl_HighSchGrad	Asian alone population 16 to 19 years: In Armed Forces: Not enrolled in school: High school graduate
+AsnPop16to19y_ArmForce_NotEnrldSchl_NotHighSchlGrad	Asian alone population 16 to 19 years: In Armed Forces: Not enrolled in school: Not high school graduate
+AsnPop16to19y_Civ	Asian alone population 16 to 19 years: Civilian:
+AsnPop16to19y_Civ_ErldSch	Asian alone population 16 to 19 years: Civilian: Enrolled in school:
+AsnPop16to19y_Civ_ErldSch_Empl	Asian alone population 16 to 19 years: Civilian: Enrolled in school: Employed
+AsnPop16to19y_Civ_ErldSch_Unempl	Asian alone population 16 to 19 years: Civilian: Enrolled in school: Unemployed
+AsnPop16to19y_Civ_ErldSch_NotLabrFor	Asian alone population 16 to 19 years: Civilian: Enrolled in school: Not in labor force
+AsnPop16to19y_Civ_NotEnrldSchl	Asian alone population 16 to 19 years: Civilian: Not enrolled in school:
+AsnPop16to19y_Civ_NotEnrldSchl_HighSchGrad	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate:
+AsnPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Empl	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Employed
+AsnPop16to19y_Civ_NotEnrldSchl_HighSchGrad_Unempl	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Unemployed
+AsnPop16to19y_Civ_NotEnrldSchl_HighSchGrad_NotLabrFor	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Not in labor force
+AsnPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate:
+AsnPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Empl	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Employed
+AsnPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Unempl	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Unemployed
+AsnPop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_NotLabrFor	Asian alone population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Not in labor force

@@ -1,0 +1,241 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HHWHhWht_Tot	Households with a householder who is White alone: Total:
+HHWHhWht_LtUsd10k	Households with a householder who is White alone: Less than $10,000
+HHWHhWht_Usd10kto15k	Households with a householder who is White alone: $10,000 to $14,999
+HHWHhWht_Usd15kto20k	Households with a householder who is White alone: $15,000 to $19,999
+HHWHhWht_Usd20kto25k	Households with a householder who is White alone: $20,000 to $24,999
+HHWHhWht_Usd25kto30k	Households with a householder who is White alone: $25,000 to $29,999
+HHWHhWht_Usd30kto35k	Households with a householder who is White alone: $30,000 to $34,999
+HHWHhWht_Usd35kto40k	Households with a householder who is White alone: $35,000 to $39,999
+HHWHhWht_Usd40kto45k	Households with a householder who is White alone: $40,000 to $44,999
+HHWHhWht_Usd45kto50k	Households with a householder who is White alone: $45,000 to $49,999
+HHWHhWht_Usd50kto60k	Households with a householder who is White alone: $50,000 to $59,999
+HHWHhWht_Usd60kto75k	Households with a householder who is White alone: $60,000 to $74,999
+HHWHhWht_Usd75kto100k	Households with a householder who is White alone: $75,000 to $99,999
+HHWHhWht_Usd100kto125k	Households with a householder who is White alone: $100,000 to $124,999
+HHWHhWht_Usd125kto150k	Households with a householder who is White alone: $125,000 to $149,999
+HHWHhWht_Usd150kto200k	Households with a householder who is White alone: $150,000 to $199,999
+HHWHhWht_Usd200korM	Households with a householder who is White alone: $200,000 or more
+HHWHhBlkAfAm_Tot	Households with a householder who is Black or African American alone: Total:
+HHWHhBlkAfAm_LtUsd10k	Households with a householder who is Black or African American alone: Less than $10,000
+HHWHhBlkAfAm_Usd10kto15k	Households with a householder who is Black or African American alone: $10,000 to $14,999
+HHWHhBlkAfAm_Usd15kto20k	Households with a householder who is Black or African American alone: $15,000 to $19,999
+HHWHhBlkAfAm_Usd20kto25k	Households with a householder who is Black or African American alone: $20,000 to $24,999
+HHWHhBlkAfAm_Usd25kto30k	Households with a householder who is Black or African American alone: $25,000 to $29,999
+HHWHhBlkAfAm_Usd30kto35k	Households with a householder who is Black or African American alone: $30,000 to $34,999
+HHWHhBlkAfAm_Usd35kto40k	Households with a householder who is Black or African American alone: $35,000 to $39,999
+HHWHhBlkAfAm_Usd40kto45k	Households with a householder who is Black or African American alone: $40,000 to $44,999
+HHWHhBlkAfAm_Usd45kto50k	Households with a householder who is Black or African American alone: $45,000 to $49,999
+HHWHhBlkAfAm_Usd50kto60k	Households with a householder who is Black or African American alone: $50,000 to $59,999
+HHWHhBlkAfAm_Usd60kto75k	Households with a householder who is Black or African American alone: $60,000 to $74,999
+HHWHhBlkAfAm_Usd75kto100k	Households with a householder who is Black or African American alone: $75,000 to $99,999
+HHWHhBlkAfAm_Usd100kto125k	Households with a householder who is Black or African American alone: $100,000 to $124,999
+HHWHhBlkAfAm_Usd125kto150k	Households with a householder who is Black or African American alone: $125,000 to $149,999
+HHWHhBlkAfAm_Usd150kto200k	Households with a householder who is Black or African American alone: $150,000 to $199,999
+HHWHhBlkAfAm_Usd200korM	Households with a householder who is Black or African American alone: $200,000 or more
+HHWHhAmIndAkNat_Tot	Households with a householder who is American Indian and Alaska Native alone: Total:
+HHWHhAmIndAkNat_LtUsd10k	Households with a householder who is American Indian and Alaska Native alone: Less than $10,000
+HHWHhAmIndAkNat_Usd10kto15k	Households with a householder who is American Indian and Alaska Native alone: $10,000 to $14,999
+HHWHhAmIndAkNat_Usd15kto20k	Households with a householder who is American Indian and Alaska Native alone: $15,000 to $19,999
+HHWHhAmIndAkNat_Usd20kto25k	Households with a householder who is American Indian and Alaska Native alone: $20,000 to $24,999
+HHWHhAmIndAkNat_Usd25kto30k	Households with a householder who is American Indian and Alaska Native alone: $25,000 to $29,999
+HHWHhAmIndAkNat_Usd30kto35k	Households with a householder who is American Indian and Alaska Native alone: $30,000 to $34,999
+HHWHhAmIndAkNat_Usd35kto40k	Households with a householder who is American Indian and Alaska Native alone: $35,000 to $39,999
+HHWHhAmIndAkNat_Usd40kto45k	Households with a householder who is American Indian and Alaska Native alone: $40,000 to $44,999
+HHWHhAmIndAkNat_Usd45kto50k	Households with a householder who is American Indian and Alaska Native alone: $45,000 to $49,999
+HHWHhAmIndAkNat_Usd50kto60k	Households with a householder who is American Indian and Alaska Native alone: $50,000 to $59,999
+HHWHhAmIndAkNat_Usd60kto75k	Households with a householder who is American Indian and Alaska Native alone: $60,000 to $74,999
+HHWHhAmIndAkNat_Usd75kto100k	Households with a householder who is American Indian and Alaska Native alone: $75,000 to $99,999
+HHWHhAmIndAkNat_Usd100kto125k	Households with a householder who is American Indian and Alaska Native alone: $100,000 to $124,999
+HHWHhAmIndAkNat_Usd125kto150k	Households with a householder who is American Indian and Alaska Native alone: $125,000 to $149,999
+HHWHhAmIndAkNat_Usd150kto200k	Households with a householder who is American Indian and Alaska Native alone: $150,000 to $199,999
+HHWHhAmIndAkNat_Usd200korM	Households with a householder who is American Indian and Alaska Native alone: $200,000 or more
+HHWHhAsn_Tot	Households with a householder who is Asian alone: Total:
+HHWHhAsn_LtUsd10k	Households with a householder who is Asian alone: Less than $10,000
+HHWHhAsn_Usd10kto15k	Households with a householder who is Asian alone: $10,000 to $14,999
+HHWHhAsn_Usd15kto20k	Households with a householder who is Asian alone: $15,000 to $19,999
+HHWHhAsn_Usd20kto25k	Households with a householder who is Asian alone: $20,000 to $24,999
+HHWHhAsn_Usd25kto30k	Households with a householder who is Asian alone: $25,000 to $29,999
+HHWHhAsn_Usd30kto35k	Households with a householder who is Asian alone: $30,000 to $34,999
+HHWHhAsn_Usd35kto40k	Households with a householder who is Asian alone: $35,000 to $39,999
+HHWHhAsn_Usd40kto45k	Households with a householder who is Asian alone: $40,000 to $44,999
+HHWHhAsn_Usd45kto50k	Households with a householder who is Asian alone: $45,000 to $49,999
+HHWHhAsn_Usd50kto60k	Households with a householder who is Asian alone: $50,000 to $59,999
+HHWHhAsn_Usd60kto75k	Households with a householder who is Asian alone: $60,000 to $74,999
+HHWHhAsn_Usd75kto100k	Households with a householder who is Asian alone: $75,000 to $99,999
+HHWHhAsn_Usd100kto125k	Households with a householder who is Asian alone: $100,000 to $124,999
+HHWHhAsn_Usd125kto150k	Households with a householder who is Asian alone: $125,000 to $149,999
+HHWHhAsn_Usd150kto200k	Households with a householder who is Asian alone: $150,000 to $199,999
+HHWHhAsn_Usd200korM	Households with a householder who is Asian alone: $200,000 or more
+HHWHhNatHiPacIsl_Tot	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+HHWHhNatHiPacIsl_LtUsd10k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Less than $10,000
+HHWHhNatHiPacIsl_Usd10kto15k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $10,000 to $14,999
+HHWHhNatHiPacIsl_Usd15kto20k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $15,000 to $19,999
+HHWHhNatHiPacIsl_Usd20kto25k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $20,000 to $24,999
+HHWHhNatHiPacIsl_Usd25kto30k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $25,000 to $29,999
+HHWHhNatHiPacIsl_Usd30kto35k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $30,000 to $34,999
+HHWHhNatHiPacIsl_Usd35kto40k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $35,000 to $39,999
+HHWHhNatHiPacIsl_Usd40kto45k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $40,000 to $44,999
+HHWHhNatHiPacIsl_Usd45kto50k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $45,000 to $49,999
+HHWHhNatHiPacIsl_Usd50kto60k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $50,000 to $59,999
+HHWHhNatHiPacIsl_Usd60kto75k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $60,000 to $74,999
+HHWHhNatHiPacIsl_Usd75kto100k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $75,000 to $99,999
+HHWHhNatHiPacIsl_Usd100kto125k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $100,000 to $124,999
+HHWHhNatHiPacIsl_Usd125kto150k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $125,000 to $149,999
+HHWHhNatHiPacIsl_Usd150kto200k	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $150,000 to $199,999
+HHWHhNatHiPacIsl_Usd200korM	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: $200,000 or more
+HHWHhOthRce_Tot	Households with a householder who is Some other race alone: Total:
+HHWHhOthRce_LtUsd10k	Households with a householder who is Some other race alone: Less than $10,000
+HHWHhOthRce_Usd10kto15k	Households with a householder who is Some other race alone: $10,000 to $14,999
+HHWHhOthRce_Usd15kto20k	Households with a householder who is Some other race alone: $15,000 to $19,999
+HHWHhOthRce_Usd20kto25k	Households with a householder who is Some other race alone: $20,000 to $24,999
+HHWHhOthRce_Usd25kto30k	Households with a householder who is Some other race alone: $25,000 to $29,999
+HHWHhOthRce_Usd30kto35k	Households with a householder who is Some other race alone: $30,000 to $34,999
+HHWHhOthRce_Usd35kto40k	Households with a householder who is Some other race alone: $35,000 to $39,999
+HHWHhOthRce_Usd40kto45k	Households with a householder who is Some other race alone: $40,000 to $44,999
+HHWHhOthRce_Usd45kto50k	Households with a householder who is Some other race alone: $45,000 to $49,999
+HHWHhOthRce_Usd50kto60k	Households with a householder who is Some other race alone: $50,000 to $59,999
+HHWHhOthRce_Usd60kto75k	Households with a householder who is Some other race alone: $60,000 to $74,999
+HHWHhOthRce_Usd75kto100k	Households with a householder who is Some other race alone: $75,000 to $99,999
+HHWHhOthRce_Usd100kto125k	Households with a householder who is Some other race alone: $100,000 to $124,999
+HHWHhOthRce_Usd125kto150k	Households with a householder who is Some other race alone: $125,000 to $149,999
+HHWHhOthRce_Usd150kto200k	Households with a householder who is Some other race alone: $150,000 to $199,999
+HHWHhOthRce_Usd200korM	Households with a householder who is Some other race alone: $200,000 or more
+HHWHhGte2Rce_Tot	Households with a householder who is Two or more races: Total:
+HHWHhGte2Rce_LtUsd10k	Households with a householder who is Two or more races: Less than $10,000
+HHWHhGte2Rce_Usd10kto15k	Households with a householder who is Two or more races: $10,000 to $14,999
+HHWHhGte2Rce_Usd15kto20k	Households with a householder who is Two or more races: $15,000 to $19,999
+HHWHhGte2Rce_Usd20kto25k	Households with a householder who is Two or more races: $20,000 to $24,999
+HHWHhGte2Rce_Usd25kto30k	Households with a householder who is Two or more races: $25,000 to $29,999
+HHWHhGte2Rce_Usd30kto35k	Households with a householder who is Two or more races: $30,000 to $34,999
+HHWHhGte2Rce_Usd35kto40k	Households with a householder who is Two or more races: $35,000 to $39,999
+HHWHhGte2Rce_Usd40kto45k	Households with a householder who is Two or more races: $40,000 to $44,999
+HHWHhGte2Rce_Usd45kto50k	Households with a householder who is Two or more races: $45,000 to $49,999
+HHWHhGte2Rce_Usd50kto60k	Households with a householder who is Two or more races: $50,000 to $59,999
+HHWHhGte2Rce_Usd60kto75k	Households with a householder who is Two or more races: $60,000 to $74,999
+HHWHhGte2Rce_Usd75kto100k	Households with a householder who is Two or more races: $75,000 to $99,999
+HHWHhGte2Rce_Usd100kto125k	Households with a householder who is Two or more races: $100,000 to $124,999
+HHWHhGte2Rce_Usd125kto150k	Households with a householder who is Two or more races: $125,000 to $149,999
+HHWHhGte2Rce_Usd150kto200k	Households with a householder who is Two or more races: $150,000 to $199,999
+HHWHhGte2Rce_Usd200korM	Households with a householder who is Two or more races: $200,000 or more
+HHWHhHisp_Tot	Households with a householder who is Hispanic or Latino: Total:
+HHWHhHisp_LtUsd10k	Households with a householder who is Hispanic or Latino: Less than $10,000
+HHWHhHisp_Usd10kto15k	Households with a householder who is Hispanic or Latino: $10,000 to $14,999
+HHWHhHisp_Usd15kto20k	Households with a householder who is Hispanic or Latino: $15,000 to $19,999
+HHWHhHisp_Usd20kto25k	Households with a householder who is Hispanic or Latino: $20,000 to $24,999
+HHWHhHisp_Usd25kto30k	Households with a householder who is Hispanic or Latino: $25,000 to $29,999
+HHWHhHisp_Usd30kto35k	Households with a householder who is Hispanic or Latino: $30,000 to $34,999
+HHWHhHisp_Usd35kto40k	Households with a householder who is Hispanic or Latino: $35,000 to $39,999
+HHWHhHisp_Usd40kto45k	Households with a householder who is Hispanic or Latino: $40,000 to $44,999
+HHWHhHisp_Usd45kto50k	Households with a householder who is Hispanic or Latino: $45,000 to $49,999
+HHWHhHisp_Usd50kto60k	Households with a householder who is Hispanic or Latino: $50,000 to $59,999
+HHWHhHisp_Usd60kto75k	Households with a householder who is Hispanic or Latino: $60,000 to $74,999
+HHWHhHisp_Usd75kto100k	Households with a householder who is Hispanic or Latino: $75,000 to $99,999
+HHWHhHisp_Usd100kto125k	Households with a householder who is Hispanic or Latino: $100,000 to $124,999
+HHWHhHisp_Usd125kto150k	Households with a householder who is Hispanic or Latino: $125,000 to $149,999
+HHWHhHisp_Usd150kto200k	Households with a householder who is Hispanic or Latino: $150,000 to $199,999
+HHWHhHisp_Usd200korM	Households with a householder who is Hispanic or Latino: $200,000 or more
+HHWHhWhtNotHisp_Tot	Households with a householder who is White alone, not Hispanic or Latino: Total:
+HHWHhWhtNotHisp_LtUsd10k	Households with a householder who is White alone, not Hispanic or Latino: Less than $10,000
+HHWHhWhtNotHisp_Usd10kto15k	Households with a householder who is White alone, not Hispanic or Latino: $10,000 to $14,999
+HHWHhWhtNotHisp_Usd15kto20k	Households with a householder who is White alone, not Hispanic or Latino: $15,000 to $19,999
+HHWHhWhtNotHisp_Usd20kto25k	Households with a householder who is White alone, not Hispanic or Latino: $20,000 to $24,999
+HHWHhWhtNotHisp_Usd25kto30k	Households with a householder who is White alone, not Hispanic or Latino: $25,000 to $29,999
+HHWHhWhtNotHisp_Usd30kto35k	Households with a householder who is White alone, not Hispanic or Latino: $30,000 to $34,999
+HHWHhWhtNotHisp_Usd35kto40k	Households with a householder who is White alone, not Hispanic or Latino: $35,000 to $39,999
+HHWHhWhtNotHisp_Usd40kto45k	Households with a householder who is White alone, not Hispanic or Latino: $40,000 to $44,999
+HHWHhWhtNotHisp_Usd45kto50k	Households with a householder who is White alone, not Hispanic or Latino: $45,000 to $49,999
+HHWHhWhtNotHisp_Usd50kto60k	Households with a householder who is White alone, not Hispanic or Latino: $50,000 to $59,999
+HHWHhWhtNotHisp_Usd60kto75k	Households with a householder who is White alone, not Hispanic or Latino: $60,000 to $74,999
+HHWHhWhtNotHisp_Usd75kto100k	Households with a householder who is White alone, not Hispanic or Latino: $75,000 to $99,999
+HHWHhWhtNotHisp_Usd100kto125k	Households with a householder who is White alone, not Hispanic or Latino: $100,000 to $124,999
+HHWHhWhtNotHisp_Usd125kto150k	Households with a householder who is White alone, not Hispanic or Latino: $125,000 to $149,999
+HHWHhWhtNotHisp_Usd150kto200k	Households with a householder who is White alone, not Hispanic or Latino: $150,000 to $199,999
+HHWHhWhtNotHisp_Usd200korM	Households with a householder who is White alone, not Hispanic or Latino: $200,000 or more
+HHWHhWht_MedHHInc99	Households with a householder who is White alone: Median household income in 1999
+HHWHhBlkAfAm_MedHHInc99	Households with a householder who is Black or African American alone: Median household income in 1999
+HHWHhAmIndAkNat_MedHHInc99	Households with a householder who is American Indian and Alaska Native alone: Median household income in 1999
+HHWHhAsn_MedHHInc99	Households with a householder who is Asian alone: Median household income in 1999
+HHWHhNatHiPacIsl_MedHHInc99	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Median household income in 1999
+HHWHhOthRce_MedHHInc99	Households with a householder who is Some other race alone: Median household income in 1999
+HHWHhGte2Rce_MedHHInc99	Households with a householder who is Two or more races: Median household income in 1999
+HHWHhHisp_MedHHInc99	Households with a householder who is Hispanic or Latino: Median household income in 1999
+HHWHhWhtNotHisp_MedHHInc99	Households with a householder who is White alone, not Hispanic or Latino: Median household income in 1999
+HHWHhWht_AggHHInc99	Households with a householder who is White alone: Aggregate household income in 1999
+HHWHhBlkAfAm_AggHHInc99	Households with a householder who is Black or African American alone: Aggregate household income in 1999
+HHWHhAmIndAkNat_AggHHInc99	Households with a householder who is American Indian and Alaska Native alone: Aggregate household income in 1999
+HHWHhAsn_AggHHInc99	Households with a householder who is Asian alone: Aggregate household income in 1999
+HHWHhNatHiPacIsl_AggHHInc99	Households with a householder who is Native Hawaiian and Other Pacific Islander alone: Aggregate household income in 1999
+HHWHhOthRce_AggHHInc99	Households with a householder who is Some other race alone: Aggregate household income in 1999
+HHWHhGte2Rce_AggHHInc99	Households with a householder who is Two or more races: Aggregate household income in 1999
+HHWHhHisp_AggHHInc99	Households with a householder who is Hispanic or Latino: Aggregate household income in 1999
+HHWHhWhtNotHisp_AggHHInc99	Households with a householder who is White alone, not Hispanic or Latino: Aggregate household income in 1999
+FamWHhWht_Tot	Families with a householder who is White alone: Total:
+FamWHhWht_LtUsd10k	Families with a householder who is White alone: Less than $10,000
+FamWHhWht_Usd10kto15k	Families with a householder who is White alone: $10,000 to $14,999
+FamWHhWht_Usd15kto20k	Families with a householder who is White alone: $15,000 to $19,999
+FamWHhWht_Usd20kto25k	Families with a householder who is White alone: $20,000 to $24,999
+FamWHhWht_Usd25kto30k	Families with a householder who is White alone: $25,000 to $29,999
+FamWHhWht_Usd30kto35k	Families with a householder who is White alone: $30,000 to $34,999
+FamWHhWht_Usd35kto40k	Families with a householder who is White alone: $35,000 to $39,999
+FamWHhWht_Usd40kto45k	Families with a householder who is White alone: $40,000 to $44,999
+FamWHhWht_Usd45kto50k	Families with a householder who is White alone: $45,000 to $49,999
+FamWHhWht_Usd50kto60k	Families with a householder who is White alone: $50,000 to $59,999
+FamWHhWht_Usd60kto75k	Families with a householder who is White alone: $60,000 to $74,999
+FamWHhWht_Usd75kto100k	Families with a householder who is White alone: $75,000 to $99,999
+FamWHhWht_Usd100kto125k	Families with a householder who is White alone: $100,000 to $124,999
+FamWHhWht_Usd125kto150k	Families with a householder who is White alone: $125,000 to $149,999
+FamWHhWht_Usd150kto200k	Families with a householder who is White alone: $150,000 to $199,999
+FamWHhWht_Usd200korM	Families with a householder who is White alone: $200,000 or more
+FamWHhBlkAfAm_Tot	Families with a householder who is Black or African American alone: Total:
+FamWHhBlkAfAm_LtUsd10k	Families with a householder who is Black or African American alone: Less than $10,000
+FamWHhBlkAfAm_Usd10kto15k	Families with a householder who is Black or African American alone: $10,000 to $14,999
+FamWHhBlkAfAm_Usd15kto20k	Families with a householder who is Black or African American alone: $15,000 to $19,999
+FamWHhBlkAfAm_Usd20kto25k	Families with a householder who is Black or African American alone: $20,000 to $24,999
+FamWHhBlkAfAm_Usd25kto30k	Families with a householder who is Black or African American alone: $25,000 to $29,999
+FamWHhBlkAfAm_Usd30kto35k	Families with a householder who is Black or African American alone: $30,000 to $34,999
+FamWHhBlkAfAm_Usd35kto40k	Families with a householder who is Black or African American alone: $35,000 to $39,999
+FamWHhBlkAfAm_Usd40kto45k	Families with a householder who is Black or African American alone: $40,000 to $44,999
+FamWHhBlkAfAm_Usd45kto50k	Families with a householder who is Black or African American alone: $45,000 to $49,999
+FamWHhBlkAfAm_Usd50kto60k	Families with a householder who is Black or African American alone: $50,000 to $59,999
+FamWHhBlkAfAm_Usd60kto75k	Families with a householder who is Black or African American alone: $60,000 to $74,999
+FamWHhBlkAfAm_Usd75kto100k	Families with a householder who is Black or African American alone: $75,000 to $99,999
+FamWHhBlkAfAm_Usd100kto125k	Families with a householder who is Black or African American alone: $100,000 to $124,999
+FamWHhBlkAfAm_Usd125kto150k	Families with a householder who is Black or African American alone: $125,000 to $149,999
+FamWHhBlkAfAm_Usd150kto200k	Families with a householder who is Black or African American alone: $150,000 to $199,999
+FamWHhBlkAfAm_Usd200korM	Families with a householder who is Black or African American alone: $200,000 or more
+FamWHhAmIndAkNat_Tot	Families with a householder who is American Indian and Alaska Native alone: Total:
+FamWHhAmIndAkNat_LtUsd10k	Families with a householder who is American Indian and Alaska Native alone: Less than $10,000
+FamWHhAmIndAkNat_Usd10kto15k	Families with a householder who is American Indian and Alaska Native alone: $10,000 to $14,999
+FamWHhAmIndAkNat_Usd15kto20k	Families with a householder who is American Indian and Alaska Native alone: $15,000 to $19,999
+FamWHhAmIndAkNat_Usd20kto25k	Families with a householder who is American Indian and Alaska Native alone: $20,000 to $24,999
+FamWHhAmIndAkNat_Usd25kto30k	Families with a householder who is American Indian and Alaska Native alone: $25,000 to $29,999
+FamWHhAmIndAkNat_Usd30kto35k	Families with a householder who is American Indian and Alaska Native alone: $30,000 to $34,999
+FamWHhAmIndAkNat_Usd35kto40k	Families with a householder who is American Indian and Alaska Native alone: $35,000 to $39,999
+FamWHhAmIndAkNat_Usd40kto45k	Families with a householder who is American Indian and Alaska Native alone: $40,000 to $44,999
+FamWHhAmIndAkNat_Usd45kto50k	Families with a householder who is American Indian and Alaska Native alone: $45,000 to $49,999
+FamWHhAmIndAkNat_Usd50kto60k	Families with a householder who is American Indian and Alaska Native alone: $50,000 to $59,999
+FamWHhAmIndAkNat_Usd60kto75k	Families with a householder who is American Indian and Alaska Native alone: $60,000 to $74,999
+FamWHhAmIndAkNat_Usd75kto100k	Families with a householder who is American Indian and Alaska Native alone: $75,000 to $99,999
+FamWHhAmIndAkNat_Usd100kto125k	Families with a householder who is American Indian and Alaska Native alone: $100,000 to $124,999
+FamWHhAmIndAkNat_Usd125kto150k	Families with a householder who is American Indian and Alaska Native alone: $125,000 to $149,999
+FamWHhAmIndAkNat_Usd150kto200k	Families with a householder who is American Indian and Alaska Native alone: $150,000 to $199,999
+FamWHhAmIndAkNat_Usd200korM	Families with a householder who is American Indian and Alaska Native alone: $200,000 or more
+FamWHhAsn_Tot	Families with a householder who is Asian alone: Total:
+FamWHhAsn_LtUsd10k	Families with a householder who is Asian alone: Less than $10,000
+FamWHhAsn_Usd10kto15k	Families with a householder who is Asian alone: $10,000 to $14,999
+FamWHhAsn_Usd15kto20k	Families with a householder who is Asian alone: $15,000 to $19,999
+FamWHhAsn_Usd20kto25k	Families with a householder who is Asian alone: $20,000 to $24,999
+FamWHhAsn_Usd25kto30k	Families with a householder who is Asian alone: $25,000 to $29,999
+FamWHhAsn_Usd30kto35k	Families with a householder who is Asian alone: $30,000 to $34,999
+FamWHhAsn_Usd35kto40k	Families with a householder who is Asian alone: $35,000 to $39,999
+FamWHhAsn_Usd40kto45k	Families with a householder who is Asian alone: $40,000 to $44,999
+FamWHhAsn_Usd45kto50k	Families with a householder who is Asian alone: $45,000 to $49,999
+FamWHhAsn_Usd50kto60k	Families with a householder who is Asian alone: $50,000 to $59,999
+FamWHhAsn_Usd60kto75k	Families with a householder who is Asian alone: $60,000 to $74,999
+FamWHhAsn_Usd75kto100k	Families with a householder who is Asian alone: $75,000 to $99,999
+FamWHhAsn_Usd100kto125k	Families with a householder who is Asian alone: $100,000 to $124,999
+FamWHhAsn_Usd125kto150k	Families with a householder who is Asian alone: $125,000 to $149,999
+FamWHhAsn_Usd150kto200k	Families with a householder who is Asian alone: $150,000 to $199,999
+FamWHhAsn_Usd200korM	Families with a householder who is Asian alone: $200,000 or more

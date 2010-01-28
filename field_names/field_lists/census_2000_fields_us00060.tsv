@@ -1,0 +1,250 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_Lt10.0pct	Specified renter-occupied housing units: Less than 10.0 percent
+SpecRentOcpHsUnt_10.0to14.9pct	Specified renter-occupied housing units: 10.0 to 14.9 percent
+SpecRentOcpHsUnt_15.0to19.9pct	Specified renter-occupied housing units: 15.0 to 19.9 percent
+SpecRentOcpHsUnt_20.0to24.9pct	Specified renter-occupied housing units: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_25.0to29.9pct	Specified renter-occupied housing units: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_30.0to34.9pct	Specified renter-occupied housing units: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_35.0to39.9pct	Specified renter-occupied housing units: 35.0 to 39.9 percent
+SpecRentOcpHsUnt_40.0to49.9pct	Specified renter-occupied housing units: 40.0 to 49.9 percent
+SpecRentOcpHsUnt_Gte50pct	Specified renter-occupied housing units: 50.0 percent or more
+SpecRentOcpHsUnt_NotComp	Specified renter-occupied housing units: Not computed
+RentOcpHsUntPayCash_MedGrssRentPctHHInc99	Specified renter-occupied housing units paying cash rent: Median gross rent as a percentage of household income in 1999
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_Hh15to24y	Specified renter-occupied housing units: Householder 15 to 24 years:
+SpecRentOcpHsUnt_Hh15to24y_Lt20.0pct	Specified renter-occupied housing units: Householder 15 to 24 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh15to24y_20.0to24.9pct	Specified renter-occupied housing units: Householder 15 to 24 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh15to24y_25.0to29.9pct	Specified renter-occupied housing units: Householder 15 to 24 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh15to24y_30.0to34.9pct	Specified renter-occupied housing units: Householder 15 to 24 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh15to24y_Gte35pct	Specified renter-occupied housing units: Householder 15 to 24 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh15to24y_NotComp	Specified renter-occupied housing units: Householder 15 to 24 years: Not computed
+SpecRentOcpHsUnt_Hh25to34y	Specified renter-occupied housing units: Householder 25 to 34 years:
+SpecRentOcpHsUnt_Hh25to34y_Lt20.0pct	Specified renter-occupied housing units: Householder 25 to 34 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh25to34y_20.0to24.9pct	Specified renter-occupied housing units: Householder 25 to 34 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh25to34y_25.0to29.9pct	Specified renter-occupied housing units: Householder 25 to 34 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh25to34y_30.0to34.9pct	Specified renter-occupied housing units: Householder 25 to 34 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh25to34y_Gte35pct	Specified renter-occupied housing units: Householder 25 to 34 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh25to34y_NotComp	Specified renter-occupied housing units: Householder 25 to 34 years: Not computed
+SpecRentOcpHsUnt_Hh35to44y	Specified renter-occupied housing units: Householder 35 to 44 years:
+SpecRentOcpHsUnt_Hh35to44y_Lt20.0pct	Specified renter-occupied housing units: Householder 35 to 44 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh35to44y_20.0to24.9pct	Specified renter-occupied housing units: Householder 35 to 44 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh35to44y_25.0to29.9pct	Specified renter-occupied housing units: Householder 35 to 44 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh35to44y_30.0to34.9pct	Specified renter-occupied housing units: Householder 35 to 44 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh35to44y_Gte35pct	Specified renter-occupied housing units: Householder 35 to 44 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh35to44y_NotComp	Specified renter-occupied housing units: Householder 35 to 44 years: Not computed
+SpecRentOcpHsUnt_Hh45to54y	Specified renter-occupied housing units: Householder 45 to 54 years:
+SpecRentOcpHsUnt_Hh45to54y_Lt20.0pct	Specified renter-occupied housing units: Householder 45 to 54 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh45to54y_20.0to24.9pct	Specified renter-occupied housing units: Householder 45 to 54 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh45to54y_25.0to29.9pct	Specified renter-occupied housing units: Householder 45 to 54 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh45to54y_30.0to34.9pct	Specified renter-occupied housing units: Householder 45 to 54 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh45to54y_Gte35pct	Specified renter-occupied housing units: Householder 45 to 54 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh45to54y_NotComp	Specified renter-occupied housing units: Householder 45 to 54 years: Not computed
+SpecRentOcpHsUnt_Hh55to64y	Specified renter-occupied housing units: Householder 55 to 64 years:
+SpecRentOcpHsUnt_Hh55to64y_Lt20.0pct	Specified renter-occupied housing units: Householder 55 to 64 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh55to64y_20.0to24.9pct	Specified renter-occupied housing units: Householder 55 to 64 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh55to64y_25.0to29.9pct	Specified renter-occupied housing units: Householder 55 to 64 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh55to64y_30.0to34.9pct	Specified renter-occupied housing units: Householder 55 to 64 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh55to64y_Gte35pct	Specified renter-occupied housing units: Householder 55 to 64 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh55to64y_NotComp	Specified renter-occupied housing units: Householder 55 to 64 years: Not computed
+SpecRentOcpHsUnt_Hh65to74y	Specified renter-occupied housing units: Householder 65 to 74 years:
+SpecRentOcpHsUnt_Hh65to74y_Lt20.0pct	Specified renter-occupied housing units: Householder 65 to 74 years: Less than 20.0 percent
+SpecRentOcpHsUnt_Hh65to74y_20.0to24.9pct	Specified renter-occupied housing units: Householder 65 to 74 years: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Hh65to74y_25.0to29.9pct	Specified renter-occupied housing units: Householder 65 to 74 years: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Hh65to74y_30.0to34.9pct	Specified renter-occupied housing units: Householder 65 to 74 years: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Hh65to74y_Gte35pct	Specified renter-occupied housing units: Householder 65 to 74 years: 35.0 percent or more
+SpecRentOcpHsUnt_Hh65to74y_NotComp	Specified renter-occupied housing units: Householder 65 to 74 years: Not computed
+SpecRentOcpHsUnt_HhGte75y	Specified renter-occupied housing units: Householder 75 years and over:
+SpecRentOcpHsUnt_HhGte75y_Lt20.0pct	Specified renter-occupied housing units: Householder 75 years and over: Less than 20.0 percent
+SpecRentOcpHsUnt_HhGte75y_20.0to24.9pct	Specified renter-occupied housing units: Householder 75 years and over: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_HhGte75y_25.0to29.9pct	Specified renter-occupied housing units: Householder 75 years and over: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_HhGte75y_30.0to34.9pct	Specified renter-occupied housing units: Householder 75 years and over: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_HhGte75y_Gte35pct	Specified renter-occupied housing units: Householder 75 years and over: 35.0 percent or more
+SpecRentOcpHsUnt_HhGte75y_NotComp	Specified renter-occupied housing units: Householder 75 years and over: Not computed
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_1DtchdorAtchd	Specified renter-occupied housing units: 1, detached or attached:
+SpecRentOcpHsUnt_1DtchdorAtchd_Lt20.0pct	Specified renter-occupied housing units: 1, detached or attached: Less than 20.0 percent
+SpecRentOcpHsUnt_1DtchdorAtchd_20.0to24.9pct	Specified renter-occupied housing units: 1, detached or attached: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_1DtchdorAtchd_25.0to29.9pct	Specified renter-occupied housing units: 1, detached or attached: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_1DtchdorAtchd_30.0to34.9pct	Specified renter-occupied housing units: 1, detached or attached: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_1DtchdorAtchd_Gte35pct	Specified renter-occupied housing units: 1, detached or attached: 35.0 percent or more
+SpecRentOcpHsUnt_1DtchdorAtchd_NotComp	Specified renter-occupied housing units: 1, detached or attached: Not computed
+SpecRentOcpHsUnt_2to4	Specified renter-occupied housing units: 2 to 4:
+SpecRentOcpHsUnt_2to4_Lt20.0pct	Specified renter-occupied housing units: 2 to 4: Less than 20.0 percent
+SpecRentOcpHsUnt_2to4_20.0to24.9pct	Specified renter-occupied housing units: 2 to 4: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_2to4_25.0to29.9pct	Specified renter-occupied housing units: 2 to 4: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_2to4_30.0to34.9pct	Specified renter-occupied housing units: 2 to 4: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_2to4_Gte35pct	Specified renter-occupied housing units: 2 to 4: 35.0 percent or more
+SpecRentOcpHsUnt_2to4_NotComp	Specified renter-occupied housing units: 2 to 4: Not computed
+SpecRentOcpHsUnt_5to19	Specified renter-occupied housing units: 5 to 19:
+SpecRentOcpHsUnt_5to19_Lt20.0pct	Specified renter-occupied housing units: 5 to 19: Less than 20.0 percent
+SpecRentOcpHsUnt_5to19_20.0to24.9pct	Specified renter-occupied housing units: 5 to 19: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_5to19_25.0to29.9pct	Specified renter-occupied housing units: 5 to 19: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_5to19_30.0to34.9pct	Specified renter-occupied housing units: 5 to 19: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_5to19_Gte35pct	Specified renter-occupied housing units: 5 to 19: 35.0 percent or more
+SpecRentOcpHsUnt_5to19_NotComp	Specified renter-occupied housing units: 5 to 19: Not computed
+SpecRentOcpHsUnt_20to49	Specified renter-occupied housing units: 20 to 49:
+SpecRentOcpHsUnt_20to49_Lt20.0pct	Specified renter-occupied housing units: 20 to 49: Less than 20.0 percent
+SpecRentOcpHsUnt_20to49_20.0to24.9pct	Specified renter-occupied housing units: 20 to 49: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_20to49_25.0to29.9pct	Specified renter-occupied housing units: 20 to 49: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_20to49_30.0to34.9pct	Specified renter-occupied housing units: 20 to 49: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_20to49_Gte35pct	Specified renter-occupied housing units: 20 to 49: 35.0 percent or more
+SpecRentOcpHsUnt_20to49_NotComp	Specified renter-occupied housing units: 20 to 49: Not computed
+SpecRentOcpHsUnt_Gte50	Specified renter-occupied housing units: 50 or more:
+SpecRentOcpHsUnt_Gte50_Lt20.0pct	Specified renter-occupied housing units: 50 or more: Less than 20.0 percent
+SpecRentOcpHsUnt_Gte50_20.0to24.9pct	Specified renter-occupied housing units: 50 or more: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Gte50_25.0to29.9pct	Specified renter-occupied housing units: 50 or more: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Gte50_30.0to34.9pct	Specified renter-occupied housing units: 50 or more: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Gte50_Gte35pct	Specified renter-occupied housing units: 50 or more: 35.0 percent or more
+SpecRentOcpHsUnt_Gte50_NotComp	Specified renter-occupied housing units: 50 or more: Not computed
+SpecRentOcpHsUnt_MobHome	Specified renter-occupied housing units: Mobile home:
+SpecRentOcpHsUnt_MobHome_Lt20.0pct	Specified renter-occupied housing units: Mobile home: Less than 20.0 percent
+SpecRentOcpHsUnt_MobHome_20.0to24.9pct	Specified renter-occupied housing units: Mobile home: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_MobHome_25.0to29.9pct	Specified renter-occupied housing units: Mobile home: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_MobHome_30.0to34.9pct	Specified renter-occupied housing units: Mobile home: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_MobHome_Gte35pct	Specified renter-occupied housing units: Mobile home: 35.0 percent or more
+SpecRentOcpHsUnt_MobHome_NotComp	Specified renter-occupied housing units: Mobile home: Not computed
+SpecRentOcpHsUnt_BoatRVvan	Specified renter-occupied housing units: Boat, RV, van, etc.:
+SpecRentOcpHsUnt_BoatRVvan_Lt20.0pct	Specified renter-occupied housing units: Boat, RV, van, etc.: Less than 20.0 percent
+SpecRentOcpHsUnt_BoatRVvan_20.0to24.9pct	Specified renter-occupied housing units: Boat, RV, van, etc.: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_BoatRVvan_25.0to29.9pct	Specified renter-occupied housing units: Boat, RV, van, etc.: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_BoatRVvan_30.0to34.9pct	Specified renter-occupied housing units: Boat, RV, van, etc.: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_BoatRVvan_Gte35pct	Specified renter-occupied housing units: Boat, RV, van, etc.: 35.0 percent or more
+SpecRentOcpHsUnt_BoatRVvan_NotComp	Specified renter-occupied housing units: Boat, RV, van, etc.: Not computed
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_LtUsd10k	Specified renter-occupied housing units: Less than $10,000:
+SpecRentOcpHsUnt_LtUsd10k_Lt20.0pct	Specified renter-occupied housing units: Less than $10,000: Less than 20.0 percent
+SpecRentOcpHsUnt_LtUsd10k_20.0to24.9pct	Specified renter-occupied housing units: Less than $10,000: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_LtUsd10k_25.0to29.9pct	Specified renter-occupied housing units: Less than $10,000: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_LtUsd10k_30.0to34.9pct	Specified renter-occupied housing units: Less than $10,000: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_LtUsd10k_Gte35pct	Specified renter-occupied housing units: Less than $10,000: 35.0 percent or more
+SpecRentOcpHsUnt_LtUsd10k_NotComp	Specified renter-occupied housing units: Less than $10,000: Not computed
+SpecRentOcpHsUnt_Usd10kto20k	Specified renter-occupied housing units: $10,000 to $19,999:
+SpecRentOcpHsUnt_Usd10kto20k_Lt20.0pct	Specified renter-occupied housing units: $10,000 to $19,999: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd10kto20k_20.0to24.9pct	Specified renter-occupied housing units: $10,000 to $19,999: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd10kto20k_25.0to29.9pct	Specified renter-occupied housing units: $10,000 to $19,999: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd10kto20k_30.0to34.9pct	Specified renter-occupied housing units: $10,000 to $19,999: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd10kto20k_Gte35pct	Specified renter-occupied housing units: $10,000 to $19,999: 35.0 percent or more
+SpecRentOcpHsUnt_Usd10kto20k_NotComp	Specified renter-occupied housing units: $10,000 to $19,999: Not computed
+SpecRentOcpHsUnt_Usd20kto35k	Specified renter-occupied housing units: $20,000 to $34,999:
+SpecRentOcpHsUnt_Usd20kto35k_Lt20.0pct	Specified renter-occupied housing units: $20,000 to $34,999: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd20kto35k_20.0to24.9pct	Specified renter-occupied housing units: $20,000 to $34,999: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd20kto35k_25.0to29.9pct	Specified renter-occupied housing units: $20,000 to $34,999: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd20kto35k_30.0to34.9pct	Specified renter-occupied housing units: $20,000 to $34,999: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd20kto35k_Gte35pct	Specified renter-occupied housing units: $20,000 to $34,999: 35.0 percent or more
+SpecRentOcpHsUnt_Usd20kto35k_NotComp	Specified renter-occupied housing units: $20,000 to $34,999: Not computed
+SpecRentOcpHsUnt_Usd35kto50k	Specified renter-occupied housing units: $35,000 to $49,999:
+SpecRentOcpHsUnt_Usd35kto50k_Lt20.0pct	Specified renter-occupied housing units: $35,000 to $49,999: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd35kto50k_20.0to24.9pct	Specified renter-occupied housing units: $35,000 to $49,999: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd35kto50k_25.0to29.9pct	Specified renter-occupied housing units: $35,000 to $49,999: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd35kto50k_30.0to34.9pct	Specified renter-occupied housing units: $35,000 to $49,999: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd35kto50k_Gte35pct	Specified renter-occupied housing units: $35,000 to $49,999: 35.0 percent or more
+SpecRentOcpHsUnt_Usd35kto50k_NotComp	Specified renter-occupied housing units: $35,000 to $49,999: Not computed
+SpecRentOcpHsUnt_Usd50kto75k	Specified renter-occupied housing units: $50,000 to $74,999:
+SpecRentOcpHsUnt_Usd50kto75k_Lt20.0pct	Specified renter-occupied housing units: $50,000 to $74,999: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd50kto75k_20.0to24.9pct	Specified renter-occupied housing units: $50,000 to $74,999: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd50kto75k_25.0to29.9pct	Specified renter-occupied housing units: $50,000 to $74,999: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd50kto75k_30.0to34.9pct	Specified renter-occupied housing units: $50,000 to $74,999: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd50kto75k_Gte35pct	Specified renter-occupied housing units: $50,000 to $74,999: 35.0 percent or more
+SpecRentOcpHsUnt_Usd50kto75k_NotComp	Specified renter-occupied housing units: $50,000 to $74,999: Not computed
+SpecRentOcpHsUnt_Usd75kto100k	Specified renter-occupied housing units: $75,000 to $99,999:
+SpecRentOcpHsUnt_Usd75kto100k_Lt20.0pct	Specified renter-occupied housing units: $75,000 to $99,999: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd75kto100k_20.0to24.9pct	Specified renter-occupied housing units: $75,000 to $99,999: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd75kto100k_25.0to29.9pct	Specified renter-occupied housing units: $75,000 to $99,999: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd75kto100k_30.0to34.9pct	Specified renter-occupied housing units: $75,000 to $99,999: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd75kto100k_Gte35pct	Specified renter-occupied housing units: $75,000 to $99,999: 35.0 percent or more
+SpecRentOcpHsUnt_Usd75kto100k_NotComp	Specified renter-occupied housing units: $75,000 to $99,999: Not computed
+SpecRentOcpHsUnt_Usd100korM	Specified renter-occupied housing units: $100,000 or more:
+SpecRentOcpHsUnt_Usd100korM_Lt20.0pct	Specified renter-occupied housing units: $100,000 or more: Less than 20.0 percent
+SpecRentOcpHsUnt_Usd100korM_20.0to24.9pct	Specified renter-occupied housing units: $100,000 or more: 20.0 to 24.9 percent
+SpecRentOcpHsUnt_Usd100korM_25.0to29.9pct	Specified renter-occupied housing units: $100,000 or more: 25.0 to 29.9 percent
+SpecRentOcpHsUnt_Usd100korM_30.0to34.9pct	Specified renter-occupied housing units: $100,000 or more: 30.0 to 34.9 percent
+SpecRentOcpHsUnt_Usd100korM_Gte35pct	Specified renter-occupied housing units: $100,000 or more: 35.0 percent or more
+SpecRentOcpHsUnt_Usd100korM_NotComp	Specified renter-occupied housing units: $100,000 or more: Not computed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_LtUsd10k	Specified owner-occupied housing units: Less than $10,000
+SpecOwnOcpHsUnt_Usd10kto15k	Specified owner-occupied housing units: $10,000 to $14,999
+SpecOwnOcpHsUnt_Usd15kto20k	Specified owner-occupied housing units: $15,000 to $19,999
+SpecOwnOcpHsUnt_Usd20kto25k	Specified owner-occupied housing units: $20,000 to $24,999
+SpecOwnOcpHsUnt_Usd25kto30k	Specified owner-occupied housing units: $25,000 to $29,999
+SpecOwnOcpHsUnt_Usd30kto35k	Specified owner-occupied housing units: $30,000 to $34,999
+SpecOwnOcpHsUnt_Usd35kto40k	Specified owner-occupied housing units: $35,000 to $39,999
+SpecOwnOcpHsUnt_Usd40kto50k	Specified owner-occupied housing units: $40,000 to $49,999
+SpecOwnOcpHsUnt_Usd50kto60k	Specified owner-occupied housing units: $50,000 to $59,999
+SpecOwnOcpHsUnt_Usd60kto70k	Specified owner-occupied housing units: $60,000 to $69,999
+SpecOwnOcpHsUnt_Usd70kto80k	Specified owner-occupied housing units: $70,000 to $79,999
+SpecOwnOcpHsUnt_Usd80kto90k	Specified owner-occupied housing units: $80,000 to $89,999
+SpecOwnOcpHsUnt_Usd90kto100k	Specified owner-occupied housing units: $90,000 to $99,999
+SpecOwnOcpHsUnt_Usd100kto125k	Specified owner-occupied housing units: $100,000 to $124,999
+SpecOwnOcpHsUnt_Usd125kto150k	Specified owner-occupied housing units: $125,000 to $149,999
+SpecOwnOcpHsUnt_Usd150kto175k	Specified owner-occupied housing units: $150,000 to $174,999
+SpecOwnOcpHsUnt_Usd175kto200k	Specified owner-occupied housing units: $175,000 to $199,999
+SpecOwnOcpHsUnt_Usd200kto250k	Specified owner-occupied housing units: $200,000 to $249,999
+SpecOwnOcpHsUnt_Usd250kto300k	Specified owner-occupied housing units: $250,000 to $299,999
+SpecOwnOcpHsUnt_Usd300kto400k	Specified owner-occupied housing units: $300,000 to $399,999
+SpecOwnOcpHsUnt_Usd400kto500k	Specified owner-occupied housing units: $400,000 to $499,999
+SpecOwnOcpHsUnt_Usd500kto750k	Specified owner-occupied housing units: $500,000 to $749,999
+SpecOwnOcpHsUnt_Usd750kto1M	Specified owner-occupied housing units: $750,000 to $999,999
+SpecOwnOcpHsUnt_Usd1MorM	Specified owner-occupied housing units: $1,000,000 or more
+SpecOwnOcpHsUnt_LowValQuart	Specified owner-occupied housing units: Lower value quartile
+SpecOwnOcpHsUnt_MedVal	Specified owner-occupied housing units: Median value
+SpecOwnOcpHsUnt_UpperValQuart	Specified owner-occupied housing units: Upper value quartile
+SpecOwnOcpHsUnt_AggVal	Specified owner-occupied housing units: Aggregate value:
+SpecOwnOcpHsUnt_Hh15to24y	Specified owner-occupied housing units: Householder 15 to 24 years
+SpecOwnOcpHsUnt_Hh25to34y	Specified owner-occupied housing units: Householder 25 to 34 years
+SpecOwnOcpHsUnt_Hh35to44y	Specified owner-occupied housing units: Householder 35 to 44 years
+SpecOwnOcpHsUnt_Hh45to54y	Specified owner-occupied housing units: Householder 45 to 54 years
+SpecOwnOcpHsUnt_Hh55to64y	Specified owner-occupied housing units: Householder 55 to 64 years
+SpecOwnOcpHsUnt_Hh65to74y	Specified owner-occupied housing units: Householder 65 to 74 years
+SpecOwnOcpHsUnt_HhGte75y	Specified owner-occupied housing units: Householder 75 years and over
+OwnerOcpHsUnt_AggVal	Owner-occupied housing units: Aggregate value:
+OwnerOcpHsUnt_1Dtchd	Owner-occupied housing units: 1, detached
+OwnerOcpHsUnt_1Atchd	Owner-occupied housing units: 1, attached
+OwnerOcpHsUnt_2	Owner-occupied housing units: 2
+OwnerOcpHsUnt_3or4	Owner-occupied housing units: 3 or 4
+OwnerOcpHsUnt_Gte5	Owner-occupied housing units: 5 or more
+OwnerOcpHsUnt_MobHome	Owner-occupied housing units: Mobile home
+OwnerOcpHsUnt_BoatRVvan	Owner-occupied housing units: Boat, RV, van, etc.
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt:
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt_WSecMortOrHomeEqLoanN_250	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt: With either a second mortgage or home equity loan, but not both:
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt_WSecMortOrHomeEqLoanN_251	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt: With either a second mortgage or home equity loan, but not both: Second mortgage only
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt_WSecMortOrHomeEqLoanN_252	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt: With either a second mortgage or home equity loan, but not both: Home equity loan only
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt_BothSecMortHomeEqLoan	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt: Both second mortgage and home equity loan
+SpecOwnOcpHsUnt_HsUntMortContPurSimDebt_No2ndMortNoHomeEqLoan	Specified owner-occupied housing units: Housing units with a mortgage, contract to purchase, or similar debt: No second mortgage and no home equity loan
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage
+SpecOwnOcpHsUnt_AggVal	Specified owner-occupied housing units: Aggregate value:
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage
+OwnerOcpMobHome_MedVal	Owner-occupied mobile homes: Median value
+OwnerOcpMobHome_AggVal	Owner-occupied mobile homes: Aggregate value:
+OwnerOcpMobHome_HsUntMort	Owner-occupied mobile homes: Housing units with a mortgage
+OwnerOcpMobHome_HsUntNoMort	Owner-occupied mobile homes: Housing units without a mortgage
+OwnerOcpHsUnt_Tot	Owner-occupied housing units: Total:
+OwnerOcpHsUnt_LtUsd10k	Owner-occupied housing units: Less than $10,000
+OwnerOcpHsUnt_Usd10kto15k	Owner-occupied housing units: $10,000 to $14,999
+OwnerOcpHsUnt_Usd15kto20k	Owner-occupied housing units: $15,000 to $19,999
+OwnerOcpHsUnt_Usd20kto25k	Owner-occupied housing units: $20,000 to $24,999
+OwnerOcpHsUnt_Usd25kto30k	Owner-occupied housing units: $25,000 to $29,999
+OwnerOcpHsUnt_Usd30kto35k	Owner-occupied housing units: $30,000 to $34,999
+OwnerOcpHsUnt_Usd35kto40k	Owner-occupied housing units: $35,000 to $39,999
+OwnerOcpHsUnt_Usd40kto50k	Owner-occupied housing units: $40,000 to $49,999
+OwnerOcpHsUnt_Usd50kto60k	Owner-occupied housing units: $50,000 to $59,999
+OwnerOcpHsUnt_Usd60kto70k	Owner-occupied housing units: $60,000 to $69,999
+OwnerOcpHsUnt_Usd70kto80k	Owner-occupied housing units: $70,000 to $79,999
+OwnerOcpHsUnt_Usd80kto90k	Owner-occupied housing units: $80,000 to $89,999
+OwnerOcpHsUnt_Usd90kto100k	Owner-occupied housing units: $90,000 to $99,999
+OwnerOcpHsUnt_Usd100kto125k	Owner-occupied housing units: $100,000 to $124,999
+OwnerOcpHsUnt_Usd125kto150k	Owner-occupied housing units: $125,000 to $149,999
+OwnerOcpHsUnt_Usd150kto175k	Owner-occupied housing units: $150,000 to $174,999
+OwnerOcpHsUnt_Usd175kto200k	Owner-occupied housing units: $175,000 to $199,999
+OwnerOcpHsUnt_Usd200kto250k	Owner-occupied housing units: $200,000 to $249,999
+OwnerOcpHsUnt_Usd250kto300k	Owner-occupied housing units: $250,000 to $299,999
+OwnerOcpHsUnt_Usd300kto400k	Owner-occupied housing units: $300,000 to $399,999
+OwnerOcpHsUnt_Usd400kto500k	Owner-occupied housing units: $400,000 to $499,999
+OwnerOcpHsUnt_Usd500kto750k	Owner-occupied housing units: $500,000 to $749,999
+OwnerOcpHsUnt_Usd750kto1M	Owner-occupied housing units: $750,000 to $999,999
+OwnerOcpHsUnt_Usd1MorM	Owner-occupied housing units: $1,000,000 or more
+OwnerOcpHsUnt_MedVal	Owner-occupied housing units: Median value
+OwnerOcpHsUnt_AggVal	Owner-occupied housing units: Aggregate value

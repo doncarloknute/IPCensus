@@ -1,0 +1,236 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HispPopPovDet_Tot	Hispanic or Latino population for whom poverty status is determined: Total:
+HispPopPovDet_Inc99LtPov	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level:
+HispPopPovDet_Inc99LtPov_Mle	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male:
+HispPopPovDet_Inc99LtPov_Mle_Lt5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 5 years
+HispPopPovDet_Inc99LtPov_Mle_5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 5 years
+HispPopPovDet_Inc99LtPov_Mle_6to11y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 6 to 11 years
+HispPopPovDet_Inc99LtPov_Mle_12to14y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 12 to 14 years
+HispPopPovDet_Inc99LtPov_Mle_15y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 15 years
+HispPopPovDet_Inc99LtPov_Mle_16and17y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 16 and 17 years
+HispPopPovDet_Inc99LtPov_Mle_18to24y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 18 to 24 years
+HispPopPovDet_Inc99LtPov_Mle_25to34y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 34 years
+HispPopPovDet_Inc99LtPov_Mle_35to44y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 35 to 44 years
+HispPopPovDet_Inc99LtPov_Mle_45to54y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 45 to 54 years
+HispPopPovDet_Inc99LtPov_Mle_55to64y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 55 to 64 years
+HispPopPovDet_Inc99LtPov_Mle_65to74y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years
+HispPopPovDet_Inc99LtPov_Mle_Gte75y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over
+HispPopPovDet_Inc99LtPov_Fem	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female:
+HispPopPovDet_Inc99LtPov_Fem_Lt5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 5 years
+HispPopPovDet_Inc99LtPov_Fem_5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 5 years
+HispPopPovDet_Inc99LtPov_Fem_6to11y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 6 to 11 years
+HispPopPovDet_Inc99LtPov_Fem_12to14y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 12 to 14 years
+HispPopPovDet_Inc99LtPov_Fem_15y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 15 years
+HispPopPovDet_Inc99LtPov_Fem_16and17y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 16 and 17 years
+HispPopPovDet_Inc99LtPov_Fem_18to24y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 18 to 24 years
+HispPopPovDet_Inc99LtPov_Fem_25to34y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 34 years
+HispPopPovDet_Inc99LtPov_Fem_35to44y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 35 to 44 years
+HispPopPovDet_Inc99LtPov_Fem_45to54y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 45 to 54 years
+HispPopPovDet_Inc99LtPov_Fem_55to64y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 55 to 64 years
+HispPopPovDet_Inc99LtPov_Fem_65to74y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years
+HispPopPovDet_Inc99LtPov_Fem_Gte75y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over
+HispPopPovDet_Inc99GtePov	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level:
+HispPopPovDet_Inc99GtePov_Mle	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male:
+HispPopPovDet_Inc99GtePov_Mle_Lt5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 5 years
+HispPopPovDet_Inc99GtePov_Mle_5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 5 years
+HispPopPovDet_Inc99GtePov_Mle_6to11y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 6 to 11 years
+HispPopPovDet_Inc99GtePov_Mle_12to14y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 12 to 14 years
+HispPopPovDet_Inc99GtePov_Mle_15y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 15 years
+HispPopPovDet_Inc99GtePov_Mle_16and17y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 16 and 17 years
+HispPopPovDet_Inc99GtePov_Mle_18to24y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 18 to 24 years
+HispPopPovDet_Inc99GtePov_Mle_25to34y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 34 years
+HispPopPovDet_Inc99GtePov_Mle_35to44y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 35 to 44 years
+HispPopPovDet_Inc99GtePov_Mle_45to54y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 45 to 54 years
+HispPopPovDet_Inc99GtePov_Mle_55to64y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 55 to 64 years
+HispPopPovDet_Inc99GtePov_Mle_65to74y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years
+HispPopPovDet_Inc99GtePov_Mle_Gte75y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over
+HispPopPovDet_Inc99GtePov_Fem	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female:
+HispPopPovDet_Inc99GtePov_Fem_Lt5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 5 years
+HispPopPovDet_Inc99GtePov_Fem_5y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 5 years
+HispPopPovDet_Inc99GtePov_Fem_6to11y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 6 to 11 years
+HispPopPovDet_Inc99GtePov_Fem_12to14y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 12 to 14 years
+HispPopPovDet_Inc99GtePov_Fem_15y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 15 years
+HispPopPovDet_Inc99GtePov_Fem_16and17y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 16 and 17 years
+HispPopPovDet_Inc99GtePov_Fem_18to24y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 18 to 24 years
+HispPopPovDet_Inc99GtePov_Fem_25to34y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 34 years
+HispPopPovDet_Inc99GtePov_Fem_35to44y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 35 to 44 years
+HispPopPovDet_Inc99GtePov_Fem_45to54y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 45 to 54 years
+HispPopPovDet_Inc99GtePov_Fem_55to64y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 55 to 64 years
+HispPopPovDet_Inc99GtePov_Fem_65to74y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years
+HispPopPovDet_Inc99GtePov_Fem_Gte75y	Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over
+WhtNotHispPopPovDet_Tot	White alone, not Hispanic or Latino population for whom poverty status is determined: Total:
+WhtNotHispPopPovDet_Inc99LtPov	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level:
+WhtNotHispPopPovDet_Inc99LtPov_Mle	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male:
+WhtNotHispPopPovDet_Inc99LtPov_Mle_Lt5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 5 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 5 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_6to11y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 6 to 11 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_12to14y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 12 to 14 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_15y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 15 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_16and17y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 16 and 17 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_18to24y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 18 to 24 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_25to34y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 34 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_35to44y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 35 to 44 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_45to54y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 45 to 54 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_55to64y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 55 to 64 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_65to74y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years
+WhtNotHispPopPovDet_Inc99LtPov_Mle_Gte75y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over
+WhtNotHispPopPovDet_Inc99LtPov_Fem	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female:
+WhtNotHispPopPovDet_Inc99LtPov_Fem_Lt5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 5 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 5 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_6to11y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 6 to 11 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_12to14y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 12 to 14 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_15y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 15 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_16and17y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 16 and 17 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_18to24y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 18 to 24 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_25to34y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 34 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_35to44y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 35 to 44 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_45to54y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 45 to 54 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_55to64y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 55 to 64 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_65to74y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years
+WhtNotHispPopPovDet_Inc99LtPov_Fem_Gte75y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over
+WhtNotHispPopPovDet_Inc99GtePov	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level:
+WhtNotHispPopPovDet_Inc99GtePov_Mle	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male:
+WhtNotHispPopPovDet_Inc99GtePov_Mle_Lt5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 5 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 5 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_6to11y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 6 to 11 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_12to14y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 12 to 14 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_15y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 15 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_16and17y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 16 and 17 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_18to24y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 18 to 24 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_25to34y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 34 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_35to44y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 35 to 44 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_45to54y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 45 to 54 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_55to64y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 55 to 64 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_65to74y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years
+WhtNotHispPopPovDet_Inc99GtePov_Mle_Gte75y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over
+WhtNotHispPopPovDet_Inc99GtePov_Fem	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female:
+WhtNotHispPopPovDet_Inc99GtePov_Fem_Lt5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 5 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_5y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 5 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_6to11y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 6 to 11 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_12to14y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 12 to 14 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_15y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 15 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_16and17y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 16 and 17 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_18to24y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 18 to 24 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_25to34y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 34 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_35to44y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 35 to 44 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_45to54y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 45 to 54 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_55to64y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 55 to 64 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_65to74y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years
+WhtNotHispPopPovDet_Inc99GtePov_Fem_Gte75y	White alone, not Hispanic or Latino population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over
+RelCldLt18yWht_Tot	Related children under 18 years who are White alone: Total:
+RelCldLt18yWht_Inc99LtPov	Related children under 18 years who are White alone: Income in 1999 below poverty level:
+RelCldLt18yWht_Inc99LtPov_MrdCplFam	Related children under 18 years who are White alone: Income in 1999 below poverty level: In married-couple family:
+RelCldLt18yWht_Inc99LtPov_MrdCplFam_Lt5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In married-couple family: Under 5 years
+RelCldLt18yWht_Inc99LtPov_MrdCplFam_5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In married-couple family: 5 years
+RelCldLt18yWht_Inc99LtPov_MrdCplFam_6to17y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yWht_Inc99LtPov_OthFam	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family:
+RelCldLt18yWht_Inc99LtPov_OthFam_MleHhNoWife	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Male householder, no wife present:
+RelCldLt18yWht_Inc99LtPov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yWht_Inc99LtPov_OthFam_MleHhNoWife_5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yWht_Inc99LtPov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yWht_Inc99LtPov_OthFam_FemHhNoHusb	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Female householder, no husband present:
+RelCldLt18yWht_Inc99LtPov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yWht_Inc99LtPov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yWht_Inc99LtPov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are White alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yWht_Inc99GtePov	Related children under 18 years who are White alone: Income in 1999 at or above poverty level:
+RelCldLt18yWht_Inc99GtePov_MrdCplFam	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In married-couple family:
+RelCldLt18yWht_Inc99GtePov_MrdCplFam_Lt5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In married-couple family: Under 5 years
+RelCldLt18yWht_Inc99GtePov_MrdCplFam_5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In married-couple family: 5 years
+RelCldLt18yWht_Inc99GtePov_MrdCplFam_6to17y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yWht_Inc99GtePov_OthFam	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family:
+RelCldLt18yWht_Inc99GtePov_OthFam_MleHhNoWife	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present:
+RelCldLt18yWht_Inc99GtePov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yWht_Inc99GtePov_OthFam_MleHhNoWife_5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yWht_Inc99GtePov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yWht_Inc99GtePov_OthFam_FemHhNoHusb	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present:
+RelCldLt18yWht_Inc99GtePov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yWht_Inc99GtePov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yWht_Inc99GtePov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are White alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yBlkAfAm_Tot	Related children under 18 years who are Black or African American alone: Total:
+RelCldLt18yBlkAfAm_Inc99LtPov	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level:
+RelCldLt18yBlkAfAm_Inc99LtPov_MrdCplFam	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In married-couple family:
+RelCldLt18yBlkAfAm_Inc99LtPov_MrdCplFam_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In married-couple family: Under 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_MrdCplFam_5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In married-couple family: 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_MrdCplFam_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family:
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_MleHhNoWife	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Male householder, no wife present:
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_MleHhNoWife_5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_FemHhNoHusb	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Female householder, no husband present:
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yBlkAfAm_Inc99LtPov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yBlkAfAm_Inc99GtePov	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level:
+RelCldLt18yBlkAfAm_Inc99GtePov_MrdCplFam	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In married-couple family:
+RelCldLt18yBlkAfAm_Inc99GtePov_MrdCplFam_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In married-couple family: Under 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_MrdCplFam_5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In married-couple family: 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_MrdCplFam_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family:
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_MleHhNoWife	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present:
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_MleHhNoWife_5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_FemHhNoHusb	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present:
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yBlkAfAm_Inc99GtePov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are Black or African American alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yAmIndAkNat_Tot	Related children under 18 years who are American Indian and Alaska Native alone: Total:
+RelCldLt18yAmIndAkNat_Inc99LtPov	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level:
+RelCldLt18yAmIndAkNat_Inc99LtPov_MrdCplFam	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In married-couple family:
+RelCldLt18yAmIndAkNat_Inc99LtPov_MrdCplFam_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In married-couple family: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_MrdCplFam_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In married-couple family: 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_MrdCplFam_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family:
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_MleHhNoWife	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Male householder, no wife present:
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_MleHhNoWife_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_FemHhNoHusb	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Female householder, no husband present:
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yAmIndAkNat_Inc99LtPov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yAmIndAkNat_Inc99GtePov	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level:
+RelCldLt18yAmIndAkNat_Inc99GtePov_MrdCplFam	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In married-couple family:
+RelCldLt18yAmIndAkNat_Inc99GtePov_MrdCplFam_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In married-couple family: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_MrdCplFam_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In married-couple family: 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_MrdCplFam_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family:
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_MleHhNoWife	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present:
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_MleHhNoWife_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_FemHhNoHusb	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present:
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yAmIndAkNat_Inc99GtePov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are American Indian and Alaska Native alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yAsn_Tot	Related children under 18 years who are Asian alone: Total:
+RelCldLt18yAsn_Inc99LtPov	Related children under 18 years who are Asian alone: Income in 1999 below poverty level:
+RelCldLt18yAsn_Inc99LtPov_MrdCplFam	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In married-couple family:
+RelCldLt18yAsn_Inc99LtPov_MrdCplFam_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In married-couple family: Under 5 years
+RelCldLt18yAsn_Inc99LtPov_MrdCplFam_5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In married-couple family: 5 years
+RelCldLt18yAsn_Inc99LtPov_MrdCplFam_6to17y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yAsn_Inc99LtPov_OthFam	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family:
+RelCldLt18yAsn_Inc99LtPov_OthFam_MleHhNoWife	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Male householder, no wife present:
+RelCldLt18yAsn_Inc99LtPov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yAsn_Inc99LtPov_OthFam_MleHhNoWife_5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yAsn_Inc99LtPov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yAsn_Inc99LtPov_OthFam_FemHhNoHusb	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Female householder, no husband present:
+RelCldLt18yAsn_Inc99LtPov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yAsn_Inc99LtPov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yAsn_Inc99LtPov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are Asian alone: Income in 1999 below poverty level: In other family: Female householder, no husband present: 6 to 17 years
+RelCldLt18yAsn_Inc99GtePov	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level:
+RelCldLt18yAsn_Inc99GtePov_MrdCplFam	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In married-couple family:
+RelCldLt18yAsn_Inc99GtePov_MrdCplFam_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In married-couple family: Under 5 years
+RelCldLt18yAsn_Inc99GtePov_MrdCplFam_5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In married-couple family: 5 years
+RelCldLt18yAsn_Inc99GtePov_MrdCplFam_6to17y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In married-couple family: 6 to 17 years
+RelCldLt18yAsn_Inc99GtePov_OthFam	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family:
+RelCldLt18yAsn_Inc99GtePov_OthFam_MleHhNoWife	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present:
+RelCldLt18yAsn_Inc99GtePov_OthFam_MleHhNoWife_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: Under 5 years
+RelCldLt18yAsn_Inc99GtePov_OthFam_MleHhNoWife_5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 5 years
+RelCldLt18yAsn_Inc99GtePov_OthFam_MleHhNoWife_6to17y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Male householder, no wife present: 6 to 17 years
+RelCldLt18yAsn_Inc99GtePov_OthFam_FemHhNoHusb	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present:
+RelCldLt18yAsn_Inc99GtePov_OthFam_FemHhNoHusb_Lt5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: Under 5 years
+RelCldLt18yAsn_Inc99GtePov_OthFam_FemHhNoHusb_5y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 5 years
+RelCldLt18yAsn_Inc99GtePov_OthFam_FemHhNoHusb_6to17y	Related children under 18 years who are Asian alone: Income in 1999 at or above poverty level: In other family: Female householder, no husband present: 6 to 17 years

@@ -1,0 +1,252 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+SpecVacRorSaleHsUnt_Tot	Specified vacant-for-sale-only housing units: Total:
+SpecVacRorSaleHsUnt_LtUsd10k	Specified vacant-for-sale-only housing units: Less than $10,000
+SpecVacRorSaleHsUnt_Usd10kto15k	Specified vacant-for-sale-only housing units: $10,000 to $14,999
+SpecVacRorSaleHsUnt_Usd15kto20k	Specified vacant-for-sale-only housing units: $15,000 to $19,999
+SpecVacRorSaleHsUnt_Usd20kto25k	Specified vacant-for-sale-only housing units: $20,000 to $24,999
+SpecVacRorSaleHsUnt_Usd25kto30k	Specified vacant-for-sale-only housing units: $25,000 to $29,999
+SpecVacRorSaleHsUnt_Usd30kto35k	Specified vacant-for-sale-only housing units: $30,000 to $34,999
+SpecVacRorSaleHsUnt_Usd35kto40k	Specified vacant-for-sale-only housing units: $35,000 to $39,999
+SpecVacRorSaleHsUnt_Usd40kto50k	Specified vacant-for-sale-only housing units: $40,000 to $49,999
+SpecVacRorSaleHsUnt_Usd50kto60k	Specified vacant-for-sale-only housing units: $50,000 to $59,999
+SpecVacRorSaleHsUnt_Usd60kto70k	Specified vacant-for-sale-only housing units: $60,000 to $69,999
+SpecVacRorSaleHsUnt_Usd70kto80k	Specified vacant-for-sale-only housing units: $70,000 to $79,999
+SpecVacRorSaleHsUnt_Usd80kto90k	Specified vacant-for-sale-only housing units: $80,000 to $89,999
+SpecVacRorSaleHsUnt_Usd90kto100k	Specified vacant-for-sale-only housing units: $90,000 to $99,999
+SpecVacRorSaleHsUnt_Usd100kto125k	Specified vacant-for-sale-only housing units: $100,000 to $124,999
+SpecVacRorSaleHsUnt_Usd125kto150k	Specified vacant-for-sale-only housing units: $125,000 to $149,999
+SpecVacRorSaleHsUnt_Usd150kto175k	Specified vacant-for-sale-only housing units: $150,000 to $174,999
+SpecVacRorSaleHsUnt_Usd175kto200k	Specified vacant-for-sale-only housing units: $175,000 to $199,999
+SpecVacRorSaleHsUnt_Usd200kto250k	Specified vacant-for-sale-only housing units: $200,000 to $249,999
+SpecVacRorSaleHsUnt_Usd250kto300k	Specified vacant-for-sale-only housing units: $250,000 to $299,999
+SpecVacRorSaleHsUnt_Usd300kto400k	Specified vacant-for-sale-only housing units: $300,000 to $399,999
+SpecVacRorSaleHsUnt_Usd400kto500k	Specified vacant-for-sale-only housing units: $400,000 to $499,999
+SpecVacRorSaleHsUnt_Usd500kto750k	Specified vacant-for-sale-only housing units: $500,000 to $749,999
+SpecVacRorSaleHsUnt_Usd750kto1M	Specified vacant-for-sale-only housing units: $750,000 to $999,999
+SpecVacRorSaleHsUnt_Usd1MorM	Specified vacant-for-sale-only housing units: $1,000,000 or more
+SpecVacRorSaleHsUnt_MedPriceAskd	Specified vacant-for-sale-only housing units: Median price asked
+SpecVacRorSaleHsUnt_AggPrcAskd	Specified vacant-for-sale-only housing units: Aggregate price asked
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage:
+SpecOwnOcpHsUnt_HsUntMort_Lt$200	Specified owner-occupied housing units: Housing units with a mortgage: Less than $200
+SpecOwnOcpHsUnt_HsUntMort_Usd200to299	Specified owner-occupied housing units: Housing units with a mortgage: $200 to $299
+SpecOwnOcpHsUnt_HsUntMort_Usd300to399	Specified owner-occupied housing units: Housing units with a mortgage: $300 to $399
+SpecOwnOcpHsUnt_HsUntMort_Usd400to499	Specified owner-occupied housing units: Housing units with a mortgage: $400 to $499
+SpecOwnOcpHsUnt_HsUntMort_Usd500to599	Specified owner-occupied housing units: Housing units with a mortgage: $500 to $599
+SpecOwnOcpHsUnt_HsUntMort_Usd600to699	Specified owner-occupied housing units: Housing units with a mortgage: $600 to $699
+SpecOwnOcpHsUnt_HsUntMort_Usd700to799	Specified owner-occupied housing units: Housing units with a mortgage: $700 to $799
+SpecOwnOcpHsUnt_HsUntMort_Usd800to899	Specified owner-occupied housing units: Housing units with a mortgage: $800 to $899
+SpecOwnOcpHsUnt_HsUntMort_Usd900to999	Specified owner-occupied housing units: Housing units with a mortgage: $900 to $999
+SpecOwnOcpHsUnt_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units: Housing units with a mortgage: $1,000 to $1,249
+SpecOwnOcpHsUnt_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units: Housing units with a mortgage: $1,250 to $1,499
+SpecOwnOcpHsUnt_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units: Housing units with a mortgage: $1,500 to $1,999
+SpecOwnOcpHsUnt_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units: Housing units with a mortgage: $2,000 to $2,499
+SpecOwnOcpHsUnt_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units: Housing units with a mortgage: $2,500 to $2,999
+SpecOwnOcpHsUnt_HsUntMort_Usd3korM	Specified owner-occupied housing units: Housing units with a mortgage: $3,000 or more
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage:
+SpecOwnOcpHsUnt_HsUntNoMort_Lt$100	Specified owner-occupied housing units: Housing units without a mortgage: Less than $100
+SpecOwnOcpHsUnt_HsUntNoMort_Usd100to149	Specified owner-occupied housing units: Housing units without a mortgage: $100 to $149
+SpecOwnOcpHsUnt_HsUntNoMort_Usd150to199	Specified owner-occupied housing units: Housing units without a mortgage: $150 to $199
+SpecOwnOcpHsUnt_HsUntNoMort_Usd200to249	Specified owner-occupied housing units: Housing units without a mortgage: $200 to $249
+SpecOwnOcpHsUnt_HsUntNoMort_Usd250to299	Specified owner-occupied housing units: Housing units without a mortgage: $250 to $299
+SpecOwnOcpHsUnt_HsUntNoMort_Usd300to349	Specified owner-occupied housing units: Housing units without a mortgage: $300 to $349
+SpecOwnOcpHsUnt_HsUntNoMort_Usd350to399	Specified owner-occupied housing units: Housing units without a mortgage: $350 to $399
+SpecOwnOcpHsUnt_HsUntNoMort_Usd400to499	Specified owner-occupied housing units: Housing units without a mortgage: $400 to $499
+SpecOwnOcpHsUnt_HsUntNoMort_Usd500to599	Specified owner-occupied housing units: Housing units without a mortgage: $500 to $599
+SpecOwnOcpHsUnt_HsUntNoMort_Usd600to699	Specified owner-occupied housing units: Housing units without a mortgage: $600 to $699
+SpecOwnOcpHsUnt_HsUntNoMort_Usd700to799	Specified owner-occupied housing units: Housing units without a mortgage: $700 to $799
+SpecOwnOcpHsUnt_HsUntNoMort_Usd800to899	Specified owner-occupied housing units: Housing units without a mortgage: $800 to $899
+SpecOwnOcpHsUnt_HsUntNoMort_Usd900to999	Specified owner-occupied housing units: Housing units without a mortgage: $900 to $999
+SpecOwnOcpHsUnt_HsUntNoMort_Usd1korM	Specified owner-occupied housing units: Housing units without a mortgage: $1,000 or more
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage
+SpecOwnOcpHsUnt_AggSelMnthOwnrCsts	Specified owner-occupied housing units: Aggregate selected monthly owner costs:
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage
+OwnerOcpMobHome_AggSelMnthOwnrCsts	Owner-occupied mobile homes: Aggregate selected monthly owner costs:
+OwnerOcpMobHome_MobHomeMort	Owner-occupied mobile homes: Mobile homes with a mortgage
+OwnerOcpMobHome_MobHomeNoMort	Owner-occupied mobile homes: Mobile homes without a mortgage
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage:
+SpecOwnOcpHsUnt_HsUntMort_Lt10.0pct	Specified owner-occupied housing units: Housing units with a mortgage: Less than 10.0 percent
+SpecOwnOcpHsUnt_HsUntMort_10.0to14.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 10.0 to 14.9 percent
+SpecOwnOcpHsUnt_HsUntMort_15.0to19.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 15.0 to 19.9 percent
+SpecOwnOcpHsUnt_HsUntMort_20.0to24.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_HsUntMort_25.0to29.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_HsUntMort_30.0to34.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_HsUntMort_35.0to39.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 35.0 to 39.9 percent
+SpecOwnOcpHsUnt_HsUntMort_40.0to49.9pct	Specified owner-occupied housing units: Housing units with a mortgage: 40.0 to 49.9 percent
+SpecOwnOcpHsUnt_HsUntMort_Gte50pct	Specified owner-occupied housing units: Housing units with a mortgage: 50.0 percent or more
+SpecOwnOcpHsUnt_HsUntMort_NotComp	Specified owner-occupied housing units: Housing units with a mortgage: Not computed
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage:
+SpecOwnOcpHsUnt_HsUntNoMort_Lt10.0pct	Specified owner-occupied housing units: Housing units without a mortgage: Less than 10.0 percent
+SpecOwnOcpHsUnt_HsUntNoMort_10.0to14.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 10.0 to 14.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_15.0to19.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 15.0 to 19.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_20.0to24.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_25.0to29.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_30.0to34.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_35.0to39.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 35.0 to 39.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_40.0to49.9pct	Specified owner-occupied housing units: Housing units without a mortgage: 40.0 to 49.9 percent
+SpecOwnOcpHsUnt_HsUntNoMort_Gte50pct	Specified owner-occupied housing units: Housing units without a mortgage: 50.0 percent or more
+SpecOwnOcpHsUnt_HsUntNoMort_NotComp	Specified owner-occupied housing units: Housing units without a mortgage: Not computed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_Hh15to24y	Specified owner-occupied housing units: Householder 15 to 24 years:
+SpecOwnOcpHsUnt_Hh15to24y_Lt20.0pct	Specified owner-occupied housing units: Householder 15 to 24 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh15to24y_20.0to24.9pct	Specified owner-occupied housing units: Householder 15 to 24 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh15to24y_25.0to29.9pct	Specified owner-occupied housing units: Householder 15 to 24 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh15to24y_30.0to34.9pct	Specified owner-occupied housing units: Householder 15 to 24 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh15to24y_Gte35pct	Specified owner-occupied housing units: Householder 15 to 24 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh15to24y_NotComp	Specified owner-occupied housing units: Householder 15 to 24 years: Not computed
+SpecOwnOcpHsUnt_Hh25to34y	Specified owner-occupied housing units: Householder 25 to 34 years:
+SpecOwnOcpHsUnt_Hh25to34y_Lt20.0pct	Specified owner-occupied housing units: Householder 25 to 34 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh25to34y_20.0to24.9pct	Specified owner-occupied housing units: Householder 25 to 34 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh25to34y_25.0to29.9pct	Specified owner-occupied housing units: Householder 25 to 34 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh25to34y_30.0to34.9pct	Specified owner-occupied housing units: Householder 25 to 34 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh25to34y_Gte35pct	Specified owner-occupied housing units: Householder 25 to 34 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh25to34y_NotComp	Specified owner-occupied housing units: Householder 25 to 34 years: Not computed
+SpecOwnOcpHsUnt_Hh35to44y	Specified owner-occupied housing units: Householder 35 to 44 years:
+SpecOwnOcpHsUnt_Hh35to44y_Lt20.0pct	Specified owner-occupied housing units: Householder 35 to 44 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh35to44y_20.0to24.9pct	Specified owner-occupied housing units: Householder 35 to 44 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh35to44y_25.0to29.9pct	Specified owner-occupied housing units: Householder 35 to 44 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh35to44y_30.0to34.9pct	Specified owner-occupied housing units: Householder 35 to 44 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh35to44y_Gte35pct	Specified owner-occupied housing units: Householder 35 to 44 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh35to44y_NotComp	Specified owner-occupied housing units: Householder 35 to 44 years: Not computed
+SpecOwnOcpHsUnt_Hh45to54y	Specified owner-occupied housing units: Householder 45 to 54 years:
+SpecOwnOcpHsUnt_Hh45to54y_Lt20.0pct	Specified owner-occupied housing units: Householder 45 to 54 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh45to54y_20.0to24.9pct	Specified owner-occupied housing units: Householder 45 to 54 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh45to54y_25.0to29.9pct	Specified owner-occupied housing units: Householder 45 to 54 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh45to54y_30.0to34.9pct	Specified owner-occupied housing units: Householder 45 to 54 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh45to54y_Gte35pct	Specified owner-occupied housing units: Householder 45 to 54 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh45to54y_NotComp	Specified owner-occupied housing units: Householder 45 to 54 years: Not computed
+SpecOwnOcpHsUnt_Hh55to64y	Specified owner-occupied housing units: Householder 55 to 64 years:
+SpecOwnOcpHsUnt_Hh55to64y_Lt20.0pct	Specified owner-occupied housing units: Householder 55 to 64 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh55to64y_20.0to24.9pct	Specified owner-occupied housing units: Householder 55 to 64 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh55to64y_25.0to29.9pct	Specified owner-occupied housing units: Householder 55 to 64 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh55to64y_30.0to34.9pct	Specified owner-occupied housing units: Householder 55 to 64 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh55to64y_Gte35pct	Specified owner-occupied housing units: Householder 55 to 64 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh55to64y_NotComp	Specified owner-occupied housing units: Householder 55 to 64 years: Not computed
+SpecOwnOcpHsUnt_Hh65to74y	Specified owner-occupied housing units: Householder 65 to 74 years:
+SpecOwnOcpHsUnt_Hh65to74y_Lt20.0pct	Specified owner-occupied housing units: Householder 65 to 74 years: Less than 20.0 percent
+SpecOwnOcpHsUnt_Hh65to74y_20.0to24.9pct	Specified owner-occupied housing units: Householder 65 to 74 years: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Hh65to74y_25.0to29.9pct	Specified owner-occupied housing units: Householder 65 to 74 years: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Hh65to74y_30.0to34.9pct	Specified owner-occupied housing units: Householder 65 to 74 years: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Hh65to74y_Gte35pct	Specified owner-occupied housing units: Householder 65 to 74 years: 35.0 percent or more
+SpecOwnOcpHsUnt_Hh65to74y_NotComp	Specified owner-occupied housing units: Householder 65 to 74 years: Not computed
+SpecOwnOcpHsUnt_HhGte75y	Specified owner-occupied housing units: Householder 75 years and over:
+SpecOwnOcpHsUnt_HhGte75y_Lt20.0pct	Specified owner-occupied housing units: Householder 75 years and over: Less than 20.0 percent
+SpecOwnOcpHsUnt_HhGte75y_20.0to24.9pct	Specified owner-occupied housing units: Householder 75 years and over: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_HhGte75y_25.0to29.9pct	Specified owner-occupied housing units: Householder 75 years and over: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_HhGte75y_30.0to34.9pct	Specified owner-occupied housing units: Householder 75 years and over: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_HhGte75y_Gte35pct	Specified owner-occupied housing units: Householder 75 years and over: 35.0 percent or more
+SpecOwnOcpHsUnt_HhGte75y_NotComp	Specified owner-occupied housing units: Householder 75 years and over: Not computed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_LtUsd10k	Specified owner-occupied housing units: Less than $10,000:
+SpecOwnOcpHsUnt_LtUsd10k_Lt20.0pct	Specified owner-occupied housing units: Less than $10,000: Less than 20.0 percent
+SpecOwnOcpHsUnt_LtUsd10k_20.0to24.9pct	Specified owner-occupied housing units: Less than $10,000: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_LtUsd10k_25.0to29.9pct	Specified owner-occupied housing units: Less than $10,000: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_LtUsd10k_30.0to34.9pct	Specified owner-occupied housing units: Less than $10,000: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_LtUsd10k_Gte35pct	Specified owner-occupied housing units: Less than $10,000: 35.0 percent or more
+SpecOwnOcpHsUnt_LtUsd10k_NotComp	Specified owner-occupied housing units: Less than $10,000: Not computed
+SpecOwnOcpHsUnt_Usd10kto20k	Specified owner-occupied housing units: $10,000 to $19,999:
+SpecOwnOcpHsUnt_Usd10kto20k_Lt20.0pct	Specified owner-occupied housing units: $10,000 to $19,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd10kto20k_20.0to24.9pct	Specified owner-occupied housing units: $10,000 to $19,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd10kto20k_25.0to29.9pct	Specified owner-occupied housing units: $10,000 to $19,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd10kto20k_30.0to34.9pct	Specified owner-occupied housing units: $10,000 to $19,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd10kto20k_Gte35pct	Specified owner-occupied housing units: $10,000 to $19,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd10kto20k_NotComp	Specified owner-occupied housing units: $10,000 to $19,999: Not computed
+SpecOwnOcpHsUnt_Usd20kto35k	Specified owner-occupied housing units: $20,000 to $34,999:
+SpecOwnOcpHsUnt_Usd20kto35k_Lt20.0pct	Specified owner-occupied housing units: $20,000 to $34,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd20kto35k_20.0to24.9pct	Specified owner-occupied housing units: $20,000 to $34,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd20kto35k_25.0to29.9pct	Specified owner-occupied housing units: $20,000 to $34,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd20kto35k_30.0to34.9pct	Specified owner-occupied housing units: $20,000 to $34,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd20kto35k_Gte35pct	Specified owner-occupied housing units: $20,000 to $34,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd20kto35k_NotComp	Specified owner-occupied housing units: $20,000 to $34,999: Not computed
+SpecOwnOcpHsUnt_Usd35kto50k	Specified owner-occupied housing units: $35,000 to $49,999:
+SpecOwnOcpHsUnt_Usd35kto50k_Lt20.0pct	Specified owner-occupied housing units: $35,000 to $49,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd35kto50k_20.0to24.9pct	Specified owner-occupied housing units: $35,000 to $49,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd35kto50k_25.0to29.9pct	Specified owner-occupied housing units: $35,000 to $49,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd35kto50k_30.0to34.9pct	Specified owner-occupied housing units: $35,000 to $49,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd35kto50k_Gte35pct	Specified owner-occupied housing units: $35,000 to $49,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd35kto50k_NotComp	Specified owner-occupied housing units: $35,000 to $49,999: Not computed
+SpecOwnOcpHsUnt_Usd50kto75k	Specified owner-occupied housing units: $50,000 to $74,999:
+SpecOwnOcpHsUnt_Usd50kto75k_Lt20.0pct	Specified owner-occupied housing units: $50,000 to $74,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd50kto75k_20.0to24.9pct	Specified owner-occupied housing units: $50,000 to $74,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd50kto75k_25.0to29.9pct	Specified owner-occupied housing units: $50,000 to $74,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd50kto75k_30.0to34.9pct	Specified owner-occupied housing units: $50,000 to $74,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd50kto75k_Gte35pct	Specified owner-occupied housing units: $50,000 to $74,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd50kto75k_NotComp	Specified owner-occupied housing units: $50,000 to $74,999: Not computed
+SpecOwnOcpHsUnt_Usd75kto100k	Specified owner-occupied housing units: $75,000 to $99,999:
+SpecOwnOcpHsUnt_Usd75kto100k_Lt20.0pct	Specified owner-occupied housing units: $75,000 to $99,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd75kto100k_20.0to24.9pct	Specified owner-occupied housing units: $75,000 to $99,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd75kto100k_25.0to29.9pct	Specified owner-occupied housing units: $75,000 to $99,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd75kto100k_30.0to34.9pct	Specified owner-occupied housing units: $75,000 to $99,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd75kto100k_Gte35pct	Specified owner-occupied housing units: $75,000 to $99,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd75kto100k_NotComp	Specified owner-occupied housing units: $75,000 to $99,999: Not computed
+SpecOwnOcpHsUnt_Usd100kto150k	Specified owner-occupied housing units: $100,000 to $149,999:
+SpecOwnOcpHsUnt_Usd100kto150k_Lt20.0pct	Specified owner-occupied housing units: $100,000 to $149,999: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd100kto150k_20.0to24.9pct	Specified owner-occupied housing units: $100,000 to $149,999: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd100kto150k_25.0to29.9pct	Specified owner-occupied housing units: $100,000 to $149,999: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd100kto150k_30.0to34.9pct	Specified owner-occupied housing units: $100,000 to $149,999: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd100kto150k_Gte35pct	Specified owner-occupied housing units: $100,000 to $149,999: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd100kto150k_NotComp	Specified owner-occupied housing units: $100,000 to $149,999: Not computed
+SpecOwnOcpHsUnt_Usd150korM	Specified owner-occupied housing units: $150,000 or more:
+SpecOwnOcpHsUnt_Usd150korM_Lt20.0pct	Specified owner-occupied housing units: $150,000 or more: Less than 20.0 percent
+SpecOwnOcpHsUnt_Usd150korM_20.0to24.9pct	Specified owner-occupied housing units: $150,000 or more: 20.0 to 24.9 percent
+SpecOwnOcpHsUnt_Usd150korM_25.0to29.9pct	Specified owner-occupied housing units: $150,000 or more: 25.0 to 29.9 percent
+SpecOwnOcpHsUnt_Usd150korM_30.0to34.9pct	Specified owner-occupied housing units: $150,000 or more: 30.0 to 34.9 percent
+SpecOwnOcpHsUnt_Usd150korM_Gte35pct	Specified owner-occupied housing units: $150,000 or more: 35.0 percent or more
+SpecOwnOcpHsUnt_Usd150korM_NotComp	Specified owner-occupied housing units: $150,000 or more: Not computed
+OwnerOcpHsUnt_Tot	Owner-occupied housing units: Total:
+OwnerOcpHsUnt_HsUntMort	Owner-occupied housing units: Housing units with a mortgage:
+OwnerOcpHsUnt_HsUntMort_Lt$200	Owner-occupied housing units: Housing units with a mortgage: Less than $200
+OwnerOcpHsUnt_HsUntMort_Usd200to299	Owner-occupied housing units: Housing units with a mortgage: $200 to $299
+OwnerOcpHsUnt_HsUntMort_Usd300to399	Owner-occupied housing units: Housing units with a mortgage: $300 to $399
+OwnerOcpHsUnt_HsUntMort_Usd400to499	Owner-occupied housing units: Housing units with a mortgage: $400 to $499
+OwnerOcpHsUnt_HsUntMort_Usd500to599	Owner-occupied housing units: Housing units with a mortgage: $500 to $599
+OwnerOcpHsUnt_HsUntMort_Usd600to699	Owner-occupied housing units: Housing units with a mortgage: $600 to $699
+OwnerOcpHsUnt_HsUntMort_Usd700to799	Owner-occupied housing units: Housing units with a mortgage: $700 to $799
+OwnerOcpHsUnt_HsUntMort_Usd800to899	Owner-occupied housing units: Housing units with a mortgage: $800 to $899
+OwnerOcpHsUnt_HsUntMort_Usd900to999	Owner-occupied housing units: Housing units with a mortgage: $900 to $999
+OwnerOcpHsUnt_HsUntMort_Usd1kto1.25k	Owner-occupied housing units: Housing units with a mortgage: $1,000 to $1,249
+OwnerOcpHsUnt_HsUntMort_Usd1.25kto1.5k	Owner-occupied housing units: Housing units with a mortgage: $1,250 to $1,499
+OwnerOcpHsUnt_HsUntMort_Usd1.5kto2k	Owner-occupied housing units: Housing units with a mortgage: $1,500 to $1,999
+OwnerOcpHsUnt_HsUntMort_Usd2kto2.5k	Owner-occupied housing units: Housing units with a mortgage: $2,000 to $2,499
+OwnerOcpHsUnt_HsUntMort_Usd2.5kto3k	Owner-occupied housing units: Housing units with a mortgage: $2,500 to $2,999
+OwnerOcpHsUnt_HsUntMort_Usd3korM	Owner-occupied housing units: Housing units with a mortgage: $3,000 or more
+OwnerOcpHsUnt_HsUntNoMort	Owner-occupied housing units: Housing units without a mortgage:
+OwnerOcpHsUnt_HsUntNoMort_Lt$100	Owner-occupied housing units: Housing units without a mortgage: Less than $100
+OwnerOcpHsUnt_HsUntNoMort_Usd100to149	Owner-occupied housing units: Housing units without a mortgage: $100 to $149
+OwnerOcpHsUnt_HsUntNoMort_Usd150to199	Owner-occupied housing units: Housing units without a mortgage: $150 to $199
+OwnerOcpHsUnt_HsUntNoMort_Usd200to249	Owner-occupied housing units: Housing units without a mortgage: $200 to $249
+OwnerOcpHsUnt_HsUntNoMort_Usd250to299	Owner-occupied housing units: Housing units without a mortgage: $250 to $299
+OwnerOcpHsUnt_HsUntNoMort_Usd300to349	Owner-occupied housing units: Housing units without a mortgage: $300 to $349
+OwnerOcpHsUnt_HsUntNoMort_Usd350to399	Owner-occupied housing units: Housing units without a mortgage: $350 to $399
+OwnerOcpHsUnt_HsUntNoMort_Usd400to499	Owner-occupied housing units: Housing units without a mortgage: $400 to $499
+OwnerOcpHsUnt_HsUntNoMort_Usd500to599	Owner-occupied housing units: Housing units without a mortgage: $500 to $599
+OwnerOcpHsUnt_HsUntNoMort_Usd600to699	Owner-occupied housing units: Housing units without a mortgage: $600 to $699
+OwnerOcpHsUnt_HsUntNoMort_Usd700to799	Owner-occupied housing units: Housing units without a mortgage: $700 to $799
+OwnerOcpHsUnt_HsUntNoMort_Usd800to899	Owner-occupied housing units: Housing units without a mortgage: $800 to $899
+OwnerOcpHsUnt_HsUntNoMort_Usd900to999	Owner-occupied housing units: Housing units without a mortgage: $900 to $999
+OwnerOcpHsUnt_HsUntNoMort_Usd1korM	Owner-occupied housing units: Housing units without a mortgage: $1,000 or more
+HsUnt_Tot	Housing units: Total:
+HsUnt_Gte1ItemImp	Housing units: One or more items imputed
+HsUnt_NoItemImp	Housing units: No items imputed
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_Imp	Occupied housing units: Imputed
+OcpHsUnt_NotImp	Occupied housing units: Not imputed
+VacantHsUnt_Tot	Vacant housing units: Total:
+VacantHsUnt_Imp	Vacant housing units: Imputed
+VacantHsUnt_NotImp	Vacant housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed

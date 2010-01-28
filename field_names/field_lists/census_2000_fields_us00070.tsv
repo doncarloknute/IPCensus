@@ -1,0 +1,250 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Inc99LtPov	Occupied housing units: Owner occupied: Income in 1999 below poverty level:
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh15to24y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh25to34y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh35to44y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh45to54y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh55to59y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 55 to 59 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh60to64y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 60 to 64 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh65to74y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_Hh75to84y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 75 to 84 years
+OcpHsUnt_OwnerOcp_Inc99LtPov_HhGte85y	Occupied housing units: Owner occupied: Income in 1999 below poverty level: Householder 85 years and over
+OcpHsUnt_OwnerOcp_Inc99GtePov	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh15to24y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh25to34y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh35to44y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh45to54y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh55to59y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 55 to 59 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh60to64y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 60 to 64 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh65to74y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_Hh75to84y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 75 to 84 years
+OcpHsUnt_OwnerOcp_Inc99GtePov_HhGte85y	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: Householder 85 years and over
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Inc99LtPov	Occupied housing units: Renter occupied: Income in 1999 below poverty level:
+OcpHsUnt_RentOcp_Inc99LtPov_Hh15to24y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 15 to 24 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh25to34y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 25 to 34 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh35to44y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 35 to 44 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh45to54y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 45 to 54 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh55to59y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 55 to 59 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh60to64y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 60 to 64 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh65to74y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 65 to 74 years
+OcpHsUnt_RentOcp_Inc99LtPov_Hh75to84y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 75 to 84 years
+OcpHsUnt_RentOcp_Inc99LtPov_HhGte85y	Occupied housing units: Renter occupied: Income in 1999 below poverty level: Householder 85 years and over
+OcpHsUnt_RentOcp_Inc99GtePov	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_RentOcp_Inc99GtePov_Hh15to24y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 15 to 24 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh25to34y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 25 to 34 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh35to44y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 35 to 44 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh45to54y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 45 to 54 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh55to59y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 55 to 59 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh60to64y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 60 to 64 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh65to74y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 65 to 74 years
+OcpHsUnt_RentOcp_Inc99GtePov_Hh75to84y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 75 to 84 years
+OcpHsUnt_RentOcp_Inc99GtePov_HhGte85y	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: Householder 85 years and over
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Inc99LtPov	Occupied housing units: Owner occupied: Income in 1999 below poverty level:
+OcpHsUnt_OwnerOcp_Inc99LtPov_WPubAssInc	Occupied housing units: Owner occupied: Income in 1999 below poverty level: With public assistance income
+OcpHsUnt_OwnerOcp_Inc99LtPov_NoPubAssInc	Occupied housing units: Owner occupied: Income in 1999 below poverty level: No public assistance income
+OcpHsUnt_OwnerOcp_Inc99GtePov	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_OwnerOcp_Inc99GtePov_WPubAssInc	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: With public assistance income
+OcpHsUnt_OwnerOcp_Inc99GtePov_NoPubAssInc	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: No public assistance income
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Inc99LtPov	Occupied housing units: Renter occupied: Income in 1999 below poverty level:
+OcpHsUnt_RentOcp_Inc99LtPov_WPubAssInc	Occupied housing units: Renter occupied: Income in 1999 below poverty level: With public assistance income
+OcpHsUnt_RentOcp_Inc99LtPov_NoPubAssInc	Occupied housing units: Renter occupied: Income in 1999 below poverty level: No public assistance income
+OcpHsUnt_RentOcp_Inc99GtePov	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_RentOcp_Inc99GtePov_WPubAssInc	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: With public assistance income
+OcpHsUnt_RentOcp_Inc99GtePov_NoPubAssInc	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: No public assistance income
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Inc99LtPov	Occupied housing units: Owner occupied: Income in 1999 below poverty level:
+OcpHsUnt_OwnerOcp_Inc99LtPov_WSocSecInc	Occupied housing units: Owner occupied: Income in 1999 below poverty level: With Social Security income
+OcpHsUnt_OwnerOcp_Inc99LtPov_NoSocSecInc	Occupied housing units: Owner occupied: Income in 1999 below poverty level: No Social Security income
+OcpHsUnt_OwnerOcp_Inc99GtePov	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_OwnerOcp_Inc99GtePov_WSocSecInc	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: With Social Security income
+OcpHsUnt_OwnerOcp_Inc99GtePov_NoSocSecInc	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: No Social Security income
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Inc99LtPov	Occupied housing units: Renter occupied: Income in 1999 below poverty level:
+OcpHsUnt_RentOcp_Inc99LtPov_WSocSecInc	Occupied housing units: Renter occupied: Income in 1999 below poverty level: With Social Security income
+OcpHsUnt_RentOcp_Inc99LtPov_NoSocSecInc	Occupied housing units: Renter occupied: Income in 1999 below poverty level: No Social Security income
+OcpHsUnt_RentOcp_Inc99GtePov	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_RentOcp_Inc99GtePov_WSocSecInc	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: With Social Security income
+OcpHsUnt_RentOcp_Inc99GtePov_NoSocSecInc	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: No Social Security income
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Inc99LtPov	Occupied housing units: Owner occupied: Income in 1999 below poverty level:
+OcpHsUnt_OwnerOcp_Inc99LtPov_WPhoneServAvail	Occupied housing units: Owner occupied: Income in 1999 below poverty level: With telephone service available
+OcpHsUnt_OwnerOcp_Inc99LtPov_NoPhoneServAvail	Occupied housing units: Owner occupied: Income in 1999 below poverty level: No telephone service available
+OcpHsUnt_OwnerOcp_Inc99GtePov	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_OwnerOcp_Inc99GtePov_WPhoneServAvail	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: With telephone service available
+OcpHsUnt_OwnerOcp_Inc99GtePov_NoPhoneServAvail	Occupied housing units: Owner occupied: Income in 1999 at or above poverty level: No telephone service available
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Inc99LtPov	Occupied housing units: Renter occupied: Income in 1999 below poverty level:
+OcpHsUnt_RentOcp_Inc99LtPov_WPhoneServAvail	Occupied housing units: Renter occupied: Income in 1999 below poverty level: With telephone service available
+OcpHsUnt_RentOcp_Inc99LtPov_NoPhoneServAvail	Occupied housing units: Renter occupied: Income in 1999 below poverty level: No telephone service available
+OcpHsUnt_RentOcp_Inc99GtePov	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level:
+OcpHsUnt_RentOcp_Inc99GtePov_WPhoneServAvail	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: With telephone service available
+OcpHsUnt_RentOcp_Inc99GtePov_NoPhoneServAvail	Occupied housing units: Renter occupied: Income in 1999 at or above poverty level: No telephone service available
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_W1SelCond	Occupied housing units: Owner occupied: With one selected condition
+OcpHsUnt_OwnerOcp_W2SelCond	Occupied housing units: Owner occupied: With two selected conditions
+OcpHsUnt_OwnerOcp_W3SelCond	Occupied housing units: Owner occupied: With three selected conditions
+OcpHsUnt_OwnerOcp_W4SelCond	Occupied housing units: Owner occupied: With four selected conditions
+OcpHsUnt_OwnerOcp_NoSelCond	Occupied housing units: Owner occupied: No selected conditions
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_W1SelCond	Occupied housing units: Renter occupied: With one selected condition
+OcpHsUnt_RentOcp_W2SelCond	Occupied housing units: Renter occupied: With two selected conditions
+OcpHsUnt_RentOcp_W3SelCond	Occupied housing units: Renter occupied: With three selected conditions
+OcpHsUnt_RentOcp_W4SelCond	Occupied housing units: Renter occupied: With four selected conditions
+OcpHsUnt_RentOcp_NoSelCond	Occupied housing units: Renter occupied: No selected conditions
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_Lte1OcpPrRm	Occupied housing units with a householder who is White alone: 1.00 or less occupants per room
+OcpHsUntWHhWht_Gte1.01OcpPrRm	Occupied housing units with a householder who is White alone: 1.01 or more occupants per room
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_Lte1OcpPrRm	Occupied housing units with a householder who is Black or African American alone: 1.00 or less occupants per room
+OcpHsUntWHhBlkAfAm_Gte1.01OcpPrRm	Occupied housing units with a householder who is Black or African American alone: 1.01 or more occupants per room
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_Lte1OcpPrRm	Occupied housing units with a householder who is American Indian and Alaska Native alone: 1.00 or less occupants per room
+OcpHsUntWHhAmIndAkNat_Gte1.01OcpPrRm	Occupied housing units with a householder who is American Indian and Alaska Native alone: 1.01 or more occupants per room
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_Lte1OcpPrRm	Occupied housing units with a householder who is Asian alone: 1.00 or less occupants per room
+OcpHsUntWHhAsn_Gte1.01OcpPrRm	Occupied housing units with a householder who is Asian alone: 1.01 or more occupants per room
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_Lte1OcpPrRm	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 1.00 or less occupants per room
+OcpHsUntWHhNatHiPacIsl_Gte1.01OcpPrRm	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 1.01 or more occupants per room
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_Lte1OcpPrRm	Occupied housing units with a householder who is Some other race alone: 1.00 or less occupants per room
+OcpHsUntWHhOthRce_Gte1.01OcpPrRm	Occupied housing units with a householder who is Some other race alone: 1.01 or more occupants per room
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_Lte1OcpPrRm	Occupied housing units with a householder who is Two or more races: 1.00 or less occupants per room
+OcpHsUntWHhGte2Rce_Gte1.01OcpPrRm	Occupied housing units with a householder who is Two or more races: 1.01 or more occupants per room
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_Lte1OcpPrRm	Occupied housing units with a householder who is Hispanic or Latino: 1.00 or less occupants per room
+OcpHsUntWHhHisp_Gte1.01OcpPrRm	Occupied housing units with a householder who is Hispanic or Latino: 1.01 or more occupants per room
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_Lte1OcpPrRm	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 1.00 or less occupants per room
+OcpHsUntWHhWhtNotHisp_Gte1.01OcpPrRm	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 1.01 or more occupants per room
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_1Dtchd	Occupied housing units with a householder who is White alone: 1, detached
+OcpHsUntWHhWht_1Atchd	Occupied housing units with a householder who is White alone: 1, attached
+OcpHsUntWHhWht_2	Occupied housing units with a householder who is White alone: 2
+OcpHsUntWHhWht_3or4	Occupied housing units with a householder who is White alone: 3 or 4
+OcpHsUntWHhWht_5to9	Occupied housing units with a householder who is White alone: 5 to 9
+OcpHsUntWHhWht_10to19	Occupied housing units with a householder who is White alone: 10 to 19
+OcpHsUntWHhWht_20to49	Occupied housing units with a householder who is White alone: 20 to 49
+OcpHsUntWHhWht_Gte50	Occupied housing units with a householder who is White alone: 50 or more
+OcpHsUntWHhWht_MobHome	Occupied housing units with a householder who is White alone: Mobile home
+OcpHsUntWHhWht_BoatRVvan	Occupied housing units with a householder who is White alone: Boat, RV, van, etc.
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_1Dtchd	Occupied housing units with a householder who is Black or African American alone: 1, detached
+OcpHsUntWHhBlkAfAm_1Atchd	Occupied housing units with a householder who is Black or African American alone: 1, attached
+OcpHsUntWHhBlkAfAm_2	Occupied housing units with a householder who is Black or African American alone: 2
+OcpHsUntWHhBlkAfAm_3or4	Occupied housing units with a householder who is Black or African American alone: 3 or 4
+OcpHsUntWHhBlkAfAm_5to9	Occupied housing units with a householder who is Black or African American alone: 5 to 9
+OcpHsUntWHhBlkAfAm_10to19	Occupied housing units with a householder who is Black or African American alone: 10 to 19
+OcpHsUntWHhBlkAfAm_20to49	Occupied housing units with a householder who is Black or African American alone: 20 to 49
+OcpHsUntWHhBlkAfAm_Gte50	Occupied housing units with a householder who is Black or African American alone: 50 or more
+OcpHsUntWHhBlkAfAm_MobHome	Occupied housing units with a householder who is Black or African American alone: Mobile home
+OcpHsUntWHhBlkAfAm_BoatRVvan	Occupied housing units with a householder who is Black or African American alone: Boat, RV, van, etc.
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_1Dtchd	Occupied housing units with a householder who is American Indian and Alaska Native alone: 1, detached
+OcpHsUntWHhAmIndAkNat_1Atchd	Occupied housing units with a householder who is American Indian and Alaska Native alone: 1, attached
+OcpHsUntWHhAmIndAkNat_2	Occupied housing units with a householder who is American Indian and Alaska Native alone: 2
+OcpHsUntWHhAmIndAkNat_3or4	Occupied housing units with a householder who is American Indian and Alaska Native alone: 3 or 4
+OcpHsUntWHhAmIndAkNat_5to9	Occupied housing units with a householder who is American Indian and Alaska Native alone: 5 to 9
+OcpHsUntWHhAmIndAkNat_10to19	Occupied housing units with a householder who is American Indian and Alaska Native alone: 10 to 19
+OcpHsUntWHhAmIndAkNat_20to49	Occupied housing units with a householder who is American Indian and Alaska Native alone: 20 to 49
+OcpHsUntWHhAmIndAkNat_Gte50	Occupied housing units with a householder who is American Indian and Alaska Native alone: 50 or more
+OcpHsUntWHhAmIndAkNat_MobHome	Occupied housing units with a householder who is American Indian and Alaska Native alone: Mobile home
+OcpHsUntWHhAmIndAkNat_BoatRVvan	Occupied housing units with a householder who is American Indian and Alaska Native alone: Boat, RV, van, etc.
+OcpHsUntWHhAsn_Tot	Occupied housing units with a householder who is Asian alone: Total:
+OcpHsUntWHhAsn_1Dtchd	Occupied housing units with a householder who is Asian alone: 1, detached
+OcpHsUntWHhAsn_1Atchd	Occupied housing units with a householder who is Asian alone: 1, attached
+OcpHsUntWHhAsn_2	Occupied housing units with a householder who is Asian alone: 2
+OcpHsUntWHhAsn_3or4	Occupied housing units with a householder who is Asian alone: 3 or 4
+OcpHsUntWHhAsn_5to9	Occupied housing units with a householder who is Asian alone: 5 to 9
+OcpHsUntWHhAsn_10to19	Occupied housing units with a householder who is Asian alone: 10 to 19
+OcpHsUntWHhAsn_20to49	Occupied housing units with a householder who is Asian alone: 20 to 49
+OcpHsUntWHhAsn_Gte50	Occupied housing units with a householder who is Asian alone: 50 or more
+OcpHsUntWHhAsn_MobHome	Occupied housing units with a householder who is Asian alone: Mobile home
+OcpHsUntWHhAsn_BoatRVvan	Occupied housing units with a householder who is Asian alone: Boat, RV, van, etc.
+OcpHsUntWHhNatHiPacIsl_Tot	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OcpHsUntWHhNatHiPacIsl_1Dtchd	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 1, detached
+OcpHsUntWHhNatHiPacIsl_1Atchd	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 1, attached
+OcpHsUntWHhNatHiPacIsl_2	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 2
+OcpHsUntWHhNatHiPacIsl_3or4	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 3 or 4
+OcpHsUntWHhNatHiPacIsl_5to9	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 5 to 9
+OcpHsUntWHhNatHiPacIsl_10to19	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 10 to 19
+OcpHsUntWHhNatHiPacIsl_20to49	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 20 to 49
+OcpHsUntWHhNatHiPacIsl_Gte50	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: 50 or more
+OcpHsUntWHhNatHiPacIsl_MobHome	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Mobile home
+OcpHsUntWHhNatHiPacIsl_BoatRVvan	Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Boat, RV, van, etc.
+OcpHsUntWHhOthRce_Tot	Occupied housing units with a householder who is Some other race alone: Total:
+OcpHsUntWHhOthRce_1Dtchd	Occupied housing units with a householder who is Some other race alone: 1, detached
+OcpHsUntWHhOthRce_1Atchd	Occupied housing units with a householder who is Some other race alone: 1, attached
+OcpHsUntWHhOthRce_2	Occupied housing units with a householder who is Some other race alone: 2
+OcpHsUntWHhOthRce_3or4	Occupied housing units with a householder who is Some other race alone: 3 or 4
+OcpHsUntWHhOthRce_5to9	Occupied housing units with a householder who is Some other race alone: 5 to 9
+OcpHsUntWHhOthRce_10to19	Occupied housing units with a householder who is Some other race alone: 10 to 19
+OcpHsUntWHhOthRce_20to49	Occupied housing units with a householder who is Some other race alone: 20 to 49
+OcpHsUntWHhOthRce_Gte50	Occupied housing units with a householder who is Some other race alone: 50 or more
+OcpHsUntWHhOthRce_MobHome	Occupied housing units with a householder who is Some other race alone: Mobile home
+OcpHsUntWHhOthRce_BoatRVvan	Occupied housing units with a householder who is Some other race alone: Boat, RV, van, etc.
+OcpHsUntWHhGte2Rce_Tot	Occupied housing units with a householder who is Two or more races: Total:
+OcpHsUntWHhGte2Rce_1Dtchd	Occupied housing units with a householder who is Two or more races: 1, detached
+OcpHsUntWHhGte2Rce_1Atchd	Occupied housing units with a householder who is Two or more races: 1, attached
+OcpHsUntWHhGte2Rce_2	Occupied housing units with a householder who is Two or more races: 2
+OcpHsUntWHhGte2Rce_3or4	Occupied housing units with a householder who is Two or more races: 3 or 4
+OcpHsUntWHhGte2Rce_5to9	Occupied housing units with a householder who is Two or more races: 5 to 9
+OcpHsUntWHhGte2Rce_10to19	Occupied housing units with a householder who is Two or more races: 10 to 19
+OcpHsUntWHhGte2Rce_20to49	Occupied housing units with a householder who is Two or more races: 20 to 49
+OcpHsUntWHhGte2Rce_Gte50	Occupied housing units with a householder who is Two or more races: 50 or more
+OcpHsUntWHhGte2Rce_MobHome	Occupied housing units with a householder who is Two or more races: Mobile home
+OcpHsUntWHhGte2Rce_BoatRVvan	Occupied housing units with a householder who is Two or more races: Boat, RV, van, etc.
+OcpHsUntWHhHisp_Tot	Occupied housing units with a householder who is Hispanic or Latino: Total:
+OcpHsUntWHhHisp_1Dtchd	Occupied housing units with a householder who is Hispanic or Latino: 1, detached
+OcpHsUntWHhHisp_1Atchd	Occupied housing units with a householder who is Hispanic or Latino: 1, attached
+OcpHsUntWHhHisp_2	Occupied housing units with a householder who is Hispanic or Latino: 2
+OcpHsUntWHhHisp_3or4	Occupied housing units with a householder who is Hispanic or Latino: 3 or 4
+OcpHsUntWHhHisp_5to9	Occupied housing units with a householder who is Hispanic or Latino: 5 to 9
+OcpHsUntWHhHisp_10to19	Occupied housing units with a householder who is Hispanic or Latino: 10 to 19
+OcpHsUntWHhHisp_20to49	Occupied housing units with a householder who is Hispanic or Latino: 20 to 49
+OcpHsUntWHhHisp_Gte50	Occupied housing units with a householder who is Hispanic or Latino: 50 or more
+OcpHsUntWHhHisp_MobHome	Occupied housing units with a householder who is Hispanic or Latino: Mobile home
+OcpHsUntWHhHisp_BoatRVvan	Occupied housing units with a householder who is Hispanic or Latino: Boat, RV, van, etc.
+OcpHsUntWHhWhtNotHisp_Tot	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Total:
+OcpHsUntWHhWhtNotHisp_1Dtchd	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 1, detached
+OcpHsUntWHhWhtNotHisp_1Atchd	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 1, attached
+OcpHsUntWHhWhtNotHisp_2	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 2
+OcpHsUntWHhWhtNotHisp_3or4	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 3 or 4
+OcpHsUntWHhWhtNotHisp_5to9	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 5 to 9
+OcpHsUntWHhWhtNotHisp_10to19	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 10 to 19
+OcpHsUntWHhWhtNotHisp_20to49	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 20 to 49
+OcpHsUntWHhWhtNotHisp_Gte50	Occupied housing units with a householder who is White alone, not Hispanic or Latino: 50 or more
+OcpHsUntWHhWhtNotHisp_MobHome	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Mobile home
+OcpHsUntWHhWhtNotHisp_BoatRVvan	Occupied housing units with a householder who is White alone, not Hispanic or Latino: Boat, RV, van, etc.
+OcpHsUntWHhWht_Tot	Occupied housing units with a householder who is White alone: Total:
+OcpHsUntWHhWht_Mvd99toMar2000	Occupied housing units with a householder who is White alone: Moved in 1999 to March 2000
+OcpHsUntWHhWht_Mvd95to98	Occupied housing units with a householder who is White alone: Moved in 1995 to 1998
+OcpHsUntWHhWht_Mvd90to94	Occupied housing units with a householder who is White alone: Moved in 1990 to 1994
+OcpHsUntWHhWht_Mvd80to89	Occupied housing units with a householder who is White alone: Moved in 1980 to 1989
+OcpHsUntWHhWht_Mvd70to79	Occupied housing units with a householder who is White alone: Moved in 1970 to 1979
+OcpHsUntWHhWht_MvdLte69	Occupied housing units with a householder who is White alone: Moved in 1969 or earlier
+OcpHsUntWHhBlkAfAm_Tot	Occupied housing units with a householder who is Black or African American alone: Total:
+OcpHsUntWHhBlkAfAm_Mvd99toMar2000	Occupied housing units with a householder who is Black or African American alone: Moved in 1999 to March 2000
+OcpHsUntWHhBlkAfAm_Mvd95to98	Occupied housing units with a householder who is Black or African American alone: Moved in 1995 to 1998
+OcpHsUntWHhBlkAfAm_Mvd90to94	Occupied housing units with a householder who is Black or African American alone: Moved in 1990 to 1994
+OcpHsUntWHhBlkAfAm_Mvd80to89	Occupied housing units with a householder who is Black or African American alone: Moved in 1980 to 1989
+OcpHsUntWHhBlkAfAm_Mvd70to79	Occupied housing units with a householder who is Black or African American alone: Moved in 1970 to 1979
+OcpHsUntWHhBlkAfAm_MvdLte69	Occupied housing units with a householder who is Black or African American alone: Moved in 1969 or earlier
+OcpHsUntWHhAmIndAkNat_Tot	Occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OcpHsUntWHhAmIndAkNat_Mvd99toMar2000	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1999 to March 2000
+OcpHsUntWHhAmIndAkNat_Mvd95to98	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1995 to 1998
+OcpHsUntWHhAmIndAkNat_Mvd90to94	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1990 to 1994
+OcpHsUntWHhAmIndAkNat_Mvd80to89	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1980 to 1989
+OcpHsUntWHhAmIndAkNat_Mvd70to79	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1970 to 1979
+OcpHsUntWHhAmIndAkNat_MvdLte69	Occupied housing units with a householder who is American Indian and Alaska Native alone: Moved in 1969 or earlier
