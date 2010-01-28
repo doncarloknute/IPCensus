@@ -1,0 +1,56 @@
+census_2000_sf3_zip_us00001	Total population by race, by sex and age; Household types
+census_2000_sf3_zip_us00002	Family member type; English proficiency; Place of birth, native and foreign
+census_2000_sf3_zip_us00003	Residence status in 1995; Workers 16 and over, commute method and time; School status; Education level
+census_2000_sf3_zip_us00004	Armed forces and veterans; People with disabilities; Employment status; Status of minors
+census_2000_sf3_zip_us00005	Hours worked per week; Workers per family; Occupations by sex
+census_2000_sf3_zip_us00006	Occupations by sex; Household and individual income by age
+census_2000_sf3_zip_us00007	Family income; Income by sex; Poverty status
+census_2000_sf3_zip_us00008	Poverty status by age and household type
+census_2000_sf3_zip_us00009	White, black/african american, american indian and alaska native population by sex and age
+census_2000_sf3_zip_us00010	Asian, hawaiian and pacific islander, other single race, two or more races, hispanic or latino population by sex and age
+census_2000_sf3_zip_us00011	White (not hispanic or latino) population by sex and age; Households by race of occupants
+census_2000_sf3_zip_us00012	Households by race of occupants (continued); School enrollment by race
+census_2000_sf3_zip_us00013	School enrollment by race (continued); Education level by race and sex; Working status of 16 to 19 year old population by race
+census_2000_sf3_zip_us00014	Working status of 16 to 19 year old population by race (continued); Working status of population 16 and over by race and sex
+census_2000_sf3_zip_us00015	Household income in 1999 by race; Family income in 1999 by race
+census_2000_sf3_zip_us00016	Family income in 1999 by race (continued); Median income by race; Per capita income by race; Aggregate income by race; Population above and below poverty level by race and age
+census_2000_sf3_zip_us00017	Population above and below poverty level by race and age (continued); Children in families by poverty level and race
+census_2000_sf3_zip_us00018	Children in families by poverty level and race (continued)
+census_2000_sf3_zip_us00019	Families and subfamilies; Marriage status by sex and age; Grandchildren in households
+census_2000_sf3_zip_us00020	Grandchildren in households (continued); Language spoken; English proficiency
+census_2000_sf3_zip_us00021	Ancestry
+census_2000_sf3_zip_us00022	Ancestry (continued); Origin of foreign born population
+census_2000_sf3_zip_us00023	Year of entry of foreign born population; Population living in a different house than 1995; School enrollment by sex and age
+census_2000_sf3_zip_us00024	Education level by sex and age; Disabilities by sex and age
+census_2000_sf3_zip_us00025	Disabilities by sex and age (continued)
+census_2000_sf3_zip_us00026	People with disabilities school enrollment, education level, poverty status
+census_2000_sf3_zip_us00027	Employment status by sex and age; Family members
+census_2000_sf3_zip_us00028	Family income of various family types; Nonfamily household members
+census_2000_sf3_zip_us00029	Individual income by sex and full time status
+census_2000_sf3_zip_us00030	Poverty status by sex and age; Poverty ratio by age; Poverty status native vs foreign born
+census_2000_sf3_zip_us00031	Poverty status of children by age and family type; Poverty status of unrelated individuals by sex and age
+census_2000_sf3_zip_us00032	Unrelated individuals poverty status, public assistance status, working status; Family poverty status, public assistance status, working status, poverty ratio; 
+census_2000_sf3_zip_us00033	English proficiency by race; Place of birth by race
+census_2000_sf3_zip_us00034	Place of birth by race (continued); Place of residence in 1995 by race
+census_2000_sf3_zip_us00035	Place of residence in 1995 by race (continued); Means of transportation to work by race; Armed forces status by race, sex, and age
+census_2000_sf3_zip_us00036	Armed forces status by race, sex, and age (continued); Disabilities by race
+census_2000_sf3_zip_us00037	Disabilities by race (continued); 
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
+census_2000_sf3_zip_us000
