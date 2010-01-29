@@ -8,21 +8,21 @@ census_2000_sf3_zip_us00007	Family income; Income by sex; Poverty status
 census_2000_sf3_zip_us00008	Poverty status by age and household type
 census_2000_sf3_zip_us00009	White, black/african american, american indian and alaska native population by sex and age
 census_2000_sf3_zip_us00010	Asian, hawaiian and pacific islander, other single race, two or more races, hispanic or latino population by sex and age
-census_2000_sf3_zip_us00011	White (not hispanic or latino) population by sex and age; Households by race of occupants
-census_2000_sf3_zip_us00012	Households by race of occupants (continued); School enrollment by race
-census_2000_sf3_zip_us00013	School enrollment by race (continued); Education level by race and sex; Working status of 16 to 19 year old population by race
-census_2000_sf3_zip_us00014	Working status of 16 to 19 year old population by race (continued); Working status of population 16 and over by race and sex
-census_2000_sf3_zip_us00015	Household income in 1999 by race; Family income in 1999 by race
-census_2000_sf3_zip_us00016	Family income in 1999 by race (continued); Median income by race; Per capita income by race; Aggregate income by race; Population above and below poverty level by race and age
-census_2000_sf3_zip_us00017	Population above and below poverty level by race and age (continued); Children in families by poverty level and race
-census_2000_sf3_zip_us00018	Children in families by poverty level and race (continued)
-census_2000_sf3_zip_us00019	Families and subfamilies; Marriage status by sex and age; Grandchildren in households
-census_2000_sf3_zip_us00020	Grandchildren in households (continued); Language spoken; English proficiency
-census_2000_sf3_zip_us00021	Ancestry
-census_2000_sf3_zip_us00022	Ancestry (continued); Origin of foreign born population
+census_2000_sf3_zip_us00011	White (not hispanic or latino) population by sex and age; Households by race of occupants (Part 1 of 2)
+census_2000_sf3_zip_us00012	Households by race of occupants (Part 2 of 2); School enrollment by race (Part 1 of 2)
+census_2000_sf3_zip_us00013	School enrollment by race (Part 2 of 2); Education level by race and sex; Working status of 16 to 19 year old population by race (Part 1 of 2)
+census_2000_sf3_zip_us00014	Working status of 16 to 19 year old population by race (Part 2 of 2); Working status of population 16 and over by race and sex
+census_2000_sf3_zip_us00015	Household income in 1999 by race; Family income in 1999 by race (Part 1 of 2)
+census_2000_sf3_zip_us00016	Family income in 1999 by race (Part 2 of 2); Median income by race; Per capita income by race; Aggregate income by race; Population above and below poverty level by race and age (Part 1 of 2)
+census_2000_sf3_zip_us00017	Population above and below poverty level by race and age (Part 2 of 2); Children in families by poverty level and race (Part 1 of 2)
+census_2000_sf3_zip_us00018	Children in families by poverty level and race (Part 2 of 2)
+census_2000_sf3_zip_us00019	Families and subfamilies; Marriage status by sex and age; Grandchildren in households (Part 1 of 2)
+census_2000_sf3_zip_us00020	Grandchildren in households (Part 2 of 2); Language spoken; English proficiency
+census_2000_sf3_zip_us00021	Ancestry (Part 1 of 2)
+census_2000_sf3_zip_us00022	Ancestry (Part 2 of 2); Origin of foreign born population
 census_2000_sf3_zip_us00023	Year of entry of foreign born population; Population living in a different house than 1995; School enrollment by sex and age
-census_2000_sf3_zip_us00024	Education level by sex and age; Disabilities by sex and age
-census_2000_sf3_zip_us00025	Disabilities by sex and age (continued)
+census_2000_sf3_zip_us00024	Education level by sex and age; Disabilities by sex and age (Part 1 of 2)
+census_2000_sf3_zip_us00025	Disabilities by sex and age (Part 2 of 2)
 census_2000_sf3_zip_us00026	People with disabilities school enrollment, education level, poverty status
 census_2000_sf3_zip_us00027	Employment status by sex and age; Family members
 census_2000_sf3_zip_us00028	Family income of various family types; Nonfamily household members
@@ -30,27 +30,47 @@ census_2000_sf3_zip_us00029	Individual income by sex and full time status
 census_2000_sf3_zip_us00030	Poverty status by sex and age; Poverty ratio by age; Poverty status native vs foreign born
 census_2000_sf3_zip_us00031	Poverty status of children by age and family type; Poverty status of unrelated individuals by sex and age
 census_2000_sf3_zip_us00032	Unrelated individuals poverty status, public assistance status, working status; Family poverty status, public assistance status, working status, poverty ratio; 
-census_2000_sf3_zip_us00033	English proficiency by race; Place of birth by race
-census_2000_sf3_zip_us00034	Place of birth by race (continued); Place of residence in 1995 by race
-census_2000_sf3_zip_us00035	Place of residence in 1995 by race (continued); Means of transportation to work by race; Armed forces status by race, sex, and age
-census_2000_sf3_zip_us00036	Armed forces status by race, sex, and age (continued); Disabilities by race
-census_2000_sf3_zip_us00037	Disabilities by race (continued); 
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
-census_2000_sf3_zip_us000
+census_2000_sf3_zip_us00033	English proficiency by race; Place of birth by race (Part 1 of 2)
+census_2000_sf3_zip_us00034	Place of birth by race (Part 2 of 2); Place of residence in 1995 by race (Part 1 of 2)
+census_2000_sf3_zip_us00035	Place of residence in 1995 by race (Part 2 of 2); Means of transportation to work by race; Armed forces status by race, sex, and age (Part 1 of 2)
+census_2000_sf3_zip_us00036	Armed forces status by race, sex, and age (Part 2 of 2); Disabilities by race (Part 1 of 2)
+census_2000_sf3_zip_us00037	Disabilities by race (Part 2 of 2); Disabilities by race, sex, and age (Part 1 of 3)
+census_2000_sf3_zip_us00038	Disabilities by race, sex, and age (Part 2 of 3)
+census_2000_sf3_zip_us00039	Disabilities by race, sex, and age (Part 3 of 3); Employment status of women with children by race and age of children
+census_2000_sf3_zip_us00040	Status of parents by race and age of children
+census_2000_sf3_zip_us00041	Hours per week and weeks worked in 1999 by race and sex (Part 1 of 2)
+census_2000_sf3_zip_us00042	Hours per week and weeks worked in 1999 by race and sex (Part 2 of 2)
+census_2000_sf3_zip_us00043	Household income by race and age of householder (Part 1 of 5)
+census_2000_sf3_zip_us00044	Household income by race and age of householder (Part 2 of 5)
+census_2000_sf3_zip_us00045	Household income by race and age of householder (Part 3 of 5)
+census_2000_sf3_zip_us00046	Household income by race and age of householder (Part 4 of 5)
+census_2000_sf3_zip_us00047	Household income by race and age of householder (Part 5 of 5); Individual income by race and sex (Part 1 of 5)
+census_2000_sf3_zip_us00048	Individual income by race and sex (Part 2 of 5)
+census_2000_sf3_zip_us00049	Individual income by race and sex (Part 3 of 5)
+census_2000_sf3_zip_us00050	Individual income by race and sex (Part 4 of 5)
+census_2000_sf3_zip_us00051	Individual income by race and sex (Part 5 of 5)
+census_2000_sf3_zip_us00052	Median earnings in 1999 by race and sex; Poverty status by race, sex, and age (Part 1 of 3)
+census_2000_sf3_zip_us00053	Poverty status by race, sex, and age (Part 2 of 3)
+census_2000_sf3_zip_us00054	Poverty status by race, sex, and age (Part 3 of 3); Poverty status of related children by family type, age, and race (Part 1 of 2)
+census_2000_sf3_zip_us00055	Poverty status of related children by family type, age, and race (Part 2 of 2)
+census_2000_sf3_zip_us00056	Status of housing units by race, own/rent status, age, and size of household
+census_2000_sf3_zip_us00057	Status of housing units by family type, age, occupants per room, number of rooms
+census_2000_sf3_zip_us00058	Housing info: median and aggregate number of rooms, units per structure, year structure built, year occupants moved into unit, heating fuel, telephone service by age of occupant, vehicles available
+census_2000_sf3_zip_us00059	Housing info: vehicles available by age, plumbing facilities by occupants per room and year built, kitchen facilities, meals included in rent, rent by number of units in structure and rooms in unit
+census_2000_sf3_zip_us00060	Percent of household income paid as rent by age of householder, units in structure, household income; Value of owner occupied housing units; Mortgage status
+census_2000_sf3_zip_us00061	Price asked for vacant, for-sale housing units; Monthly costs for owner occupied housing units by mortgage status, costs as percent of household income by age and household income 
+census_2000_sf3_zip_us00062	Housing units imputed for various categories
+census_2000_sf3_zip_us00063	Owner and renter occupied housing units by family type, age of children, size of household, age of householders, number of units in structure
+census_2000_sf3_zip_us00064	Owner and renter occupied housing units by age of householder and number of units in structure
+census_2000_sf3_zip_us00065	Owner and renter occupied housing units by age of householder and year structure built
+census_2000_sf3_zip_us00066	Owner and renter occupied housing units by year structure built and number of units in structure
+census_2000_sf3_zip_us00067	Owner and renter occupied housing units by year moved into unit and number of units in structure; Owner and renter occupied housing units by year moved into unit; Owner and renter occupied housing units by household income; Aggregate income by age of householder and number of units in structure
+census_2000_sf3_zip_us00068	Owner and renter occupied housing units by householder age and year structure built; Owner and renter occupied housing units by householder age and year moved into unit; Owner occupied housing units by household income and value of unit
+census_2000_sf3_zip_us00069	Renter occupied housing units by household income and rent; Real estate taxes; Housing units by plumbing facilities and occupants per room; Housing units by poverty status and year structure built 
+census_2000_sf3_zip_us00070	Housing units by poverty status and age of householder; Housing units by poverty status and public assistance or Social Security; Housing units by poverty status and telephone service availability; Occupants per room by race; Units per structure by race; Year moved into unit by race (Part 1 of 2)
+census_2000_sf3_zip_us00071	Year moved into unit by race (Part 2 of 2); Phone service availability by race; Vehicle availability by race; Plumbing facilities by race; Kitchen facilities by race; Gross rent by race (Part 1 of 2)
+census_2000_sf3_zip_us00072	Gross rent by race (Part 1 of 2); Median and aggregate gross rent by race; Gross rent as a percent of household income by race
+census_2000_sf3_zip_us00073	Owner occupied housing value by race; Median and aggregate value by race
+census_2000_sf3_zip_us00074	Mortgage status and monthly owner costs by race (Part 1 of 2)
+census_2000_sf3_zip_us00075	Mortgage status and monthly owner costs by race (Part 2 of 2); Median and aggregate monthly owner costs by race; Owner costs as a percentage of household income by race (Part 1 of 2)
+census_2000_sf3_zip_us00076	Owner costs as a percentage of household income by race (Part 2 of 2); Median monthly owner costs as a percentage of household income by race
