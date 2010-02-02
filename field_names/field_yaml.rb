@@ -28,21 +28,21 @@
         yaml_file << "    - title: Carl Knutson\n"
         yaml_file << "      url: \"http://infochimps.org\"\n"
         yaml_file << "  tables:\n"
-        yaml_file << "    title: \"#{title_hash['census_2000_sf3_zip_us00001'][0]}\"\n"
+        yaml_file << "    title: \"#{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]}\"\n"
         records_count = 0
-        File.open(field_path + "census_2000_fields_us00001.tsv").each do |line|
+        File.open(field_path + "census_2000_fields_us000" + filename[24..25] + ".tsv").each do |line|
           records_count += 1
         end
         yaml_file << "    records_count: #{records_count}\n"
-        yaml_file << "    description: >-\n      #{title_hash['census_2000_sf3_zip_us00001'][1]}"
+        yaml_file << "    description: >-\n      #{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][1]}\n"
         yaml_file << "    fields:\n"
-        yaml_file << "      - id:\n"
-        yaml_file << "        handle: ZipCode\n"
-        yaml_file << "        title: \"Zip Code\"\n"
-        yaml_file << "      - id:\n"
-        yaml_file << "        handle: LogRecNum\n"
-        yaml_file << "        title: \"Logical Record Number\"\n"
-        File.open(field_path + "census_2000_fields_us00001.tsv").each do |line|
+#        yaml_file << "      - id:\n"
+#        yaml_file << "        handle: ZipCode\n"
+#        yaml_file << "        title: \"Zip Code\"\n"
+#        yaml_file << "      - id:\n"
+#        yaml_file << "        handle: LogRecNum\n"
+#        yaml_file << "        title: \"Logical Record Number\"\n"
+        File.open(field_path + "census_2000_fields_us000" + filename[24..25] + ".tsv").each do |line|
           line.chomp!
           row = line.dup.split("\t")
           yaml_file << "      - id:\n"
