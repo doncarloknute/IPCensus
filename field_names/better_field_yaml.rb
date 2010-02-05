@@ -18,26 +18,37 @@ end
 
 
 sources = [
-  'source'=>{'title'=>'United States Census 2000 Summary File 3',
-  'main_link'=>"http://www2.census.gov/census_2000/datasets/Summary_File_3/"},
-  'source'=>{'title'=>'MaxMind GeoLite City',
-    'main_link'=>"http://www.maxmind.com/app/geolitecity"},
-  'source'=>{'title'=>'Carl Knutson',
-      'main_link'=>'http://infochimps.org'}]
+  {'source'=>{'title'=>'United States Census 2000 Summary File 3',
+    'main_link'=>"http://www2.census.gov/census_2000/datasets/Summary_File_3/"}},
+  {'source'=>{'title'=>'MaxMind GeoLite City',
+    'main_link'=>"http://www.maxmind.com/app/geolitecity"}},
+  {'source'=>{'title'=>'Carl Knutson',
+    'main_link'=>'http://infochimps.org'}}]
 
 base_yaml = {'dataset'=>{
   'title'=>'IP Address to 2000 Census Data Summary File 3',
-  'description'=>'>- United States IP address blocks are matched to their associated geographical data including zip code, city, state, area code, latitude, and longitude.  IP addresses are formatted as addresses as well as numbers using the following conversion\n\n    IP address = w.x.y.z\n    IP num = 16777216*w + 65536*x + 256*y + z\n\n    These IP address blocks are then linked, via zip code, to the US Census 2000 data from Summary File 3.',
+  'description'=>'United States IP address blocks are matched to their associated geographical data including zip code, city, state, area code, latitude, and longitude.  IP addresses are formatted as addresses as well as numbers using the following conversion:
+  
+IP address = w.x.y.z
+IP num = 16777216*w + 65536*x + 256*y + z
+      
+These IP address blocks are then linked, via zip code, to the US Census 2000 data from Summary File 3.',
+  'tags'=>['census','demographics','population','zipcode','zip'],
+  'categories'=>['Social Sciences::Demographics::Large Scale Censuses','Computers::Internet'],
+  'sources'=>['United States Census 2000 Summary File 3', 'MaxMind GeoLite City', 'Carl Knutson'],
   'payloads'=>{
     'title'=>'',
+    'fmt'=>'tsv',
+    'protected'=>'true',
     'records_count'=>'',
     'description'=>'',
     'schema_fields'=>[],
     'license'=>'Open Database License (ODbL)'
-    
   }
   }
   }
+  
+puts sources.to_yaml
   
 current_yaml = base_yaml.dup
 
@@ -55,6 +66,7 @@ Dir.foreach(field_path) do |filename|
     end
     current_yaml['dataset']['payloads']['records_count'] = records_count
 #    yaml_file = File.open(data_path + "census_2000_sf3_zip_us000" + filename[24..25] + ".yaml", "w")
+#    yaml_file << sources.to_yaml
 #    yaml_file << current_yaml.to_yaml
   end
 end
