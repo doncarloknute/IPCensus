@@ -32,8 +32,8 @@ Population items include marital status, disability, educational attainment, occ
 
 This is the free version of the MaxMind GeoIP City database.'}}]
     
-collection = [{'title'=>'IP Address to US Census Data',
-  'description'=>'A collection of datasets that link IP address geolocation data from MaxMind to the United States Census 2000 data.'}]
+collection = [{'collection'=>{'title'=>'IP Address to US Census Data',
+  'description'=>'A collection of datasets that link IP address geolocation data from MaxMind to the United States Census 2000 data.'}}]
 
 base_yaml = [{'dataset'=>{
   'title'=>'',
@@ -127,14 +127,15 @@ This product includes GeoLite data created by MaxMind, available from http://max
 puts sources.to_yaml
 puts collection.to_yaml
 
-# yaml_file = File.open(data_path + "census_2000_sf3_zip_sources.yaml", "w")
-# yaml_file << sources.to_yaml
-# yaml_file << collection.to_yaml
+yaml_file = File.open(data_path + "census_2000_sf3_zip_sources.yaml", "w")
+yaml_file << sources.to_yaml
+yaml_file << collection.to_yaml
 
 Dir.foreach(field_path) do |filename|
   if filename =~ /census_2000_fields_us000\d\d\.tsv/
     current_yaml = []
     current_yaml = base_yaml.dup
+    warn "Long title: #{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0].length}\t#{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]}" if title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0].length > 100
     current_yaml[0]['dataset']['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
     current_yaml[0]['dataset']['payloads'][0]['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
     current_yaml[0]['dataset']['payloads'][0]['description'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][1]
@@ -142,13 +143,19 @@ Dir.foreach(field_path) do |filename|
     File.open(field_path + "census_2000_fields_us000" + filename[24..25] + ".tsv").each do |line|
       line.chomp!
       row = line.dup.split("\t")
-      warn "Long title: #{row[1].length}\t#{row[1]}" if row[1].length > 255
-      current_yaml[0]['dataset']['payloads'][0]['schema_fields'] += [{'handle'=>row[0],'title'=>row[1]}]
+      if row[1].length > 255
+        warn "Long title: #{row[1].length}\t#{row[1]}" 
+        short_title = row[1].split(": ")[1..-1].join(": ")
+        warn "New title: #{short_title.length}\t#{short_title}"
+        current_yaml[0]['dataset']['payloads'][0]['schema_fields'] += [{'handle'=>row[0],'title'=>short_title,'description'=>row[1]}]
+      else
+        current_yaml[0]['dataset']['payloads'][0]['schema_fields'] += [{'handle'=>row[0],'title'=>row[1]}]
+      end
     end
     current_yaml[0]['dataset']['payloads'][0]['files_for_upload'][7..-1] = nil
     current_yaml[0]['dataset']['payloads'][0]['files_for_upload'] += ["census_2000_sf3_zip_us000" + filename[24..25] + ".tsv"]
-    # yaml_file = File.open(data_path + "census_2000_sf3_zip_us000" + filename[24..25] + ".yaml", "w")
-    # yaml_file << current_yaml.to_yaml
+    yaml_file = File.open(data_path + "census_2000_sf3_zip_us000" + filename[24..25] + ".yaml", "w")
+    yaml_file << current_yaml.to_yaml
   end
   # puts current_yaml.to_yaml
 end
