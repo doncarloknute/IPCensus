@@ -5,43 +5,40 @@ require 'dm-types'
 require 'configliere'
 Settings.use :config_file, :define
 Settings.read 'ip_census.yaml'  # ~/.configliere/ip_census.yaml
-Settings.define :db_user, :description => "Username for mysql DB"
-Settings.define :db_pass, :description => "Password for mysql DB"
-Settings.define :db_host, :description => "Host for mysql DB"
-Settings.define :db_port, :description => "Port for mysql DB"
+Settings.define :db_uri,  :description => "Base URI for database -- eg mysql://USERNAME:PASSWORD@localhost:9999"
 Settings.define :db_name, :description => "Database name to use"
 
 geoip_path = '../geoip_ripd/'
 ip_log_path = '../log_ips/'
 
-DB_URI = "mysql://#{Settings.db_user}:#{Settings.db_pass}@#{Settings.db_host}:#{Settings.db_port}/#{Settings.db_name}"
+DB_URI = Settings.db_uri + "/" + Settings.db_name
 p DB_URI
 DataMapper.setup(:default, DB_URI)
 
 class IPLogEntry
   include DataMapper::Resource
-  
-  property :counts, Integer
+
+  property :counts,     Integer
   # min > 0 forces unsigned in dbs that support it
-  property :ip_address, Integer, :key => true, :min => 0  
+  property :ip_address, Integer, :min => 0,     :key => true
   property :user_agent, String, :length => 255, :key => true
-  
+
 end
 
 class IPBlock
   include DataMapper::Resource
-  
-  property :start_ip,    Integer, :min => 0, :key => true,    :unique_index => :ip_range
-  property :end_ip,      Integer, :min => 0,                  :unique_index => :ip_range
-  property :location_id, Integer
-  
+
+  property :start_ip,    Integer, :min => 0, :key => true
+  property :end_ip,      Integer, :min => 0, :key => true
+  property :location_id, Integer,            :index => :location_id
+
 #  has 1, :location, :through => :location_id
 end
 
 class Location
   include DataMapper::Resource
-  
-  property :location_id,  Integer, :key => true
+
+  property :id,           Integer, :key => true
   property :country_code, String
   property :region_code,  String
   property :city,         String
@@ -50,7 +47,7 @@ class Location
   property :longitude,    Float
   property :metro_code,   Integer
   property :area_code,    Integer
-  
+
 #  has n, :ipblocks, :through => :location_id
 end
 
@@ -85,10 +82,10 @@ end
 #   unless line =~ /^\d+.+/ then warn "Bad line: #{line}" ; next ; end
 #   locid, ccode, rcode, city, pcode, lat, long, mcode, acode = line.split(",")
 #   locid = locid.to_i
-#   ccode.delete!('"') if ccode.is_a?(String) 
-#   rcode.delete!('"') if rcode.is_a?(String) 
-#   city.delete!('"') if city.is_a?(String) 
-#   pcode.delete!('"') if pcode.is_a?(String) 
+#   ccode.delete!('"') if ccode.is_a?(String)
+#   rcode.delete!('"') if rcode.is_a?(String)
+#   city.delete!('"') if city.is_a?(String)
+#   pcode.delete!('"') if pcode.is_a?(String)
 #   lat = lat.to_f
 #   long = long.to_f
 #   mcode = mcode.to_i if mcode != nil
@@ -97,7 +94,7 @@ end
 # end
 #
 #
-# 
+#
 # File.open(geoip_path + 'GeoLiteCity-Blocks.csv').each do |line|
 #   line.chomp!
 #   unless line =~ /^\"(\d+)\"\,\"(\d+)\"\,\"(\d+)\"/ then warn "Bad line: #{line}" ; next ; end
@@ -107,4 +104,4 @@ end
 #   locid = locid.to_i
 #   ip_block = IPBlock.create :startipnum => startip, :endipnum => endip, :locid => locid
 # end
-# 
+#
