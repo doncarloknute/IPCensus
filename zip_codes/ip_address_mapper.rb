@@ -3,6 +3,7 @@ require 'rubygems'
 require 'dm-core'
 require 'dm-types'
 require 'configliere'
+require 'digest/md5'
 Settings.use :config_file, :define
 Settings.read 'ip_census.yaml'  # ~/.configliere/ip_census.yaml
 Settings.define :db_uri,  :description => "Base URI for database -- eg mysql://USERNAME:PASSWORD@localhost:9999"
@@ -21,18 +22,27 @@ class IPLogEntry
   property :counts,     Integer
   # min > 0 forces unsigned in dbs that support it
   property :ip_address, Integer, :min => 0,     :key => true
-  property :user_agent, String, :length => 255, :key => true
+  property :ua_hash,    String, :length => 32,  :key => true
+  property :user_agent, String, :length => 300
+  property :ip_address_8,  Integer, :min => 0,   :index => :ip_address_8
+  property :ip_address_12, Integer, :min => 0,   :index => :ip_address_12
+  before :save, :hash_user_agent!
 
+  def hash_user_agent!
+    self.ua_hash    = Digest::MD5.hexdigest(user_agent)
+    self.user_agent = user_agent[0..299]
+    self.ip_address_12 = ip_address >> 20
+    self.ip_address_8  = ip_address >> 24
+  end
 end
 
 class IPBlock
   include DataMapper::Resource
 
-  property :start_ip,    Integer, :min => 0, :key => true
-  property :end_ip,      Integer, :min => 0, :key => true
-  property :location_id, Integer,            :index => :location_id
-
-#  has 1, :location, :through => :location_id
+  property :start_ip,    Integer, :min => 0,         :key => true
+  property :end_ip,      Integer, :min => 0,         :key => true
+  property :location_id, Integer, :required => true #, :index => :location_id
+  # has 1, :location, :through => :location_id
 end
 
 class Location
@@ -51,9 +61,9 @@ class Location
 #  has n, :ipblocks, :through => :location_id
 end
 
-IPLogEntry.auto_migrate!
-IPBlock.auto_migrate!
-Location.auto_migrate!
+# IPLogEntry.auto_migrate!
+# IPBlock.auto_migrate!
+# Location.auto_migrate!
 
 # --------------------------------------------------------------------------
 
@@ -64,16 +74,15 @@ def dotted_ip_to_packed_ip dotted_ip
     unpack('N').first.to_i    # unpack as int
 end
 
-
-File.open(ip_log_path + 'IP_20100124.tsv').each do |line|
-  line.chomp!
-  unless line =~ /^(\s+\d+)\s(\d+\.\d+\.\d+\.\d+)\t(.+)/ then warn "Bad line: #{line}" ; next ; end
-  counts, dotted_ip, user_agent = [$1, $2, $3]
-  counts = counts.to_i
-  packed_ip = dotted_ip_to_packed_ip(dotted_ip)
-  user_agent = user_agent[0..254]
-  #p packed_ip
-  ip_row = IPLogEntry.create :counts => counts, :ip_address => packed_ip, :user_agent => user_agent
+Dir[ip_log_path + 'all*.tsv'].each do |logfile|
+  File.open(logfile).each do |line|
+    line.chomp!
+    unless line =~ /^(\s+\d+)\s(\d+\.\d+\.\d+\.\d+)\t(.*)/ then warn "Bad line: #{line}" ; next ; end
+    counts, dotted_ip, user_agent = [$1, $2, $3]
+    counts    = counts.to_i
+    packed_ip = dotted_ip_to_packed_ip(dotted_ip)
+    ip_row = IPLogEntry.create :counts => counts, :ip_address => packed_ip, :user_agent => user_agent
+  end
 end
 
 #
