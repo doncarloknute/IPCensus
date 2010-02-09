@@ -1,0 +1,226 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OwnOcpHsUntHhWht_Tot	Specified owner-occupied housing units with a householder who is White alone: Total:
+OwnOcpHsUntHhWht_HsUntMort	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage:
+OwnOcpHsUntHhWht_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhWht_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhWht_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhWht_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhWht_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhWht_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhWht_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhWht_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhWht_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhWht_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhWht_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhWht_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhWht_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhWht_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhWht_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is White alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhWht_HsUntNoMort	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage:
+OwnOcpHsUntHhWht_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhWht_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhWht_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhWht_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhWht_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhWht_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhWht_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhWht_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhWht_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhWht_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhWht_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhWht_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhWht_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhWht_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is White alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhBlkAfAm_Tot	Specified owner-occupied housing units with a householder who is Black or African American alone: Total:
+OwnOcpHsUntHhBlkAfAm_HsUntMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage:
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhBlkAfAm_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage:
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhBlkAfAm_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Black or African American alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhAmIndAkNat_Tot	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Total:
+OwnOcpHsUntHhAmIndAkNat_HsUntMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage:
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhAmIndAkNat_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage:
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhAmIndAkNat_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is American Indian and Alaska Native alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhAsn_Tot	Specified owner-occupied housing units with a householder who is Asian alone: Total:
+OwnOcpHsUntHhAsn_HsUntMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage:
+OwnOcpHsUntHhAsn_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhAsn_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhAsn_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhAsn_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhAsn_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhAsn_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhAsn_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhAsn_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhAsn_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhAsn_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhAsn_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhAsn_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhAsn_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhAsn_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhAsn_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Asian alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhAsn_HsUntNoMort	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage:
+OwnOcpHsUntHhAsn_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhAsn_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Asian alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhNatHiPacIsl_Tot	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Total:
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage:
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhNatHiPacIsl_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage:
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhNatHiPacIsl_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhOthRce_Tot	Specified owner-occupied housing units with a householder who is Some other race alone: Total:
+OwnOcpHsUntHhOthRce_HsUntMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage:
+OwnOcpHsUntHhOthRce_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhOthRce_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhOthRce_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhOthRce_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhOthRce_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhOthRce_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhOthRce_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhOthRce_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhOthRce_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhOthRce_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhOthRce_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhOthRce_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhOthRce_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhOthRce_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhOthRce_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhOthRce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage:
+OwnOcpHsUntHhOthRce_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhOthRce_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Some other race alone: Housing units without a mortgage: $1,000 or more
+OwnOcpHsUntHhGte2Rce_Tot	Specified owner-occupied housing units with a householder who is Two or more races: Total:
+OwnOcpHsUntHhGte2Rce_HsUntMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage:
+OwnOcpHsUntHhGte2Rce_HsUntMort_Lt$200	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: Less than $200
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd200to299	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $200 to $299
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd300to399	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $300 to $399
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd400to499	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $400 to $499
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd500to599	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $500 to $599
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd600to699	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $600 to $699
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd700to799	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $700 to $799
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd800to899	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $800 to $899
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd900to999	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $900 to $999
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd1kto1.25k	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $1,000 to $1,249
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd1.25kto1.5k	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $1,250 to $1,499
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd1.5kto2k	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $1,500 to $1,999
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd2kto2.5k	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $2,000 to $2,499
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd2.5kto3k	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $2,500 to $2,999
+OwnOcpHsUntHhGte2Rce_HsUntMort_Usd3korM	Specified owner-occupied housing units with a householder who is Two or more races: Housing units with a mortgage: $3,000 or more
+OwnOcpHsUntHhGte2Rce_HsUntNoMort	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage:
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Lt$100	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: Less than $100
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd100to149	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $100 to $149
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd150to199	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $150 to $199
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd200to249	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $200 to $249
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd250to299	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $250 to $299
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd300to349	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $300 to $349
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd350to399	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $350 to $399
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd400to499	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $400 to $499
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd500to599	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $500 to $599
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd600to699	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $600 to $699
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd700to799	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $700 to $799
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd800to899	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $800 to $899
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd900to999	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $900 to $999
+OwnOcpHsUntHhGte2Rce_HsUntNoMort_Usd1korM	Specified owner-occupied housing units with a householder who is Two or more races: Housing units without a mortgage: $1,000 or more

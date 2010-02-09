@@ -1,0 +1,229 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+Pop16to19y_Tot	Population 16 to 19 years: Total:
+Pop16to19y_ArmForce	Population 16 to 19 years: In Armed Forces:
+Pop16to19y_ArmForce_ErldSch	Population 16 to 19 years: In Armed Forces: Enrolled in school:
+Pop16to19y_ArmForce_ErldSch_HighSchGrad	Population 16 to 19 years: In Armed Forces: Enrolled in school: High school graduate
+Pop16to19y_ArmForce_ErldSch_NotHighSchlGrad	Population 16 to 19 years: In Armed Forces: Enrolled in school: Not high school graduate
+Pop16to19y_ArmForce_NotEnrldSchl	Population 16 to 19 years: In Armed Forces: Not enrolled in school:
+Pop16to19y_ArmForce_NotEnrldSchl_HighSchGrad	Population 16 to 19 years: In Armed Forces: Not enrolled in school: High school graduate
+Pop16to19y_ArmForce_NotEnrldSchl_NotHighSchlGrad	Population 16 to 19 years: In Armed Forces: Not enrolled in school: Not high school graduate
+Pop16to19y_Civ	Population 16 to 19 years: Civilian:
+Pop16to19y_Civ_ErldSch	Population 16 to 19 years: Civilian: Enrolled in school:
+Pop16to19y_Civ_ErldSch_Empl	Population 16 to 19 years: Civilian: Enrolled in school: Employed
+Pop16to19y_Civ_ErldSch_Unempl	Population 16 to 19 years: Civilian: Enrolled in school: Unemployed
+Pop16to19y_Civ_ErldSch_NotLabrFor	Population 16 to 19 years: Civilian: Enrolled in school: Not in labor force
+Pop16to19y_Civ_NotEnrldSchl	Population 16 to 19 years: Civilian: Not enrolled in school:
+Pop16to19y_Civ_NotEnrldSchl_HighSchGrad	Population 16 to 19 years: Civilian: Not enrolled in school: High school graduate:
+Pop16to19y_Civ_NotEnrldSchl_HighSchGrad_Empl	Population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Employed
+Pop16to19y_Civ_NotEnrldSchl_HighSchGrad_Unempl	Population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Unemployed
+Pop16to19y_Civ_NotEnrldSchl_HighSchGrad_NotLabrFor	Population 16 to 19 years: Civilian: Not enrolled in school: High school graduate: Not in labor force
+Pop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad	Population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate:
+Pop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Empl	Population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Employed
+Pop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_Unempl	Population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Unemployed
+Pop16to19y_Civ_NotEnrldSchl_NotHighSchlGrad_NotLabrFor	Population 16 to 19 years: Civilian: Not enrolled in school: Not high school graduate: Not in labor force
+PopGte18y_Tot	Population 18 years and over: Total:
+PopGte18y_Mle	Population 18 years and over: Male:
+PopGte18y_Mle_18to64y	Population 18 years and over: Male: 18 to 64 years:
+PopGte18y_Mle_18to64y_ArmForce	Population 18 years and over: Male: 18 to 64 years: In Armed Forces
+PopGte18y_Mle_18to64y_Civ	Population 18 years and over: Male: 18 to 64 years: Civilian:
+PopGte18y_Mle_18to64y_Civ_Vet	Population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+PopGte18y_Mle_18to64y_Civ_NonVet	Population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+PopGte18y_Mle_Gte65y	Population 18 years and over: Male: 65 years and over:
+PopGte18y_Mle_Gte65y_ArmForce	Population 18 years and over: Male: 65 years and over: In Armed Forces
+PopGte18y_Mle_Gte65y_Civ	Population 18 years and over: Male: 65 years and over: Civilian:
+PopGte18y_Mle_Gte65y_Civ_Vet	Population 18 years and over: Male: 65 years and over: Civilian: Veteran
+PopGte18y_Mle_Gte65y_Civ_NonVet	Population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+PopGte18y_Fem	Population 18 years and over: Female:
+PopGte18y_Fem_18to64y	Population 18 years and over: Female: 18 to 64 years:
+PopGte18y_Fem_18to64y_ArmForce	Population 18 years and over: Female: 18 to 64 years: In Armed Forces
+PopGte18y_Fem_18to64y_Civ	Population 18 years and over: Female: 18 to 64 years: Civilian:
+PopGte18y_Fem_18to64y_Civ_Vet	Population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+PopGte18y_Fem_18to64y_Civ_NonVet	Population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+PopGte18y_Fem_Gte65y	Population 18 years and over: Female: 65 years and over:
+PopGte18y_Fem_Gte65y_ArmForce	Population 18 years and over: Female: 65 years and over: In Armed Forces
+PopGte18y_Fem_Gte65y_Civ	Population 18 years and over: Female: 65 years and over: Civilian:
+PopGte18y_Fem_Gte65y_Civ_Vet	Population 18 years and over: Female: 65 years and over: Civilian: Veteran
+PopGte18y_Fem_Gte65y_Civ_NonVet	Population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+CivVetGte18y_Tot	Civilian veterans 18 years and over: Total:
+CivVetGte18y_Aug90orLat	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War):
+CivVetGte18y_Aug90orLat_SrvdVietEra	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): Served in Vietnam era
+CivVetGte18y_Aug90orLat_NoVietEraServ	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): No Vietnam era service:
+CivVetGte18y_Aug90orLat_NoVietEraServ_SrvdSept80LaterOn	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): No Vietnam era service: Served September 1980 or later only:
+CivVetGte18y_Aug90orLat_NoVietEraServ_SrvdSept80LaterOn_SrvdLt2y	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): No Vietnam era service: Served September 1980 or later only: Served under 2 years
+CivVetGte18y_Aug90orLat_NoVietEraServ_SrvdSept80LaterOn_SrvdG_004	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): No Vietnam era service: Served September 1980 or later only: Served 2 or more years
+CivVetGte18y_Aug90orLat_NoVietEraServ_SrvdPreSept80	Civilian veterans 18 years and over: August 1990 or later (including Persian Gulf War): No Vietnam era service: Served prior to September 1980
+CivVetGte18y_May75toJul90	Civilian veterans 18 years and over: May 1975 to July 1990 only:
+CivVetGte18y_May75toJul90_Sept80toJuly90	Civilian veterans 18 years and over: May 1975 to July 1990 only: September 1980 to July 1990 only:
+CivVetGte18y_May75toJul90_Sept80toJuly90_SrvdLt2y	Civilian veterans 18 years and over: May 1975 to July 1990 only: September 1980 to July 1990 only: Served under 2 years
+CivVetGte18y_May75toJul90_Sept80toJuly90_SrvdGte2y	Civilian veterans 18 years and over: May 1975 to July 1990 only: September 1980 to July 1990 only: Served 2 or more years
+CivVetGte18y_May75toJul90_OthMay75toJul90Serv	Civilian veterans 18 years and over: May 1975 to July 1990 only: Other May 1975 to July 1990 service
+CivVetGte18y_VietNoKorWarNoWWIINoAug90Later	Civilian veterans 18 years and over: Vietnam era, no Korean War, no World War II, no August 1990 or later
+CivVetGte18y_VietKorWarNoWWIINoAug90Later	Civilian veterans 18 years and over: Vietnam era and Korean War, no World War II, no August 1990 or later
+CivVetGte18y_VietKorWarWWIINoAug90Later	Civilian veterans 18 years and over: Vietnam era, Korean War, and World War II, no August 1990 or later
+CivVetGte18y_Feb55toJul64	Civilian veterans 18 years and over: February 1955 to July 1964 only
+CivVetGte18y_KorWarNoVietNoWWII	Civilian veterans 18 years and over: Korean War, no Vietnam era, no World War II
+CivVetGte18y_KorWarWWIINoViet	Civilian veterans 18 years and over: Korean War and World War II, no Vietnam era
+CivVetGte18y_WWIInoKorWarNoViet	Civilian veterans 18 years and over: World War II, no Korean War, no Vietnam era
+CivVetGte18y_OthServOnly	Civilian veterans 18 years and over: Other service only
+CivNonInstPopGte5yPopDisab_TotDisab	cn5population with disabilities: Total disabilities tallied:
+CivNonInstPopGte5yPopDisab_TotDisabPpl5to15y	cn5population with disabilities: Total disabilities tallied for people 5 to 15 years:
+CivNonInstPopGte5yPopDisab_TotDisabPpl5to15y_SensDisab	cn5population with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl5to15y_PhysDisab	cn5population with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl5to15y_MentDisab	cn5population with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl5to15y_SelfCareDisab	cn5population with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years:
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_SensDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_PhysDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_MentDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_SelfCareDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_GoOutDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+CivNonInstPopGte5yPopDisab_TotDisabPpl16to64y_EmplDisab	cn5population with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y	cn5population with disabilities: Total disabilities tallied for people 65 years and over:
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y_SensDisab	cn5population with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y_PhysDisab	cn5population with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y_MentDisab	cn5population with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y_SelfCareDisab	cn5population with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+CivNonInstPopGte5yPopDisab_TotDisabPplGte65y_GoOutDisab	cn5population with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_WDisab	cn5population: Male: 5 to 15 years: With a disability
+CivNonInstPopGte5y_Mle_5to15y_NoDisab	cn5population: Male: 5 to 15 years: No disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_WDisab	cn5population: Male: 16 to 20 years: With a disability:
+CivNonInstPopGte5y_Mle_16to20y_WDisab_Empl	cn5population: Male: 16 to 20 years: With a disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoDisab	cn5population: Male: 16 to 20 years: No disability:
+CivNonInstPopGte5y_Mle_16to20y_NoDisab_Empl	cn5population: Male: 16 to 20 years: No disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoDisab_NotEmpl	cn5population: Male: 16 to 20 years: No disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y	cn5population: Male: 21 to 64 years:
+CivNonInstPopGte5y_Mle_21to64y_WDisab	cn5population: Male: 21 to 64 years: With a disability:
+CivNonInstPopGte5y_Mle_21to64y_WDisab_Empl	cn5population: Male: 21 to 64 years: With a disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_WDisab_NotEmpl	cn5population: Male: 21 to 64 years: With a disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y_NoDisab	cn5population: Male: 21 to 64 years: No disability:
+CivNonInstPopGte5y_Mle_21to64y_NoDisab_Empl	cn5population: Male: 21 to 64 years: No disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_NoDisab_NotEmpl	cn5population: Male: 21 to 64 years: No disability: Not employed
+CivNonInstPopGte5y_Mle_65to74y	cn5population: Male: 65 to 74 years:
+CivNonInstPopGte5y_Mle_65to74y_WDisab	cn5population: Male: 65 to 74 years: With a disability
+CivNonInstPopGte5y_Mle_65to74y_NoDisab	cn5population: Male: 65 to 74 years: No disability
+CivNonInstPopGte5y_Mle_Gte75y	cn5population: Male: 75 years and over:
+CivNonInstPopGte5y_Mle_Gte75y_WDisab	cn5population: Male: 75 years and over: With a disability
+CivNonInstPopGte5y_Mle_Gte75y_NoDisab	cn5population: Male: 75 years and over: No disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_WDisab	cn5population: Female: 5 to 15 years: With a disability
+CivNonInstPopGte5y_Fem_5to15y_NoDisab	cn5population: Female: 5 to 15 years: No disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_WDisab	cn5population: Female: 16 to 20 years: With a disability:
+CivNonInstPopGte5y_Fem_16to20y_WDisab_Empl	cn5population: Female: 16 to 20 years: With a disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoDisab	cn5population: Female: 16 to 20 years: No disability:
+CivNonInstPopGte5y_Fem_16to20y_NoDisab_Empl	cn5population: Female: 16 to 20 years: No disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoDisab_NotEmpl	cn5population: Female: 16 to 20 years: No disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y	cn5population: Female: 21 to 64 years:
+CivNonInstPopGte5y_Fem_21to64y_WDisab	cn5population: Female: 21 to 64 years: With a disability:
+CivNonInstPopGte5y_Fem_21to64y_WDisab_Empl	cn5population: Female: 21 to 64 years: With a disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_WDisab_NotEmpl	cn5population: Female: 21 to 64 years: With a disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y_NoDisab	cn5population: Female: 21 to 64 years: No disability:
+CivNonInstPopGte5y_Fem_21to64y_NoDisab_Empl	cn5population: Female: 21 to 64 years: No disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_NoDisab_NotEmpl	cn5population: Female: 21 to 64 years: No disability: Not employed
+CivNonInstPopGte5y_Fem_65to74y	cn5population: Female: 65 to 74 years:
+CivNonInstPopGte5y_Fem_65to74y_WDisab	cn5population: Female: 65 to 74 years: With a disability
+CivNonInstPopGte5y_Fem_65to74y_NoDisab	cn5population: Female: 65 to 74 years: No disability
+CivNonInstPopGte5y_Fem_Gte75y	cn5population: Female: 75 years and over:
+CivNonInstPopGte5y_Fem_Gte75y_WDisab	cn5population: Female: 75 years and over: With a disability
+CivNonInstPopGte5y_Fem_Gte75y_NoDisab	cn5population: Female: 75 years and over: No disability
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Mle	Population 16 years and over: Male:
+PopGte16y_Mle_InLabrFor	Population 16 years and over: Male: In labor force:
+PopGte16y_Mle_InLabrFor_ArmForce	Population 16 years and over: Male: In labor force: In Armed Forces
+PopGte16y_Mle_InLabrFor_Civ	Population 16 years and over: Male: In labor force: Civilian:
+PopGte16y_Mle_InLabrFor_Civ_Empl	Population 16 years and over: Male: In labor force: Civilian: Employed
+PopGte16y_Mle_InLabrFor_Civ_Unempl	Population 16 years and over: Male: In labor force: Civilian: Unemployed
+PopGte16y_Mle_NotLabrFor	Population 16 years and over: Male: Not in labor force
+PopGte16y_Fem	Population 16 years and over: Female:
+PopGte16y_Fem_InLabrFor	Population 16 years and over: Female: In labor force:
+PopGte16y_Fem_InLabrFor_ArmForce	Population 16 years and over: Female: In labor force: In Armed Forces
+PopGte16y_Fem_InLabrFor_Civ	Population 16 years and over: Female: In labor force: Civilian:
+PopGte16y_Fem_InLabrFor_Civ_Empl	Population 16 years and over: Female: In labor force: Civilian: Employed
+PopGte16y_Fem_InLabrFor_Civ_Unempl	Population 16 years and over: Female: In labor force: Civilian: Unemployed
+PopGte16y_Fem_NotLabrFor	Population 16 years and over: Female: Not in labor force
+Fam_Tot	Families: Total:
+Fam_MrdCplFam	Families: Married-couple family:
+Fam_MrdCplFam_HusbLabrFor	Families: Married-couple family: Husband in labor force:
+Fam_MrdCplFam_HusbLabrFor_EmplOrArmFor	Families: Married-couple family: Husband in labor force: Employed or in Armed Forces:
+Fam_MrdCplFam_HusbLabrFor_EmplOrArmFor_WifeLabrFor	Families: Married-couple family: Husband in labor force: Employed or in Armed Forces: Wife in labor force:
+Fam_MrdCplFam_HusbLabrFor_EmplOrArmFor_WifeLabrFor_EmplOrArmFor	Families: Married-couple family: Husband in labor force: Employed or in Armed Forces: Wife in labor force: Employed or in Armed Forces
+Fam_MrdCplFam_HusbLabrFor_EmplOrArmFor_WifeLabrFor_Unempl	Families: Married-couple family: Husband in labor force: Employed or in Armed Forces: Wife in labor force: Unemployed
+Fam_MrdCplFam_HusbLabrFor_EmplOrArmFor_WifeNotLabrFor	Families: Married-couple family: Husband in labor force: Employed or in Armed Forces: Wife not in labor force
+Fam_MrdCplFam_HusbLabrFor_Unempl	Families: Married-couple family: Husband in labor force: Unemployed:
+Fam_MrdCplFam_HusbLabrFor_Unempl_WifeLabrFor	Families: Married-couple family: Husband in labor force: Unemployed: Wife in labor force:
+Fam_MrdCplFam_HusbLabrFor_Unempl_WifeLabrFor_EmplOrArmFor	Families: Married-couple family: Husband in labor force: Unemployed: Wife in labor force: Employed or in Armed Forces
+Fam_MrdCplFam_HusbLabrFor_Unempl_WifeLabrFor_Unempl	Families: Married-couple family: Husband in labor force: Unemployed: Wife in labor force: Unemployed
+Fam_MrdCplFam_HusbLabrFor_Unempl_WifeNotLabrFor	Families: Married-couple family: Husband in labor force: Unemployed: Wife not in labor force
+Fam_MrdCplFam_HusbNotLabrFor	Families: Married-couple family: Husband not in labor force:
+Fam_MrdCplFam_HusbNotLabrFor_WifeLabrFor	Families: Married-couple family: Husband not in labor force: Wife in labor force:
+Fam_MrdCplFam_HusbNotLabrFor_WifeLabrFor_EmplOrArmFor	Families: Married-couple family: Husband not in labor force: Wife in labor force: Employed or in Armed Forces
+Fam_MrdCplFam_HusbNotLabrFor_WifeLabrFor_Unempl	Families: Married-couple family: Husband not in labor force: Wife in labor force: Unemployed
+Fam_MrdCplFam_HusbNotLabrFor_WifeNotLabrFor	Families: Married-couple family: Husband not in labor force: Wife not in labor force
+Fam_OthFam	Families: Other family:
+Fam_OthFam_MleHhNoWife	Families: Other family: Male householder, no wife present:
+Fam_OthFam_MleHhNoWife_InLabrFor	Families: Other family: Male householder, no wife present: In labor force:
+Fam_OthFam_MleHhNoWife_InLabrFor_EmplOrArmFor	Families: Other family: Male householder, no wife present: In labor force: Employed or in Armed Forces
+Fam_OthFam_MleHhNoWife_InLabrFor_Unempl	Families: Other family: Male householder, no wife present: In labor force: Unemployed
+Fam_OthFam_MleHhNoWife_NotLabrFor	Families: Other family: Male householder, no wife present: Not in labor force
+Fam_OthFam_FemHhNoHusb	Families: Other family: Female householder, no husband present:
+Fam_OthFam_FemHhNoHusb_InLabrFor	Families: Other family: Female householder, no husband present: In labor force:
+Fam_OthFam_FemHhNoHusb_InLabrFor_EmplOrArmFor	Families: Other family: Female householder, no husband present: In labor force: Employed or in Armed Forces
+Fam_OthFam_FemHhNoHusb_InLabrFor_Unempl	Families: Other family: Female householder, no husband present: In labor force: Unemployed
+Fam_OthFam_FemHhNoHusb_NotLabrFor	Families: Other family: Female householder, no husband present: Not in labor force
+FemGte16y_Tot	Females 16 years and over: Total:
+FemGte16y_WOwnChldLt18y	Females 16 years and over: With own children under 18 years:
+FemGte16y_WOwnChldLt18y_Lt6yOnly	Females 16 years and over: With own children under 18 years: Under 6 years only:
+FemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+FemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+FemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+FemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+FemGte16y_WOwnChldLt18y_Lt6yand6to17y	Females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+FemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+FemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOrArmFor	Females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+FemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+FemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+FemGte16y_WOwnChldLt18y_6to17yOnly	Females 16 years and over: With own children under 18 years: 6 to 17 years only:
+FemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+FemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+FemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+FemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+FemGte16y_NoOwnChldLt18y	Females 16 years and over: No own children under 18 years:
+FemGte16y_NoOwnChldLt18y_InLabrFor	Females 16 years and over: No own children under 18 years: In labor force:
+FemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+FemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Females 16 years and over: No own children under 18 years: In labor force: Unemployed
+FemGte16y_NoOwnChldLt18y_NotLabrFor	Females 16 years and over: No own children under 18 years: Not in labor force
+OwnChldLt18yFamSubFam_Tot	Own children under 18 years in families and subfamilies: Total:
+OwnChldLt18yFamSubFam_Lt6y	Own children under 18 years in families and subfamilies: Under 6 years:
+OwnChldLt18yFamSubFam_Lt6y_LivW2par	Own children under 18 years in families and subfamilies: Under 6 years: Living with two parents:
+OwnChldLt18yFamSubFam_Lt6y_LivW2par_BthParLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Both parents in labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW2par_FathOnlyLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Father only in labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW2par_MothOnlyLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Mother only in labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW2par_NeitParLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with two parents: Neither parent in labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW1par	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent:
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father:
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_InLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: In labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWFath_NotLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with father: Not in labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother:
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_InLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: In labor force
+OwnChldLt18yFamSubFam_Lt6y_LivW1par_LivWMoth_NotLabrFor	Own children under 18 years in families and subfamilies: Under 6 years: Living with one parent: Living with mother: Not in labor force
+OwnChldLt18yFamSubFam_6to17y	Own children under 18 years in families and subfamilies: 6 to 17 years:
+OwnChldLt18yFamSubFam_6to17y_LivW2par	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents:
+OwnChldLt18yFamSubFam_6to17y_LivW2par_BthParLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Both parents in labor force
+OwnChldLt18yFamSubFam_6to17y_LivW2par_FathOnlyLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Father only in labor force
+OwnChldLt18yFamSubFam_6to17y_LivW2par_MothOnlyLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Mother only in labor force
+OwnChldLt18yFamSubFam_6to17y_LivW2par_NeitParLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with two parents: Neither parent in labor force
+OwnChldLt18yFamSubFam_6to17y_LivW1par	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent:
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father:
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_InLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: In labor force
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWFath_NotLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with father: Not in labor force
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother:
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_InLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: In labor force
+OwnChldLt18yFamSubFam_6to17y_LivW1par_LivWMoth_NotLabrFor	Own children under 18 years in families and subfamilies: 6 to 17 years: Living with one parent: Living with mother: Not in labor force

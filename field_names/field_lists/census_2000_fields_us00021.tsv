@@ -1,0 +1,224 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+TotPop_Tot	Total population: Total:
+TotPop_1stAncRep	Total population: First ancestry reported:
+TotPop_1stAncRep_Anc001	Total population: First ancestry reported: Acadian/Cajun
+TotPop_1stAncRep_Anc002	Total population: First ancestry reported: Afghan
+TotPop_1stAncRep_Anc004	Total population: First ancestry reported: Albanian
+TotPop_1stAncRep_Anc005	Total population: First ancestry reported: Alsatian
+TotPop_1stAncRep_Arab	Total population: First ancestry reported: Arab:
+TotPop_1stAncRep_Arab_Anc033	Total population: First ancestry reported: Arab: Egyptian
+TotPop_1stAncRep_Arab_Anc049	Total population: First ancestry reported: Arab: Iraqi
+TotPop_1stAncRep_Arab_Anc054	Total population: First ancestry reported: Arab: Jordanian
+TotPop_1stAncRep_Arab_Anc057	Total population: First ancestry reported: Arab: Lebanese
+TotPop_1stAncRep_Arab_Anc063	Total population: First ancestry reported: Arab: Moroccan
+TotPop_1stAncRep_Arab_Anc070	Total population: First ancestry reported: Arab: Palestinian
+TotPop_1stAncRep_Arab_Anc091	Total population: First ancestry reported: Arab: Syrian
+TotPop_1stAncRep_Arab_Anc006	Total population: First ancestry reported: Arab: Arab/Arabic
+TotPop_1stAncRep_Arab_OthArab	Total population: First ancestry reported: Arab: Other Arab
+TotPop_1stAncRep_Anc007	Total population: First ancestry reported: Armenian
+TotPop_1stAncRep_Anc008	Total population: First ancestry reported: Assyrian/Chaldean/Syriac
+TotPop_1stAncRep_Anc009	Total population: First ancestry reported: Australian
+TotPop_1stAncRep_Anc010	Total population: First ancestry reported: Austrian
+TotPop_1stAncRep_Anc013	Total population: First ancestry reported: Basque
+TotPop_1stAncRep_Anc014	Total population: First ancestry reported: Belgian
+TotPop_1stAncRep_Anc017	Total population: First ancestry reported: Brazilian
+TotPop_1stAncRep_Anc018	Total population: First ancestry reported: British
+TotPop_1stAncRep_Anc020	Total population: First ancestry reported: Bulgarian
+TotPop_1stAncRep_Anc021	Total population: First ancestry reported: Canadian
+TotPop_1stAncRep_Anc023	Total population: First ancestry reported: Carpatho Rusyn
+TotPop_1stAncRep_Anc024	Total population: First ancestry reported: Celtic
+TotPop_1stAncRep_Anc025	Total population: First ancestry reported: Croatian
+TotPop_1stAncRep_Anc026	Total population: First ancestry reported: Cypriot
+TotPop_1stAncRep_Anc027	Total population: First ancestry reported: Czech
+TotPop_1stAncRep_Anc028	Total population: First ancestry reported: Czechoslovakian
+TotPop_1stAncRep_Anc029	Total population: First ancestry reported: Danish
+TotPop_1stAncRep_Anc030	Total population: First ancestry reported: Dutch
+TotPop_1stAncRep_Anc032	Total population: First ancestry reported: Eastern European
+TotPop_1stAncRep_Engl	Total population: First ancestry reported: English
+TotPop_1stAncRep_Anc034	Total population: First ancestry reported: Estonian
+TotPop_1stAncRep_Anc036	Total population: First ancestry reported: European
+TotPop_1stAncRep_Anc037	Total population: First ancestry reported: Finnish
+TotPop_1stAncRep_Anc038	Total population: First ancestry reported: French (except Basque)
+TotPop_1stAncRep_Anc039	Total population: First ancestry reported: French Canadian
+TotPop_1stAncRep_Anc040	Total population: First ancestry reported: German
+TotPop_1stAncRep_Anc041	Total population: First ancestry reported: German Russian
+TotPop_1stAncRep_Anc043	Total population: First ancestry reported: Greek
+TotPop_1stAncRep_Anc044	Total population: First ancestry reported: Guyanese
+TotPop_1stAncRep_Anc046	Total population: First ancestry reported: Hungarian
+TotPop_1stAncRep_Anc047	Total population: First ancestry reported: Icelander
+TotPop_1stAncRep_Anc048	Total population: First ancestry reported: Iranian
+TotPop_1stAncRep_Anc050	Total population: First ancestry reported: Irish
+TotPop_1stAncRep_Anc051	Total population: First ancestry reported: Israeli
+TotPop_1stAncRep_Anc052	Total population: First ancestry reported: Italian
+TotPop_1stAncRep_Anc056	Total population: First ancestry reported: Latvian
+TotPop_1stAncRep_Anc059	Total population: First ancestry reported: Lithuanian
+TotPop_1stAncRep_Anc060	Total population: First ancestry reported: Luxemburger
+TotPop_1stAncRep_Anc061	Total population: First ancestry reported: Macedonian
+TotPop_1stAncRep_Anc062	Total population: First ancestry reported: Maltese
+TotPop_1stAncRep_Anc064	Total population: First ancestry reported: New Zealander
+TotPop_1stAncRep_Anc066	Total population: First ancestry reported: Northern European
+TotPop_1stAncRep_Anc067	Total population: First ancestry reported: Norwegian
+TotPop_1stAncRep_Anc071	Total population: First ancestry reported: Pennsylvania German
+TotPop_1stAncRep_Anc072	Total population: First ancestry reported: Polish
+TotPop_1stAncRep_Anc073	Total population: First ancestry reported: Portuguese
+TotPop_1stAncRep_Anc074	Total population: First ancestry reported: Romanian
+TotPop_1stAncRep_Anc075	Total population: First ancestry reported: Russian
+TotPop_1stAncRep_Anc076	Total population: First ancestry reported: Scandinavian
+TotPop_1stAncRep_Anc077	Total population: First ancestry reported: Scotch-Irish
+TotPop_1stAncRep_Anc078	Total population: First ancestry reported: Scottish
+TotPop_1stAncRep_Anc080	Total population: First ancestry reported: Serbian
+TotPop_1stAncRep_Anc082	Total population: First ancestry reported: Slavic
+TotPop_1stAncRep_Anc083	Total population: First ancestry reported: Slovak
+TotPop_1stAncRep_Anc084	Total population: First ancestry reported: Slovene
+TotPop_1stAncRep_Anc087	Total population: First ancestry reported: Soviet Union
+TotPop_1stAncRep_SubSahAfr	Total population: First ancestry reported: Subsaharan African:
+TotPop_1stAncRep_SubSahAfr_Anc022	Total population: First ancestry reported: Subsaharan African: Cape Verdean
+TotPop_1stAncRep_SubSahAfr_Anc035	Total population: First ancestry reported: Subsaharan African: Ethiopian
+TotPop_1stAncRep_SubSahAfr_Anc042	Total population: First ancestry reported: Subsaharan African: Ghanian
+TotPop_1stAncRep_SubSahAfr_Anc055	Total population: First ancestry reported: Subsaharan African: Kenyan
+TotPop_1stAncRep_SubSahAfr_Anc058	Total population: First ancestry reported: Subsaharan African: Liberian
+TotPop_1stAncRep_SubSahAfr_Anc065	Total population: First ancestry reported: Subsaharan African: Nigerian
+TotPop_1stAncRep_SubSahAfr_Anc079	Total population: First ancestry reported: Subsaharan African: Senegalese
+TotPop_1stAncRep_SubSahAfr_Anc081	Total population: First ancestry reported: Subsaharan African: Sierra Leonean
+TotPop_1stAncRep_SubSahAfr_Anc085	Total population: First ancestry reported: Subsaharan African: Somalian
+TotPop_1stAncRep_SubSahAfr_Anc086	Total population: First ancestry reported: Subsaharan African: South African
+TotPop_1stAncRep_SubSahAfr_Anc088	Total population: First ancestry reported: Subsaharan African: Sudanese
+TotPop_1stAncRep_SubSahAfr_Anc095	Total population: First ancestry reported: Subsaharan African: Ugandan
+TotPop_1stAncRep_SubSahAfr_Anc101	Total population: First ancestry reported: Subsaharan African: Zairian
+TotPop_1stAncRep_SubSahAfr_Anc102	Total population: First ancestry reported: Subsaharan African: Zimbabwean
+TotPop_1stAncRep_SubSahAfr_Anc003	Total population: First ancestry reported: Subsaharan African: African
+TotPop_1stAncRep_SubSahAfr_Anc068	Total population: First ancestry reported: Subsaharan African: Other Subsaharan African
+TotPop_1stAncRep_Anc089	Total population: First ancestry reported: Swedish
+TotPop_1stAncRep_Anc090	Total population: First ancestry reported: Swiss
+TotPop_1stAncRep_Anc093	Total population: First ancestry reported: Turkish
+TotPop_1stAncRep_Anc096	Total population: First ancestry reported: Ukrainian
+TotPop_1stAncRep_Anc097	Total population: First ancestry reported: United States or American
+TotPop_1stAncRep_Anc098	Total population: First ancestry reported: Welsh
+TotPop_1stAncRep_WestIndExclHisp	Total population: First ancestry reported: West Indian (excluding Hispanic groups):
+TotPop_1stAncRep_WestIndExclHisp_Anc011	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Bahamian
+TotPop_1stAncRep_WestIndExclHisp_Anc012	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Barbadian
+TotPop_1stAncRep_WestIndExclHisp_Anc015	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Belizean
+TotPop_1stAncRep_WestIndExclHisp_Anc016	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Bermudan
+TotPop_1stAncRep_WestIndExclHisp_Anc019	Total population: First ancestry reported: West Indian (excluding Hispanic groups): British West Indian
+TotPop_1stAncRep_WestIndExclHisp_Anc031	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Dutch West Indian
+TotPop_1stAncRep_WestIndExclHisp_Anc045	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Haitian
+TotPop_1stAncRep_WestIndExclHisp_Anc053	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Jamaican
+TotPop_1stAncRep_WestIndExclHisp_Anc092	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Trinidadian and Tobagonian
+TotPop_1stAncRep_WestIndExclHisp_Anc094	Total population: First ancestry reported: West Indian (excluding Hispanic groups): U.S. Virgin Islander
+TotPop_1stAncRep_WestIndExclHisp_Anc099	Total population: First ancestry reported: West Indian (excluding Hispanic groups): West Indian
+TotPop_1stAncRep_WestIndExclHisp_Anc069	Total population: First ancestry reported: West Indian (excluding Hispanic groups): Other West Indian
+TotPop_1stAncRep_Anc100	Total population: First ancestry reported: Yugoslavian
+TotPop_1stAncRep_OthGrps	Total population: First ancestry reported: Other groups
+TotPop_UnclsNotRprt	Total population: Unclassified or not reported
+TotPop_Tot	Total population: Total:
+TotPop_2ndAncRep	Total population: Second ancestry reported:
+TotPop_2ndAncRep_Anc001	Total population: Second ancestry reported: Acadian/Cajun
+TotPop_2ndAncRep_Anc002	Total population: Second ancestry reported: Afghan
+TotPop_2ndAncRep_Anc004	Total population: Second ancestry reported: Albanian
+TotPop_2ndAncRep_Anc005	Total population: Second ancestry reported: Alsatian
+TotPop_2ndAncRep_Arab	Total population: Second ancestry reported: Arab:
+TotPop_2ndAncRep_Arab_Anc033	Total population: Second ancestry reported: Arab: Egyptian
+TotPop_2ndAncRep_Arab_Anc049	Total population: Second ancestry reported: Arab: Iraqi
+TotPop_2ndAncRep_Arab_Anc054	Total population: Second ancestry reported: Arab: Jordanian
+TotPop_2ndAncRep_Arab_Anc057	Total population: Second ancestry reported: Arab: Lebanese
+TotPop_2ndAncRep_Arab_Anc063	Total population: Second ancestry reported: Arab: Moroccan
+TotPop_2ndAncRep_Arab_Anc070	Total population: Second ancestry reported: Arab: Palestinian
+TotPop_2ndAncRep_Arab_Anc091	Total population: Second ancestry reported: Arab: Syrian
+TotPop_2ndAncRep_Arab_Anc006	Total population: Second ancestry reported: Arab: Arab/Arabic
+TotPop_2ndAncRep_Arab_OthArab	Total population: Second ancestry reported: Arab: Other Arab
+TotPop_2ndAncRep_Anc007	Total population: Second ancestry reported: Armenian
+TotPop_2ndAncRep_Anc008	Total population: Second ancestry reported: Assyrian/Chaldean/Syriac
+TotPop_2ndAncRep_Anc009	Total population: Second ancestry reported: Australian
+TotPop_2ndAncRep_Anc010	Total population: Second ancestry reported: Austrian
+TotPop_2ndAncRep_Anc013	Total population: Second ancestry reported: Basque
+TotPop_2ndAncRep_Anc014	Total population: Second ancestry reported: Belgian
+TotPop_2ndAncRep_Anc017	Total population: Second ancestry reported: Brazilian
+TotPop_2ndAncRep_Anc018	Total population: Second ancestry reported: British
+TotPop_2ndAncRep_Anc020	Total population: Second ancestry reported: Bulgarian
+TotPop_2ndAncRep_Anc021	Total population: Second ancestry reported: Canadian
+TotPop_2ndAncRep_Anc023	Total population: Second ancestry reported: Carpatho Rusyn
+TotPop_2ndAncRep_Anc024	Total population: Second ancestry reported: Celtic
+TotPop_2ndAncRep_Anc025	Total population: Second ancestry reported: Croatian
+TotPop_2ndAncRep_Anc026	Total population: Second ancestry reported: Cypriot
+TotPop_2ndAncRep_Anc027	Total population: Second ancestry reported: Czech
+TotPop_2ndAncRep_Anc028	Total population: Second ancestry reported: Czechoslovakian
+TotPop_2ndAncRep_Anc029	Total population: Second ancestry reported: Danish
+TotPop_2ndAncRep_Anc030	Total population: Second ancestry reported: Dutch
+TotPop_2ndAncRep_Anc032	Total population: Second ancestry reported: Eastern European
+TotPop_2ndAncRep_Engl	Total population: Second ancestry reported: English
+TotPop_2ndAncRep_Anc034	Total population: Second ancestry reported: Estonian
+TotPop_2ndAncRep_Anc036	Total population: Second ancestry reported: European
+TotPop_2ndAncRep_Anc037	Total population: Second ancestry reported: Finnish
+TotPop_2ndAncRep_Anc038	Total population: Second ancestry reported: French (except Basque)
+TotPop_2ndAncRep_Anc039	Total population: Second ancestry reported: French Canadian
+TotPop_2ndAncRep_Anc040	Total population: Second ancestry reported: German
+TotPop_2ndAncRep_Anc041	Total population: Second ancestry reported: German Russian
+TotPop_2ndAncRep_Anc043	Total population: Second ancestry reported: Greek
+TotPop_2ndAncRep_Anc044	Total population: Second ancestry reported: Guyanese
+TotPop_2ndAncRep_Anc046	Total population: Second ancestry reported: Hungarian
+TotPop_2ndAncRep_Anc047	Total population: Second ancestry reported: Icelander
+TotPop_2ndAncRep_Anc048	Total population: Second ancestry reported: Iranian
+TotPop_2ndAncRep_Anc050	Total population: Second ancestry reported: Irish
+TotPop_2ndAncRep_Anc051	Total population: Second ancestry reported: Israeli
+TotPop_2ndAncRep_Anc052	Total population: Second ancestry reported: Italian
+TotPop_2ndAncRep_Anc056	Total population: Second ancestry reported: Latvian
+TotPop_2ndAncRep_Anc059	Total population: Second ancestry reported: Lithuanian
+TotPop_2ndAncRep_Anc060	Total population: Second ancestry reported: Luxemburger
+TotPop_2ndAncRep_Anc061	Total population: Second ancestry reported: Macedonian
+TotPop_2ndAncRep_Anc062	Total population: Second ancestry reported: Maltese
+TotPop_2ndAncRep_Anc064	Total population: Second ancestry reported: New Zealander
+TotPop_2ndAncRep_Anc066	Total population: Second ancestry reported: Northern European
+TotPop_2ndAncRep_Anc067	Total population: Second ancestry reported: Norwegian
+TotPop_2ndAncRep_Anc071	Total population: Second ancestry reported: Pennsylvania German
+TotPop_2ndAncRep_Anc072	Total population: Second ancestry reported: Polish
+TotPop_2ndAncRep_Anc073	Total population: Second ancestry reported: Portuguese
+TotPop_2ndAncRep_Anc074	Total population: Second ancestry reported: Romanian
+TotPop_2ndAncRep_Anc075	Total population: Second ancestry reported: Russian
+TotPop_2ndAncRep_Anc076	Total population: Second ancestry reported: Scandinavian
+TotPop_2ndAncRep_Anc077	Total population: Second ancestry reported: Scotch-Irish
+TotPop_2ndAncRep_Anc078	Total population: Second ancestry reported: Scottish
+TotPop_2ndAncRep_Anc080	Total population: Second ancestry reported: Serbian
+TotPop_2ndAncRep_Anc082	Total population: Second ancestry reported: Slavic
+TotPop_2ndAncRep_Anc083	Total population: Second ancestry reported: Slovak
+TotPop_2ndAncRep_Anc084	Total population: Second ancestry reported: Slovene
+TotPop_2ndAncRep_Anc087	Total population: Second ancestry reported: Soviet Union
+TotPop_2ndAncRep_SubSahAfr	Total population: Second ancestry reported: Subsaharan African:
+TotPop_2ndAncRep_SubSahAfr_Anc022	Total population: Second ancestry reported: Subsaharan African: Cape Verdean
+TotPop_2ndAncRep_SubSahAfr_Anc035	Total population: Second ancestry reported: Subsaharan African: Ethiopian
+TotPop_2ndAncRep_SubSahAfr_Anc042	Total population: Second ancestry reported: Subsaharan African: Ghanian
+TotPop_2ndAncRep_SubSahAfr_Anc055	Total population: Second ancestry reported: Subsaharan African: Kenyan
+TotPop_2ndAncRep_SubSahAfr_Anc058	Total population: Second ancestry reported: Subsaharan African: Liberian
+TotPop_2ndAncRep_SubSahAfr_Anc065	Total population: Second ancestry reported: Subsaharan African: Nigerian
+TotPop_2ndAncRep_SubSahAfr_Anc079	Total population: Second ancestry reported: Subsaharan African: Senegalese
+TotPop_2ndAncRep_SubSahAfr_Anc081	Total population: Second ancestry reported: Subsaharan African: Sierra Leonean
+TotPop_2ndAncRep_SubSahAfr_Anc085	Total population: Second ancestry reported: Subsaharan African: Somalian
+TotPop_2ndAncRep_SubSahAfr_Anc086	Total population: Second ancestry reported: Subsaharan African: South African
+TotPop_2ndAncRep_SubSahAfr_Anc088	Total population: Second ancestry reported: Subsaharan African: Sudanese
+TotPop_2ndAncRep_SubSahAfr_Anc095	Total population: Second ancestry reported: Subsaharan African: Ugandan
+TotPop_2ndAncRep_SubSahAfr_Anc101	Total population: Second ancestry reported: Subsaharan African: Zairian
+TotPop_2ndAncRep_SubSahAfr_Anc102	Total population: Second ancestry reported: Subsaharan African: Zimbabwean
+TotPop_2ndAncRep_SubSahAfr_Anc003	Total population: Second ancestry reported: Subsaharan African: African
+TotPop_2ndAncRep_SubSahAfr_Anc068	Total population: Second ancestry reported: Subsaharan African: Other Subsaharan African
+TotPop_2ndAncRep_Anc089	Total population: Second ancestry reported: Swedish
+TotPop_2ndAncRep_Anc090	Total population: Second ancestry reported: Swiss
+TotPop_2ndAncRep_Anc093	Total population: Second ancestry reported: Turkish
+TotPop_2ndAncRep_Anc096	Total population: Second ancestry reported: Ukrainian
+TotPop_2ndAncRep_Anc097	Total population: Second ancestry reported: United States or American
+TotPop_2ndAncRep_Anc098	Total population: Second ancestry reported: Welsh
+TotPop_2ndAncRep_WestIndExclHisp	Total population: Second ancestry reported: West Indian (excluding Hispanic groups):
+TotPop_2ndAncRep_WestIndExclHisp_Anc011	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Bahamian
+TotPop_2ndAncRep_WestIndExclHisp_Anc012	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Barbadian
+TotPop_2ndAncRep_WestIndExclHisp_Anc015	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Belizean
+TotPop_2ndAncRep_WestIndExclHisp_Anc016	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Bermudan
+TotPop_2ndAncRep_WestIndExclHisp_Anc019	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): British West Indian
+TotPop_2ndAncRep_WestIndExclHisp_Anc031	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Dutch West Indian
+TotPop_2ndAncRep_WestIndExclHisp_Anc045	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Haitian
+TotPop_2ndAncRep_WestIndExclHisp_Anc053	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Jamaican
+TotPop_2ndAncRep_WestIndExclHisp_Anc092	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Trinidadian and Tobagonian
+TotPop_2ndAncRep_WestIndExclHisp_Anc094	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): U.S. Virgin Islander
+TotPop_2ndAncRep_WestIndExclHisp_Anc099	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): West Indian
+TotPop_2ndAncRep_WestIndExclHisp_Anc069	Total population: Second ancestry reported: West Indian (excluding Hispanic groups): Other West Indian
+TotPop_2ndAncRep_Anc100	Total population: Second ancestry reported: Yugoslavian
+TotPop_2ndAncRep_OthGrps	Total population: Second ancestry reported: Other groups
+TotPop_UnclsNotRprt	Total population: Unclassified or not reported

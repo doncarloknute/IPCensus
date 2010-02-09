@@ -1,0 +1,243 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopGte5y_Tot	Population 5 years and over: Total:
+PopGte5y_LivPMSA2000	Population 5 years and over: Living in an MSA/PMSA in 2000:
+PopGte5y_LivPMSA2000_SameHs95	Population 5 years and over: Living in an MSA/PMSA in 2000: Same house in 1995
+PopGte5y_LivPMSA2000_DiffHs95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_CentCity	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Central city
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_SamePMSA95_RemThisPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Same MSA/PMSA in 1995: Remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95_CentCity	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995: Central city
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_DiffPMSA95_RemDiffPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Different MSA/PMSA in 1995: Remainder of different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_InUS95_NotPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_LivPMSA2000_DiffHs95_PRico95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_CentCity	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Central city
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_SamePMSA95_RemThisPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Same MSA/PMSA in 1995: Remainder of this MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995:
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95_CentCity	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995: Central city
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_DiffPMSA95_RemDiffPMSA	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Different MSA/PMSA in 1995: Remainder of different MSA/PMSA
+PopGte5y_LivPMSA2000_DiffHs95_PRico95_NotPMSA95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_LivPMSA2000_DiffHs95_Else95	Population 5 years and over: Living in an MSA/PMSA in 2000: Different house in 1995: Elsewhere in 1995
+PopGte5y_NotLivPMSA2000	Population 5 years and over: Not living in an MSA/PMSA in 2000:
+PopGte5y_NotLivPMSA2000_SameHs95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Same house in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95_CentCity	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995: Central city
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_InPMSA95_RemPMSA	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: In an MSA/PMSA in 1995: Remainder of MSA/PMSA
+PopGte5y_NotLivPMSA2000_DiffHs95_InUS95_NotPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In United States in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995:
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95_CentCity	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995: Central city
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_InPMSA95_RemPMSA	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: In an MSA/PMSA in 1995: Remainder of MSA/PMSA
+PopGte5y_NotLivPMSA2000_DiffHs95_PRico95_NotPMSA95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: In Puerto Rico in 1995: Not in an MSA/PMSA in 1995
+PopGte5y_NotLivPMSA2000_DiffHs95_Else95	Population 5 years and over: Not living in an MSA/PMSA in 2000: Different house in 1995: Elsewhere in 1995
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_WrkdStRes	Workers 16 years and over: Worked in state of residence:
+WrkrsGte16y_WrkdStRes_WrkdCntyRes	Workers 16 years and over: Worked in state of residence: Worked in county of residence
+WrkrsGte16y_WrkdStRes_WrkdOutCntyRes	Workers 16 years and over: Worked in state of residence: Worked outside county of residence
+WrkrsGte16y_WrkdOutStRes	Workers 16 years and over: Worked outside state of residence
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_LivPlace	Workers 16 years and over: Living in a place:
+WrkrsGte16y_LivPlace_WrkdPlaceRes	Workers 16 years and over: Living in a place: Worked in place of residence
+WrkrsGte16y_LivPlace_WrkdOutPlaceRes	Workers 16 years and over: Living in a place: Worked outside place of residence
+WrkrsGte16y_NotLivPlace	Workers 16 years and over: Not living in a place
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_LivPMSA	Workers 16 years and over: Living in an MSA/PMSA:
+WrkrsGte16y_LivPMSA_LivCentCity	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city:
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdPMSAres	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked in MSA/PMSA of residence:
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdPMSAres_CentCity	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked in MSA/PMSA of residence: Central city
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdPMSAres_RemThisPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked in MSA/PMSA of residence: Remainder of this MSA/PMSA
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdOutPMSAres	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked outside MSA/PMSA of residence:
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdOutPMSAres_WrkdDiffPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA:
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdOutPMSAres_WrkdDiffPMSA_C_000	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA: Central city
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdOutPMSAres_WrkdDiffPMSA_R_001	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA: Remainder of different MSA/PMSA
+WrkrsGte16y_LivPMSA_LivCentCity_WrkdOutPMSAres_WrkdOutAnyPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in a central city: Worked outside MSA/PMSA of residence: Worked outside any MSA/PMSA
+WrkrsGte16y_LivPMSA_LivRemPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA:
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdPMSAres	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked in MSA/PMSA of residence:
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdPMSAres_CentCity	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked in MSA/PMSA of residence: Central city
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdPMSAres_RemThisPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked in MSA/PMSA of residence: Remainder of this MSA/PMSA
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdOutPMSAres	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked outside MSA/PMSA of residence:
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdOutPMSAres_WrkdDiffPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA:
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdOutPMSAres_WrkdDiffPMSA_Ce_002	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA: Central city
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdOutPMSAres_WrkdDiffPMSA_Re_003	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked outside MSA/PMSA of residence: Worked in a different MSA/PMSA: Remainder of different MSA/PMSA
+WrkrsGte16y_LivPMSA_LivRemPMSA_WrkdOutPMSAres_WrkdOutAnyPMSA	Workers 16 years and over: Living in an MSA/PMSA: Living in remainder of an MSA/PMSA: Worked outside MSA/PMSA of residence: Worked outside any MSA/PMSA
+WrkrsGte16y_NotLivPMSA	Workers 16 years and over: Not living in an MSA/PMSA:
+WrkrsGte16y_NotLivPMSA_WrkdPMSA	Workers 16 years and over: Not living in an MSA/PMSA: Worked in an MSA/PMSA:
+WrkrsGte16y_NotLivPMSA_WrkdPMSA_CentCity	Workers 16 years and over: Not living in an MSA/PMSA: Worked in an MSA/PMSA: Central city
+WrkrsGte16y_NotLivPMSA_WrkdPMSA_RemPMSA	Workers 16 years and over: Not living in an MSA/PMSA: Worked in an MSA/PMSA: Remainder of MSA/PMSA
+WrkrsGte16y_NotLivPMSA_WrkdOutAnyPMSA	Workers 16 years and over: Not living in an MSA/PMSA: Worked outside any MSA/PMSA
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_Liv12SelSt	Workers 16 years and over: Living in the 12 selected states:
+WrkrsGte16y_Liv12SelSt_WrkdMinCivDivRes	Workers 16 years and over: Living in the 12 selected states: Worked in minor civil division of residence
+WrkrsGte16y_Liv12SelSt_WrkdOutMinCivDivRes	Workers 16 years and over: Living in the 12 selected states: Worked outside minor civil division of residence
+WrkrsGte16y_NotLiv12SelSt	Workers 16 years and over: Not living in the 12 selected states
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_CarTrckVan	Workers 16 years and over: Car, truck, or van:
+WrkrsGte16y_CarTrckVan_DrvAln	Workers 16 years and over: Car, truck, or van: Drove alone
+WrkrsGte16y_CarTrckVan_Carpool	Workers 16 years and over: Car, truck, or van: Carpooled
+WrkrsGte16y_PubTrans	Workers 16 years and over: Public transportation:
+WrkrsGte16y_PubTrans_BusTrlly	Workers 16 years and over: Public transportation: Bus or trolley bus
+WrkrsGte16y_PubTrans_StrtcarTrolley	Workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+WrkrsGte16y_PubTrans_SubwayElev	Workers 16 years and over: Public transportation: Subway or elevated
+WrkrsGte16y_PubTrans_RR	Workers 16 years and over: Public transportation: Railroad
+WrkrsGte16y_PubTrans_Ferry	Workers 16 years and over: Public transportation: Ferryboat
+WrkrsGte16y_PubTrans_Taxi	Workers 16 years and over: Public transportation: Taxicab
+WrkrsGte16y_MotCycle	Workers 16 years and over: Motorcycle
+WrkrsGte16y_Bike	Workers 16 years and over: Bicycle
+WrkrsGte16y_Walked	Workers 16 years and over: Walked
+WrkrsGte16y_OthMeans	Workers 16 years and over: Other means
+WrkrsGte16y_WrkdAtHome	Workers 16 years and over: Worked at home
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_DNWorkHome	Workers 16 years and over: Did not work at home:
+WrkrsGte16y_DNWorkHome_Lt5min	Workers 16 years and over: Did not work at home: Less than 5 minutes
+WrkrsGte16y_DNWorkHome_5to9min	Workers 16 years and over: Did not work at home: 5 to 9 minutes
+WrkrsGte16y_DNWorkHome_10to14min	Workers 16 years and over: Did not work at home: 10 to 14 minutes
+WrkrsGte16y_DNWorkHome_15to19min	Workers 16 years and over: Did not work at home: 15 to 19 minutes
+WrkrsGte16y_DNWorkHome_20to24min	Workers 16 years and over: Did not work at home: 20 to 24 minutes
+WrkrsGte16y_DNWorkHome_25to29min	Workers 16 years and over: Did not work at home: 25 to 29 minutes
+WrkrsGte16y_DNWorkHome_30to34min	Workers 16 years and over: Did not work at home: 30 to 34 minutes
+WrkrsGte16y_DNWorkHome_35to39min	Workers 16 years and over: Did not work at home: 35 to 39 minutes
+WrkrsGte16y_DNWorkHome_40to44min	Workers 16 years and over: Did not work at home: 40 to 44 minutes
+WrkrsGte16y_DNWorkHome_45to59min	Workers 16 years and over: Did not work at home: 45 to 59 minutes
+WrkrsGte16y_DNWorkHome_60to89min	Workers 16 years and over: Did not work at home: 60 to 89 minutes
+WrkrsGte16y_DNWorkHome_Gte90min	Workers 16 years and over: Did not work at home: 90 or more minutes
+WrkrsGte16y_WrkdAtHome	Workers 16 years and over: Worked at home
+WrkrsGte16yDidNotWorkHome_Tot	Workers 16 years and over who did not work at home: Total:
+WrkrsGte16yDidNotWorkHome_Lt30min	Workers 16 years and over who did not work at home: Less than 30 minutes:
+WrkrsGte16yDidNotWorkHome_Lt30min_PubTrans	Workers 16 years and over who did not work at home: Less than 30 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_Lt30min_OthMeans	Workers 16 years and over who did not work at home: Less than 30 minutes: Other means
+WrkrsGte16yDidNotWorkHome_30to44min	Workers 16 years and over who did not work at home: 30 to 44 minutes:
+WrkrsGte16yDidNotWorkHome_30to44min_PubTrans	Workers 16 years and over who did not work at home: 30 to 44 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_30to44min_OthMeans	Workers 16 years and over who did not work at home: 30 to 44 minutes: Other means
+WrkrsGte16yDidNotWorkHome_45to59min	Workers 16 years and over who did not work at home: 45 to 59 minutes:
+WrkrsGte16yDidNotWorkHome_45to59min_PubTrans	Workers 16 years and over who did not work at home: 45 to 59 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_45to59min_OthMeans	Workers 16 years and over who did not work at home: 45 to 59 minutes: Other means
+WrkrsGte16yDidNotWorkHome_Gte60min	Workers 16 years and over who did not work at home: 60 or more minutes:
+WrkrsGte16yDidNotWorkHome_Gte60min_PubTrans	Workers 16 years and over who did not work at home: 60 or more minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_Gte60min_OthMeans	Workers 16 years and over who did not work at home: 60 or more minutes: Other means
+WrkrsGte16yDidNotWorkHome_AggTravTimeWork	Workers 16 years and over who did not work at home: Aggregate travel time to work (in minutes):
+WrkrsGte16yDidNotWorkHome_Lt30min	Workers 16 years and over who did not work at home: Less than 30 minutes:
+WrkrsGte16yDidNotWorkHome_Lt30min_PubTrans	Workers 16 years and over who did not work at home: Less than 30 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_Lt30min_OthMeans	Workers 16 years and over who did not work at home: Less than 30 minutes: Other means
+WrkrsGte16yDidNotWorkHome_30to44min	Workers 16 years and over who did not work at home: 30 to 44 minutes:
+WrkrsGte16yDidNotWorkHome_30to44min_PubTrans	Workers 16 years and over who did not work at home: 30 to 44 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_30to44min_OthMeans	Workers 16 years and over who did not work at home: 30 to 44 minutes: Other means
+WrkrsGte16yDidNotWorkHome_45to59min	Workers 16 years and over who did not work at home: 45 to 59 minutes:
+WrkrsGte16yDidNotWorkHome_45to59min_PubTrans	Workers 16 years and over who did not work at home: 45 to 59 minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_45to59min_OthMeans	Workers 16 years and over who did not work at home: 45 to 59 minutes: Other means
+WrkrsGte16yDidNotWorkHome_Gte60min	Workers 16 years and over who did not work at home: 60 or more minutes:
+WrkrsGte16yDidNotWorkHome_Gte60min_PubTrans	Workers 16 years and over who did not work at home: 60 or more minutes: Public transportation
+WrkrsGte16yDidNotWorkHome_Gte60min_OthMeans	Workers 16 years and over who did not work at home: 60 or more minutes: Other means
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_DNWorkHome	Workers 16 years and over: Did not work at home:
+WrkrsGte16y_DNWorkHome_12AMto5AM	Workers 16 years and over: Did not work at home: 12:00 a.m. to 4:59 a.m.
+WrkrsGte16y_DNWorkHome_5AMto6AM	Workers 16 years and over: Did not work at home: 5:00 a.m. to 5:29 a.m.
+WrkrsGte16y_DNWorkHome_5AMto6AM	Workers 16 years and over: Did not work at home: 5:30 a.m. to 5:59 a.m.
+WrkrsGte16y_DNWorkHome_6AMto7AM	Workers 16 years and over: Did not work at home: 6:00 a.m. to 6:29 a.m.
+WrkrsGte16y_DNWorkHome_6AMto7AM	Workers 16 years and over: Did not work at home: 6:30 a.m. to 6:59 a.m.
+WrkrsGte16y_DNWorkHome_7AMto8AM	Workers 16 years and over: Did not work at home: 7:00 a.m. to 7:29 a.m.
+WrkrsGte16y_DNWorkHome_7AMto8AM	Workers 16 years and over: Did not work at home: 7:30 a.m. to 7:59 a.m.
+WrkrsGte16y_DNWorkHome_8AMto9AM	Workers 16 years and over: Did not work at home: 8:00 a.m. to 8:29 a.m.
+WrkrsGte16y_DNWorkHome_8AMto9AM	Workers 16 years and over: Did not work at home: 8:30 a.m. to 8:59 a.m.
+WrkrsGte16y_DNWorkHome_9AMto10AM	Workers 16 years and over: Did not work at home: 9:00 a.m. to 9:59 a.m.
+WrkrsGte16y_DNWorkHome_10AMto11AM	Workers 16 years and over: Did not work at home: 10:00 a.m. to 10:59 a.m.
+WrkrsGte16y_DNWorkHome_11AMto12AM	Workers 16 years and over: Did not work at home: 11:00 a.m. to 11:59 a.m.
+WrkrsGte16y_DNWorkHome_12PMto4PM	Workers 16 years and over: Did not work at home: 12:00 p.m. to 3:59 p.m.
+WrkrsGte16y_DNWorkHome_4PMto12PM	Workers 16 years and over: Did not work at home: 4:00 p.m. to 11:59 p.m.
+WrkrsGte16y_WrkdAtHome	Workers 16 years and over: Worked at home
+WrkrsGte16y_Tot	Workers 16 years and over: Total:
+WrkrsGte16y_CarTrckVan	Workers 16 years and over: Car, truck, or van:
+WrkrsGte16y_CarTrckVan_DrvAln	Workers 16 years and over: Car, truck, or van: Drove alone
+WrkrsGte16y_CarTrckVan_Carpool	Workers 16 years and over: Car, truck, or van: Carpooled:
+WrkrsGte16y_CarTrckVan_Carpool_2pCarPool	Workers 16 years and over: Car, truck, or van: Carpooled: In 2-person carpool
+WrkrsGte16y_CarTrckVan_Carpool_3pCarPool	Workers 16 years and over: Car, truck, or van: Carpooled: In 3-person carpool
+WrkrsGte16y_CarTrckVan_Carpool_4pCarPool	Workers 16 years and over: Car, truck, or van: Carpooled: In 4-person carpool
+WrkrsGte16y_CarTrckVan_Carpool_5or6pCarPool	Workers 16 years and over: Car, truck, or van: Carpooled: In 5- or 6-person carpool
+WrkrsGte16y_CarTrckVan_Carpool_Gte7pCarPool	Workers 16 years and over: Car, truck, or van: Carpooled: In 7-or-more-person carpool
+WrkrsGte16y_OthMeansWrkHome	Workers 16 years and over: Other means (including those who worked at home)
+PopGte3y_Tot	Population 3 years and over: Total:
+PopGte3y_Mle	Population 3 years and over: Male:
+PopGte3y_Mle_ErldNursPre	Population 3 years and over: Male: Enrolled in nursery school, preschool:
+PopGte3y_Mle_ErldNursPre_PubSchl	Population 3 years and over: Male: Enrolled in nursery school, preschool: Public school
+PopGte3y_Mle_ErldNursPre_PrivSchl	Population 3 years and over: Male: Enrolled in nursery school, preschool: Private school
+PopGte3y_Mle_ErldKind	Population 3 years and over: Male: Enrolled in kindergarten:
+PopGte3y_Mle_ErldKind_PubSchl	Population 3 years and over: Male: Enrolled in kindergarten: Public school
+PopGte3y_Mle_ErldKind_PrivSchl	Population 3 years and over: Male: Enrolled in kindergarten: Private school
+PopGte3y_Mle_Erld1to4Gr	Population 3 years and over: Male: Enrolled in grade 1 to grade 4:
+PopGte3y_Mle_Erld1to4Gr_PubSchl	Population 3 years and over: Male: Enrolled in grade 1 to grade 4: Public school
+PopGte3y_Mle_Erld1to4Gr_PrivSchl	Population 3 years and over: Male: Enrolled in grade 1 to grade 4: Private school
+PopGte3y_Mle_Erld5to8Gr	Population 3 years and over: Male: Enrolled in grade 5 to grade 8:
+PopGte3y_Mle_Erld5to8Gr_PubSchl	Population 3 years and over: Male: Enrolled in grade 5 to grade 8: Public school
+PopGte3y_Mle_Erld5to8Gr_PrivSchl	Population 3 years and over: Male: Enrolled in grade 5 to grade 8: Private school
+PopGte3y_Mle_Erld9to12Gr	Population 3 years and over: Male: Enrolled in grade 9 to grade 12:
+PopGte3y_Mle_Erld9to12Gr_PubSchl	Population 3 years and over: Male: Enrolled in grade 9 to grade 12: Public school
+PopGte3y_Mle_Erld9to12Gr_PrivSchl	Population 3 years and over: Male: Enrolled in grade 9 to grade 12: Private school
+PopGte3y_Mle_ErldCollUnd	Population 3 years and over: Male: Enrolled in college, undergraduate years:
+PopGte3y_Mle_ErldCollUnd_PubSchl	Population 3 years and over: Male: Enrolled in college, undergraduate years: Public school
+PopGte3y_Mle_ErldCollUnd_PrivSchl	Population 3 years and over: Male: Enrolled in college, undergraduate years: Private school
+PopGte3y_Mle_ErldGradProf	Population 3 years and over: Male: Enrolled in graduate or professional school:
+PopGte3y_Mle_ErldGradProf_PubSchl	Population 3 years and over: Male: Enrolled in graduate or professional school: Public school
+PopGte3y_Mle_ErldGradProf_PrivSchl	Population 3 years and over: Male: Enrolled in graduate or professional school: Private school
+PopGte3y_Mle_NotEnrldSchl	Population 3 years and over: Male: Not enrolled in school
+PopGte3y_Fem	Population 3 years and over: Female:
+PopGte3y_Fem_ErldNursPre	Population 3 years and over: Female: Enrolled in nursery school, preschool:
+PopGte3y_Fem_ErldNursPre_PubSchl	Population 3 years and over: Female: Enrolled in nursery school, preschool: Public school
+PopGte3y_Fem_ErldNursPre_PrivSchl	Population 3 years and over: Female: Enrolled in nursery school, preschool: Private school
+PopGte3y_Fem_ErldKind	Population 3 years and over: Female: Enrolled in kindergarten:
+PopGte3y_Fem_ErldKind_PubSchl	Population 3 years and over: Female: Enrolled in kindergarten: Public school
+PopGte3y_Fem_ErldKind_PrivSchl	Population 3 years and over: Female: Enrolled in kindergarten: Private school
+PopGte3y_Fem_Erld1to4Gr	Population 3 years and over: Female: Enrolled in grade 1 to grade 4:
+PopGte3y_Fem_Erld1to4Gr_PubSchl	Population 3 years and over: Female: Enrolled in grade 1 to grade 4: Public school
+PopGte3y_Fem_Erld1to4Gr_PrivSchl	Population 3 years and over: Female: Enrolled in grade 1 to grade 4: Private school
+PopGte3y_Fem_Erld5to8Gr	Population 3 years and over: Female: Enrolled in grade 5 to grade 8:
+PopGte3y_Fem_Erld5to8Gr_PubSchl	Population 3 years and over: Female: Enrolled in grade 5 to grade 8: Public school
+PopGte3y_Fem_Erld5to8Gr_PrivSchl	Population 3 years and over: Female: Enrolled in grade 5 to grade 8: Private school
+PopGte3y_Fem_Erld9to12Gr	Population 3 years and over: Female: Enrolled in grade 9 to grade 12:
+PopGte3y_Fem_Erld9to12Gr_PubSchl	Population 3 years and over: Female: Enrolled in grade 9 to grade 12: Public school
+PopGte3y_Fem_Erld9to12Gr_PrivSchl	Population 3 years and over: Female: Enrolled in grade 9 to grade 12: Private school
+PopGte3y_Fem_ErldCollUnd	Population 3 years and over: Female: Enrolled in college, undergraduate years:
+PopGte3y_Fem_ErldCollUnd_PubSchl	Population 3 years and over: Female: Enrolled in college, undergraduate years: Public school
+PopGte3y_Fem_ErldCollUnd_PrivSchl	Population 3 years and over: Female: Enrolled in college, undergraduate years: Private school
+PopGte3y_Fem_ErldGradProf	Population 3 years and over: Female: Enrolled in graduate or professional school:
+PopGte3y_Fem_ErldGradProf_PubSchl	Population 3 years and over: Female: Enrolled in graduate or professional school: Public school
+PopGte3y_Fem_ErldGradProf_PrivSchl	Population 3 years and over: Female: Enrolled in graduate or professional school: Private school
+PopGte3y_Fem_NotEnrldSchl	Population 3 years and over: Female: Not enrolled in school
+PopGte25y_Tot	Population 25 years and over: Total:
+PopGte25y_Mle	Population 25 years and over: Male:
+PopGte25y_Mle_NoSchlComp	Population 25 years and over: Male: No schooling completed
+PopGte25y_Mle_Nursto4thGr	Population 25 years and over: Male: Nursery to 4th grade
+PopGte25y_Mle_5thand6thGr	Population 25 years and over: Male: 5th and 6th grade
+PopGte25y_Mle_7thand8thGr	Population 25 years and over: Male: 7th and 8th grade
+PopGte25y_Mle_9thGr	Population 25 years and over: Male: 9th grade
+PopGte25y_Mle_10thGr	Population 25 years and over: Male: 10th grade
+PopGte25y_Mle_11thGr	Population 25 years and over: Male: 11th grade
+PopGte25y_Mle_12thGrNoDip	Population 25 years and over: Male: 12th grade, no diploma
+PopGte25y_Mle_HighSchGradEquiv	Population 25 years and over: Male: High school graduate (includes equivalency)
+PopGte25y_Mle_SmeCollLt1y	Population 25 years and over: Male: Some college, less than 1 year
+PopGte25y_Mle_SmeCollGte1yNoDeg	Population 25 years and over: Male: Some college, 1 or more years, no degree
+PopGte25y_Mle_AssDeg	Population 25 years and over: Male: Associate degree
+PopGte25y_Mle_BacDeg	Population 25 years and over: Male: Bachelor's degree
+PopGte25y_Mle_MastDeg	Population 25 years and over: Male: Master's degree
+PopGte25y_Mle_ProfDeg	Population 25 years and over: Male: Professional school degree
+PopGte25y_Mle_DocDeg	Population 25 years and over: Male: Doctorate degree
+PopGte25y_Fem	Population 25 years and over: Female:
+PopGte25y_Fem_NoSchlComp	Population 25 years and over: Female: No schooling completed
+PopGte25y_Fem_Nursto4thGr	Population 25 years and over: Female: Nursery to 4th grade
+PopGte25y_Fem_5thand6thGr	Population 25 years and over: Female: 5th and 6th grade
+PopGte25y_Fem_7thand8thGr	Population 25 years and over: Female: 7th and 8th grade
+PopGte25y_Fem_9thGr	Population 25 years and over: Female: 9th grade
+PopGte25y_Fem_10thGr	Population 25 years and over: Female: 10th grade
+PopGte25y_Fem_11thGr	Population 25 years and over: Female: 11th grade
+PopGte25y_Fem_12thGrNoDip	Population 25 years and over: Female: 12th grade, no diploma
+PopGte25y_Fem_HighSchGradEquiv	Population 25 years and over: Female: High school graduate (includes equivalency)
+PopGte25y_Fem_SmeCollLt1y	Population 25 years and over: Female: Some college, less than 1 year
+PopGte25y_Fem_SmeCollGte1yNoDeg	Population 25 years and over: Female: Some college, 1 or more years, no degree
+PopGte25y_Fem_AssDeg	Population 25 years and over: Female: Associate degree
+PopGte25y_Fem_BacDeg	Population 25 years and over: Female: Bachelor's degree
+PopGte25y_Fem_MastDeg	Population 25 years and over: Female: Master's degree
+PopGte25y_Fem_ProfDeg	Population 25 years and over: Female: Professional school degree
+PopGte25y_Fem_DocDeg	Population 25 years and over: Female: Doctorate degree

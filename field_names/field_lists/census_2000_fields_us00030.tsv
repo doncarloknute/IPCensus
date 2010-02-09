@@ -1,0 +1,226 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Inc99LtPov	Population for whom poverty status is determined: Income in 1999 below poverty level:
+PopPovDet_Inc99LtPov_Mle	Population for whom poverty status is determined: Income in 1999 below poverty level: Male:
+PopPovDet_Inc99LtPov_Mle_Lt5y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: Under 5 years
+PopPovDet_Inc99LtPov_Mle_5y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 5 years
+PopPovDet_Inc99LtPov_Mle_6to11y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 6 to 11 years
+PopPovDet_Inc99LtPov_Mle_12to14y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 12 to 14 years
+PopPovDet_Inc99LtPov_Mle_15y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 15 years
+PopPovDet_Inc99LtPov_Mle_16and17y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 16 and 17 years
+PopPovDet_Inc99LtPov_Mle_18to24y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 18 to 24 years
+PopPovDet_Inc99LtPov_Mle_25to34y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 25 to 34 years
+PopPovDet_Inc99LtPov_Mle_35to44y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 35 to 44 years
+PopPovDet_Inc99LtPov_Mle_45to54y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 45 to 54 years
+PopPovDet_Inc99LtPov_Mle_55to64y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 55 to 64 years
+PopPovDet_Inc99LtPov_Mle_65to74y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 65 to 74 years
+PopPovDet_Inc99LtPov_Mle_Gte75y	Population for whom poverty status is determined: Income in 1999 below poverty level: Male: 75 years and over
+PopPovDet_Inc99LtPov_Fem	Population for whom poverty status is determined: Income in 1999 below poverty level: Female:
+PopPovDet_Inc99LtPov_Fem_Lt5y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: Under 5 years
+PopPovDet_Inc99LtPov_Fem_5y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 5 years
+PopPovDet_Inc99LtPov_Fem_6to11y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 6 to 11 years
+PopPovDet_Inc99LtPov_Fem_12to14y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 12 to 14 years
+PopPovDet_Inc99LtPov_Fem_15y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 15 years
+PopPovDet_Inc99LtPov_Fem_16and17y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 16 and 17 years
+PopPovDet_Inc99LtPov_Fem_18to24y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 18 to 24 years
+PopPovDet_Inc99LtPov_Fem_25to34y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 25 to 34 years
+PopPovDet_Inc99LtPov_Fem_35to44y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 35 to 44 years
+PopPovDet_Inc99LtPov_Fem_45to54y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 45 to 54 years
+PopPovDet_Inc99LtPov_Fem_55to64y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 55 to 64 years
+PopPovDet_Inc99LtPov_Fem_65to74y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 65 to 74 years
+PopPovDet_Inc99LtPov_Fem_Gte75y	Population for whom poverty status is determined: Income in 1999 below poverty level: Female: 75 years and over
+PopPovDet_Inc99GtePov	Population for whom poverty status is determined: Income in 1999 at or above poverty level:
+PopPovDet_Inc99GtePov_Mle	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male:
+PopPovDet_Inc99GtePov_Mle_Lt5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: Under 5 years
+PopPovDet_Inc99GtePov_Mle_5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 5 years
+PopPovDet_Inc99GtePov_Mle_6to11y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 6 to 11 years
+PopPovDet_Inc99GtePov_Mle_12to14y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 12 to 14 years
+PopPovDet_Inc99GtePov_Mle_15y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 15 years
+PopPovDet_Inc99GtePov_Mle_16and17y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 16 and 17 years
+PopPovDet_Inc99GtePov_Mle_18to24y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 18 to 24 years
+PopPovDet_Inc99GtePov_Mle_25to34y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 25 to 34 years
+PopPovDet_Inc99GtePov_Mle_35to44y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 35 to 44 years
+PopPovDet_Inc99GtePov_Mle_45to54y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 45 to 54 years
+PopPovDet_Inc99GtePov_Mle_55to64y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 55 to 64 years
+PopPovDet_Inc99GtePov_Mle_65to74y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 65 to 74 years
+PopPovDet_Inc99GtePov_Mle_Gte75y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Male: 75 years and over
+PopPovDet_Inc99GtePov_Fem	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female:
+PopPovDet_Inc99GtePov_Fem_Lt5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: Under 5 years
+PopPovDet_Inc99GtePov_Fem_5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 5 years
+PopPovDet_Inc99GtePov_Fem_6to11y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 6 to 11 years
+PopPovDet_Inc99GtePov_Fem_12to14y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 12 to 14 years
+PopPovDet_Inc99GtePov_Fem_15y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 15 years
+PopPovDet_Inc99GtePov_Fem_16and17y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 16 and 17 years
+PopPovDet_Inc99GtePov_Fem_18to24y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 18 to 24 years
+PopPovDet_Inc99GtePov_Fem_25to34y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 25 to 34 years
+PopPovDet_Inc99GtePov_Fem_35to44y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 35 to 44 years
+PopPovDet_Inc99GtePov_Fem_45to54y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 45 to 54 years
+PopPovDet_Inc99GtePov_Fem_55to64y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 55 to 64 years
+PopPovDet_Inc99GtePov_Fem_65to74y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 65 to 74 years
+PopPovDet_Inc99GtePov_Fem_Gte75y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Female: 75 years and over
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Lt5y	Population for whom poverty status is determined: Under 5 years:
+PopPovDet_Lt5y_Lt0.50	Population for whom poverty status is determined: Under 5 years: Under .50
+PopPovDet_Lt5y_0.50to0.74	Population for whom poverty status is determined: Under 5 years: .50 to .74
+PopPovDet_Lt5y_0.75to0.99	Population for whom poverty status is determined: Under 5 years: .75 to .99
+PopPovDet_Lt5y_1to1.24	Population for whom poverty status is determined: Under 5 years: 1.00 to 1.24
+PopPovDet_Lt5y_1.25to1.29	Population for whom poverty status is determined: Under 5 years: 1.25 to 1.29
+PopPovDet_Lt5y_1.30to1.49	Population for whom poverty status is determined: Under 5 years: 1.30 to 1.49
+PopPovDet_Lt5y_1.50to1.74	Population for whom poverty status is determined: Under 5 years: 1.50 to 1.74
+PopPovDet_Lt5y_1.75to1.84	Population for whom poverty status is determined: Under 5 years: 1.75 to 1.84
+PopPovDet_Lt5y_1.85to1.99	Population for whom poverty status is determined: Under 5 years: 1.85 to 1.99
+PopPovDet_Lt5y_Gte2	Population for whom poverty status is determined: Under 5 years: 2.00 and over
+PopPovDet_5y	Population for whom poverty status is determined: 5 years:
+PopPovDet_5y_Lt0.50	Population for whom poverty status is determined: 5 years: Under .50
+PopPovDet_5y_0.50to0.74	Population for whom poverty status is determined: 5 years: .50 to .74
+PopPovDet_5y_0.75to0.99	Population for whom poverty status is determined: 5 years: .75 to .99
+PopPovDet_5y_1to1.24	Population for whom poverty status is determined: 5 years: 1.00 to 1.24
+PopPovDet_5y_1.25to1.29	Population for whom poverty status is determined: 5 years: 1.25 to 1.29
+PopPovDet_5y_1.30to1.49	Population for whom poverty status is determined: 5 years: 1.30 to 1.49
+PopPovDet_5y_1.50to1.74	Population for whom poverty status is determined: 5 years: 1.50 to 1.74
+PopPovDet_5y_1.75to1.84	Population for whom poverty status is determined: 5 years: 1.75 to 1.84
+PopPovDet_5y_1.85to1.99	Population for whom poverty status is determined: 5 years: 1.85 to 1.99
+PopPovDet_5y_Gte2	Population for whom poverty status is determined: 5 years: 2.00 and over
+PopPovDet_6to11y	Population for whom poverty status is determined: 6 to 11 years:
+PopPovDet_6to11y_Lt0.50	Population for whom poverty status is determined: 6 to 11 years: Under .50
+PopPovDet_6to11y_0.50to0.74	Population for whom poverty status is determined: 6 to 11 years: .50 to .74
+PopPovDet_6to11y_0.75to0.99	Population for whom poverty status is determined: 6 to 11 years: .75 to .99
+PopPovDet_6to11y_1to1.24	Population for whom poverty status is determined: 6 to 11 years: 1.00 to 1.24
+PopPovDet_6to11y_1.25to1.29	Population for whom poverty status is determined: 6 to 11 years: 1.25 to 1.29
+PopPovDet_6to11y_1.30to1.49	Population for whom poverty status is determined: 6 to 11 years: 1.30 to 1.49
+PopPovDet_6to11y_1.50to1.74	Population for whom poverty status is determined: 6 to 11 years: 1.50 to 1.74
+PopPovDet_6to11y_1.75to1.84	Population for whom poverty status is determined: 6 to 11 years: 1.75 to 1.84
+PopPovDet_6to11y_1.85to1.99	Population for whom poverty status is determined: 6 to 11 years: 1.85 to 1.99
+PopPovDet_6to11y_Gte2	Population for whom poverty status is determined: 6 to 11 years: 2.00 and over
+PopPovDet_12to14y	Population for whom poverty status is determined: 12 to 14 years:
+PopPovDet_12to14y_Lt0.50	Population for whom poverty status is determined: 12 to 14 years: Under .50
+PopPovDet_12to14y_0.50to0.74	Population for whom poverty status is determined: 12 to 14 years: .50 to .74
+PopPovDet_12to14y_0.75to0.99	Population for whom poverty status is determined: 12 to 14 years: .75 to .99
+PopPovDet_12to14y_1to1.24	Population for whom poverty status is determined: 12 to 14 years: 1.00 to 1.24
+PopPovDet_12to14y_1.25to1.29	Population for whom poverty status is determined: 12 to 14 years: 1.25 to 1.29
+PopPovDet_12to14y_1.30to1.49	Population for whom poverty status is determined: 12 to 14 years: 1.30 to 1.49
+PopPovDet_12to14y_1.50to1.74	Population for whom poverty status is determined: 12 to 14 years: 1.50 to 1.74
+PopPovDet_12to14y_1.75to1.84	Population for whom poverty status is determined: 12 to 14 years: 1.75 to 1.84
+PopPovDet_12to14y_1.85to1.99	Population for whom poverty status is determined: 12 to 14 years: 1.85 to 1.99
+PopPovDet_12to14y_Gte2	Population for whom poverty status is determined: 12 to 14 years: 2.00 and over
+PopPovDet_15y	Population for whom poverty status is determined: 15 years:
+PopPovDet_15y_Lt0.50	Population for whom poverty status is determined: 15 years: Under .50
+PopPovDet_15y_0.50to0.74	Population for whom poverty status is determined: 15 years: .50 to .74
+PopPovDet_15y_0.75to0.99	Population for whom poverty status is determined: 15 years: .75 to .99
+PopPovDet_15y_1to1.24	Population for whom poverty status is determined: 15 years: 1.00 to 1.24
+PopPovDet_15y_1.25to1.29	Population for whom poverty status is determined: 15 years: 1.25 to 1.29
+PopPovDet_15y_1.30to1.49	Population for whom poverty status is determined: 15 years: 1.30 to 1.49
+PopPovDet_15y_1.50to1.74	Population for whom poverty status is determined: 15 years: 1.50 to 1.74
+PopPovDet_15y_1.75to1.84	Population for whom poverty status is determined: 15 years: 1.75 to 1.84
+PopPovDet_15y_1.85to1.99	Population for whom poverty status is determined: 15 years: 1.85 to 1.99
+PopPovDet_15y_Gte2	Population for whom poverty status is determined: 15 years: 2.00 and over
+PopPovDet_16and17y	Population for whom poverty status is determined: 16 and 17 years:
+PopPovDet_16and17y_Lt0.50	Population for whom poverty status is determined: 16 and 17 years: Under .50
+PopPovDet_16and17y_0.50to0.74	Population for whom poverty status is determined: 16 and 17 years: .50 to .74
+PopPovDet_16and17y_0.75to0.99	Population for whom poverty status is determined: 16 and 17 years: .75 to .99
+PopPovDet_16and17y_1to1.24	Population for whom poverty status is determined: 16 and 17 years: 1.00 to 1.24
+PopPovDet_16and17y_1.25to1.29	Population for whom poverty status is determined: 16 and 17 years: 1.25 to 1.29
+PopPovDet_16and17y_1.30to1.49	Population for whom poverty status is determined: 16 and 17 years: 1.30 to 1.49
+PopPovDet_16and17y_1.50to1.74	Population for whom poverty status is determined: 16 and 17 years: 1.50 to 1.74
+PopPovDet_16and17y_1.75to1.84	Population for whom poverty status is determined: 16 and 17 years: 1.75 to 1.84
+PopPovDet_16and17y_1.85to1.99	Population for whom poverty status is determined: 16 and 17 years: 1.85 to 1.99
+PopPovDet_16and17y_Gte2	Population for whom poverty status is determined: 16 and 17 years: 2.00 and over
+PopPovDet_18to24y	Population for whom poverty status is determined: 18 to 24 years:
+PopPovDet_18to24y_Lt0.50	Population for whom poverty status is determined: 18 to 24 years: Under .50
+PopPovDet_18to24y_0.50to0.74	Population for whom poverty status is determined: 18 to 24 years: .50 to .74
+PopPovDet_18to24y_0.75to0.99	Population for whom poverty status is determined: 18 to 24 years: .75 to .99
+PopPovDet_18to24y_1to1.24	Population for whom poverty status is determined: 18 to 24 years: 1.00 to 1.24
+PopPovDet_18to24y_1.25to1.29	Population for whom poverty status is determined: 18 to 24 years: 1.25 to 1.29
+PopPovDet_18to24y_1.30to1.49	Population for whom poverty status is determined: 18 to 24 years: 1.30 to 1.49
+PopPovDet_18to24y_1.50to1.74	Population for whom poverty status is determined: 18 to 24 years: 1.50 to 1.74
+PopPovDet_18to24y_1.75to1.84	Population for whom poverty status is determined: 18 to 24 years: 1.75 to 1.84
+PopPovDet_18to24y_1.85to1.99	Population for whom poverty status is determined: 18 to 24 years: 1.85 to 1.99
+PopPovDet_18to24y_Gte2	Population for whom poverty status is determined: 18 to 24 years: 2.00 and over
+PopPovDet_25to34y	Population for whom poverty status is determined: 25 to 34 years:
+PopPovDet_25to34y_Lt0.50	Population for whom poverty status is determined: 25 to 34 years: Under .50
+PopPovDet_25to34y_0.50to0.74	Population for whom poverty status is determined: 25 to 34 years: .50 to .74
+PopPovDet_25to34y_0.75to0.99	Population for whom poverty status is determined: 25 to 34 years: .75 to .99
+PopPovDet_25to34y_1to1.24	Population for whom poverty status is determined: 25 to 34 years: 1.00 to 1.24
+PopPovDet_25to34y_1.25to1.29	Population for whom poverty status is determined: 25 to 34 years: 1.25 to 1.29
+PopPovDet_25to34y_1.30to1.49	Population for whom poverty status is determined: 25 to 34 years: 1.30 to 1.49
+PopPovDet_25to34y_1.50to1.74	Population for whom poverty status is determined: 25 to 34 years: 1.50 to 1.74
+PopPovDet_25to34y_1.75to1.84	Population for whom poverty status is determined: 25 to 34 years: 1.75 to 1.84
+PopPovDet_25to34y_1.85to1.99	Population for whom poverty status is determined: 25 to 34 years: 1.85 to 1.99
+PopPovDet_25to34y_Gte2	Population for whom poverty status is determined: 25 to 34 years: 2.00 and over
+PopPovDet_35to44y	Population for whom poverty status is determined: 35 to 44 years:
+PopPovDet_35to44y_Lt0.50	Population for whom poverty status is determined: 35 to 44 years: Under .50
+PopPovDet_35to44y_0.50to0.74	Population for whom poverty status is determined: 35 to 44 years: .50 to .74
+PopPovDet_35to44y_0.75to0.99	Population for whom poverty status is determined: 35 to 44 years: .75 to .99
+PopPovDet_35to44y_1to1.24	Population for whom poverty status is determined: 35 to 44 years: 1.00 to 1.24
+PopPovDet_35to44y_1.25to1.29	Population for whom poverty status is determined: 35 to 44 years: 1.25 to 1.29
+PopPovDet_35to44y_1.30to1.49	Population for whom poverty status is determined: 35 to 44 years: 1.30 to 1.49
+PopPovDet_35to44y_1.50to1.74	Population for whom poverty status is determined: 35 to 44 years: 1.50 to 1.74
+PopPovDet_35to44y_1.75to1.84	Population for whom poverty status is determined: 35 to 44 years: 1.75 to 1.84
+PopPovDet_35to44y_1.85to1.99	Population for whom poverty status is determined: 35 to 44 years: 1.85 to 1.99
+PopPovDet_35to44y_Gte2	Population for whom poverty status is determined: 35 to 44 years: 2.00 and over
+PopPovDet_45to54y	Population for whom poverty status is determined: 45 to 54 years:
+PopPovDet_45to54y_Lt0.50	Population for whom poverty status is determined: 45 to 54 years: Under .50
+PopPovDet_45to54y_0.50to0.74	Population for whom poverty status is determined: 45 to 54 years: .50 to .74
+PopPovDet_45to54y_0.75to0.99	Population for whom poverty status is determined: 45 to 54 years: .75 to .99
+PopPovDet_45to54y_1to1.24	Population for whom poverty status is determined: 45 to 54 years: 1.00 to 1.24
+PopPovDet_45to54y_1.25to1.29	Population for whom poverty status is determined: 45 to 54 years: 1.25 to 1.29
+PopPovDet_45to54y_1.30to1.49	Population for whom poverty status is determined: 45 to 54 years: 1.30 to 1.49
+PopPovDet_45to54y_1.50to1.74	Population for whom poverty status is determined: 45 to 54 years: 1.50 to 1.74
+PopPovDet_45to54y_1.75to1.84	Population for whom poverty status is determined: 45 to 54 years: 1.75 to 1.84
+PopPovDet_45to54y_1.85to1.99	Population for whom poverty status is determined: 45 to 54 years: 1.85 to 1.99
+PopPovDet_45to54y_Gte2	Population for whom poverty status is determined: 45 to 54 years: 2.00 and over
+PopPovDet_55to64y	Population for whom poverty status is determined: 55 to 64 years:
+PopPovDet_55to64y_Lt0.50	Population for whom poverty status is determined: 55 to 64 years: Under .50
+PopPovDet_55to64y_0.50to0.74	Population for whom poverty status is determined: 55 to 64 years: .50 to .74
+PopPovDet_55to64y_0.75to0.99	Population for whom poverty status is determined: 55 to 64 years: .75 to .99
+PopPovDet_55to64y_1to1.24	Population for whom poverty status is determined: 55 to 64 years: 1.00 to 1.24
+PopPovDet_55to64y_1.25to1.29	Population for whom poverty status is determined: 55 to 64 years: 1.25 to 1.29
+PopPovDet_55to64y_1.30to1.49	Population for whom poverty status is determined: 55 to 64 years: 1.30 to 1.49
+PopPovDet_55to64y_1.50to1.74	Population for whom poverty status is determined: 55 to 64 years: 1.50 to 1.74
+PopPovDet_55to64y_1.75to1.84	Population for whom poverty status is determined: 55 to 64 years: 1.75 to 1.84
+PopPovDet_55to64y_1.85to1.99	Population for whom poverty status is determined: 55 to 64 years: 1.85 to 1.99
+PopPovDet_55to64y_Gte2	Population for whom poverty status is determined: 55 to 64 years: 2.00 and over
+PopPovDet_65to74y	Population for whom poverty status is determined: 65 to 74 years:
+PopPovDet_65to74y_Lt0.50	Population for whom poverty status is determined: 65 to 74 years: Under .50
+PopPovDet_65to74y_0.50to0.74	Population for whom poverty status is determined: 65 to 74 years: .50 to .74
+PopPovDet_65to74y_0.75to0.99	Population for whom poverty status is determined: 65 to 74 years: .75 to .99
+PopPovDet_65to74y_1to1.24	Population for whom poverty status is determined: 65 to 74 years: 1.00 to 1.24
+PopPovDet_65to74y_1.25to1.29	Population for whom poverty status is determined: 65 to 74 years: 1.25 to 1.29
+PopPovDet_65to74y_1.30to1.49	Population for whom poverty status is determined: 65 to 74 years: 1.30 to 1.49
+PopPovDet_65to74y_1.50to1.74	Population for whom poverty status is determined: 65 to 74 years: 1.50 to 1.74
+PopPovDet_65to74y_1.75to1.84	Population for whom poverty status is determined: 65 to 74 years: 1.75 to 1.84
+PopPovDet_65to74y_1.85to1.99	Population for whom poverty status is determined: 65 to 74 years: 1.85 to 1.99
+PopPovDet_65to74y_Gte2	Population for whom poverty status is determined: 65 to 74 years: 2.00 and over
+PopPovDet_Gte75y	Population for whom poverty status is determined: 75 years and over:
+PopPovDet_Gte75y_Lt0.50	Population for whom poverty status is determined: 75 years and over: Under .50
+PopPovDet_Gte75y_0.50to0.74	Population for whom poverty status is determined: 75 years and over: .50 to .74
+PopPovDet_Gte75y_0.75to0.99	Population for whom poverty status is determined: 75 years and over: .75 to .99
+PopPovDet_Gte75y_1to1.24	Population for whom poverty status is determined: 75 years and over: 1.00 to 1.24
+PopPovDet_Gte75y_1.25to1.29	Population for whom poverty status is determined: 75 years and over: 1.25 to 1.29
+PopPovDet_Gte75y_1.30to1.49	Population for whom poverty status is determined: 75 years and over: 1.30 to 1.49
+PopPovDet_Gte75y_1.50to1.74	Population for whom poverty status is determined: 75 years and over: 1.50 to 1.74
+PopPovDet_Gte75y_1.75to1.84	Population for whom poverty status is determined: 75 years and over: 1.75 to 1.84
+PopPovDet_Gte75y_1.85to1.99	Population for whom poverty status is determined: 75 years and over: 1.85 to 1.99
+PopPovDet_Gte75y_Gte2	Population for whom poverty status is determined: 75 years and over: 2.00 and over
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Inc99LtPov	Population for whom poverty status is determined: Income in 1999 below poverty level:
+PopPovDet_Inc99LtPov_Native	Population for whom poverty status is determined: Income in 1999 below poverty level: Native:
+PopPovDet_Inc99LtPov_Native_BornUS	Population for whom poverty status is determined: Income in 1999 below poverty level: Native: Born in the United States
+PopPovDet_Inc99LtPov_Native_BornOutUS	Population for whom poverty status is determined: Income in 1999 below poverty level: Native: Born outside the United States:
+PopPovDet_Inc99LtPov_Native_BornOutUS_BornPRico	Population for whom poverty status is determined: Income in 1999 below poverty level: Native: Born outside the United States: Born in Puerto Rico
+PopPovDet_Inc99LtPov_Native_BornOutUS_BornUSIslArea	Population for whom poverty status is determined: Income in 1999 below poverty level: Native: Born outside the United States: Born in U.S. Island Areas
+PopPovDet_Inc99LtPov_Native_BornOutUS_BrnAbrdAmerPar	Population for whom poverty status is determined: Income in 1999 below poverty level: Native: Born outside the United States: Born abroad of American parent(s)
+PopPovDet_Inc99LtPov_FrgnBorn	Population for whom poverty status is determined: Income in 1999 below poverty level: Foreign born:
+PopPovDet_Inc99LtPov_FrgnBorn_NatlzdCit	Population for whom poverty status is determined: Income in 1999 below poverty level: Foreign born: Naturalized citizen
+PopPovDet_Inc99LtPov_FrgnBorn_NotCitzn	Population for whom poverty status is determined: Income in 1999 below poverty level: Foreign born: Not a citizen
+PopPovDet_Inc99GtePov	Population for whom poverty status is determined: Income in 1999 at or above poverty level:
+PopPovDet_Inc99GtePov_Native	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native:
+PopPovDet_Inc99GtePov_Native_BornUS	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native: Born in the United States
+PopPovDet_Inc99GtePov_Native_BornOutUS	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native: Born outside the United States:
+PopPovDet_Inc99GtePov_Native_BornOutUS_BornPRico	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native: Born outside the United States: Born in Puerto Rico
+PopPovDet_Inc99GtePov_Native_BornOutUS_BornUSIslArea	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native: Born outside the United States: Born in U.S. Island Areas
+PopPovDet_Inc99GtePov_Native_BornOutUS_BrnAbrdAmerPar	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Native: Born outside the United States: Born abroad of American parent(s)
+PopPovDet_Inc99GtePov_FrgnBorn	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Foreign born:
+PopPovDet_Inc99GtePov_FrgnBorn_NatlzdCit	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Foreign born: Naturalized citizen
+PopPovDet_Inc99GtePov_FrgnBorn_NotCitzn	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Foreign born: Not a citizen

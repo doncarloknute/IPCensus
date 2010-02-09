@@ -1,0 +1,233 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtNotHispPopGte5y_Tot	White alone, not Hispanic or Latino population 5 years and over: Total:
+WhtNotHispPopGte5y_SameHs95	White alone, not Hispanic or Latino population 5 years and over: Same house in 1995
+WhtNotHispPopGte5y_DiffHs95	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995:
+WhtNotHispPopGte5y_DiffHs95_InUS95	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995:
+WhtNotHispPopGte5y_DiffHs95_InUS95_SameCnty	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Same county
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county:
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_SameSt	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Same state
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state:
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_NorthEast	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Northeast
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_MidWest	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: Midwest
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_South	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: South
+WhtNotHispPopGte5y_DiffHs95_InUS95_DiffCnty_DiffSt_West	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In United States in 1995: Different county: Different state: West
+WhtNotHispPopGte5y_DiffHs95_PRico95	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995:
+WhtNotHispPopGte5y_DiffHs95_PRico95_SameMunic	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Same municipio
+WhtNotHispPopGte5y_DiffHs95_PRico95_DiffMunic	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: In Puerto Rico in 1995: Different municipio
+WhtNotHispPopGte5y_DiffHs95_Else95	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995:
+WhtNotHispPopGte5y_DiffHs95_Else95_USIslAreas	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995: U.S. Island Areas
+WhtNotHispPopGte5y_DiffHs95_Else95_FrgnCntrySea	White alone, not Hispanic or Latino population 5 years and over: Different house in 1995: Elsewhere in 1995: Foreign country or at sea
+WhtWrkrsGte16y_Tot	White alone workers 16 years and over: Total:
+WhtWrkrsGte16y_CarTrckVan	White alone workers 16 years and over: Car, truck, or van:
+WhtWrkrsGte16y_CarTrckVan_DrvAln	White alone workers 16 years and over: Car, truck, or van: Drove alone
+WhtWrkrsGte16y_CarTrckVan_Carpool	White alone workers 16 years and over: Car, truck, or van: Carpooled
+WhtWrkrsGte16y_PubTrans	White alone workers 16 years and over: Public transportation:
+WhtWrkrsGte16y_PubTrans_BusTrlly	White alone workers 16 years and over: Public transportation: Bus or trolley bus
+WhtWrkrsGte16y_PubTrans_StrtcarTrolley	White alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+WhtWrkrsGte16y_PubTrans_SubwayElev	White alone workers 16 years and over: Public transportation: Subway or elevated
+WhtWrkrsGte16y_PubTrans_RR	White alone workers 16 years and over: Public transportation: Railroad
+WhtWrkrsGte16y_PubTrans_Ferry	White alone workers 16 years and over: Public transportation: Ferryboat
+WhtWrkrsGte16y_PubTrans_Taxi	White alone workers 16 years and over: Public transportation: Taxicab
+WhtWrkrsGte16y_MotCycle	White alone workers 16 years and over: Motorcycle
+WhtWrkrsGte16y_Bike	White alone workers 16 years and over: Bicycle
+WhtWrkrsGte16y_Walked	White alone workers 16 years and over: Walked
+WhtWrkrsGte16y_OthMeans	White alone workers 16 years and over: Other means
+WhtWrkrsGte16y_WrkdAtHome	White alone workers 16 years and over: Worked at home
+BlkAfAmWrkGte16y_Tot	Black or African American alone workers 16 years and over: Total:
+BlkAfAmWrkGte16y_CarTrckVan	Black or African American alone workers 16 years and over: Car, truck, or van:
+BlkAfAmWrkGte16y_CarTrckVan_DrvAln	Black or African American alone workers 16 years and over: Car, truck, or van: Drove alone
+BlkAfAmWrkGte16y_CarTrckVan_Carpool	Black or African American alone workers 16 years and over: Car, truck, or van: Carpooled
+BlkAfAmWrkGte16y_PubTrans	Black or African American alone workers 16 years and over: Public transportation:
+BlkAfAmWrkGte16y_PubTrans_BusTrlly	Black or African American alone workers 16 years and over: Public transportation: Bus or trolley bus
+BlkAfAmWrkGte16y_PubTrans_StrtcarTrolley	Black or African American alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+BlkAfAmWrkGte16y_PubTrans_SubwayElev	Black or African American alone workers 16 years and over: Public transportation: Subway or elevated
+BlkAfAmWrkGte16y_PubTrans_RR	Black or African American alone workers 16 years and over: Public transportation: Railroad
+BlkAfAmWrkGte16y_PubTrans_Ferry	Black or African American alone workers 16 years and over: Public transportation: Ferryboat
+BlkAfAmWrkGte16y_PubTrans_Taxi	Black or African American alone workers 16 years and over: Public transportation: Taxicab
+BlkAfAmWrkGte16y_MotCycle	Black or African American alone workers 16 years and over: Motorcycle
+BlkAfAmWrkGte16y_Bike	Black or African American alone workers 16 years and over: Bicycle
+BlkAfAmWrkGte16y_Walked	Black or African American alone workers 16 years and over: Walked
+BlkAfAmWrkGte16y_OthMeans	Black or African American alone workers 16 years and over: Other means
+BlkAfAmWrkGte16y_WrkdAtHome	Black or African American alone workers 16 years and over: Worked at home
+AmIndAkNatworkersGte16y_Tot	American Indian and Alaska Native alone workers 16 years and over: Total:
+AmIndAkNatworkersGte16y_CarTrckVan	American Indian and Alaska Native alone workers 16 years and over: Car, truck, or van
+AmIndAkNatworkersGte16y_CarTrckVan_DrvAln	American Indian and Alaska Native alone workers 16 years and over: Car, truck, or van Drove alone
+AmIndAkNatworkersGte16y_CarTrckVan_Carpool	American Indian and Alaska Native alone workers 16 years and over: Car, truck, or van Carpooled
+AmIndAkNatworkersGte16y_PubTrans	American Indian and Alaska Native alone workers 16 years and over: Public transportation:
+AmIndAkNatworkersGte16y_PubTrans_BusTrlly	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Bus or trolley bus
+AmIndAkNatworkersGte16y_PubTrans_StrtcarTrolley	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+AmIndAkNatworkersGte16y_PubTrans_SubwayElev	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Subway or elevated
+AmIndAkNatworkersGte16y_PubTrans_RR	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Railroad
+AmIndAkNatworkersGte16y_PubTrans_Ferry	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Ferryboat
+AmIndAkNatworkersGte16y_PubTrans_Taxi	American Indian and Alaska Native alone workers 16 years and over: Public transportation: Taxicab
+AmIndAkNatworkersGte16y_MotCycle	American Indian and Alaska Native alone workers 16 years and over: Motorcycle
+AmIndAkNatworkersGte16y_Bike	American Indian and Alaska Native alone workers 16 years and over: Bicycle
+AmIndAkNatworkersGte16y_Walked	American Indian and Alaska Native alone workers 16 years and over: Walked
+AmIndAkNatworkersGte16y_OthMeans	American Indian and Alaska Native alone workers 16 years and over: Other means
+AmIndAkNatworkersGte16y_WrkdAtHome	American Indian and Alaska Native alone workers 16 years and over: Worked at home
+AsnWrkrGte16y_Tot	Asian alone workers 16 years and over: Total:
+AsnWrkrGte16y_CarTrckVan	Asian alone workers 16 years and over: Car, truck, or van:
+AsnWrkrGte16y_CarTrckVan_DrvAln	Asian alone workers 16 years and over: Car, truck, or van: Drove alone
+AsnWrkrGte16y_CarTrckVan_Carpool	Asian alone workers 16 years and over: Car, truck, or van: Carpooled
+AsnWrkrGte16y_PubTrans	Asian alone workers 16 years and over: Public transportation:
+AsnWrkrGte16y_PubTrans_BusTrlly	Asian alone workers 16 years and over: Public transportation: Bus or trolley bus
+AsnWrkrGte16y_PubTrans_StrtcarTrolley	Asian alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+AsnWrkrGte16y_PubTrans_SubwayElev	Asian alone workers 16 years and over: Public transportation: Subway or elevated
+AsnWrkrGte16y_PubTrans_RR	Asian alone workers 16 years and over: Public transportation: Railroad
+AsnWrkrGte16y_PubTrans_Ferry	Asian alone workers 16 years and over: Public transportation: Ferryboat
+AsnWrkrGte16y_PubTrans_Taxi	Asian alone workers 16 years and over: Public transportation: Taxicab
+AsnWrkrGte16y_MotCycle	Asian alone workers 16 years and over: Motorcycle
+AsnWrkrGte16y_Bike	Asian alone workers 16 years and over: Bicycle
+AsnWrkrGte16y_Walked	Asian alone workers 16 years and over: Walked
+AsnWrkrGte16y_OthMeans	Asian alone workers 16 years and over: Other means
+AsnWrkrGte16y_WrkdAtHome	Asian alone workers 16 years and over: Worked at home
+NatHiPacIslWrkrGte16y_Tot	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Total:
+NatHiPacIslWrkrGte16y_CarTrckVan	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Car, truck, or van:
+NatHiPacIslWrkrGte16y_CarTrckVan_DrvAln	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Car, truck, or van: Drove alone
+NatHiPacIslWrkrGte16y_CarTrckVan_Carpool	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Car, truck, or van: Carpooled
+NatHiPacIslWrkrGte16y_PubTrans	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation:
+NatHiPacIslWrkrGte16y_PubTrans_BusTrlly	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Bus or trolley bus
+NatHiPacIslWrkrGte16y_PubTrans_StrtcarTrolley	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+NatHiPacIslWrkrGte16y_PubTrans_SubwayElev	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Subway or elevated
+NatHiPacIslWrkrGte16y_PubTrans_RR	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Railroad
+NatHiPacIslWrkrGte16y_PubTrans_Ferry	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Ferryboat
+NatHiPacIslWrkrGte16y_PubTrans_Taxi	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Public transportation: Taxicab
+NatHiPacIslWrkrGte16y_MotCycle	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Motorcycle
+NatHiPacIslWrkrGte16y_Bike	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Bicycle
+NatHiPacIslWrkrGte16y_Walked	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Walked
+NatHiPacIslWrkrGte16y_OthMeans	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Other means
+NatHiPacIslWrkrGte16y_WrkdAtHome	Native Hawaiian and Other Pacific Islander alone workers 16 years and over: Worked at home
+OthRceWrkrGte16y_Tot	Some other race alone workers 16 years and over: Total:
+OthRceWrkrGte16y_CarTrckVan	Some other race alone workers 16 years and over: Car, truck, or van:
+OthRceWrkrGte16y_CarTrckVan_DrvAln	Some other race alone workers 16 years and over: Car, truck, or van: Drove alone
+OthRceWrkrGte16y_CarTrckVan_Carpool	Some other race alone workers 16 years and over: Car, truck, or van: Carpooled
+OthRceWrkrGte16y_PubTrans	Some other race alone workers 16 years and over: Public transportation:
+OthRceWrkrGte16y_PubTrans_BusTrlly	Some other race alone workers 16 years and over: Public transportation: Bus or trolley bus
+OthRceWrkrGte16y_PubTrans_StrtcarTrolley	Some other race alone workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+OthRceWrkrGte16y_PubTrans_SubwayElev	Some other race alone workers 16 years and over: Public transportation: Subway or elevated
+OthRceWrkrGte16y_PubTrans_RR	Some other race alone workers 16 years and over: Public transportation: Railroad
+OthRceWrkrGte16y_PubTrans_Ferry	Some other race alone workers 16 years and over: Public transportation: Ferryboat
+OthRceWrkrGte16y_PubTrans_Taxi	Some other race alone workers 16 years and over: Public transportation: Taxicab
+OthRceWrkrGte16y_MotCycle	Some other race alone workers 16 years and over: Motorcycle
+OthRceWrkrGte16y_Bike	Some other race alone workers 16 years and over: Bicycle
+OthRceWrkrGte16y_Walked	Some other race alone workers 16 years and over: Walked
+OthRceWrkrGte16y_OthMeans	Some other race alone workers 16 years and over: Other means
+OthRceWrkrGte16y_WrkdAtHome	Some other race alone workers 16 years and over: Worked at home
+Gte2RceWrkrGte16y_Tot	Two or more races workers 16 years and over: Total:
+Gte2RceWrkrGte16y_CarTrckVan	Two or more races workers 16 years and over: Car, truck, or van:
+Gte2RceWrkrGte16y_CarTrckVan_DrvAln	Two or more races workers 16 years and over: Car, truck, or van: Drove alone
+Gte2RceWrkrGte16y_CarTrckVan_Carpool	Two or more races workers 16 years and over: Car, truck, or van: Carpooled
+Gte2RceWrkrGte16y_PubTrans	Two or more races workers 16 years and over: Public transportation:
+Gte2RceWrkrGte16y_PubTrans_BusTrlly	Two or more races workers 16 years and over: Public transportation: Bus or trolley bus
+Gte2RceWrkrGte16y_PubTrans_StrtcarTrolley	Two or more races workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+Gte2RceWrkrGte16y_PubTrans_SubwayElev	Two or more races workers 16 years and over: Public transportation: Subway or elevated
+Gte2RceWrkrGte16y_PubTrans_RR	Two or more races workers 16 years and over: Public transportation: Railroad
+Gte2RceWrkrGte16y_PubTrans_Ferry	Two or more races workers 16 years and over: Public transportation: Ferryboat
+Gte2RceWrkrGte16y_PubTrans_Taxi	Two or more races workers 16 years and over: Public transportation: Taxicab
+Gte2RceWrkrGte16y_MotCycle	Two or more races workers 16 years and over: Motorcycle
+Gte2RceWrkrGte16y_Bike	Two or more races workers 16 years and over: Bicycle
+Gte2RceWrkrGte16y_Walked	Two or more races workers 16 years and over: Walked
+Gte2RceWrkrGte16y_OthMeans	Two or more races workers 16 years and over: Other means
+Gte2RceWrkrGte16y_WrkdAtHome	Two or more races workers 16 years and over: Worked at home
+HispWrkrGte16y_Tot	Hispanic or Latino workers 16 years and over: Total:
+HispWrkrGte16y_CarTrckVan	Hispanic or Latino workers 16 years and over: Car, truck, or van:
+HispWrkrGte16y_CarTrckVan_DrvAln	Hispanic or Latino workers 16 years and over: Car, truck, or van: Drove alone
+HispWrkrGte16y_CarTrckVan_Carpool	Hispanic or Latino workers 16 years and over: Car, truck, or van: Carpooled
+HispWrkrGte16y_PubTrans	Hispanic or Latino workers 16 years and over: Public transportation:
+HispWrkrGte16y_PubTrans_BusTrlly	Hispanic or Latino workers 16 years and over: Public transportation: Bus or trolley bus
+HispWrkrGte16y_PubTrans_StrtcarTrolley	Hispanic or Latino workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+HispWrkrGte16y_PubTrans_SubwayElev	Hispanic or Latino workers 16 years and over: Public transportation: Subway or elevated
+HispWrkrGte16y_PubTrans_RR	Hispanic or Latino workers 16 years and over: Public transportation: Railroad
+HispWrkrGte16y_PubTrans_Ferry	Hispanic or Latino workers 16 years and over: Public transportation: Ferryboat
+HispWrkrGte16y_PubTrans_Taxi	Hispanic or Latino workers 16 years and over: Public transportation: Taxicab
+HispWrkrGte16y_MotCycle	Hispanic or Latino workers 16 years and over: Motorcycle
+HispWrkrGte16y_Bike	Hispanic or Latino workers 16 years and over: Bicycle
+HispWrkrGte16y_Walked	Hispanic or Latino workers 16 years and over: Walked
+HispWrkrGte16y_OthMeans	Hispanic or Latino workers 16 years and over: Other means
+HispWrkrGte16y_WrkdAtHome	Hispanic or Latino workers 16 years and over: Worked at home
+WhtNotHispWrkrsGte16y_Tot	White alone, not Hispanic or Latino workers 16 years and over: Total:
+WhtNotHispWrkrsGte16y_CarTrckVan	White alone, not Hispanic or Latino workers 16 years and over: Car, truck, or van:
+WhtNotHispWrkrsGte16y_CarTrckVan_DrvAln	White alone, not Hispanic or Latino workers 16 years and over: Car, truck, or van: Drove alone
+WhtNotHispWrkrsGte16y_CarTrckVan_Carpool	White alone, not Hispanic or Latino workers 16 years and over: Car, truck, or van: Carpooled
+WhtNotHispWrkrsGte16y_PubTrans	White alone, not Hispanic or Latino workers 16 years and over: Public transportation:
+WhtNotHispWrkrsGte16y_PubTrans_BusTrlly	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Bus or trolley bus
+WhtNotHispWrkrsGte16y_PubTrans_StrtcarTrolley	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Streetcar or trolley car (público in Puerto Rico)
+WhtNotHispWrkrsGte16y_PubTrans_SubwayElev	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Subway or elevated
+WhtNotHispWrkrsGte16y_PubTrans_RR	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Railroad
+WhtNotHispWrkrsGte16y_PubTrans_Ferry	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Ferryboat
+WhtNotHispWrkrsGte16y_PubTrans_Taxi	White alone, not Hispanic or Latino workers 16 years and over: Public transportation: Taxicab
+WhtNotHispWrkrsGte16y_MotCycle	White alone, not Hispanic or Latino workers 16 years and over: Motorcycle
+WhtNotHispWrkrsGte16y_Bike	White alone, not Hispanic or Latino workers 16 years and over: Bicycle
+WhtNotHispWrkrsGte16y_Walked	White alone, not Hispanic or Latino workers 16 years and over: Walked
+WhtNotHispWrkrsGte16y_OthMeans	White alone, not Hispanic or Latino workers 16 years and over: Other means
+WhtNotHispWrkrsGte16y_WrkdAtHome	White alone, not Hispanic or Latino workers 16 years and over: Worked at home
+WhtPopGte18y_Tot	White alone population 18 years and over: Total:
+WhtPopGte18y_Mle	White alone population 18 years and over: Male:
+WhtPopGte18y_Mle_18to64y	White alone population 18 years and over: Male: 18 to 64 years:
+WhtPopGte18y_Mle_18to64y_ArmForce	White alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+WhtPopGte18y_Mle_18to64y_Civ	White alone population 18 years and over: Male: 18 to 64 years: Civilian:
+WhtPopGte18y_Mle_18to64y_Civ_Vet	White alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+WhtPopGte18y_Mle_18to64y_Civ_NonVet	White alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+WhtPopGte18y_Mle_Gte65y	White alone population 18 years and over: Male: 65 years and over:
+WhtPopGte18y_Mle_Gte65y_ArmForce	White alone population 18 years and over: Male: 65 years and over: In Armed Forces
+WhtPopGte18y_Mle_Gte65y_Civ	White alone population 18 years and over: Male: 65 years and over: Civilian:
+WhtPopGte18y_Mle_Gte65y_Civ_Vet	White alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+WhtPopGte18y_Mle_Gte65y_Civ_NonVet	White alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+WhtPopGte18y_Fem	White alone population 18 years and over: Female:
+WhtPopGte18y_Fem_18to64y	White alone population 18 years and over: Female: 18 to 64 years:
+WhtPopGte18y_Fem_18to64y_ArmForce	White alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+WhtPopGte18y_Fem_18to64y_Civ	White alone population 18 years and over: Female: 18 to 64 years: Civilian:
+WhtPopGte18y_Fem_18to64y_Civ_Vet	White alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+WhtPopGte18y_Fem_18to64y_Civ_NonVet	White alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+WhtPopGte18y_Fem_Gte65y	White alone population 18 years and over: Female: 65 years and over:
+WhtPopGte18y_Fem_Gte65y_ArmForce	White alone population 18 years and over: Female: 65 years and over: In Armed Forces
+WhtPopGte18y_Fem_Gte65y_Civ	White alone population 18 years and over: Female: 65 years and over: Civilian:
+WhtPopGte18y_Fem_Gte65y_Civ_Vet	White alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+WhtPopGte18y_Fem_Gte65y_Civ_NonVet	White alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+BlkAfAmPopGte18y_Tot	Black or African American alone population 18 years and over: Total:
+BlkAfAmPopGte18y_Mle	Black or African American alone population 18 years and over: Male:
+BlkAfAmPopGte18y_Mle_18to64y	Black or African American alone population 18 years and over: Male: 18 to 64 years:
+BlkAfAmPopGte18y_Mle_18to64y_ArmForce	Black or African American alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+BlkAfAmPopGte18y_Mle_18to64y_Civ	Black or African American alone population 18 years and over: Male: 18 to 64 years: Civilian:
+BlkAfAmPopGte18y_Mle_18to64y_Civ_Vet	Black or African American alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+BlkAfAmPopGte18y_Mle_18to64y_Civ_NonVet	Black or African American alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+BlkAfAmPopGte18y_Mle_Gte65y	Black or African American alone population 18 years and over: Male: 65 years and over:
+BlkAfAmPopGte18y_Mle_Gte65y_ArmForce	Black or African American alone population 18 years and over: Male: 65 years and over: In Armed Forces
+BlkAfAmPopGte18y_Mle_Gte65y_Civ	Black or African American alone population 18 years and over: Male: 65 years and over: Civilian:
+BlkAfAmPopGte18y_Mle_Gte65y_Civ_Vet	Black or African American alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+BlkAfAmPopGte18y_Mle_Gte65y_Civ_NonVet	Black or African American alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+BlkAfAmPopGte18y_Fem	Black or African American alone population 18 years and over: Female:
+BlkAfAmPopGte18y_Fem_18to64y	Black or African American alone population 18 years and over: Female: 18 to 64 years:
+BlkAfAmPopGte18y_Fem_18to64y_ArmForce	Black or African American alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+BlkAfAmPopGte18y_Fem_18to64y_Civ	Black or African American alone population 18 years and over: Female: 18 to 64 years: Civilian:
+BlkAfAmPopGte18y_Fem_18to64y_Civ_Vet	Black or African American alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+BlkAfAmPopGte18y_Fem_18to64y_Civ_NonVet	Black or African American alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+BlkAfAmPopGte18y_Fem_Gte65y	Black or African American alone population 18 years and over: Female: 65 years and over:
+BlkAfAmPopGte18y_Fem_Gte65y_ArmForce	Black or African American alone population 18 years and over: Female: 65 years and over: In Armed Forces
+BlkAfAmPopGte18y_Fem_Gte65y_Civ	Black or African American alone population 18 years and over: Female: 65 years and over: Civilian:
+BlkAfAmPopGte18y_Fem_Gte65y_Civ_Vet	Black or African American alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+BlkAfAmPopGte18y_Fem_Gte65y_Civ_NonVet	Black or African American alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+AmIndAkNatPopGte18y_Tot	American Indian and Alaska Native alone population 18 years and over: Total:
+AmIndAkNatPopGte18y_Mle	American Indian and Alaska Native alone population 18 years and over: Male:
+AmIndAkNatPopGte18y_Mle_18to64y	American Indian and Alaska Native alone population 18 years and over: Male: 18 to 64 years:
+AmIndAkNatPopGte18y_Mle_18to64y_ArmForce	American Indian and Alaska Native alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+AmIndAkNatPopGte18y_Mle_18to64y_Civ	American Indian and Alaska Native alone population 18 years and over: Male: 18 to 64 years: Civilian:
+AmIndAkNatPopGte18y_Mle_18to64y_Civ_Vet	American Indian and Alaska Native alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+AmIndAkNatPopGte18y_Mle_18to64y_Civ_NonVet	American Indian and Alaska Native alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+AmIndAkNatPopGte18y_Mle_Gte65y	American Indian and Alaska Native alone population 18 years and over: Male: 65 years and over:
+AmIndAkNatPopGte18y_Mle_Gte65y_ArmForce	American Indian and Alaska Native alone population 18 years and over: Male: 65 years and over: In Armed Forces
+AmIndAkNatPopGte18y_Mle_Gte65y_Civ	American Indian and Alaska Native alone population 18 years and over: Male: 65 years and over: Civilian:
+AmIndAkNatPopGte18y_Mle_Gte65y_Civ_Vet	American Indian and Alaska Native alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+AmIndAkNatPopGte18y_Mle_Gte65y_Civ_NonVet	American Indian and Alaska Native alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+AmIndAkNatPopGte18y_Fem	American Indian and Alaska Native alone population 18 years and over: Female:
+AmIndAkNatPopGte18y_Fem_18to64y	American Indian and Alaska Native alone population 18 years and over: Female: 18 to 64 years:
+AmIndAkNatPopGte18y_Fem_18to64y_ArmForce	American Indian and Alaska Native alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+AmIndAkNatPopGte18y_Fem_18to64y_Civ	American Indian and Alaska Native alone population 18 years and over: Female: 18 to 64 years: Civilian:
+AmIndAkNatPopGte18y_Fem_18to64y_Civ_Vet	American Indian and Alaska Native alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+AmIndAkNatPopGte18y_Fem_18to64y_Civ_NonVet	American Indian and Alaska Native alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+AmIndAkNatPopGte18y_Fem_Gte65y	American Indian and Alaska Native alone population 18 years and over: Female: 65 years and over:
+AmIndAkNatPopGte18y_Fem_Gte65y_ArmForce	American Indian and Alaska Native alone population 18 years and over: Female: 65 years and over: In Armed Forces
+AmIndAkNatPopGte18y_Fem_Gte65y_Civ	American Indian and Alaska Native alone population 18 years and over: Female: 65 years and over: Civilian:
+AmIndAkNatPopGte18y_Fem_Gte65y_Civ_Vet	American Indian and Alaska Native alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+AmIndAkNatPopGte18y_Fem_Gte65y_Civ_NonVet	American Indian and Alaska Native alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran

@@ -1,0 +1,237 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PplAncRep_TotSpecAnc	People with ancestry reported: Total specified ancestries tallied:
+PplAncRep_Anc001	People with ancestry reported: Acadian/Cajun
+PplAncRep_Anc002	People with ancestry reported: Afghan
+PplAncRep_Anc004	People with ancestry reported: Albanian
+PplAncRep_Anc005	People with ancestry reported: Alsatian
+PplAncRep_Arab	People with ancestry reported: Arab:
+PplAncRep_Arab_Anc033	People with ancestry reported: Arab: Egyptian
+PplAncRep_Arab_Anc049	People with ancestry reported: Arab: Iraqi
+PplAncRep_Arab_Anc054	People with ancestry reported: Arab: Jordanian
+PplAncRep_Arab_Anc057	People with ancestry reported: Arab: Lebanese
+PplAncRep_Arab_Anc063	People with ancestry reported: Arab: Moroccan
+PplAncRep_Arab_Anc070	People with ancestry reported: Arab: Palestinian
+PplAncRep_Arab_Anc091	People with ancestry reported: Arab: Syrian
+PplAncRep_Arab_Anc006	People with ancestry reported: Arab: Arab/Arabic
+PplAncRep_Arab_OthArab	People with ancestry reported: Arab: Other Arab
+PplAncRep_Anc007	People with ancestry reported: Armenian
+PplAncRep_Anc008	People with ancestry reported: Assyrian/Chaldean/Syriac
+PplAncRep_Anc009	People with ancestry reported: Australian
+PplAncRep_Anc010	People with ancestry reported: Austrian
+PplAncRep_Anc013	People with ancestry reported: Basque
+PplAncRep_Anc014	People with ancestry reported: Belgian
+PplAncRep_Anc017	People with ancestry reported: Brazilian
+PplAncRep_Anc018	People with ancestry reported: British
+PplAncRep_Anc020	People with ancestry reported: Bulgarian
+PplAncRep_Anc021	People with ancestry reported: Canadian
+PplAncRep_Anc023	People with ancestry reported: Carpatho Rusyn
+PplAncRep_Anc024	People with ancestry reported: Celtic
+PplAncRep_Anc025	People with ancestry reported: Croatian
+PplAncRep_Anc026	People with ancestry reported: Cypriot
+PplAncRep_Anc027	People with ancestry reported: Czech
+PplAncRep_Anc028	People with ancestry reported: Czechoslovakian
+PplAncRep_Anc029	People with ancestry reported: Danish
+PplAncRep_Anc030	People with ancestry reported: Dutch
+PplAncRep_Anc032	People with ancestry reported: Eastern European
+PplAncRep_Engl	People with ancestry reported: English
+PplAncRep_Anc034	People with ancestry reported: Estonian
+PplAncRep_Anc036	People with ancestry reported: European
+PplAncRep_Anc037	People with ancestry reported: Finnish
+PplAncRep_Anc038	People with ancestry reported: French (except Basque)
+PplAncRep_Anc039	People with ancestry reported: French Canadian
+PplAncRep_Anc040	People with ancestry reported: German
+PplAncRep_Anc041	People with ancestry reported: German Russian
+PplAncRep_Anc043	People with ancestry reported: Greek
+PplAncRep_Anc044	People with ancestry reported: Guyanese
+PplAncRep_Anc046	People with ancestry reported: Hungarian
+PplAncRep_Anc047	People with ancestry reported: Icelander
+PplAncRep_Anc048	People with ancestry reported: Iranian
+PplAncRep_Anc050	People with ancestry reported: Irish
+PplAncRep_Anc051	People with ancestry reported: Israeli
+PplAncRep_Anc052	People with ancestry reported: Italian
+PplAncRep_Anc056	People with ancestry reported: Latvian
+PplAncRep_Anc059	People with ancestry reported: Lithuanian
+PplAncRep_Anc060	People with ancestry reported: Luxemburger
+PplAncRep_Anc061	People with ancestry reported: Macedonian
+PplAncRep_Anc062	People with ancestry reported: Maltese
+PplAncRep_Anc064	People with ancestry reported: New Zealander
+PplAncRep_Anc066	People with ancestry reported: Northern European
+PplAncRep_Anc067	People with ancestry reported: Norwegian
+PplAncRep_Anc071	People with ancestry reported: Pennsylvania German
+PplAncRep_Anc072	People with ancestry reported: Polish
+PplAncRep_Anc073	People with ancestry reported: Portuguese
+PplAncRep_Anc074	People with ancestry reported: Romanian
+PplAncRep_Anc075	People with ancestry reported: Russian
+PplAncRep_Anc076	People with ancestry reported: Scandinavian
+PplAncRep_Anc077	People with ancestry reported: Scotch-Irish
+PplAncRep_Anc078	People with ancestry reported: Scottish
+PplAncRep_Anc080	People with ancestry reported: Serbian
+PplAncRep_Anc082	People with ancestry reported: Slavic
+PplAncRep_Anc083	People with ancestry reported: Slovak
+PplAncRep_Anc084	People with ancestry reported: Slovene
+PplAncRep_Anc087	People with ancestry reported: Soviet Union
+PplAncRep_SubSahAfr	People with ancestry reported: Subsaharan African:
+PplAncRep_SubSahAfr_Anc022	People with ancestry reported: Subsaharan African: Cape Verdean
+PplAncRep_SubSahAfr_Anc035	People with ancestry reported: Subsaharan African: Ethiopian
+PplAncRep_SubSahAfr_Anc042	People with ancestry reported: Subsaharan African: Ghanian
+PplAncRep_SubSahAfr_Anc055	People with ancestry reported: Subsaharan African: Kenyan
+PplAncRep_SubSahAfr_Anc058	People with ancestry reported: Subsaharan African: Liberian
+PplAncRep_SubSahAfr_Anc065	People with ancestry reported: Subsaharan African: Nigerian
+PplAncRep_SubSahAfr_Anc079	People with ancestry reported: Subsaharan African: Senegalese
+PplAncRep_SubSahAfr_Anc081	People with ancestry reported: Subsaharan African: Sierra Leonean
+PplAncRep_SubSahAfr_Anc085	People with ancestry reported: Subsaharan African: Somalian
+PplAncRep_SubSahAfr_Anc086	People with ancestry reported: Subsaharan African: South African
+PplAncRep_SubSahAfr_Anc088	People with ancestry reported: Subsaharan African: Sudanese
+PplAncRep_SubSahAfr_Anc095	People with ancestry reported: Subsaharan African: Ugandan
+PplAncRep_SubSahAfr_Anc101	People with ancestry reported: Subsaharan African: Zairian
+PplAncRep_SubSahAfr_Anc102	People with ancestry reported: Subsaharan African: Zimbabwean
+PplAncRep_SubSahAfr_Anc003	People with ancestry reported: Subsaharan African: African
+PplAncRep_SubSahAfr_Anc068	People with ancestry reported: Subsaharan African: Other Subsaharan African
+PplAncRep_Anc089	People with ancestry reported: Swedish
+PplAncRep_Anc090	People with ancestry reported: Swiss
+PplAncRep_Anc093	People with ancestry reported: Turkish
+PplAncRep_Anc096	People with ancestry reported: Ukrainian
+PplAncRep_Anc097	People with ancestry reported: United States or American
+PplAncRep_Anc098	People with ancestry reported: Welsh
+PplAncRep_WestIndExclHisp	People with ancestry reported: West Indian (excluding Hispanic groups):
+PplAncRep_WestIndExclHisp_Anc011	People with ancestry reported: West Indian (excluding Hispanic groups): Bahamian
+PplAncRep_WestIndExclHisp_Anc012	People with ancestry reported: West Indian (excluding Hispanic groups): Barbadian
+PplAncRep_WestIndExclHisp_Anc015	People with ancestry reported: West Indian (excluding Hispanic groups): Belizean
+PplAncRep_WestIndExclHisp_Anc016	People with ancestry reported: West Indian (excluding Hispanic groups): Bermudan
+PplAncRep_WestIndExclHisp_Anc019	People with ancestry reported: West Indian (excluding Hispanic groups): British West Indian
+PplAncRep_WestIndExclHisp_Anc031	People with ancestry reported: West Indian (excluding Hispanic groups): Dutch West Indian
+PplAncRep_WestIndExclHisp_Anc045	People with ancestry reported: West Indian (excluding Hispanic groups): Haitian
+PplAncRep_WestIndExclHisp_Anc053	People with ancestry reported: West Indian (excluding Hispanic groups): Jamaican
+PplAncRep_WestIndExclHisp_Anc092	People with ancestry reported: West Indian (excluding Hispanic groups): Trinidadian and Tobagonian
+PplAncRep_WestIndExclHisp_Anc094	People with ancestry reported: West Indian (excluding Hispanic groups): U.S. Virgin Islander
+PplAncRep_WestIndExclHisp_Anc099	People with ancestry reported: West Indian (excluding Hispanic groups): West Indian
+PplAncRep_WestIndExclHisp_Anc069	People with ancestry reported: West Indian (excluding Hispanic groups): Other West Indian
+PplAncRep_Anc100	People with ancestry reported: Yugoslavian
+PplAncRep_OthGrps	People with ancestry reported: Other groups
+FrgnBornPop_Tot	Foreign-born population: Total:
+FrgnBornPop_Eur	Foreign-born population: Europe:
+FrgnBornPop_Eur_NrthEur	Foreign-born population: Europe: Northern Europe:
+FrgnBornPop_Eur_NrthEur_Ctry096	Foreign-born population: Europe: Northern Europe: United Kingdom
+FrgnBornPop_Eur_NrthEur_Ctry042	Foreign-born population: Europe: Northern Europe: Ireland
+FrgnBornPop_Eur_NrthEur_Ctry089	Foreign-born population: Europe: Northern Europe: Sweden
+FrgnBornPop_Eur_NrthEur_Ctry068	Foreign-born population: Europe: Northern Europe: Other Northern Europe
+FrgnBornPop_Eur_WestrnEur	Foreign-born population: Europe: Western Europe:
+FrgnBornPop_Eur_WestrnEur_Ctry007	Foreign-born population: Europe: Western Europe: Austria
+FrgnBornPop_Eur_WestrnEur_Ctry028	Foreign-born population: Europe: Western Europe: France
+FrgnBornPop_Eur_WestrnEur_Ctry029	Foreign-born population: Europe: Western Europe: Germany
+FrgnBornPop_Eur_WestrnEur_Ctry056	Foreign-born population: Europe: Western Europe: Netherlands
+FrgnBornPop_Eur_WestrnEur_Ctry076	Foreign-born population: Europe: Western Europe: Other Western Europe
+FrgnBornPop_Eur_SouthrnEur	Foreign-born population: Europe: Southern Europe:
+FrgnBornPop_Eur_SouthrnEur_Ctry031	Foreign-born population: Europe: Southern Europe: Greece
+FrgnBornPop_Eur_SouthrnEur_Ctry044	Foreign-born population: Europe: Southern Europe: Italy
+FrgnBornPop_Eur_SouthrnEur_Ctry083	Foreign-born population: Europe: Southern Europe: Portugal
+FrgnBornPop_Eur_SouthrnEur_Ctry088	Foreign-born population: Europe: Southern Europe: Spain
+FrgnBornPop_Eur_SouthrnEur_Ctry073	Foreign-born population: Europe: Southern Europe: Other Southern Europe
+FrgnBornPop_Eur_EstnEur	Foreign-born population: Europe: Eastern Europe:
+FrgnBornPop_Eur_EstnEur_Ctry021	Foreign-born population: Europe: Eastern Europe: Czechoslovakia (includes Czech Republic and Slovakia)
+FrgnBornPop_Eur_EstnEur_Ctry037	Foreign-born population: Europe: Eastern Europe: Hungary
+FrgnBornPop_Eur_EstnEur_Ctry081	Foreign-born population: Europe: Eastern Europe: Poland
+FrgnBornPop_Eur_EstnEur_Ctry084	Foreign-born population: Europe: Eastern Europe: Romania
+FrgnBornPop_Eur_EstnEur_Ctry010	Foreign-born population: Europe: Eastern Europe: Belarus
+FrgnBornPop_Eur_EstnEur_Ctry085	Foreign-born population: Europe: Eastern Europe: Russia
+FrgnBornPop_Eur_EstnEur_Ctry095	Foreign-born population: Europe: Eastern Europe: Ukraine
+FrgnBornPop_Eur_EstnEur_Ctry012	Foreign-born population: Europe: Eastern Europe: Bosnia and Herzegovina
+FrgnBornPop_Eur_EstnEur_Ctry099	Foreign-born population: Europe: Eastern Europe: Yugoslavia
+FrgnBornPop_Eur_EstnEur_Ctry065	Foreign-born population: Europe: Eastern Europe: Other Eastern Europe
+FrgnBornPop_Eur_Ctry027	Foreign-born population: Europe: Europe, n.e.c.
+FrgnBornPop_Asia	Foreign-born population: Asia:
+FrgnBornPop_Asia_EstnAsia	Foreign-born population: Asia: Eastern Asia:
+FrgnBornPop_Asia_EstnAsia_China	Foreign-born population: Asia: Eastern Asia: China:
+FrgnBornPop_Asia_EstnAsia_China_Ctry017	Foreign-born population: Asia: Eastern Asia: China: China, excluding Hong Kong and Taiwan
+FrgnBornPop_Asia_EstnAsia_China_Ctry036	Foreign-born population: Asia: Eastern Asia: China: Hong Kong
+FrgnBornPop_Asia_EstnAsia_China_Ctry091	Foreign-born population: Asia: Eastern Asia: China: Taiwan
+FrgnBornPop_Asia_EstnAsia_Ctry046	Foreign-born population: Asia: Eastern Asia: Japan
+FrgnBornPop_Asia_EstnAsia_Ctry048	Foreign-born population: Asia: Eastern Asia: Korea
+FrgnBornPop_Asia_EstnAsia_Ctry064	Foreign-born population: Asia: Eastern Asia: Other Eastern Asia
+FrgnBornPop_Asia_SouthCentAsia	Foreign-born population: Asia: South Central Asia:
+FrgnBornPop_Asia_SouthCentAsia_Ctry001	Foreign-born population: Asia: South Central Asia: Afghanistan
+FrgnBornPop_Asia_SouthCentAsia_Ctry008	Foreign-born population: Asia: South Central Asia: Bangladesh
+FrgnBornPop_Asia_SouthCentAsia_Ctry038	Foreign-born population: Asia: South Central Asia: India
+FrgnBornPop_Asia_SouthCentAsia_Ctry040	Foreign-born population: Asia: South Central Asia: Iran
+FrgnBornPop_Asia_SouthCentAsia_Ctry077	Foreign-born population: Asia: South Central Asia: Pakistan
+FrgnBornPop_Asia_SouthCentAsia_Ctry070	Foreign-born population: Asia: South Central Asia: Other South Central Asia
+FrgnBornPop_Asia_SouthEastAsia	Foreign-born population: Asia: South Eastern Asia:
+FrgnBornPop_Asia_SouthEastAsia_Ctry014	Foreign-born population: Asia: South Eastern Asia: Cambodia
+FrgnBornPop_Asia_SouthEastAsia_Ctry039	Foreign-born population: Asia: South Eastern Asia: Indonesia
+FrgnBornPop_Asia_SouthEastAsia_Ctry049	Foreign-born population: Asia: South Eastern Asia: Laos
+FrgnBornPop_Asia_SouthEastAsia_Ctry051	Foreign-born population: Asia: South Eastern Asia: Malaysia
+FrgnBornPop_Asia_SouthEastAsia_Ctry080	Foreign-born population: Asia: South Eastern Asia: Philippines
+FrgnBornPop_Asia_SouthEastAsia_Ctry092	Foreign-born population: Asia: South Eastern Asia: Thailand
+FrgnBornPop_Asia_SouthEastAsia_Ctry098	Foreign-born population: Asia: South Eastern Asia: Vietnam
+FrgnBornPop_Asia_SouthEastAsia_Ctry071	Foreign-born population: Asia: South Eastern Asia: Other South Eastern Asia
+FrgnBornPop_Asia_WestrnAsia	Foreign-born population: Asia: Western Asia:
+FrgnBornPop_Asia_WestrnAsia_Ctry041	Foreign-born population: Asia: Western Asia: Iraq
+FrgnBornPop_Asia_WestrnAsia_Ctry043	Foreign-born population: Asia: Western Asia: Israel
+FrgnBornPop_Asia_WestrnAsia_Ctry047	Foreign-born population: Asia: Western Asia: Jordan
+FrgnBornPop_Asia_WestrnAsia_Ctry050	Foreign-born population: Asia: Western Asia: Lebanon
+FrgnBornPop_Asia_WestrnAsia_Ctry090	Foreign-born population: Asia: Western Asia: Syria
+FrgnBornPop_Asia_WestrnAsia_Ctry094	Foreign-born population: Asia: Western Asia: Turkey
+FrgnBornPop_Asia_WestrnAsia_Ctry004	Foreign-born population: Asia: Western Asia: Armenia
+FrgnBornPop_Asia_WestrnAsia_Ctry075	Foreign-born population: Asia: Western Asia: Other Western Asia
+FrgnBornPop_Asia_Ctry005	Foreign-born population: Asia: Asia, n.e.c.
+FrgnBornPop_Africa	Foreign-born population: Africa:
+FrgnBornPop_Africa_EstnAfrica	Foreign-born population: Africa: Eastern Africa:
+FrgnBornPop_Africa_EstnAfrica_Ctry026	Foreign-born population: Africa: Eastern Africa: Ethiopia
+FrgnBornPop_Africa_EstnAfrica_Ctry063	Foreign-born population: Africa: Eastern Africa: Other Eastern Africa
+FrgnBornPop_Africa_Ctry055	Foreign-born population: Africa: Middle Africa
+FrgnBornPop_Africa_NrthAfrica	Foreign-born population: Africa: Northern Africa:
+FrgnBornPop_Africa_NrthAfrica_Ctry024	Foreign-born population: Africa: Northern Africa: Egypt
+FrgnBornPop_Africa_NrthAfrica_Ctry066	Foreign-born population: Africa: Northern Africa: Other Northern Africa
+FrgnBornPop_Africa_SouthrnAfrica	Foreign-born population: Africa: Southern Africa:
+FrgnBornPop_Africa_SouthrnAfrica_Ctry087	Foreign-born population: Africa: Southern Africa: South Africa
+FrgnBornPop_Africa_SouthrnAfrica_Ctry072	Foreign-born population: Africa: Southern Africa: Other Southern Africa
+FrgnBornPop_Africa_WestrnAfr	Foreign-born population: Africa: Western Africa:
+FrgnBornPop_Africa_WestrnAfr_Ctry030	Foreign-born population: Africa: Western Africa: Ghana
+FrgnBornPop_Africa_WestrnAfr_Ctry058	Foreign-born population: Africa: Western Africa: Nigeria
+FrgnBornPop_Africa_WestrnAfr_Ctry086	Foreign-born population: Africa: Western Africa: Sierra Leone
+FrgnBornPop_Africa_WestrnAfr_Ctry074	Foreign-born population: Africa: Western Africa: Other Western Africa
+FrgnBornPop_Africa_Ctry002	Foreign-born population: Africa: Africa, n.e.c.
+FrgnBornPop_Oceania	Foreign-born population: Oceania:
+FrgnBornPop_Oceania_AustNZealSub	Foreign-born population: Oceania: Australia and New Zealand Subregion:
+FrgnBornPop_Oceania_AustNZealSub_Ctry006	Foreign-born population: Oceania: Australia and New Zealand Subregion: Australia
+FrgnBornPop_Oceania_AustNZealSub_Ctry060	Foreign-born population: Oceania: Australia and New Zealand Subregion: Other Australian and New Zealand Subregion
+FrgnBornPop_Oceania_Ctry052	Foreign-born population: Oceania: Melanesia
+FrgnBornPop_Oceania_Ctry054	Foreign-born population: Oceania: Micronesia
+FrgnBornPop_Oceania_Ctry082	Foreign-born population: Oceania: Polynesia
+FrgnBornPop_Oceania_Ctry059	Foreign-born population: Oceania: Oceania, n.e.c.
+FrgnBornPop_Amer	Foreign-born population: Americas:
+FrgnBornPop_Amer_LatAmer	Foreign-born population: Americas: Latin America:
+FrgnBornPop_Amer_LatAmer_Carib	Foreign-born population: Americas: Latin America: Caribbean:
+FrgnBornPop_Amer_LatAmer_Carib_Ctry009	Foreign-born population: Americas: Latin America: Caribbean: Barbados
+FrgnBornPop_Amer_LatAmer_Carib_Ctry020	Foreign-born population: Americas: Latin America: Caribbean: Cuba
+FrgnBornPop_Amer_LatAmer_Carib_Ctry022	Foreign-born population: Americas: Latin America: Caribbean: Dominican Republic
+FrgnBornPop_Amer_LatAmer_Carib_Ctry034	Foreign-born population: Americas: Latin America: Caribbean: Haiti
+FrgnBornPop_Amer_LatAmer_Carib_Ctry045	Foreign-born population: Americas: Latin America: Caribbean: Jamaica
+FrgnBornPop_Amer_LatAmer_Carib_Ctry093	Foreign-born population: Americas: Latin America: Caribbean: Trinidad and Tobago
+FrgnBornPop_Amer_LatAmer_Carib_Ctry061	Foreign-born population: Americas: Latin America: Caribbean: Other Caribbean
+FrgnBornPop_Amer_LatAmer_CentAmer	Foreign-born population: Americas: Latin America: Central America:
+FrgnBornPop_Amer_LatAmer_CentAmer_Ctry053	Foreign-born population: Americas: Latin America: Central America: Mexico
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer	Foreign-born population: Americas: Latin America: Central America: Other Central America:
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry019	Foreign-born population: Americas: Latin America: Central America: Other Central America: Costa Rica
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry025	Foreign-born population: Americas: Latin America: Central America: Other Central America: El Salvador
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry032	Foreign-born population: Americas: Latin America: Central America: Other Central America: Guatemala
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry035	Foreign-born population: Americas: Latin America: Central America: Other Central America: Honduras
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry057	Foreign-born population: Americas: Latin America: Central America: Other Central America: Nicaragua
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry078	Foreign-born population: Americas: Latin America: Central America: Other Central America: Panama
+FrgnBornPop_Amer_LatAmer_CentAmer_OthCentAmer_Ctry062	Foreign-born population: Americas: Latin America: Central America: Other Central America: Other Central America
+FrgnBornPop_Amer_LatAmer_SouthAmer	Foreign-born population: Americas: Latin America: South America:
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry003	Foreign-born population: Americas: Latin America: South America: Argentina
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry011	Foreign-born population: Americas: Latin America: South America: Bolivia
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry013	Foreign-born population: Americas: Latin America: South America: Brazil
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry016	Foreign-born population: Americas: Latin America: South America: Chile
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry018	Foreign-born population: Americas: Latin America: South America: Colombia
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry023	Foreign-born population: Americas: Latin America: South America: Ecuador
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry033	Foreign-born population: Americas: Latin America: South America: Guyana
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry079	Foreign-born population: Americas: Latin America: South America: Peru
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry097	Foreign-born population: Americas: Latin America: South America: Venezuela
+FrgnBornPop_Amer_LatAmer_SouthAmer_Ctry069	Foreign-born population: Americas: Latin America: South America: Other South America
+FrgnBornPop_Amer_NrthAmer	Foreign-born population: Americas: Northern America:
+FrgnBornPop_Amer_NrthAmer_Ctry015	Foreign-born population: Americas: Northern America: Canada
+FrgnBornPop_Amer_NrthAmer_Ctry067	Foreign-born population: Americas: Northern America: Other Northern America
+FrgnBornPop_BornSea	Foreign-born population: Born at sea

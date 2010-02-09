@@ -1,0 +1,61 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_Imp	Occupied housing units: Imputed
+OcpHsUnt_NotImp	Occupied housing units: Not imputed
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_Imp	Occupied housing units: Imputed
+OcpHsUnt_NotImp	Occupied housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_Imp	Occupied housing units: Imputed
+OcpHsUnt_NotImp	Occupied housing units: Not imputed
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_Imp	Occupied housing units: Imputed
+OcpHsUnt_NotImp	Occupied housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed
+HsUnt_Tot	Housing units: Total:
+HsUnt_Imp	Housing units: Imputed
+HsUnt_NotImp	Housing units: Not imputed
+RentOcpHsUntPayCash_Tot	Specified renter-occupied housing units paying cash rent: Total:
+RentOcpHsUntPayCash_Imp	Specified renter-occupied housing units paying cash rent: Imputed
+RentOcpHsUntPayCash_NotImp	Specified renter-occupied housing units paying cash rent: Not imputed
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_Imp	Specified renter-occupied housing units: Imputed
+SpecRentOcpHsUnt_NotImp	Specified renter-occupied housing units: Not imputed
+SpecVacForRentHsUnt_Tot	Specified vacant-for-rent housing units: Total:
+SpecVacForRentHsUnt_Imp	Specified vacant-for-rent housing units: Imputed
+SpecVacForRentHsUnt_NotImp	Specified vacant-for-rent housing units: Not imputed
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_Gte1ItemImp	Specified renter-occupied housing units: One or more items imputed
+SpecRentOcpHsUnt_NoItemImp	Specified renter-occupied housing units: No items imputed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_Imp	Specified owner-occupied housing units: Imputed
+SpecOwnOcpHsUnt_NotImp	Specified owner-occupied housing units: Not imputed
+OwnerOcpHsUnt_Tot	Owner-occupied housing units: Total:
+OwnerOcpHsUnt_Imp	Owner-occupied housing units: Imputed
+OwnerOcpHsUnt_NotImp	Owner-occupied housing units: Not imputed
+SpecVacRorSaleHsUnt_Tot	Specified vacant-for-sale-only housing units: Total:
+SpecVacRorSaleHsUnt_Imp	Specified vacant-for-sale-only housing units: Imputed
+SpecVacRorSaleHsUnt_NotImp	Specified vacant-for-sale-only housing units: Not imputed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_Imp	Specified owner-occupied housing units: Imputed
+SpecOwnOcpHsUnt_NotImp	Specified owner-occupied housing units: Not imputed
+SpecOwnOcpHsUnt_Tot	Specified owner-occupied housing units: Total:
+SpecOwnOcpHsUnt_HsUntMort	Specified owner-occupied housing units: Housing units with a mortgage:
+SpecOwnOcpHsUnt_HsUntMort_Usd1korM_Gte1ItemImp	Specified owner-occupied housing units: Housing units with a mortgage: $1,000 or more One or more items imputed
+SpecOwnOcpHsUnt_HsUntMort_Usd1korM_NoItemImp	Specified owner-occupied housing units: Housing units with a mortgage: $1,000 or more No items imputed
+SpecOwnOcpHsUnt_HsUntNoMort	Specified owner-occupied housing units: Housing units without a mortgage:
+SpecOwnOcpHsUnt_HsUntNoMort_Usd1korM_Gte1ItemImp	Specified owner-occupied housing units: Housing units without a mortgage: $1,000 or more One or more items imputed
+SpecOwnOcpHsUnt_HsUntNoMort_Usd1korM_NoItemImp	Specified owner-occupied housing units: Housing units without a mortgage: $1,000 or more No items imputed
+OwnerOcpHsUnt_Tot	Owner-occupied housing units: Total:
+OwnerOcpHsUnt_HsUntMort	Owner-occupied housing units: Housing units with a mortgage:
+OwnerOcpHsUnt_HsUntMort_Usd1korM_Gte1ItemImp	Owner-occupied housing units: Housing units with a mortgage: $1,000 or more One or more items imputed
+OwnerOcpHsUnt_HsUntMort_Usd1korM_NoItemImp	Owner-occupied housing units: Housing units with a mortgage: $1,000 or more No items imputed
+OwnerOcpHsUnt_HsUntNoMort	Owner-occupied housing units: Housing units without a mortgage:
+OwnerOcpHsUnt_HsUntNoMort_Usd1korM_Gte1ItemImp	Owner-occupied housing units: Housing units without a mortgage: $1,000 or more One or more items imputed
+OwnerOcpHsUnt_HsUntNoMort_Usd1korM_NoItemImp	Owner-occupied housing units: Housing units without a mortgage: $1,000 or more No items imputed

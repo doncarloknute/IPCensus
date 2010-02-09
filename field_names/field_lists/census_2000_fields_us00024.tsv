@@ -1,0 +1,235 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopGte18y_Tot	Population 18 years and over: Total:
+PopGte18y_Mle	Population 18 years and over: Male:
+PopGte18y_Mle_18to24y	Population 18 years and over: Male: 18 to 24 years:
+PopGte18y_Mle_18to24y_Lt9thGr	Population 18 years and over: Male: 18 to 24 years: Less than 9th grade
+PopGte18y_Mle_18to24y_9thto12thGrNoDip	Population 18 years and over: Male: 18 to 24 years: 9th to 12th grade, no diploma
+PopGte18y_Mle_18to24y_HighSchGradEquiv	Population 18 years and over: Male: 18 to 24 years: High school graduate (includes equivalency)
+PopGte18y_Mle_18to24y_SmeCollNoDeg	Population 18 years and over: Male: 18 to 24 years: Some college, no degree
+PopGte18y_Mle_18to24y_AssDeg	Population 18 years and over: Male: 18 to 24 years: Associate degree
+PopGte18y_Mle_18to24y_BacDeg	Population 18 years and over: Male: 18 to 24 years: Bachelor's degree
+PopGte18y_Mle_18to24y_GradProfDeg	Population 18 years and over: Male: 18 to 24 years: Graduate or professional degree
+PopGte18y_Mle_25to34y	Population 18 years and over: Male: 25 to 34 years:
+PopGte18y_Mle_25to34y_Lt9thGr	Population 18 years and over: Male: 25 to 34 years: Less than 9th grade
+PopGte18y_Mle_25to34y_9thto12thGrNoDip	Population 18 years and over: Male: 25 to 34 years: 9th to 12th grade, no diploma
+PopGte18y_Mle_25to34y_HighSchGradEquiv	Population 18 years and over: Male: 25 to 34 years: High school graduate (includes equivalency)
+PopGte18y_Mle_25to34y_SmeCollNoDeg	Population 18 years and over: Male: 25 to 34 years: Some college, no degree
+PopGte18y_Mle_25to34y_AssDeg	Population 18 years and over: Male: 25 to 34 years: Associate degree
+PopGte18y_Mle_25to34y_BacDeg	Population 18 years and over: Male: 25 to 34 years: Bachelor's degree
+PopGte18y_Mle_25to34y_GradProfDeg	Population 18 years and over: Male: 25 to 34 years: Graduate or professional degree
+PopGte18y_Mle_35to44y	Population 18 years and over: Male: 35 to 44 years:
+PopGte18y_Mle_35to44y_Lt9thGr	Population 18 years and over: Male: 35 to 44 years: Less than 9th grade
+PopGte18y_Mle_35to44y_9thto12thGrNoDip	Population 18 years and over: Male: 35 to 44 years: 9th to 12th grade, no diploma
+PopGte18y_Mle_35to44y_HighSchGradEquiv	Population 18 years and over: Male: 35 to 44 years: High school graduate (includes equivalency)
+PopGte18y_Mle_35to44y_SmeCollNoDeg	Population 18 years and over: Male: 35 to 44 years: Some college, no degree
+PopGte18y_Mle_35to44y_AssDeg	Population 18 years and over: Male: 35 to 44 years: Associate degree
+PopGte18y_Mle_35to44y_BacDeg	Population 18 years and over: Male: 35 to 44 years: Bachelor's degree
+PopGte18y_Mle_35to44y_GradProfDeg	Population 18 years and over: Male: 35 to 44 years: Graduate or professional degree
+PopGte18y_Mle_45to64y	Population 18 years and over: Male: 45 to 64 years:
+PopGte18y_Mle_45to64y_Lt9thGr	Population 18 years and over: Male: 45 to 64 years: Less than 9th grade
+PopGte18y_Mle_45to64y_9thto12thGrNoDip	Population 18 years and over: Male: 45 to 64 years: 9th to 12th grade, no diploma
+PopGte18y_Mle_45to64y_HighSchGradEquiv	Population 18 years and over: Male: 45 to 64 years: High school graduate (includes equivalency)
+PopGte18y_Mle_45to64y_SmeCollNoDeg	Population 18 years and over: Male: 45 to 64 years: Some college, no degree
+PopGte18y_Mle_45to64y_AssDeg	Population 18 years and over: Male: 45 to 64 years: Associate degree
+PopGte18y_Mle_45to64y_BacDeg	Population 18 years and over: Male: 45 to 64 years: Bachelor's degree
+PopGte18y_Mle_45to64y_GradProfDeg	Population 18 years and over: Male: 45 to 64 years: Graduate or professional degree
+PopGte18y_Mle_Gte65y	Population 18 years and over: Male: 65 years and over:
+PopGte18y_Mle_Gte65y_Lt9thGr	Population 18 years and over: Male: 65 years and over: Less than 9th grade
+PopGte18y_Mle_Gte65y_9thto12thGrNoDip	Population 18 years and over: Male: 65 years and over: 9th to 12th grade, no diploma
+PopGte18y_Mle_Gte65y_HighSchGradEquiv	Population 18 years and over: Male: 65 years and over: High school graduate (includes equivalency)
+PopGte18y_Mle_Gte65y_SmeCollNoDeg	Population 18 years and over: Male: 65 years and over: Some college, no degree
+PopGte18y_Mle_Gte65y_AssDeg	Population 18 years and over: Male: 65 years and over: Associate degree
+PopGte18y_Mle_Gte65y_BacDeg	Population 18 years and over: Male: 65 years and over: Bachelor's degree
+PopGte18y_Mle_Gte65y_GradProfDeg	Population 18 years and over: Male: 65 years and over: Graduate or professional degree
+PopGte18y_Fem	Population 18 years and over: Female:
+PopGte18y_Fem_18to24y	Population 18 years and over: Female: 18 to 24 years:
+PopGte18y_Fem_18to24y_Lt9thGr	Population 18 years and over: Female: 18 to 24 years: Less than 9th grade
+PopGte18y_Fem_18to24y_9thto12thGrNoDip	Population 18 years and over: Female: 18 to 24 years: 9th to 12th grade, no diploma
+PopGte18y_Fem_18to24y_HighSchGradEquiv	Population 18 years and over: Female: 18 to 24 years: High school graduate (includes equivalency)
+PopGte18y_Fem_18to24y_SmeCollNoDeg	Population 18 years and over: Female: 18 to 24 years: Some college, no degree
+PopGte18y_Fem_18to24y_AssDeg	Population 18 years and over: Female: 18 to 24 years: Associate degree
+PopGte18y_Fem_18to24y_BacDeg	Population 18 years and over: Female: 18 to 24 years: Bachelor's degree
+PopGte18y_Fem_18to24y_GradProfDeg	Population 18 years and over: Female: 18 to 24 years: Graduate or professional degree
+PopGte18y_Fem_25to34y	Population 18 years and over: Female: 25 to 34 years:
+PopGte18y_Fem_25to34y_Lt9thGr	Population 18 years and over: Female: 25 to 34 years: Less than 9th grade
+PopGte18y_Fem_25to34y_9thto12thGrNoDip	Population 18 years and over: Female: 25 to 34 years: 9th to 12th grade, no diploma
+PopGte18y_Fem_25to34y_HighSchGradEquiv	Population 18 years and over: Female: 25 to 34 years: High school graduate (includes equivalency)
+PopGte18y_Fem_25to34y_SmeCollNoDeg	Population 18 years and over: Female: 25 to 34 years: Some college, no degree
+PopGte18y_Fem_25to34y_AssDeg	Population 18 years and over: Female: 25 to 34 years: Associate degree
+PopGte18y_Fem_25to34y_BacDeg	Population 18 years and over: Female: 25 to 34 years: Bachelor's degree
+PopGte18y_Fem_25to34y_GradProfDeg	Population 18 years and over: Female: 25 to 34 years: Graduate or professional degree
+PopGte18y_Fem_35to44y	Population 18 years and over: Female: 35 to 44 years:
+PopGte18y_Fem_35to44y_Lt9thGr	Population 18 years and over: Female: 35 to 44 years: Less than 9th grade
+PopGte18y_Fem_35to44y_9thto12thGrNoDip	Population 18 years and over: Female: 35 to 44 years: 9th to 12th grade, no diploma
+PopGte18y_Fem_35to44y_HighSchGradEquiv	Population 18 years and over: Female: 35 to 44 years: High school graduate (includes equivalency)
+PopGte18y_Fem_35to44y_SmeCollNoDeg	Population 18 years and over: Female: 35 to 44 years: Some college, no degree
+PopGte18y_Fem_35to44y_AssDeg	Population 18 years and over: Female: 35 to 44 years: Associate degree
+PopGte18y_Fem_35to44y_BacDeg	Population 18 years and over: Female: 35 to 44 years: Bachelor's degree
+PopGte18y_Fem_35to44y_GradProfDeg	Population 18 years and over: Female: 35 to 44 years: Graduate or professional degree
+PopGte18y_Fem_45to64y	Population 18 years and over: Female: 45 to 64 years:
+PopGte18y_Fem_45to64y_Lt9thGr	Population 18 years and over: Female: 45 to 64 years: Less than 9th grade
+PopGte18y_Fem_45to64y_9thto12thGrNoDip	Population 18 years and over: Female: 45 to 64 years: 9th to 12th grade, no diploma
+PopGte18y_Fem_45to64y_HighSchGradEquiv	Population 18 years and over: Female: 45 to 64 years: High school graduate (includes equivalency)
+PopGte18y_Fem_45to64y_SmeCollNoDeg	Population 18 years and over: Female: 45 to 64 years: Some college, no degree
+PopGte18y_Fem_45to64y_AssDeg	Population 18 years and over: Female: 45 to 64 years: Associate degree
+PopGte18y_Fem_45to64y_BacDeg	Population 18 years and over: Female: 45 to 64 years: Bachelor's degree
+PopGte18y_Fem_45to64y_GradProfDeg	Population 18 years and over: Female: 45 to 64 years: Graduate or professional degree
+PopGte18y_Fem_Gte65y	Population 18 years and over: Female: 65 years and over:
+PopGte18y_Fem_Gte65y_Lt9thGr	Population 18 years and over: Female: 65 years and over: Less than 9th grade
+PopGte18y_Fem_Gte65y_9thto12thGrNoDip	Population 18 years and over: Female: 65 years and over: 9th to 12th grade, no diploma
+PopGte18y_Fem_Gte65y_HighSchGradEquiv	Population 18 years and over: Female: 65 years and over: High school graduate (includes equivalency)
+PopGte18y_Fem_Gte65y_SmeCollNoDeg	Population 18 years and over: Female: 65 years and over: Some college, no degree
+PopGte18y_Fem_Gte65y_AssDeg	Population 18 years and over: Female: 65 years and over: Associate degree
+PopGte18y_Fem_Gte65y_BacDeg	Population 18 years and over: Female: 65 years and over: Bachelor's degree
+PopGte18y_Fem_Gte65y_GradProfDeg	Population 18 years and over: Female: 65 years and over: Graduate or professional degree
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_W1Disab	cn5population: Male: 5 to 15 years: With one type of disability:
+CivNonInstPopGte5y_Mle_5to15y_W1Disab_SensDisab	cn5population: Male: 5 to 15 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Mle_5to15y_W1Disab_PhysDisab	cn5population: Male: 5 to 15 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Mle_5to15y_W1Disab_MentDisab	cn5population: Male: 5 to 15 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Mle_5to15y_W1Disab_SelfCareDisab	cn5population: Male: 5 to 15 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Mle_5to15y_WGte2Disab	cn5population: Male: 5 to 15 years: With two or more types of disability:
+CivNonInstPopGte5y_Mle_5to15y_WGte2Disab_InclSelfCareDisab	cn5population: Male: 5 to 15 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Mle_5to15y_WGte2Disab_DNISelfCareDisab	cn5population: Male: 5 to 15 years: With two or more types of disability: Does not include self-care disability
+CivNonInstPopGte5y_Mle_5to15y_NoDisab	cn5population: Male: 5 to 15 years: No disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_W1Disab	cn5population: Male: 16 to 20 years: With one type of disability:
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_SensDisab	cn5population: Male: 16 to 20 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_PhysDisab	cn5population: Male: 16 to 20 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_MentDisab	cn5population: Male: 16 to 20 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_SelfCareDisab	cn5population: Male: 16 to 20 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_GoOutDisab	cn5population: Male: 16 to 20 years: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Mle_16to20y_W1Disab_EmplDisab	cn5population: Male: 16 to 20 years: With one type of disability: Employment disability
+CivNonInstPopGte5y_Mle_16to20y_WGte2Disab	cn5population: Male: 16 to 20 years: With two or more types of disability:
+CivNonInstPopGte5y_Mle_16to20y_WGte2Disab_InclSelfCareDisab	cn5population: Male: 16 to 20 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Mle_16to20y_WGte2Disab_DNISelfCareDisab	cn5population: Male: 16 to 20 years: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Mle_16to20y_WGte2Disab_DNISelfCareDisab_Go_175	cn5population: Male: 16 to 20 years: With two or more types of disability: Does not include self-care disability: Go-outside home and employment only
+CivNonInstPopGte5y_Mle_16to20y_WGte2Disab_DNISelfCareDisab_Ot_176	cn5population: Male: 16 to 20 years: With two or more types of disability: Does not include self-care disability: Other combination
+CivNonInstPopGte5y_Mle_16to20y_NoDisab	cn5population: Male: 16 to 20 years: No disability
+CivNonInstPopGte5y_Mle_21to64y	cn5population: Male: 21 to 64 years:
+CivNonInstPopGte5y_Mle_21to64y_W1Disab	cn5population: Male: 21 to 64 years: With one type of disability:
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_SensDisab	cn5population: Male: 21 to 64 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_PhysDisab	cn5population: Male: 21 to 64 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_MentDisab	cn5population: Male: 21 to 64 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_SelfCareDisab	cn5population: Male: 21 to 64 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_GoOutDisab	cn5population: Male: 21 to 64 years: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Mle_21to64y_W1Disab_EmplDisab	cn5population: Male: 21 to 64 years: With one type of disability: Employment disability
+CivNonInstPopGte5y_Mle_21to64y_WGte2Disab	cn5population: Male: 21 to 64 years: With two or more types of disability:
+CivNonInstPopGte5y_Mle_21to64y_WGte2Disab_InclSelfCareDisab	cn5population: Male: 21 to 64 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Mle_21to64y_WGte2Disab_DNISelfCareDisab	cn5population: Male: 21 to 64 years: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Mle_21to64y_WGte2Disab_DNISelfCareDisab_Go_177	cn5population: Male: 21 to 64 years: With two or more types of disability: Does not include self-care disability: Go-outside home and employment only
+CivNonInstPopGte5y_Mle_21to64y_WGte2Disab_DNISelfCareDisab_Ot_178	cn5population: Male: 21 to 64 years: With two or more types of disability: Does not include self-care disability: Other combination
+CivNonInstPopGte5y_Mle_21to64y_NoDisab	cn5population: Male: 21 to 64 years: No disability
+CivNonInstPopGte5y_Mle_Gte65y	cn5population: Male: 65 years and over:
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab	cn5population: Male: 65 years and over: With one type of disability:
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab_SensDisab	cn5population: Male: 65 years and over: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab_PhysDisab	cn5population: Male: 65 years and over: With one type of disability: Physical disability
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab_MentDisab	cn5population: Male: 65 years and over: With one type of disability: Mental disability
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab_SelfCareDisab	cn5population: Male: 65 years and over: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Mle_Gte65y_W1Disab_GoOutDisab	cn5population: Male: 65 years and over: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Mle_Gte65y_WGte2Disab	cn5population: Male: 65 years and over: With two or more types of disability:
+CivNonInstPopGte5y_Mle_Gte65y_WGte2Disab_InclSelfCareDisab	cn5population: Male: 65 years and over: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Mle_Gte65y_WGte2Disab_DNISelfCareDisab	cn5population: Male: 65 years and over: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Mle_Gte65y_NoDisab	cn5population: Male: 65 years and over: No disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_W1Disab	cn5population: Female: 5 to 15 years: With one type of disability:
+CivNonInstPopGte5y_Fem_5to15y_W1Disab_SensDisab	cn5population: Female: 5 to 15 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Fem_5to15y_W1Disab_PhysDisab	cn5population: Female: 5 to 15 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Fem_5to15y_W1Disab_MentDisab	cn5population: Female: 5 to 15 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Fem_5to15y_W1Disab_SelfCareDisab	cn5population: Female: 5 to 15 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Fem_5to15y_WGte2Disab	cn5population: Female: 5 to 15 years: With two or more types of disability:
+CivNonInstPopGte5y_Fem_5to15y_WGte2Disab_InclSelfCareDisab	cn5population: Female: 5 to 15 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Fem_5to15y_WGte2Disab_DNISelfCareDisab	cn5population: Female: 5 to 15 years: With two or more types of disability: Does not include self-care disability
+CivNonInstPopGte5y_Fem_5to15y_NoDisab	cn5population: Female: 5 to 15 years: No disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_W1Disab	cn5population: Female: 16 to 20 years: With one type of disability:
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_SensDisab	cn5population: Female: 16 to 20 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_PhysDisab	cn5population: Female: 16 to 20 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_MentDisab	cn5population: Female: 16 to 20 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_SelfCareDisab	cn5population: Female: 16 to 20 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_GoOutDisab	cn5population: Female: 16 to 20 years: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Fem_16to20y_W1Disab_EmplDisab	cn5population: Female: 16 to 20 years: With one type of disability: Employment disability
+CivNonInstPopGte5y_Fem_16to20y_WGte2Disab	cn5population: Female: 16 to 20 years: With two or more types of disability:
+CivNonInstPopGte5y_Fem_16to20y_WGte2Disab_InclSelfCareDisab	cn5population: Female: 16 to 20 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Fem_16to20y_WGte2Disab_DNISelfCareDisab	cn5population: Female: 16 to 20 years: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Fem_16to20y_WGte2Disab_DNISelfCareDisab_Go_179	cn5population: Female: 16 to 20 years: With two or more types of disability: Does not include self-care disability: Go-outside home and employment only
+CivNonInstPopGte5y_Fem_16to20y_WGte2Disab_DNISelfCareDisab_Ot_180	cn5population: Female: 16 to 20 years: With two or more types of disability: Does not include self-care disability: Other combination
+CivNonInstPopGte5y_Fem_16to20y_NoDisab	cn5population: Female: 16 to 20 years: No disability
+CivNonInstPopGte5y_Fem_21to64y	cn5population: Female: 21 to 64 years:
+CivNonInstPopGte5y_Fem_21to64y_W1Disab	cn5population: Female: 21 to 64 years: With one type of disability:
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_SensDisab	cn5population: Female: 21 to 64 years: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_PhysDisab	cn5population: Female: 21 to 64 years: With one type of disability: Physical disability
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_MentDisab	cn5population: Female: 21 to 64 years: With one type of disability: Mental disability
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_SelfCareDisab	cn5population: Female: 21 to 64 years: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_GoOutDisab	cn5population: Female: 21 to 64 years: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Fem_21to64y_W1Disab_EmplDisab	cn5population: Female: 21 to 64 years: With one type of disability: Employment disability
+CivNonInstPopGte5y_Fem_21to64y_WGte2Disab	cn5population: Female: 21 to 64 years: With two or more types of disability:
+CivNonInstPopGte5y_Fem_21to64y_WGte2Disab_InclSelfCareDisab	cn5population: Female: 21 to 64 years: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Fem_21to64y_WGte2Disab_DNISelfCareDisab	cn5population: Female: 21 to 64 years: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Fem_21to64y_WGte2Disab_DNISelfCareDisab_Go_181	cn5population: Female: 21 to 64 years: With two or more types of disability: Does not include self-care disability: Go-outside home and employment only
+CivNonInstPopGte5y_Fem_21to64y_WGte2Disab_DNISelfCareDisab_Ot_182	cn5population: Female: 21 to 64 years: With two or more types of disability: Does not include self-care disability: Other combination
+CivNonInstPopGte5y_Fem_21to64y_NoDisab	cn5population: Female: 21 to 64 years: No disability
+CivNonInstPopGte5y_Fem_Gte65y	cn5population: Female: 65 years and over:
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab	cn5population: Female: 65 years and over: With one type of disability:
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab_SensDisab	cn5population: Female: 65 years and over: With one type of disability: Sensory disability
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab_PhysDisab	cn5population: Female: 65 years and over: With one type of disability: Physical disability
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab_MentDisab	cn5population: Female: 65 years and over: With one type of disability: Mental disability
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab_SelfCareDisab	cn5population: Female: 65 years and over: With one type of disability: Self-care disability
+CivNonInstPopGte5y_Fem_Gte65y_W1Disab_GoOutDisab	cn5population: Female: 65 years and over: With one type of disability: Go-outside-home disability
+CivNonInstPopGte5y_Fem_Gte65y_WGte2Disab	cn5population: Female: 65 years and over: With two or more types of disability:
+CivNonInstPopGte5y_Fem_Gte65y_WGte2Disab_InclSelfCareDisab	cn5population: Female: 65 years and over: With two or more types of disability: Includes self-care disability
+CivNonInstPopGte5y_Fem_Gte65y_WGte2Disab_DNISelfCareDisab	cn5population: Female: 65 years and over: With two or more types of disability: Does not include self-care disability:
+CivNonInstPopGte5y_Fem_Gte65y_NoDisab	cn5population: Female: 65 years and over: No disability
+CivNonInstPopGte5y_Tot	cn5population: Total:
+CivNonInstPopGte5y_Mle	cn5population: Male:
+CivNonInstPopGte5y_Mle_5to15y	cn5population: Male: 5 to 15 years:
+CivNonInstPopGte5y_Mle_5to15y_WSensDisab	cn5population: Male: 5 to 15 years: With a sensory disability
+CivNonInstPopGte5y_Mle_5to15y_NoSensDisab	cn5population: Male: 5 to 15 years: No sensory disability
+CivNonInstPopGte5y_Mle_16to20y	cn5population: Male: 16 to 20 years:
+CivNonInstPopGte5y_Mle_16to20y_WSensDisab	cn5population: Male: 16 to 20 years: With a sensory disability:
+CivNonInstPopGte5y_Mle_16to20y_WSensDisab_Empl	cn5population: Male: 16 to 20 years: With a sensory disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_WSensDisab_NotEmpl	cn5population: Male: 16 to 20 years: With a sensory disability: Not employed
+CivNonInstPopGte5y_Mle_16to20y_NoSensDisab	cn5population: Male: 16 to 20 years: No sensory disability:
+CivNonInstPopGte5y_Mle_16to20y_NoSensDisab_Empl	cn5population: Male: 16 to 20 years: No sensory disability: Employed
+CivNonInstPopGte5y_Mle_16to20y_NoSensDisab_NotEmpl	cn5population: Male: 16 to 20 years: No sensory disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y	cn5population: Male: 21 to 64 years:
+CivNonInstPopGte5y_Mle_21to64y_WSensDisab	cn5population: Male: 21 to 64 years: With a sensory disability:
+CivNonInstPopGte5y_Mle_21to64y_WSensDisab_Empl	cn5population: Male: 21 to 64 years: With a sensory disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_WSensDisab_NotEmpl	cn5population: Male: 21 to 64 years: With a sensory disability: Not employed
+CivNonInstPopGte5y_Mle_21to64y_NoSensDisab	cn5population: Male: 21 to 64 years: No sensory disability:
+CivNonInstPopGte5y_Mle_21to64y_NoSensDisab_Empl	cn5population: Male: 21 to 64 years: No sensory disability: Employed
+CivNonInstPopGte5y_Mle_21to64y_NoSensDisab_NotEmpl	cn5population: Male: 21 to 64 years: No sensory disability: Not employed
+CivNonInstPopGte5y_Mle_65to74y	cn5population: Male: 65 to 74 years:
+CivNonInstPopGte5y_Mle_65to74y_WSensDisab	cn5population: Male: 65 to 74 years: With a sensory disability
+CivNonInstPopGte5y_Mle_65to74y_NoSensDisab	cn5population: Male: 65 to 74 years: No sensory disability
+CivNonInstPopGte5y_Mle_Gte75y	cn5population: Male: 75 years and over:
+CivNonInstPopGte5y_Mle_Gte75y_WSensDisab	cn5population: Male: 75 years and over: With a sensory disability
+CivNonInstPopGte5y_Mle_Gte75y_NoSensDisab	cn5population: Male: 75 years and over: No sensory disability
+CivNonInstPopGte5y_Fem	cn5population: Female:
+CivNonInstPopGte5y_Fem_5to15y	cn5population: Female: 5 to 15 years:
+CivNonInstPopGte5y_Fem_5to15y_WSensDisab	cn5population: Female: 5 to 15 years: With a sensory disability
+CivNonInstPopGte5y_Fem_5to15y_NoSensDisab	cn5population: Female: 5 to 15 years: No sensory disability
+CivNonInstPopGte5y_Fem_16to20y	cn5population: Female: 16 to 20 years:
+CivNonInstPopGte5y_Fem_16to20y_WSensDisab	cn5population: Female: 16 to 20 years: With a sensory disability:
+CivNonInstPopGte5y_Fem_16to20y_WSensDisab_Empl	cn5population: Female: 16 to 20 years: With a sensory disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_WSensDisab_NotEmpl	cn5population: Female: 16 to 20 years: With a sensory disability: Not employed
+CivNonInstPopGte5y_Fem_16to20y_NoSensDisab	cn5population: Female: 16 to 20 years: No sensory disability:
+CivNonInstPopGte5y_Fem_16to20y_NoSensDisab_Empl	cn5population: Female: 16 to 20 years: No sensory disability: Employed
+CivNonInstPopGte5y_Fem_16to20y_NoSensDisab_NotEmpl	cn5population: Female: 16 to 20 years: No sensory disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y	cn5population: Female: 21 to 64 years:
+CivNonInstPopGte5y_Fem_21to64y_WSensDisab	cn5population: Female: 21 to 64 years: With a sensory disability:
+CivNonInstPopGte5y_Fem_21to64y_WSensDisab_Empl	cn5population: Female: 21 to 64 years: With a sensory disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_WSensDisab_NotEmpl	cn5population: Female: 21 to 64 years: With a sensory disability: Not employed
+CivNonInstPopGte5y_Fem_21to64y_NoSensDisab	cn5population: Female: 21 to 64 years: No sensory disability:
+CivNonInstPopGte5y_Fem_21to64y_NoSensDisab_Empl	cn5population: Female: 21 to 64 years: No sensory disability: Employed
+CivNonInstPopGte5y_Fem_21to64y_NoSensDisab_NotEmpl	cn5population: Female: 21 to 64 years: No sensory disability: Not employed
+CivNonInstPopGte5y_Fem_65to74y	cn5population: Female: 65 to 74 years:
+CivNonInstPopGte5y_Fem_65to74y_WSensDisab	cn5population: Female: 65 to 74 years: With a sensory disability
+CivNonInstPopGte5y_Fem_65to74y_NoSensDisab	cn5population: Female: 65 to 74 years: No sensory disability
+CivNonInstPopGte5y_Fem_Gte75y	cn5population: Female: 75 years and over:
+CivNonInstPopGte5y_Fem_Gte75y_WSensDisab	cn5population: Female: 75 years and over: With a sensory disability
+CivNonInstPopGte5y_Fem_Gte75y_NoSensDisab	cn5population: Female: 75 years and over: No sensory disability

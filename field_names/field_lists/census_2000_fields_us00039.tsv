@@ -1,0 +1,249 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+WhtNotHispCNIPopGte5y_Tot	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Total:
+WhtNotHispCNIPopGte5y_Mle	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male:
+WhtNotHispCNIPopGte5y_Mle_5to15y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years:
+WhtNotHispCNIPopGte5y_Mle_5to15y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: With a disability
+WhtNotHispCNIPopGte5y_Mle_5to15y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 5 to 15 years: No disability
+WhtNotHispCNIPopGte5y_Mle_16to20y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years:
+WhtNotHispCNIPopGte5y_Mle_16to20y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability:
+WhtNotHispCNIPopGte5y_Mle_16to20y_WDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Employed
+WhtNotHispCNIPopGte5y_Mle_16to20y_WDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: With a disability: Not employed
+WhtNotHispCNIPopGte5y_Mle_16to20y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability:
+WhtNotHispCNIPopGte5y_Mle_16to20y_NoDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Employed
+WhtNotHispCNIPopGte5y_Mle_16to20y_NoDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 16 to 20 years: No disability: Not employed
+WhtNotHispCNIPopGte5y_Mle_21to64y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years:
+WhtNotHispCNIPopGte5y_Mle_21to64y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability:
+WhtNotHispCNIPopGte5y_Mle_21to64y_WDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Employed
+WhtNotHispCNIPopGte5y_Mle_21to64y_WDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: With a disability: Not employed
+WhtNotHispCNIPopGte5y_Mle_21to64y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability:
+WhtNotHispCNIPopGte5y_Mle_21to64y_NoDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Employed
+WhtNotHispCNIPopGte5y_Mle_21to64y_NoDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 21 to 64 years: No disability: Not employed
+WhtNotHispCNIPopGte5y_Mle_65to74y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years:
+WhtNotHispCNIPopGte5y_Mle_65to74y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: With a disability
+WhtNotHispCNIPopGte5y_Mle_65to74y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 65 to 74 years: No disability
+WhtNotHispCNIPopGte5y_Mle_Gte75y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 75 years and over:
+WhtNotHispCNIPopGte5y_Mle_Gte75y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 75 years and over: With a disability
+WhtNotHispCNIPopGte5y_Mle_Gte75y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Male: 75 years and over: No disability
+WhtNotHispCNIPopGte5y_Fem	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female:
+WhtNotHispCNIPopGte5y_Fem_5to15y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years:
+WhtNotHispCNIPopGte5y_Fem_5to15y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: With a disability
+WhtNotHispCNIPopGte5y_Fem_5to15y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 5 to 15 years: No disability
+WhtNotHispCNIPopGte5y_Fem_16to20y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years:
+WhtNotHispCNIPopGte5y_Fem_16to20y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability:
+WhtNotHispCNIPopGte5y_Fem_16to20y_WDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Employed
+WhtNotHispCNIPopGte5y_Fem_16to20y_WDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: With a disability: Not employed
+WhtNotHispCNIPopGte5y_Fem_16to20y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability:
+WhtNotHispCNIPopGte5y_Fem_16to20y_NoDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Employed
+WhtNotHispCNIPopGte5y_Fem_16to20y_NoDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 16 to 20 years: No disability: Not employed
+WhtNotHispCNIPopGte5y_Fem_21to64y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years:
+WhtNotHispCNIPopGte5y_Fem_21to64y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability:
+WhtNotHispCNIPopGte5y_Fem_21to64y_WDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Employed
+WhtNotHispCNIPopGte5y_Fem_21to64y_WDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: With a disability: Not employed
+WhtNotHispCNIPopGte5y_Fem_21to64y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability:
+WhtNotHispCNIPopGte5y_Fem_21to64y_NoDisab_Empl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Employed
+WhtNotHispCNIPopGte5y_Fem_21to64y_NoDisab_NotEmpl	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 21 to 64 years: No disability: Not employed
+WhtNotHispCNIPopGte5y_Fem_65to74y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years:
+WhtNotHispCNIPopGte5y_Fem_65to74y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: With a disability
+WhtNotHispCNIPopGte5y_Fem_65to74y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 65 to 74 years: No disability
+WhtNotHispCNIPopGte5y_Fem_Gte75y	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 75 years and over:
+WhtNotHispCNIPopGte5y_Fem_Gte75y_WDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 75 years and over: With a disability
+WhtNotHispCNIPopGte5y_Fem_Gte75y_NoDisab	White alone, not Hispanic or Latino civilian noninstitutionalized population 5 years and over: Female: 75 years and over: No disability
+WhtFemGte16y_Tot	White alone females 16 years and over: Total:
+WhtFemGte16y_WOwnChldLt18y	White alone females 16 years and over: With own children under 18 years:
+WhtFemGte16y_WOwnChldLt18y_Lt6yOnly	White alone females 16 years and over: With own children under 18 years: Under 6 years only:
+WhtFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	White alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+WhtFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	White alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+WhtFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	White alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+WhtFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	White alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+WhtFemGte16y_WOwnChldLt18y_Lt6yand6to17y	White alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+WhtFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	White alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+WhtFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOrArmFor	White alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+WhtFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	White alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+WhtFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	White alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+WhtFemGte16y_WOwnChldLt18y_6to17yOnly	White alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+WhtFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	White alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+WhtFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	White alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+WhtFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	White alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+WhtFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	White alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+WhtFemGte16y_NoOwnChldLt18y	White alone females 16 years and over: No own children under 18 years:
+WhtFemGte16y_NoOwnChldLt18y_InLabrFor	White alone females 16 years and over: No own children under 18 years: In labor force:
+WhtFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	White alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+WhtFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	White alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+WhtFemGte16y_NoOwnChldLt18y_NotLabrFor	White alone females 16 years and over: No own children under 18 years: Not in labor force
+BlkAfAmFemGte16y_Tot	Black or African American alone females 16 years and over: Total:
+BlkAfAmFemGte16y_WOwnChldLt18y	Black or African American alone females 16 years and over: With own children under 18 years:
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yOnly	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years only:
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOr_217	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+BlkAfAmFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+BlkAfAmFemGte16y_WOwnChldLt18y_6to17yOnly	Black or African American alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+BlkAfAmFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+BlkAfAmFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Black or African American alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+BlkAfAmFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Black or African American alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+BlkAfAmFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Black or African American alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+BlkAfAmFemGte16y_NoOwnChldLt18y	Black or African American alone females 16 years and over: No own children under 18 years:
+BlkAfAmFemGte16y_NoOwnChldLt18y_InLabrFor	Black or African American alone females 16 years and over: No own children under 18 years: In labor force:
+BlkAfAmFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Black or African American alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+BlkAfAmFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Black or African American alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+BlkAfAmFemGte16y_NoOwnChldLt18y_NotLabrFor	Black or African American alone females 16 years and over: No own children under 18 years: Not in labor force
+AmIndAkNatFemGte16y_Tot	American Indian and Alaska Native alone females 16 years and over: Total:
+AmIndAkNatFemGte16y_WOwnChldLt18y	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years:
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yOnly	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years only:
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrAr_218	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yand6to17y	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Emp_219	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+AmIndAkNatFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+AmIndAkNatFemGte16y_WOwnChldLt18y_6to17yOnly	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+AmIndAkNatFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+AmIndAkNatFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOr_220	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+AmIndAkNatFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+AmIndAkNatFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	American Indian and Alaska Native alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+AmIndAkNatFemGte16y_NoOwnChldLt18y	American Indian and Alaska Native alone females 16 years and over: No own children under 18 years:
+AmIndAkNatFemGte16y_NoOwnChldLt18y_InLabrFor	American Indian and Alaska Native alone females 16 years and over: No own children under 18 years: In labor force:
+AmIndAkNatFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	American Indian and Alaska Native alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+AmIndAkNatFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	American Indian and Alaska Native alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+AmIndAkNatFemGte16y_NoOwnChldLt18y_NotLabrFor	American Indian and Alaska Native alone females 16 years and over: No own children under 18 years: Not in labor force
+AsnFemGte16y_Tot	Asian alone females 16 years and over: Total:
+AsnFemGte16y_WOwnChldLt18y	Asian alone females 16 years and over: With own children under 18 years:
+AsnFemGte16y_WOwnChldLt18y_Lt6yOnly	Asian alone females 16 years and over: With own children under 18 years: Under 6 years only:
+AsnFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+AsnFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+AsnFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Asian alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+AsnFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+AsnFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Asian alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+AsnFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+AsnFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOrArmFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+AsnFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Asian alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+AsnFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Asian alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+AsnFemGte16y_WOwnChldLt18y_6to17yOnly	Asian alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+AsnFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Asian alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+AsnFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Asian alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+AsnFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Asian alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+AsnFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Asian alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+AsnFemGte16y_NoOwnChldLt18y	Asian alone females 16 years and over: No own children under 18 years:
+AsnFemGte16y_NoOwnChldLt18y_InLabrFor	Asian alone females 16 years and over: No own children under 18 years: In labor force:
+AsnFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Asian alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+AsnFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Asian alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+AsnFemGte16y_NoOwnChldLt18y_NotLabrFor	Asian alone females 16 years and over: No own children under 18 years: Not in labor force
+NatHiPacIslFemGte16y_Tot	Native Hawaiian and Other Pacific Islander alone females 16 years and over: Total:
+NatHiPacIslFemGte16y_WOwnChldLt18y	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years:
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yOnly	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years only:
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrA_221	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Em_222	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Un_223	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+NatHiPacIslFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+NatHiPacIslFemGte16y_WOwnChldLt18y_6to17yOnly	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+NatHiPacIslFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+NatHiPacIslFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplO_224	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+NatHiPacIslFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+NatHiPacIslFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+NatHiPacIslFemGte16y_NoOwnChldLt18y	Native Hawaiian and Other Pacific Islander alone females 16 years and over: No own children under 18 years:
+NatHiPacIslFemGte16y_NoOwnChldLt18y_InLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: No own children under 18 years: In labor force:
+NatHiPacIslFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+NatHiPacIslFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Native Hawaiian and Other Pacific Islander alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+NatHiPacIslFemGte16y_NoOwnChldLt18y_NotLabrFor	Native Hawaiian and Other Pacific Islander alone females 16 years and over: No own children under 18 years: Not in labor force
+OthRceFemGte16y_Tot	Some other race alone females 16 years and over: Total:
+OthRceFemGte16y_WOwnChldLt18y	Some other race alone females 16 years and over: With own children under 18 years:
+OthRceFemGte16y_WOwnChldLt18y_Lt6yOnly	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years only:
+OthRceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+OthRceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+OthRceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+OthRceFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+OthRceFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+OthRceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+OthRceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOrA_225	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+OthRceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+OthRceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Some other race alone females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+OthRceFemGte16y_WOwnChldLt18y_6to17yOnly	Some other race alone females 16 years and over: With own children under 18 years: 6 to 17 years only:
+OthRceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Some other race alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+OthRceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Some other race alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+OthRceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Some other race alone females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+OthRceFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Some other race alone females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+OthRceFemGte16y_NoOwnChldLt18y	Some other race alone females 16 years and over: No own children under 18 years:
+OthRceFemGte16y_NoOwnChldLt18y_InLabrFor	Some other race alone females 16 years and over: No own children under 18 years: In labor force:
+OthRceFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Some other race alone females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+OthRceFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Some other race alone females 16 years and over: No own children under 18 years: In labor force: Unemployed
+OthRceFemGte16y_NoOwnChldLt18y_NotLabrFor	Some other race alone females 16 years and over: No own children under 18 years: Not in labor force
+Gte2RceFemGte16y_Tot	Two or more races females 16 years and over: Total:
+Gte2RceFemGte16y_WOwnChldLt18y	Two or more races females 16 years and over: With own children under 18 years:
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yOnly	Two or more races females 16 years and over: With own children under 18 years: Under 6 years only:
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Two or more races females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Two or more races females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Two or more races females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Two or more races females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Two or more races females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Two or more races females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOr_226	Two or more races females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Two or more races females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+Gte2RceFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Two or more races females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+Gte2RceFemGte16y_WOwnChldLt18y_6to17yOnly	Two or more races females 16 years and over: With own children under 18 years: 6 to 17 years only:
+Gte2RceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Two or more races females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+Gte2RceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Two or more races females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+Gte2RceFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Two or more races females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+Gte2RceFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Two or more races females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+Gte2RceFemGte16y_NoOwnChldLt18y	Two or more races females 16 years and over: No own children under 18 years:
+Gte2RceFemGte16y_NoOwnChldLt18y_InLabrFor	Two or more races females 16 years and over: No own children under 18 years: In labor force:
+Gte2RceFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Two or more races females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+Gte2RceFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Two or more races females 16 years and over: No own children under 18 years: In labor force: Unemployed
+Gte2RceFemGte16y_NoOwnChldLt18y_NotLabrFor	Two or more races females 16 years and over: No own children under 18 years: Not in labor force
+HispFemGte16y_Tot	Hispanic or Latino females 16 years and over: Total:
+HispFemGte16y_WOwnChldLt18y	Hispanic or Latino females 16 years and over: With own children under 18 years:
+HispFemGte16y_WOwnChldLt18y_Lt6yOnly	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only:
+HispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+HispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrArmFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+HispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+HispFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+HispFemGte16y_WOwnChldLt18y_Lt6yand6to17y	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+HispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+HispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_EmplOrArmFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+HispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+HispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+HispFemGte16y_WOwnChldLt18y_6to17yOnly	Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only:
+HispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+HispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOrArmFor	Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+HispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+HispFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+HispFemGte16y_NoOwnChldLt18y	Hispanic or Latino females 16 years and over: No own children under 18 years:
+HispFemGte16y_NoOwnChldLt18y_InLabrFor	Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force:
+HispFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+HispFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force: Unemployed
+HispFemGte16y_NoOwnChldLt18y_NotLabrFor	Hispanic or Latino females 16 years and over: No own children under 18 years: Not in labor force
+WhtNotHispFemGte16y_Tot	White alone, not Hispanic or Latino females 16 years and over: Total:
+WhtNotHispFemGte16y_WOwnChldLt18y	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years:
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yOnly	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only:
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force:
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_EmplOrAr_227	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Employed or in Armed Forces
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yOnly_InLabrFor_Unempl	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: In labor force: Unemployed
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yOnly_NotLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years only: Not in labor force
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yand6to17y	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years:
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force:
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Emp_228	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Employed or in Armed Forces
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_InLabrFor_Unempl	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: In labor force: Unemployed
+WhtNotHispFemGte16y_WOwnChldLt18y_Lt6yand6to17y_NotLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: Under 6 years and 6 to 17 years: Not in labor force
+WhtNotHispFemGte16y_WOwnChldLt18y_6to17yOnly	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only:
+WhtNotHispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force:
+WhtNotHispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_EmplOr_229	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Employed or in Armed Forces
+WhtNotHispFemGte16y_WOwnChldLt18y_6to17yOnly_InLabrFor_Unempl	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: In labor force: Unemployed
+WhtNotHispFemGte16y_WOwnChldLt18y_6to17yOnly_NotLabrFor	White alone, not Hispanic or Latino females 16 years and over: With own children under 18 years: 6 to 17 years only: Not in labor force
+WhtNotHispFemGte16y_NoOwnChldLt18y	White alone, not Hispanic or Latino females 16 years and over: No own children under 18 years:
+WhtNotHispFemGte16y_NoOwnChldLt18y_InLabrFor	White alone, not Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force:
+WhtNotHispFemGte16y_NoOwnChldLt18y_InLabrFor_EmplOrArmFor	White alone, not Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force: Employed or in Armed Forces
+WhtNotHispFemGte16y_NoOwnChldLt18y_InLabrFor_Unempl	White alone, not Hispanic or Latino females 16 years and over: No own children under 18 years: In labor force: Unemployed
+WhtNotHispFemGte16y_NoOwnChldLt18y_NotLabrFor	White alone, not Hispanic or Latino females 16 years and over: No own children under 18 years: Not in labor force

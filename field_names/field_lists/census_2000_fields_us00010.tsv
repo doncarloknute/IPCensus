@@ -1,0 +1,247 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+AsnAlnPop_Tot	Asian alone population: Total:
+AsnAlnPop_Mle	Asian alone population: Male:
+AsnAlnPop_Mle_Lt5y	Asian alone population: Male: Under 5 years
+AsnAlnPop_Mle_5to9y	Asian alone population: Male: 5 to 9 years
+AsnAlnPop_Mle_10to14y	Asian alone population: Male: 10 to 14 years
+AsnAlnPop_Mle_15to17y	Asian alone population: Male: 15 to 17 years
+AsnAlnPop_Mle_18and19y	Asian alone population: Male: 18 and 19 years
+AsnAlnPop_Mle_20y	Asian alone population: Male: 20 years
+AsnAlnPop_Mle_21y	Asian alone population: Male: 21 years
+AsnAlnPop_Mle_22to24y	Asian alone population: Male: 22 to 24 years
+AsnAlnPop_Mle_25to29y	Asian alone population: Male: 25 to 29 years
+AsnAlnPop_Mle_30to34y	Asian alone population: Male: 30 to 34 years
+AsnAlnPop_Mle_35to39y	Asian alone population: Male: 35 to 39 years
+AsnAlnPop_Mle_40to44y	Asian alone population: Male: 40 to 44 years
+AsnAlnPop_Mle_45to49y	Asian alone population: Male: 45 to 49 years
+AsnAlnPop_Mle_50to54y	Asian alone population: Male: 50 to 54 years
+AsnAlnPop_Mle_55to59y	Asian alone population: Male: 55 to 59 years
+AsnAlnPop_Mle_60and61y	Asian alone population: Male: 60 and 61 years
+AsnAlnPop_Mle_62to64y	Asian alone population: Male: 62 to 64 years
+AsnAlnPop_Mle_65and66y	Asian alone population: Male: 65 and 66 years
+AsnAlnPop_Mle_67to69y	Asian alone population: Male: 67 to 69 years
+AsnAlnPop_Mle_70to74y	Asian alone population: Male: 70 to 74 years
+AsnAlnPop_Mle_75to79y	Asian alone population: Male: 75 to 79 years
+AsnAlnPop_Mle_80to84y	Asian alone population: Male: 80 to 84 years
+AsnAlnPop_Mle_Gte85y	Asian alone population: Male: 85 years and over
+AsnAlnPop_Fem	Asian alone population: Female:
+AsnAlnPop_Fem_Lt5y	Asian alone population: Female: Under 5 years
+AsnAlnPop_Fem_5to9y	Asian alone population: Female: 5 to 9 years
+AsnAlnPop_Fem_10to14y	Asian alone population: Female: 10 to 14 years
+AsnAlnPop_Fem_15to17y	Asian alone population: Female: 15 to 17 years
+AsnAlnPop_Fem_18and19y	Asian alone population: Female: 18 and 19 years
+AsnAlnPop_Fem_20y	Asian alone population: Female: 20 years
+AsnAlnPop_Fem_21y	Asian alone population: Female: 21 years
+AsnAlnPop_Fem_22to24y	Asian alone population: Female: 22 to 24 years
+AsnAlnPop_Fem_25to29y	Asian alone population: Female: 25 to 29 years
+AsnAlnPop_Fem_30to34y	Asian alone population: Female: 30 to 34 years
+AsnAlnPop_Fem_35to39y	Asian alone population: Female: 35 to 39 years
+AsnAlnPop_Fem_40to44y	Asian alone population: Female: 40 to 44 years
+AsnAlnPop_Fem_45to49y	Asian alone population: Female: 45 to 49 years
+AsnAlnPop_Fem_50to54y	Asian alone population: Female: 50 to 54 years
+AsnAlnPop_Fem_55to59y	Asian alone population: Female: 55 to 59 years
+AsnAlnPop_Fem_60and61y	Asian alone population: Female: 60 and 61 years
+AsnAlnPop_Fem_62to64y	Asian alone population: Female: 62 to 64 years
+AsnAlnPop_Fem_65and66y	Asian alone population: Female: 65 and 66 years
+AsnAlnPop_Fem_67to69y	Asian alone population: Female: 67 to 69 years
+AsnAlnPop_Fem_70to74y	Asian alone population: Female: 70 to 74 years
+AsnAlnPop_Fem_75to79y	Asian alone population: Female: 75 to 79 years
+AsnAlnPop_Fem_80to84y	Asian alone population: Female: 80 to 84 years
+AsnAlnPop_Fem_Gte85y	Asian alone population: Female: 85 years and over
+NatHiPacIslPop_Tot	Native Hawaiian and Other Pacific Islander alone population: Total:
+NatHiPacIslPop_Mle	Native Hawaiian and Other Pacific Islander alone population: Male:
+NatHiPacIslPop_Mle_Lt5y	Native Hawaiian and Other Pacific Islander alone population: Male: Under 5 years
+NatHiPacIslPop_Mle_5to9y	Native Hawaiian and Other Pacific Islander alone population: Male: 5 to 9 years
+NatHiPacIslPop_Mle_10to14y	Native Hawaiian and Other Pacific Islander alone population: Male: 10 to 14 years
+NatHiPacIslPop_Mle_15to17y	Native Hawaiian and Other Pacific Islander alone population: Male: 15 to 17 years
+NatHiPacIslPop_Mle_18and19y	Native Hawaiian and Other Pacific Islander alone population: Male: 18 and 19 years
+NatHiPacIslPop_Mle_20y	Native Hawaiian and Other Pacific Islander alone population: Male: 20 years
+NatHiPacIslPop_Mle_21y	Native Hawaiian and Other Pacific Islander alone population: Male: 21 years
+NatHiPacIslPop_Mle_22to24y	Native Hawaiian and Other Pacific Islander alone population: Male: 22 to 24 years
+NatHiPacIslPop_Mle_25to29y	Native Hawaiian and Other Pacific Islander alone population: Male: 25 to 29 years
+NatHiPacIslPop_Mle_30to34y	Native Hawaiian and Other Pacific Islander alone population: Male: 30 to 34 years
+NatHiPacIslPop_Mle_35to39y	Native Hawaiian and Other Pacific Islander alone population: Male: 35 to 39 years
+NatHiPacIslPop_Mle_40to44y	Native Hawaiian and Other Pacific Islander alone population: Male: 40 to 44 years
+NatHiPacIslPop_Mle_45to49y	Native Hawaiian and Other Pacific Islander alone population: Male: 45 to 49 years
+NatHiPacIslPop_Mle_50to54y	Native Hawaiian and Other Pacific Islander alone population: Male: 50 to 54 years
+NatHiPacIslPop_Mle_55to59y	Native Hawaiian and Other Pacific Islander alone population: Male: 55 to 59 years
+NatHiPacIslPop_Mle_60and61y	Native Hawaiian and Other Pacific Islander alone population: Male: 60 and 61 years
+NatHiPacIslPop_Mle_62to64y	Native Hawaiian and Other Pacific Islander alone population: Male: 62 to 64 years
+NatHiPacIslPop_Mle_65and66y	Native Hawaiian and Other Pacific Islander alone population: Male: 65 and 66 years
+NatHiPacIslPop_Mle_67to69y	Native Hawaiian and Other Pacific Islander alone population: Male: 67 to 69 years
+NatHiPacIslPop_Mle_70to74y	Native Hawaiian and Other Pacific Islander alone population: Male: 70 to 74 years
+NatHiPacIslPop_Mle_75to79y	Native Hawaiian and Other Pacific Islander alone population: Male: 75 to 79 years
+NatHiPacIslPop_Mle_80to84y	Native Hawaiian and Other Pacific Islander alone population: Male: 80 to 84 years
+NatHiPacIslPop_Mle_Gte85y	Native Hawaiian and Other Pacific Islander alone population: Male: 85 years and over
+NatHiPacIslPop_Fem	Native Hawaiian and Other Pacific Islander alone population: Female:
+NatHiPacIslPop_Fem_Lt5y	Native Hawaiian and Other Pacific Islander alone population: Female: Under 5 years
+NatHiPacIslPop_Fem_5to9y	Native Hawaiian and Other Pacific Islander alone population: Female: 5 to 9 years
+NatHiPacIslPop_Fem_10to14y	Native Hawaiian and Other Pacific Islander alone population: Female: 10 to 14 years
+NatHiPacIslPop_Fem_15to17y	Native Hawaiian and Other Pacific Islander alone population: Female: 15 to 17 years
+NatHiPacIslPop_Fem_18and19y	Native Hawaiian and Other Pacific Islander alone population: Female: 18 and 19 years
+NatHiPacIslPop_Fem_20y	Native Hawaiian and Other Pacific Islander alone population: Female: 20 years
+NatHiPacIslPop_Fem_21y	Native Hawaiian and Other Pacific Islander alone population: Female: 21 years
+NatHiPacIslPop_Fem_22to24y	Native Hawaiian and Other Pacific Islander alone population: Female: 22 to 24 years
+NatHiPacIslPop_Fem_25to29y	Native Hawaiian and Other Pacific Islander alone population: Female: 25 to 29 years
+NatHiPacIslPop_Fem_30to34y	Native Hawaiian and Other Pacific Islander alone population: Female: 30 to 34 years
+NatHiPacIslPop_Fem_35to39y	Native Hawaiian and Other Pacific Islander alone population: Female: 35 to 39 years
+NatHiPacIslPop_Fem_40to44y	Native Hawaiian and Other Pacific Islander alone population: Female: 40 to 44 years
+NatHiPacIslPop_Fem_45to49y	Native Hawaiian and Other Pacific Islander alone population: Female: 45 to 49 years
+NatHiPacIslPop_Fem_50to54y	Native Hawaiian and Other Pacific Islander alone population: Female: 50 to 54 years
+NatHiPacIslPop_Fem_55to59y	Native Hawaiian and Other Pacific Islander alone population: Female: 55 to 59 years
+NatHiPacIslPop_Fem_60and61y	Native Hawaiian and Other Pacific Islander alone population: Female: 60 and 61 years
+NatHiPacIslPop_Fem_62to64y	Native Hawaiian and Other Pacific Islander alone population: Female: 62 to 64 years
+NatHiPacIslPop_Fem_65and66y	Native Hawaiian and Other Pacific Islander alone population: Female: 65 and 66 years
+NatHiPacIslPop_Fem_67to69y	Native Hawaiian and Other Pacific Islander alone population: Female: 67 to 69 years
+NatHiPacIslPop_Fem_70to74y	Native Hawaiian and Other Pacific Islander alone population: Female: 70 to 74 years
+NatHiPacIslPop_Fem_75to79y	Native Hawaiian and Other Pacific Islander alone population: Female: 75 to 79 years
+NatHiPacIslPop_Fem_80to84y	Native Hawaiian and Other Pacific Islander alone population: Female: 80 to 84 years
+NatHiPacIslPop_Fem_Gte85y	Native Hawaiian and Other Pacific Islander alone population: Female: 85 years and over
+OthRcePop_Tot	Some other race alone population: Total:
+OthRcePop_Mle	Some other race alone population: Male:
+OthRcePop_Mle_Lt5y	Some other race alone population: Male: Under 5 years
+OthRcePop_Mle_5to9y	Some other race alone population: Male: 5 to 9 years
+OthRcePop_Mle_10to14y	Some other race alone population: Male: 10 to 14 years
+OthRcePop_Mle_15to17y	Some other race alone population: Male: 15 to 17 years
+OthRcePop_Mle_18and19y	Some other race alone population: Male: 18 and 19 years
+OthRcePop_Mle_20y	Some other race alone population: Male: 20 years
+OthRcePop_Mle_21y	Some other race alone population: Male: 21 years
+OthRcePop_Mle_22to24y	Some other race alone population: Male: 22 to 24 years
+OthRcePop_Mle_25to29y	Some other race alone population: Male: 25 to 29 years
+OthRcePop_Mle_30to34y	Some other race alone population: Male: 30 to 34 years
+OthRcePop_Mle_35to39y	Some other race alone population: Male: 35 to 39 years
+OthRcePop_Mle_40to44y	Some other race alone population: Male: 40 to 44 years
+OthRcePop_Mle_45to49y	Some other race alone population: Male: 45 to 49 years
+OthRcePop_Mle_50to54y	Some other race alone population: Male: 50 to 54 years
+OthRcePop_Mle_55to59y	Some other race alone population: Male: 55 to 59 years
+OthRcePop_Mle_60and61y	Some other race alone population: Male: 60 and 61 years
+OthRcePop_Mle_62to64y	Some other race alone population: Male: 62 to 64 years
+OthRcePop_Mle_65and66y	Some other race alone population: Male: 65 and 66 years
+OthRcePop_Mle_67to69y	Some other race alone population: Male: 67 to 69 years
+OthRcePop_Mle_70to74y	Some other race alone population: Male: 70 to 74 years
+OthRcePop_Mle_75to79y	Some other race alone population: Male: 75 to 79 years
+OthRcePop_Mle_80to84y	Some other race alone population: Male: 80 to 84 years
+OthRcePop_Mle_Gte85y	Some other race alone population: Male: 85 years and over
+OthRcePop_Fem	Some other race alone population: Female:
+OthRcePop_Fem_Lt5y	Some other race alone population: Female: Under 5 years
+OthRcePop_Fem_5to9y	Some other race alone population: Female: 5 to 9 years
+OthRcePop_Fem_10to14y	Some other race alone population: Female: 10 to 14 years
+OthRcePop_Fem_15to17y	Some other race alone population: Female: 15 to 17 years
+OthRcePop_Fem_18and19y	Some other race alone population: Female: 18 and 19 years
+OthRcePop_Fem_20y	Some other race alone population: Female: 20 years
+OthRcePop_Fem_21y	Some other race alone population: Female: 21 years
+OthRcePop_Fem_22to24y	Some other race alone population: Female: 22 to 24 years
+OthRcePop_Fem_25to29y	Some other race alone population: Female: 25 to 29 years
+OthRcePop_Fem_30to34y	Some other race alone population: Female: 30 to 34 years
+OthRcePop_Fem_35to39y	Some other race alone population: Female: 35 to 39 years
+OthRcePop_Fem_40to44y	Some other race alone population: Female: 40 to 44 years
+OthRcePop_Fem_45to49y	Some other race alone population: Female: 45 to 49 years
+OthRcePop_Fem_50to54y	Some other race alone population: Female: 50 to 54 years
+OthRcePop_Fem_55to59y	Some other race alone population: Female: 55 to 59 years
+OthRcePop_Fem_60and61y	Some other race alone population: Female: 60 and 61 years
+OthRcePop_Fem_62to64y	Some other race alone population: Female: 62 to 64 years
+OthRcePop_Fem_65and66y	Some other race alone population: Female: 65 and 66 years
+OthRcePop_Fem_67to69y	Some other race alone population: Female: 67 to 69 years
+OthRcePop_Fem_70to74y	Some other race alone population: Female: 70 to 74 years
+OthRcePop_Fem_75to79y	Some other race alone population: Female: 75 to 79 years
+OthRcePop_Fem_80to84y	Some other race alone population: Female: 80 to 84 years
+OthRcePop_Fem_Gte85y	Some other race alone population: Female: 85 years and over
+Gte2RcePop_Tot	Two or more races population: Total:
+Gte2RcePop_Mle	Two or more races population: Male:
+Gte2RcePop_Mle_Lt5y	Two or more races population: Male: Under 5 years
+Gte2RcePop_Mle_5to9y	Two or more races population: Male: 5 to 9 years
+Gte2RcePop_Mle_10to14y	Two or more races population: Male: 10 to 14 years
+Gte2RcePop_Mle_15to17y	Two or more races population: Male: 15 to 17 years
+Gte2RcePop_Mle_18and19y	Two or more races population: Male: 18 and 19 years
+Gte2RcePop_Mle_20y	Two or more races population: Male: 20 years
+Gte2RcePop_Mle_21y	Two or more races population: Male: 21 years
+Gte2RcePop_Mle_22to24y	Two or more races population: Male: 22 to 24 years
+Gte2RcePop_Mle_25to29y	Two or more races population: Male: 25 to 29 years
+Gte2RcePop_Mle_30to34y	Two or more races population: Male: 30 to 34 years
+Gte2RcePop_Mle_35to39y	Two or more races population: Male: 35 to 39 years
+Gte2RcePop_Mle_40to44y	Two or more races population: Male: 40 to 44 years
+Gte2RcePop_Mle_45to49y	Two or more races population: Male: 45 to 49 years
+Gte2RcePop_Mle_50to54y	Two or more races population: Male: 50 to 54 years
+Gte2RcePop_Mle_55to59y	Two or more races population: Male: 55 to 59 years
+Gte2RcePop_Mle_60and61y	Two or more races population: Male: 60 and 61 years
+Gte2RcePop_Mle_62to64y	Two or more races population: Male: 62 to 64 years
+Gte2RcePop_Mle_65and66y	Two or more races population: Male: 65 and 66 years
+Gte2RcePop_Mle_67to69y	Two or more races population: Male: 67 to 69 years
+Gte2RcePop_Mle_70to74y	Two or more races population: Male: 70 to 74 years
+Gte2RcePop_Mle_75to79y	Two or more races population: Male: 75 to 79 years
+Gte2RcePop_Mle_80to84y	Two or more races population: Male: 80 to 84 years
+Gte2RcePop_Mle_Gte85y	Two or more races population: Male: 85 years and over
+Gte2RcePop_Fem	Two or more races population: Female:
+Gte2RcePop_Fem_Lt5y	Two or more races population: Female: Under 5 years
+Gte2RcePop_Fem_5to9y	Two or more races population: Female: 5 to 9 years
+Gte2RcePop_Fem_10to14y	Two or more races population: Female: 10 to 14 years
+Gte2RcePop_Fem_15to17y	Two or more races population: Female: 15 to 17 years
+Gte2RcePop_Fem_18and19y	Two or more races population: Female: 18 and 19 years
+Gte2RcePop_Fem_20y	Two or more races population: Female: 20 years
+Gte2RcePop_Fem_21y	Two or more races population: Female: 21 years
+Gte2RcePop_Fem_22to24y	Two or more races population: Female: 22 to 24 years
+Gte2RcePop_Fem_25to29y	Two or more races population: Female: 25 to 29 years
+Gte2RcePop_Fem_30to34y	Two or more races population: Female: 30 to 34 years
+Gte2RcePop_Fem_35to39y	Two or more races population: Female: 35 to 39 years
+Gte2RcePop_Fem_40to44y	Two or more races population: Female: 40 to 44 years
+Gte2RcePop_Fem_45to49y	Two or more races population: Female: 45 to 49 years
+Gte2RcePop_Fem_50to54y	Two or more races population: Female: 50 to 54 years
+Gte2RcePop_Fem_55to59y	Two or more races population: Female: 55 to 59 years
+Gte2RcePop_Fem_60and61y	Two or more races population: Female: 60 and 61 years
+Gte2RcePop_Fem_62to64y	Two or more races population: Female: 62 to 64 years
+Gte2RcePop_Fem_65and66y	Two or more races population: Female: 65 and 66 years
+Gte2RcePop_Fem_67to69y	Two or more races population: Female: 67 to 69 years
+Gte2RcePop_Fem_70to74y	Two or more races population: Female: 70 to 74 years
+Gte2RcePop_Fem_75to79y	Two or more races population: Female: 75 to 79 years
+Gte2RcePop_Fem_80to84y	Two or more races population: Female: 80 to 84 years
+Gte2RcePop_Fem_Gte85y	Two or more races population: Female: 85 years and over
+HispPop_Tot	Hispanic or Latino population: Total:
+HispPop_Mle	Hispanic or Latino population: Male:
+HispPop_Mle_Lt5y	Hispanic or Latino population: Male: Under 5 years
+HispPop_Mle_5to9y	Hispanic or Latino population: Male: 5 to 9 years
+HispPop_Mle_10to14y	Hispanic or Latino population: Male: 10 to 14 years
+HispPop_Mle_15to17y	Hispanic or Latino population: Male: 15 to 17 years
+HispPop_Mle_18and19y	Hispanic or Latino population: Male: 18 and 19 years
+HispPop_Mle_20y	Hispanic or Latino population: Male: 20 years
+HispPop_Mle_21y	Hispanic or Latino population: Male: 21 years
+HispPop_Mle_22to24y	Hispanic or Latino population: Male: 22 to 24 years
+HispPop_Mle_25to29y	Hispanic or Latino population: Male: 25 to 29 years
+HispPop_Mle_30to34y	Hispanic or Latino population: Male: 30 to 34 years
+HispPop_Mle_35to39y	Hispanic or Latino population: Male: 35 to 39 years
+HispPop_Mle_40to44y	Hispanic or Latino population: Male: 40 to 44 years
+HispPop_Mle_45to49y	Hispanic or Latino population: Male: 45 to 49 years
+HispPop_Mle_50to54y	Hispanic or Latino population: Male: 50 to 54 years
+HispPop_Mle_55to59y	Hispanic or Latino population: Male: 55 to 59 years
+HispPop_Mle_60and61y	Hispanic or Latino population: Male: 60 and 61 years
+HispPop_Mle_62to64y	Hispanic or Latino population: Male: 62 to 64 years
+HispPop_Mle_65and66y	Hispanic or Latino population: Male: 65 and 66 years
+HispPop_Mle_67to69y	Hispanic or Latino population: Male: 67 to 69 years
+HispPop_Mle_70to74y	Hispanic or Latino population: Male: 70 to 74 years
+HispPop_Mle_75to79y	Hispanic or Latino population: Male: 75 to 79 years
+HispPop_Mle_80to84y	Hispanic or Latino population: Male: 80 to 84 years
+HispPop_Mle_Gte85y	Hispanic or Latino population: Male: 85 years and over
+HispPop_Fem	Hispanic or Latino population: Female:
+HispPop_Fem_Lt5y	Hispanic or Latino population: Female: Under 5 years
+HispPop_Fem_5to9y	Hispanic or Latino population: Female: 5 to 9 years
+HispPop_Fem_10to14y	Hispanic or Latino population: Female: 10 to 14 years
+HispPop_Fem_15to17y	Hispanic or Latino population: Female: 15 to 17 years
+HispPop_Fem_18and19y	Hispanic or Latino population: Female: 18 and 19 years
+HispPop_Fem_20y	Hispanic or Latino population: Female: 20 years
+HispPop_Fem_21y	Hispanic or Latino population: Female: 21 years
+HispPop_Fem_22to24y	Hispanic or Latino population: Female: 22 to 24 years
+HispPop_Fem_25to29y	Hispanic or Latino population: Female: 25 to 29 years
+HispPop_Fem_30to34y	Hispanic or Latino population: Female: 30 to 34 years
+HispPop_Fem_35to39y	Hispanic or Latino population: Female: 35 to 39 years
+HispPop_Fem_40to44y	Hispanic or Latino population: Female: 40 to 44 years
+HispPop_Fem_45to49y	Hispanic or Latino population: Female: 45 to 49 years
+HispPop_Fem_50to54y	Hispanic or Latino population: Female: 50 to 54 years
+HispPop_Fem_55to59y	Hispanic or Latino population: Female: 55 to 59 years
+HispPop_Fem_60and61y	Hispanic or Latino population: Female: 60 and 61 years
+HispPop_Fem_62to64y	Hispanic or Latino population: Female: 62 to 64 years
+HispPop_Fem_65and66y	Hispanic or Latino population: Female: 65 and 66 years
+HispPop_Fem_67to69y	Hispanic or Latino population: Female: 67 to 69 years
+HispPop_Fem_70to74y	Hispanic or Latino population: Female: 70 to 74 years
+HispPop_Fem_75to79y	Hispanic or Latino population: Female: 75 to 79 years
+HispPop_Fem_80to84y	Hispanic or Latino population: Female: 80 to 84 years
+HispPop_Fem_Gte85y	Hispanic or Latino population: Female: 85 years and over

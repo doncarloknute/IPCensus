@@ -1,0 +1,252 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+EmplCivGtePop16y_Tot	Employed civilian population 16 years and over: Total:
+EmplCivGtePop16y_Mle	Employed civilian population 16 years and over: Male:
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining:
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_PrivProfWageSa_005	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_PrivProfWageSa_006	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_PrivProfWageSa_007	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_Occ043	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_Occ032	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Local government workers
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_Occ051	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: State government workers
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_Occ019	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Federal government workers
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_SelfEmplWrkrsO_008	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Mle_AllIndExcAgForFishHuntMin_UnpaidFamWrkr	Employed civilian population 16 years and over: Male: All industries except agriculture, forestry, fishing and hunting, and mining: Unpaid family workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining:
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting:
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_PrivProfW_009	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_PrivProfW_010	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_PrivProfW_011	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_Occ043	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_Occ032	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Local government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_Occ051	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: State government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_Occ019	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Federal government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_SelfEmplW_012	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Mle_AgForFishHuntMin_AgForFishHunt_UnpaidFam_013	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Unpaid family workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining:
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_PrivProfWageSalWork	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_PrivProfWageSalW_014	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_PrivProfWageSalW_015	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_Occ043	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_Occ032	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Local government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_Occ051	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: State government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_Occ019	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Federal government workers
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_SelfEmplWrkrsOwn_016	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Mle_AgForFishHuntMin_Mining_UnpaidFamWrkr	Employed civilian population 16 years and over: Male: Agriculture, forestry, fishing and hunting, and mining: Mining: Unpaid family workers
+EmplCivGtePop16y_Fem	Employed civilian population 16 years and over: Female:
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining:
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_PrivProfWageSa_017	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_PrivProfWageSa_018	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_PrivProfWageSa_019	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_Occ043	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_Occ032	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Local government workers
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_Occ051	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: State government workers
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_Occ019	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Federal government workers
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_SelfEmplWrkrsO_020	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Fem_AllIndExcAgForFishHuntMin_UnpaidFamWrkr	Employed civilian population 16 years and over: Female: All industries except agriculture, forestry, fishing and hunting, and mining: Unpaid family workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining:
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting:
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_PrivProfW_021	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_PrivProfW_022	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_PrivProfW_023	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_Occ043	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_Occ032	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Local government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_Occ051	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: State government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_Occ019	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Federal government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_SelfEmplW_024	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Fem_AgForFishHuntMin_AgForFishHunt_UnpaidFam_025	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Agriculture, forestry, fishing and hunting: Unpaid family workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining:
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_PrivProfWageSalWork	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers:
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_PrivProfWageSalW_026	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers: Employee of private company
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_PrivProfWageSalW_027	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Private for-profit wage and salary workers: Self-employed in own incorporated business
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_Occ043	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Private not-for-profit wage and salary workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_Occ032	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Local government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_Occ051	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: State government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_Occ019	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Federal government workers
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_SelfEmplWrkrsOwn_028	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Self-employed workers in own not incorporated business
+EmplCivGtePop16y_Fem_AgForFishHuntMin_Mining_UnpaidFamWrkr	Employed civilian population 16 years and over: Female: Agriculture, forestry, fishing and hunting, and mining: Mining: Unpaid family workers
+HH_Tot	Households: Total:
+HH_LtUsd10k	Households: Less than $10,000
+HH_Usd10kto15k	Households: $10,000 to $14,999
+HH_Usd15kto20k	Households: $15,000 to $19,999
+HH_Usd20kto25k	Households: $20,000 to $24,999
+HH_Usd25kto30k	Households: $25,000 to $29,999
+HH_Usd30kto35k	Households: $30,000 to $34,999
+HH_Usd35kto40k	Households: $35,000 to $39,999
+HH_Usd40kto45k	Households: $40,000 to $44,999
+HH_Usd45kto50k	Households: $45,000 to $49,999
+HH_Usd50kto60k	Households: $50,000 to $59,999
+HH_Usd60kto75k	Households: $60,000 to $74,999
+HH_Usd75kto100k	Households: $75,000 to $99,999
+HH_Usd100kto125k	Households: $100,000 to $124,999
+HH_Usd125kto150k	Households: $125,000 to $149,999
+HH_Usd150kto200k	Households: $150,000 to $199,999
+HH_Usd200korM	Households: $200,000 or more
+HH_MedHHInc99	Households: Median household income in 1999
+HH_AggHHInc99	Households: Aggregate household income in 1999:
+HH_LtUsd200k	Households: Less than $200,000
+HH_Usd200korM	Households: $200,000 or more
+HH_Tot	Households: Total:
+HH_HhLt25y	Households: Householder under 25 years:
+HH_HhLt25y_LtUsd10k	Households: Householder under 25 years: Less than $10,000
+HH_HhLt25y_Usd10kto15k	Households: Householder under 25 years: $10,000 to $14,999
+HH_HhLt25y_Usd15kto20k	Households: Householder under 25 years: $15,000 to $19,999
+HH_HhLt25y_Usd20kto25k	Households: Householder under 25 years: $20,000 to $24,999
+HH_HhLt25y_Usd25kto30k	Households: Householder under 25 years: $25,000 to $29,999
+HH_HhLt25y_Usd30kto35k	Households: Householder under 25 years: $30,000 to $34,999
+HH_HhLt25y_Usd35kto40k	Households: Householder under 25 years: $35,000 to $39,999
+HH_HhLt25y_Usd40kto45k	Households: Householder under 25 years: $40,000 to $44,999
+HH_HhLt25y_Usd45kto50k	Households: Householder under 25 years: $45,000 to $49,999
+HH_HhLt25y_Usd50kto60k	Households: Householder under 25 years: $50,000 to $59,999
+HH_HhLt25y_Usd60kto75k	Households: Householder under 25 years: $60,000 to $74,999
+HH_HhLt25y_Usd75kto100k	Households: Householder under 25 years: $75,000 to $99,999
+HH_HhLt25y_Usd100kto125k	Households: Householder under 25 years: $100,000 to $124,999
+HH_HhLt25y_Usd125kto150k	Households: Householder under 25 years: $125,000 to $149,999
+HH_HhLt25y_Usd150kto200k	Households: Householder under 25 years: $150,000 to $199,999
+HH_HhLt25y_Usd200korM	Households: Householder under 25 years: $200,000 or more
+HH_Hh25to34y	Households: Householder 25 to 34 years:
+HH_Hh25to34y_LtUsd10k	Households: Householder 25 to 34 years: Less than $10,000
+HH_Hh25to34y_Usd10kto15k	Households: Householder 25 to 34 years: $10,000 to $14,999
+HH_Hh25to34y_Usd15kto20k	Households: Householder 25 to 34 years: $15,000 to $19,999
+HH_Hh25to34y_Usd20kto25k	Households: Householder 25 to 34 years: $20,000 to $24,999
+HH_Hh25to34y_Usd25kto30k	Households: Householder 25 to 34 years: $25,000 to $29,999
+HH_Hh25to34y_Usd30kto35k	Households: Householder 25 to 34 years: $30,000 to $34,999
+HH_Hh25to34y_Usd35kto40k	Households: Householder 25 to 34 years: $35,000 to $39,999
+HH_Hh25to34y_Usd40kto45k	Households: Householder 25 to 34 years: $40,000 to $44,999
+HH_Hh25to34y_Usd45kto50k	Households: Householder 25 to 34 years: $45,000 to $49,999
+HH_Hh25to34y_Usd50kto60k	Households: Householder 25 to 34 years: $50,000 to $59,999
+HH_Hh25to34y_Usd60kto75k	Households: Householder 25 to 34 years: $60,000 to $74,999
+HH_Hh25to34y_Usd75kto100k	Households: Householder 25 to 34 years: $75,000 to $99,999
+HH_Hh25to34y_Usd100kto125k	Households: Householder 25 to 34 years: $100,000 to $124,999
+HH_Hh25to34y_Usd125kto150k	Households: Householder 25 to 34 years: $125,000 to $149,999
+HH_Hh25to34y_Usd150kto200k	Households: Householder 25 to 34 years: $150,000 to $199,999
+HH_Hh25to34y_Usd200korM	Households: Householder 25 to 34 years: $200,000 or more
+HH_Hh35to44y	Households: Householder 35 to 44 years:
+HH_Hh35to44y_LtUsd10k	Households: Householder 35 to 44 years: Less than $10,000
+HH_Hh35to44y_Usd10kto15k	Households: Householder 35 to 44 years: $10,000 to $14,999
+HH_Hh35to44y_Usd15kto20k	Households: Householder 35 to 44 years: $15,000 to $19,999
+HH_Hh35to44y_Usd20kto25k	Households: Householder 35 to 44 years: $20,000 to $24,999
+HH_Hh35to44y_Usd25kto30k	Households: Householder 35 to 44 years: $25,000 to $29,999
+HH_Hh35to44y_Usd30kto35k	Households: Householder 35 to 44 years: $30,000 to $34,999
+HH_Hh35to44y_Usd35kto40k	Households: Householder 35 to 44 years: $35,000 to $39,999
+HH_Hh35to44y_Usd40kto45k	Households: Householder 35 to 44 years: $40,000 to $44,999
+HH_Hh35to44y_Usd45kto50k	Households: Householder 35 to 44 years: $45,000 to $49,999
+HH_Hh35to44y_Usd50kto60k	Households: Householder 35 to 44 years: $50,000 to $59,999
+HH_Hh35to44y_Usd60kto75k	Households: Householder 35 to 44 years: $60,000 to $74,999
+HH_Hh35to44y_Usd75kto100k	Households: Householder 35 to 44 years: $75,000 to $99,999
+HH_Hh35to44y_Usd100kto125k	Households: Householder 35 to 44 years: $100,000 to $124,999
+HH_Hh35to44y_Usd125kto150k	Households: Householder 35 to 44 years: $125,000 to $149,999
+HH_Hh35to44y_Usd150kto200k	Households: Householder 35 to 44 years: $150,000 to $199,999
+HH_Hh35to44y_Usd200korM	Households: Householder 35 to 44 years: $200,000 or more
+HH_Hh45to54y	Households: Householder 45 to 54 years:
+HH_Hh45to54y_LtUsd10k	Households: Householder 45 to 54 years: Less than $10,000
+HH_Hh45to54y_Usd10kto15k	Households: Householder 45 to 54 years: $10,000 to $14,999
+HH_Hh45to54y_Usd15kto20k	Households: Householder 45 to 54 years: $15,000 to $19,999
+HH_Hh45to54y_Usd20kto25k	Households: Householder 45 to 54 years: $20,000 to $24,999
+HH_Hh45to54y_Usd25kto30k	Households: Householder 45 to 54 years: $25,000 to $29,999
+HH_Hh45to54y_Usd30kto35k	Households: Householder 45 to 54 years: $30,000 to $34,999
+HH_Hh45to54y_Usd35kto40k	Households: Householder 45 to 54 years: $35,000 to $39,999
+HH_Hh45to54y_Usd40kto45k	Households: Householder 45 to 54 years: $40,000 to $44,999
+HH_Hh45to54y_Usd45kto50k	Households: Householder 45 to 54 years: $45,000 to $49,999
+HH_Hh45to54y_Usd50kto60k	Households: Householder 45 to 54 years: $50,000 to $59,999
+HH_Hh45to54y_Usd60kto75k	Households: Householder 45 to 54 years: $60,000 to $74,999
+HH_Hh45to54y_Usd75kto100k	Households: Householder 45 to 54 years: $75,000 to $99,999
+HH_Hh45to54y_Usd100kto125k	Households: Householder 45 to 54 years: $100,000 to $124,999
+HH_Hh45to54y_Usd125kto150k	Households: Householder 45 to 54 years: $125,000 to $149,999
+HH_Hh45to54y_Usd150kto200k	Households: Householder 45 to 54 years: $150,000 to $199,999
+HH_Hh45to54y_Usd200korM	Households: Householder 45 to 54 years: $200,000 or more
+HH_Hh55to64y	Households: Householder 55 to 64 years:
+HH_Hh55to64y_LtUsd10k	Households: Householder 55 to 64 years: Less than $10,000
+HH_Hh55to64y_Usd10kto15k	Households: Householder 55 to 64 years: $10,000 to $14,999
+HH_Hh55to64y_Usd15kto20k	Households: Householder 55 to 64 years: $15,000 to $19,999
+HH_Hh55to64y_Usd20kto25k	Households: Householder 55 to 64 years: $20,000 to $24,999
+HH_Hh55to64y_Usd25kto30k	Households: Householder 55 to 64 years: $25,000 to $29,999
+HH_Hh55to64y_Usd30kto35k	Households: Householder 55 to 64 years: $30,000 to $34,999
+HH_Hh55to64y_Usd35kto40k	Households: Householder 55 to 64 years: $35,000 to $39,999
+HH_Hh55to64y_Usd40kto45k	Households: Householder 55 to 64 years: $40,000 to $44,999
+HH_Hh55to64y_Usd45kto50k	Households: Householder 55 to 64 years: $45,000 to $49,999
+HH_Hh55to64y_Usd50kto60k	Households: Householder 55 to 64 years: $50,000 to $59,999
+HH_Hh55to64y_Usd60kto75k	Households: Householder 55 to 64 years: $60,000 to $74,999
+HH_Hh55to64y_Usd75kto100k	Households: Householder 55 to 64 years: $75,000 to $99,999
+HH_Hh55to64y_Usd100kto125k	Households: Householder 55 to 64 years: $100,000 to $124,999
+HH_Hh55to64y_Usd125kto150k	Households: Householder 55 to 64 years: $125,000 to $149,999
+HH_Hh55to64y_Usd150kto200k	Households: Householder 55 to 64 years: $150,000 to $199,999
+HH_Hh55to64y_Usd200korM	Households: Householder 55 to 64 years: $200,000 or more
+HH_Hh65to74y	Households: Householder 65 to 74 years:
+HH_Hh65to74y_LtUsd10k	Households: Householder 65 to 74 years: Less than $10,000
+HH_Hh65to74y_Usd10kto15k	Households: Householder 65 to 74 years: $10,000 to $14,999
+HH_Hh65to74y_Usd15kto20k	Households: Householder 65 to 74 years: $15,000 to $19,999
+HH_Hh65to74y_Usd20kto25k	Households: Householder 65 to 74 years: $20,000 to $24,999
+HH_Hh65to74y_Usd25kto30k	Households: Householder 65 to 74 years: $25,000 to $29,999
+HH_Hh65to74y_Usd30kto35k	Households: Householder 65 to 74 years: $30,000 to $34,999
+HH_Hh65to74y_Usd35kto40k	Households: Householder 65 to 74 years: $35,000 to $39,999
+HH_Hh65to74y_Usd40kto45k	Households: Householder 65 to 74 years: $40,000 to $44,999
+HH_Hh65to74y_Usd45kto50k	Households: Householder 65 to 74 years: $45,000 to $49,999
+HH_Hh65to74y_Usd50kto60k	Households: Householder 65 to 74 years: $50,000 to $59,999
+HH_Hh65to74y_Usd60kto75k	Households: Householder 65 to 74 years: $60,000 to $74,999
+HH_Hh65to74y_Usd75kto100k	Households: Householder 65 to 74 years: $75,000 to $99,999
+HH_Hh65to74y_Usd100kto125k	Households: Householder 65 to 74 years: $100,000 to $124,999
+HH_Hh65to74y_Usd125kto150k	Households: Householder 65 to 74 years: $125,000 to $149,999
+HH_Hh65to74y_Usd150kto200k	Households: Householder 65 to 74 years: $150,000 to $199,999
+HH_Hh65to74y_Usd200korM	Households: Householder 65 to 74 years: $200,000 or more
+HH_HhGte75y	Households: Householder 75 years and over:
+HH_HhGte75y_LtUsd10k	Households: Householder 75 years and over: Less than $10,000
+HH_HhGte75y_Usd10kto15k	Households: Householder 75 years and over: $10,000 to $14,999
+HH_HhGte75y_Usd15kto20k	Households: Householder 75 years and over: $15,000 to $19,999
+HH_HhGte75y_Usd20kto25k	Households: Householder 75 years and over: $20,000 to $24,999
+HH_HhGte75y_Usd25kto30k	Households: Householder 75 years and over: $25,000 to $29,999
+HH_HhGte75y_Usd30kto35k	Households: Householder 75 years and over: $30,000 to $34,999
+HH_HhGte75y_Usd35kto40k	Households: Householder 75 years and over: $35,000 to $39,999
+HH_HhGte75y_Usd40kto45k	Households: Householder 75 years and over: $40,000 to $44,999
+HH_HhGte75y_Usd45kto50k	Households: Householder 75 years and over: $45,000 to $49,999
+HH_HhGte75y_Usd50kto60k	Households: Householder 75 years and over: $50,000 to $59,999
+HH_HhGte75y_Usd60kto75k	Households: Householder 75 years and over: $60,000 to $74,999
+HH_HhGte75y_Usd75kto100k	Households: Householder 75 years and over: $75,000 to $99,999
+HH_HhGte75y_Usd100kto125k	Households: Householder 75 years and over: $100,000 to $124,999
+HH_HhGte75y_Usd125kto150k	Households: Householder 75 years and over: $125,000 to $149,999
+HH_HhGte75y_Usd150kto200k	Households: Householder 75 years and over: $150,000 to $199,999
+HH_HhGte75y_Usd200korM	Households: Householder 75 years and over: $200,000 or more
+HH_Tot	Households: Total
+HH_HhLt25y	Households: Householder under 25 years
+HH_Hh25to34y	Households: Householder 25 to 34 years
+HH_Hh35to44y	Households: Householder 35 to 44 years
+HH_Hh45to54y	Households: Householder 45 to 54 years
+HH_Hh55to64y	Households: Householder 55 to 64 years
+HH_Hh65to74y	Households: Householder 65 to 74 years
+HH_HhGte75y	Households: Householder 75 years and over
+HH_AggHHInc99	Households: Aggregate household income in 1999:
+HH_HhLt25y	Households: Householder under 25 years
+HH_Hh25to34y	Households: Householder 25 to 34 years
+HH_Hh35to44y	Households: Householder 35 to 44 years
+HH_Hh45to54y	Households: Householder 45 to 54 years
+HH_Hh55to64y	Households: Householder 55 to 64 years
+HH_Hh65to74y	Households: Householder 65 to 74 years
+HH_HhGte75y	Households: Householder 75 years and over
+HH_Tot	Households: Total:
+HH_WEarn	Households: With earnings
+HH_NoEarn	Households: No earnings
+HH_Tot	Households: Total:
+HH_WWageSalInc	Households: With wage or salary income
+HH_NoWageSalInc	Households: No wage or salary income
+HH_Tot	Households: Total:
+HH_WSelfEmplInc	Households: With self-employment income
+HH_NoSelfEmplInc	Households: No self-employment income
+HH_Tot	Households: Total:
+HH_WIntDivNetRentInc	Households: With interest, dividends, or net rental income
+HH_NoIntDivNetRentInc	Households: No interest, dividends, or net rental income
+HH_Tot	Households: Total:
+HH_WSocSecInc	Households: With Social Security income
+HH_NoSocSecInc	Households: No Social Security income
+HH_Tot	Households: Total:
+HH_WSuppSecInc	Households: With Supplemental Security Income (SSI)
+HH_NoSuppSecInc	Households: No Supplemental Security Income (SSI)
+HH_Tot	Households: Total:
+HH_WPubAssInc	Households: With public assistance income
+HH_NoPubAssInc	Households: No public assistance income
+HH_Tot	Households: Total:
+HH_WRetInc	Households: With retirement income
+HH_NoRetInc	Households: No retirement income
+HH_Tot	Households: Total:
+HH_WOthInc	Households: With other types of income
+HH_NoOthTypeInc	Households: No other types of income
+HH_AggEarn99	Households: Aggregate earnings in 1999

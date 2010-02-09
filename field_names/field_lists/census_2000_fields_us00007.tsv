@@ -1,0 +1,215 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+HH_AggWageSalInc99	Households: Aggregate wage or salary income in 1999
+HH_AggSelfEmplInc99	Households: Aggregate self-employment income in 1999
+HH_AggIntDivRentInc99	Households: Aggregate interest, dividends, or net rental income in 1999
+HH_AggSSInc99	Households: Aggregate Social Security income in 1999
+HH_AggSupSecInc99	Households: Aggregate Supplemental Security Income in 1999
+HH_AggPubAssInc99	Households: Aggregate public assistance income in 1999
+HH_AggRetInc99	Households: Aggregate retirement income in 1999
+HH_AggOthInc99	Households: Aggregate other types of income in 1999
+Fam_Tot	Families: Total:
+Fam_LtUsd10k	Families: Less than $10,000
+Fam_Usd10kto15k	Families: $10,000 to $14,999
+Fam_Usd15kto20k	Families: $15,000 to $19,999
+Fam_Usd20kto25k	Families: $20,000 to $24,999
+Fam_Usd25kto30k	Families: $25,000 to $29,999
+Fam_Usd30kto35k	Families: $30,000 to $34,999
+Fam_Usd35kto40k	Families: $35,000 to $39,999
+Fam_Usd40kto45k	Families: $40,000 to $44,999
+Fam_Usd45kto50k	Families: $45,000 to $49,999
+Fam_Usd50kto60k	Families: $50,000 to $59,999
+Fam_Usd60kto75k	Families: $60,000 to $74,999
+Fam_Usd75kto100k	Families: $75,000 to $99,999
+Fam_Usd100kto125k	Families: $100,000 to $124,999
+Fam_Usd125kto150k	Families: $125,000 to $149,999
+Fam_Usd150kto200k	Families: $150,000 to $199,999
+Fam_Usd200korM	Families: $200,000 or more
+Fam_MedFamInc99	Families: Median family income in 1999
+Fam_AggFamInc99	Families: Aggregate family income in 1999:
+Fam_LtUsd200k	Families: Less than $200,000
+Fam_Usd200korM	Families: $200,000 or more
+NFamHH_Tot	Nonfamily households: Total:
+NFamHH_LtUsd10k	Nonfamily households: Less than $10,000
+NFamHH_Usd10kto15k	Nonfamily households: $10,000 to $14,999
+NFamHH_Usd15kto20k	Nonfamily households: $15,000 to $19,999
+NFamHH_Usd20kto25k	Nonfamily households: $20,000 to $24,999
+NFamHH_Usd25kto30k	Nonfamily households: $25,000 to $29,999
+NFamHH_Usd30kto35k	Nonfamily households: $30,000 to $34,999
+NFamHH_Usd35kto40k	Nonfamily households: $35,000 to $39,999
+NFamHH_Usd40kto45k	Nonfamily households: $40,000 to $44,999
+NFamHH_Usd45kto50k	Nonfamily households: $45,000 to $49,999
+NFamHH_Usd50kto60k	Nonfamily households: $50,000 to $59,999
+NFamHH_Usd60kto75k	Nonfamily households: $60,000 to $74,999
+NFamHH_Usd75kto100k	Nonfamily households: $75,000 to $99,999
+NFamHH_Usd100kto125k	Nonfamily households: $100,000 to $124,999
+NFamHH_Usd125kto150k	Nonfamily households: $125,000 to $149,999
+NFamHH_Usd150kto200k	Nonfamily households: $150,000 to $199,999
+NFamHH_Usd200korM	Nonfamily households: $200,000 or more
+NFamHH_MedBFamHHInc99	Nonfamily households: Median nonfamily household income in 1999
+NFamHH_AggNFamHHInc99	Nonfamily households: Aggregate nonfamily household income in 1999:
+NFamHH_LtUsd200k	Nonfamily households: Less than $200,000
+NFamHH_Usd200korM	Nonfamily households: $200,000 or more
+TotPop_PerCapInc99	Total population: Per capita income in 1999
+PopGte15y_AggInc99	Population 15 years and over: Aggregate Income in 1999
+PopGte16yEarn_Tot	Population 16 years and over with earnings: Total:
+PopGte16yEarn_Mle	Population 16 years and over with earnings: Male:
+PopGte16yEarn_Mle_Usd1kto2.5korL	Population 16 years and over with earnings: Male: $1 to $2,499 or loss
+PopGte16yEarn_Mle_Usd2.5kto5k	Population 16 years and over with earnings: Male: $2,500 to $4,999
+PopGte16yEarn_Mle_Usd5kto7.5k	Population 16 years and over with earnings: Male: $5,000 to $7,499
+PopGte16yEarn_Mle_Usd7.5kto10k	Population 16 years and over with earnings: Male: $7,500 to $9,999
+PopGte16yEarn_Mle_Usd10kto12.5k	Population 16 years and over with earnings: Male: $10,000 to $12,499
+PopGte16yEarn_Mle_Usd12.5kto15k	Population 16 years and over with earnings: Male: $12,500 to $14,999
+PopGte16yEarn_Mle_Usd15kto17.5k	Population 16 years and over with earnings: Male: $15,000 to $17,499
+PopGte16yEarn_Mle_Usd17.5kto20k	Population 16 years and over with earnings: Male: $17,500 to $19,999
+PopGte16yEarn_Mle_Usd20kto22.5k	Population 16 years and over with earnings: Male: $20,000 to $22,499
+PopGte16yEarn_Mle_Usd22.5kto25k	Population 16 years and over with earnings: Male: $22,500 to $24,999
+PopGte16yEarn_Mle_Usd25kto30k	Population 16 years and over with earnings: Male: $25,000 to $29,999
+PopGte16yEarn_Mle_Usd30kto35k	Population 16 years and over with earnings: Male: $30,000 to $34,999
+PopGte16yEarn_Mle_Usd35kto40k	Population 16 years and over with earnings: Male: $35,000 to $39,999
+PopGte16yEarn_Mle_Usd40kto45k	Population 16 years and over with earnings: Male: $40,000 to $44,999
+PopGte16yEarn_Mle_Usd45kto50k	Population 16 years and over with earnings: Male: $45,000 to $49,999
+PopGte16yEarn_Mle_Usd50kto55k	Population 16 years and over with earnings: Male: $50,000 to $54,999
+PopGte16yEarn_Mle_Usd55kto65k	Population 16 years and over with earnings: Male: $55,000 to $64,999
+PopGte16yEarn_Mle_Usd65kto75k	Population 16 years and over with earnings: Male: $65,000 to $74,999
+PopGte16yEarn_Mle_Usd75kto100k	Population 16 years and over with earnings: Male: $75,000 to $99,999
+PopGte16yEarn_Mle_Usd100korM	Population 16 years and over with earnings: Male: $100,000 or more
+PopGte16yEarn_Fem	Population 16 years and over with earnings: Female:
+PopGte16yEarn_Fem_Usd1kto2.5korL	Population 16 years and over with earnings: Female: $1 to $2,499 or loss
+PopGte16yEarn_Fem_Usd2.5kto5k	Population 16 years and over with earnings: Female: $2,500 to $4,999
+PopGte16yEarn_Fem_Usd5kto7.5k	Population 16 years and over with earnings: Female: $5,000 to $7,499
+PopGte16yEarn_Fem_Usd7.5kto10k	Population 16 years and over with earnings: Female: $7,500 to $9,999
+PopGte16yEarn_Fem_Usd10kto12.5k	Population 16 years and over with earnings: Female: $10,000 to $12,499
+PopGte16yEarn_Fem_Usd12.5kto15k	Population 16 years and over with earnings: Female: $12,500 to $14,999
+PopGte16yEarn_Fem_Usd15kto17.5k	Population 16 years and over with earnings: Female: $15,000 to $17,499
+PopGte16yEarn_Fem_Usd17.5kto20k	Population 16 years and over with earnings: Female: $17,500 to $19,999
+PopGte16yEarn_Fem_Usd20kto22.5k	Population 16 years and over with earnings: Female: $20,000 to $22,499
+PopGte16yEarn_Fem_Usd22.5kto25k	Population 16 years and over with earnings: Female: $22,500 to $24,999
+PopGte16yEarn_Fem_Usd25kto30k	Population 16 years and over with earnings: Female: $25,000 to $29,999
+PopGte16yEarn_Fem_Usd30kto35k	Population 16 years and over with earnings: Female: $30,000 to $34,999
+PopGte16yEarn_Fem_Usd35kto40k	Population 16 years and over with earnings: Female: $35,000 to $39,999
+PopGte16yEarn_Fem_Usd40kto45k	Population 16 years and over with earnings: Female: $40,000 to $44,999
+PopGte16yEarn_Fem_Usd45kto50k	Population 16 years and over with earnings: Female: $45,000 to $49,999
+PopGte16yEarn_Fem_Usd50kto55k	Population 16 years and over with earnings: Female: $50,000 to $54,999
+PopGte16yEarn_Fem_Usd55kto65k	Population 16 years and over with earnings: Female: $55,000 to $64,999
+PopGte16yEarn_Fem_Usd65kto75k	Population 16 years and over with earnings: Female: $65,000 to $74,999
+PopGte16yEarn_Fem_Usd75kto100k	Population 16 years and over with earnings: Female: $75,000 to $99,999
+PopGte16yEarn_Fem_Usd100korM	Population 16 years and over with earnings: Female: $100,000 or more
+PopGte16yEarn_Tot	Population 16 years and over with earnings: Total
+PopGte16yEarn_Mle	Population 16 years and over with earnings: Male
+PopGte16yEarn_Fem	Population 16 years and over with earnings: Female
+PopGte16yEarn_AggEarn99	Population 16 years and over with earnings: Aggregate earnings in 1999:
+PopGte16yEarn_Mle	Population 16 years and over with earnings: Male
+PopGte16yEarn_Fem	Population 16 years and over with earnings: Female
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Inc99LtPov	Population for whom poverty status is determined: Income in 1999 below poverty level:
+PopPovDet_Inc99LtPov_Lt5y	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 5 years
+PopPovDet_Inc99LtPov_5y	Population for whom poverty status is determined: Income in 1999 below poverty level: 5 years
+PopPovDet_Inc99LtPov_6to11y	Population for whom poverty status is determined: Income in 1999 below poverty level: 6 to 11 years
+PopPovDet_Inc99LtPov_12to17y	Population for whom poverty status is determined: Income in 1999 below poverty level: 12 to 17 years
+PopPovDet_Inc99LtPov_18to64y	Population for whom poverty status is determined: Income in 1999 below poverty level: 18 to 64 years
+PopPovDet_Inc99LtPov_65to74y	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years
+PopPovDet_Inc99LtPov_Gte75y	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over
+PopPovDet_Inc99GtePov	Population for whom poverty status is determined: Income in 1999 at or above poverty level:
+PopPovDet_Inc99GtePov_Lt5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 5 years
+PopPovDet_Inc99GtePov_5y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 5 years
+PopPovDet_Inc99GtePov_6to11y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 6 to 11 years
+PopPovDet_Inc99GtePov_12to17y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 12 to 17 years
+PopPovDet_Inc99GtePov_18to64y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 18 to 64 years
+PopPovDet_Inc99GtePov_65to74y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years
+PopPovDet_Inc99GtePov_Gte75y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Lt0.50	Population for whom poverty status is determined: Under .50
+PopPovDet_50to0.74	Population for whom poverty status is determined: 50 to .74
+PopPovDet_75to0.99	Population for whom poverty status is determined: 75 to .99
+PopPovDet_1to1.24	Population for whom poverty status is determined: 1.00 to 1.24
+PopPovDet_1.25to1.49	Population for whom poverty status is determined: 1.25 to 1.49
+PopPovDet_1.50to1.74	Population for whom poverty status is determined: 1.50 to 1.74
+PopPovDet_1.75to1.84	Population for whom poverty status is determined: 1.75 to 1.84
+PopPovDet_1.85to1.99	Population for whom poverty status is determined: 1.85 to 1.99
+PopPovDet_Gte2	Population for whom poverty status is determined: 2.00 and over
+PopPovDet_Tot	Population for whom poverty status is determined: Total:
+PopPovDet_Inc99LtPov	Population for whom poverty status is determined: Income in 1999 below poverty level:
+PopPovDet_Inc99LtPov_Lt65y	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years:
+PopPovDet_Inc99LtPov_Lt65y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years: In married-couple families
+PopPovDet_Inc99LtPov_Lt65y_OthFam	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years: In other families:
+PopPovDet_Inc99LtPov_Lt65y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years: In other families: Male householder, no wife present
+PopPovDet_Inc99LtPov_Lt65y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years: In other families: Female householder, no husband present
+PopPovDet_Inc99LtPov_Lt65y_UnrelInd	Population for whom poverty status is determined: Income in 1999 below poverty level: Under 65 years: Unrelated individuals
+PopPovDet_Inc99LtPov_65to74y	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years:
+PopPovDet_Inc99LtPov_65to74y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years: In married-couple families
+PopPovDet_Inc99LtPov_65to74y_OthFam	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years: In other families:
+PopPovDet_Inc99LtPov_65to74y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years: In other families: Male householder, no wife present
+PopPovDet_Inc99LtPov_65to74y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years: In other families: Female householder, no husband present
+PopPovDet_Inc99LtPov_65to74y_UnrelInd	Population for whom poverty status is determined: Income in 1999 below poverty level: 65 to 74 years: Unrelated individuals
+PopPovDet_Inc99LtPov_Gte75y	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over:
+PopPovDet_Inc99LtPov_Gte75y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over: In married-couple families
+PopPovDet_Inc99LtPov_Gte75y_OthFam	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over: In other families:
+PopPovDet_Inc99LtPov_Gte75y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over: In other families: Male householder, no wife present
+PopPovDet_Inc99LtPov_Gte75y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over: In other families: Female householder, no husband present
+PopPovDet_Inc99LtPov_Gte75y_UnrelInd	Population for whom poverty status is determined: Income in 1999 below poverty level: 75 years and over: Unrelated individuals
+PopPovDet_Inc99GtePov	Population for whom poverty status is determined: Income in 1999 at or above poverty level:
+PopPovDet_Inc99GtePov_Lt65y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years:
+PopPovDet_Inc99GtePov_Lt65y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years: In married-couple families
+PopPovDet_Inc99GtePov_Lt65y_OthFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years: In other families:
+PopPovDet_Inc99GtePov_Lt65y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years: In other families: Male householder, no wife present
+PopPovDet_Inc99GtePov_Lt65y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years: In other families: Female householder, no husband present
+PopPovDet_Inc99GtePov_Lt65y_UnrelInd	Population for whom poverty status is determined: Income in 1999 at or above poverty level: Under 65 years: Unrelated individuals
+PopPovDet_Inc99GtePov_65to74y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years:
+PopPovDet_Inc99GtePov_65to74y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years: In married-couple families
+PopPovDet_Inc99GtePov_65to74y_OthFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years: In other families:
+PopPovDet_Inc99GtePov_65to74y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years: In other families: Male householder, no wife present
+PopPovDet_Inc99GtePov_65to74y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years: In other families: Female householder, no husband present
+PopPovDet_Inc99GtePov_65to74y_UnrelInd	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 65 to 74 years: Unrelated individuals
+PopPovDet_Inc99GtePov_Gte75y	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over:
+PopPovDet_Inc99GtePov_Gte75y_MrdCplFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over: In married-couple families
+PopPovDet_Inc99GtePov_Gte75y_OthFam	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over: In other families:
+PopPovDet_Inc99GtePov_Gte75y_OthFam_MleHhNoWife	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over: In other families: Male householder, no wife present
+PopPovDet_Inc99GtePov_Gte75y_OthFam_FemHhNoHusb	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over: In other families: Female householder, no husband present
+PopPovDet_Inc99GtePov_Gte75y_UnrelInd	Population for whom poverty status is determined: Income in 1999 at or above poverty level: 75 years and over: Unrelated individuals
+Fam_Tot	Families: Total:
+Fam_Inc99LtPov	Families: Income in 1999 below poverty level:
+Fam_Inc99LtPov_MrdCplFam	Families: Income in 1999 below poverty level: Married-couple family:
+Fam_Inc99LtPov_MrdCplFam_WRelChldLt18y	Families: Income in 1999 below poverty level: Married-couple family: With related children under 18 years:
+Fam_Inc99LtPov_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 below poverty level: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_Inc99LtPov_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 below poverty level: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99LtPov_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: Income in 1999 below poverty level: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_Inc99LtPov_MrdCplFam_NoRelChldLt18y	Families: Income in 1999 below poverty level: Married-couple family: No related children under 18 years
+Fam_Inc99LtPov_OthFam	Families: Income in 1999 below poverty level: Other family:
+Fam_Inc99LtPov_OthFam_MleHhNoWife	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WRelChldLt18y	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99LtPov_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_Inc99LtPov_OthFam_MleHhNoWife_NoRelChldLt18y	Families: Income in 1999 below poverty level: Other family: Male householder, no wife present: No related children under 18 years
+Fam_Inc99LtPov_OthFam_FemHhNoHusb	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WRelChldLt18y	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_Inc99LtPov_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: Income in 1999 below poverty level: Other family: Female householder, no husband present: No related children under 18 years
+Fam_Inc99GtePov	Families: Income in 1999 at or above poverty level:
+Fam_Inc99GtePov_MrdCplFam	Families: Income in 1999 at or above poverty level: Married-couple family:
+Fam_Inc99GtePov_MrdCplFam_WRelChldLt18y	Families: Income in 1999 at or above poverty level: Married-couple family: With related children under 18 years:
+Fam_Inc99GtePov_MrdCplFam_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 at or above poverty level: Married-couple family: With related children under 18 years: Under 5 years only
+Fam_Inc99GtePov_MrdCplFam_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 at or above poverty level: Married-couple family: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99GtePov_MrdCplFam_WRelChldLt18y_5to17yOnly	Families: Income in 1999 at or above poverty level: Married-couple family: With related children under 18 years: 5 to 17 years only
+Fam_Inc99GtePov_MrdCplFam_NoRelChldLt18y	Families: Income in 1999 at or above poverty level: Married-couple family: No related children under 18 years
+Fam_Inc99GtePov_OthFam	Families: Income in 1999 at or above poverty level: Other family:
+Fam_Inc99GtePov_OthFam_MleHhNoWife	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WRelChldLt18y	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With related children under 18 years:
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years only
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99GtePov_OthFam_MleHhNoWife_WRelChldLt18y_5to17yOnly	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: With related children under 18 years: 5 to 17 years only
+Fam_Inc99GtePov_OthFam_MleHhNoWife_NoRelChldLt18y	Families: Income in 1999 at or above poverty level: Other family: Male householder, no wife present: No related children under 18 years
+Fam_Inc99GtePov_OthFam_FemHhNoHusb	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WRelChldLt18y	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With related children under 18 years:
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yOnly	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years only
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WRelChldLt18y_Lt5yand5to17y	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With related children under 18 years: Under 5 years and 5 to 17 years
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_WRelChldLt18y_5to17yOnly	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: With related children under 18 years: 5 to 17 years only
+Fam_Inc99GtePov_OthFam_FemHhNoHusb_NoRelChldLt18y	Families: Income in 1999 at or above poverty level: Other family: Female householder, no husband present: No related children under 18 years
+FamInc99BelPov_AggIncDef99	Families with income in 1999 below the poverty level: Aggregate income deficit in 1999:
+FamInc99BelPov_MrdCplFam	Families with income in 1999 below the poverty level: Married-couple family
+FamInc99BelPov_OthFam	Families with income in 1999 below the poverty level: Other family:
+FamInc99BelPov_OthFam_MleHhNoWife	Families with income in 1999 below the poverty level: Other family: Male householder, no wife present
+FamInc99BelPov_OthFam_FemHhNoHusb	Families with income in 1999 below the poverty level: Other family: Female householder, no husband present

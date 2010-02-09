@@ -1,0 +1,223 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopGte16y_Tot	Population 16 years and over: Total:
+PopGte16y_Mle	Population 16 years and over: Male:
+PopGte16y_Mle_16to19y	Population 16 years and over: Male: 16 to 19 years:
+PopGte16y_Mle_16to19y_InLabrFor	Population 16 years and over: Male: 16 to 19 years: In labor force:
+PopGte16y_Mle_16to19y_InLabrFor_ArmForce	Population 16 years and over: Male: 16 to 19 years: In labor force: In Armed Forces
+PopGte16y_Mle_16to19y_InLabrFor_Civ	Population 16 years and over: Male: 16 to 19 years: In labor force: Civilian:
+PopGte16y_Mle_16to19y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 16 to 19 years: In labor force: Civilian: Employed
+PopGte16y_Mle_16to19y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 16 to 19 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_16to19y_NotLabrFor	Population 16 years and over: Male: 16 to 19 years: Not in labor force
+PopGte16y_Mle_20to21y	Population 16 years and over: Male: 20 to 21 years:
+PopGte16y_Mle_20to21y_InLabrFor	Population 16 years and over: Male: 20 to 21 years: In labor force:
+PopGte16y_Mle_20to21y_InLabrFor_ArmForce	Population 16 years and over: Male: 20 to 21 years: In labor force: In Armed Forces
+PopGte16y_Mle_20to21y_InLabrFor_Civ	Population 16 years and over: Male: 20 to 21 years: In labor force: Civilian:
+PopGte16y_Mle_20to21y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 20 to 21 years: In labor force: Civilian: Employed
+PopGte16y_Mle_20to21y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 20 to 21 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_20to21y_NotLabrFor	Population 16 years and over: Male: 20 to 21 years: Not in labor force
+PopGte16y_Mle_22to24y	Population 16 years and over: Male: 22 to 24 years:
+PopGte16y_Mle_22to24y_InLabrFor	Population 16 years and over: Male: 22 to 24 years: In labor force:
+PopGte16y_Mle_22to24y_InLabrFor_ArmForce	Population 16 years and over: Male: 22 to 24 years: In labor force: In Armed Forces
+PopGte16y_Mle_22to24y_InLabrFor_Civ	Population 16 years and over: Male: 22 to 24 years: In labor force: Civilian:
+PopGte16y_Mle_22to24y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 22 to 24 years: In labor force: Civilian: Employed
+PopGte16y_Mle_22to24y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 22 to 24 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_22to24y_NotLabrFor	Population 16 years and over: Male: 22 to 24 years: Not in labor force
+PopGte16y_Mle_25to29y	Population 16 years and over: Male: 25 to 29 years:
+PopGte16y_Mle_25to29y_InLabrFor	Population 16 years and over: Male: 25 to 29 years: In labor force:
+PopGte16y_Mle_25to29y_InLabrFor_ArmForce	Population 16 years and over: Male: 25 to 29 years: In labor force: In Armed Forces
+PopGte16y_Mle_25to29y_InLabrFor_Civ	Population 16 years and over: Male: 25 to 29 years: In labor force: Civilian:
+PopGte16y_Mle_25to29y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 25 to 29 years: In labor force: Civilian: Employed
+PopGte16y_Mle_25to29y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 25 to 29 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_25to29y_NotLabrFor	Population 16 years and over: Male: 25 to 29 years: Not in labor force
+PopGte16y_Mle_30to34y	Population 16 years and over: Male: 30 to 34 years:
+PopGte16y_Mle_30to34y_InLabrFor	Population 16 years and over: Male: 30 to 34 years: In labor force:
+PopGte16y_Mle_30to34y_InLabrFor_ArmForce	Population 16 years and over: Male: 30 to 34 years: In labor force: In Armed Forces
+PopGte16y_Mle_30to34y_InLabrFor_Civ	Population 16 years and over: Male: 30 to 34 years: In labor force: Civilian:
+PopGte16y_Mle_30to34y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 30 to 34 years: In labor force: Civilian: Employed
+PopGte16y_Mle_30to34y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 30 to 34 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_30to34y_NotLabrFor	Population 16 years and over: Male: 30 to 34 years: Not in labor force
+PopGte16y_Mle_35to44y	Population 16 years and over: Male: 35 to 44 years:
+PopGte16y_Mle_35to44y_InLabrFor	Population 16 years and over: Male: 35 to 44 years: In labor force:
+PopGte16y_Mle_35to44y_InLabrFor_ArmForce	Population 16 years and over: Male: 35 to 44 years: In labor force: In Armed Forces
+PopGte16y_Mle_35to44y_InLabrFor_Civ	Population 16 years and over: Male: 35 to 44 years: In labor force: Civilian:
+PopGte16y_Mle_35to44y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 35 to 44 years: In labor force: Civilian: Employed
+PopGte16y_Mle_35to44y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 35 to 44 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_35to44y_NotLabrFor	Population 16 years and over: Male: 35 to 44 years: Not in labor force
+PopGte16y_Mle_45to54y	Population 16 years and over: Male: 45 to 54 years:
+PopGte16y_Mle_45to54y_InLabrFor	Population 16 years and over: Male: 45 to 54 years: In labor force:
+PopGte16y_Mle_45to54y_InLabrFor_ArmForce	Population 16 years and over: Male: 45 to 54 years: In labor force: In Armed Forces
+PopGte16y_Mle_45to54y_InLabrFor_Civ	Population 16 years and over: Male: 45 to 54 years: In labor force: Civilian:
+PopGte16y_Mle_45to54y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 45 to 54 years: In labor force: Civilian: Employed
+PopGte16y_Mle_45to54y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 45 to 54 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_45to54y_NotLabrFor	Population 16 years and over: Male: 45 to 54 years: Not in labor force
+PopGte16y_Mle_55to59y	Population 16 years and over: Male: 55 to 59 years:
+PopGte16y_Mle_55to59y_InLabrFor	Population 16 years and over: Male: 55 to 59 years: In labor force:
+PopGte16y_Mle_55to59y_InLabrFor_ArmForce	Population 16 years and over: Male: 55 to 59 years: In labor force: In Armed Forces
+PopGte16y_Mle_55to59y_InLabrFor_Civ	Population 16 years and over: Male: 55 to 59 years: In labor force: Civilian:
+PopGte16y_Mle_55to59y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 55 to 59 years: In labor force: Civilian: Employed
+PopGte16y_Mle_55to59y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 55 to 59 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_55to59y_NotLabrFor	Population 16 years and over: Male: 55 to 59 years: Not in labor force
+PopGte16y_Mle_60to61y	Population 16 years and over: Male: 60 to 61 years:
+PopGte16y_Mle_60to61y_InLabrFor	Population 16 years and over: Male: 60 to 61 years: In labor force:
+PopGte16y_Mle_60to61y_InLabrFor_ArmForce	Population 16 years and over: Male: 60 to 61 years: In labor force: In Armed Forces
+PopGte16y_Mle_60to61y_InLabrFor_Civ	Population 16 years and over: Male: 60 to 61 years: In labor force: Civilian:
+PopGte16y_Mle_60to61y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 60 to 61 years: In labor force: Civilian: Employed
+PopGte16y_Mle_60to61y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 60 to 61 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_60to61y_NotLabrFor	Population 16 years and over: Male: 60 to 61 years: Not in labor force
+PopGte16y_Mle_62to64y	Population 16 years and over: Male: 62 to 64 years:
+PopGte16y_Mle_62to64y_InLabrFor	Population 16 years and over: Male: 62 to 64 years: In labor force:
+PopGte16y_Mle_62to64y_InLabrFor_ArmForce	Population 16 years and over: Male: 62 to 64 years: In labor force: In Armed Forces
+PopGte16y_Mle_62to64y_InLabrFor_Civ	Population 16 years and over: Male: 62 to 64 years: In labor force: Civilian:
+PopGte16y_Mle_62to64y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 62 to 64 years: In labor force: Civilian: Employed
+PopGte16y_Mle_62to64y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 62 to 64 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_62to64y_NotLabrFor	Population 16 years and over: Male: 62 to 64 years: Not in labor force
+PopGte16y_Mle_65to69y	Population 16 years and over: Male: 65 to 69 years:
+PopGte16y_Mle_65to69y_InLabrFor	Population 16 years and over: Male: 65 to 69 years: In labor force:
+PopGte16y_Mle_65to69y_InLabrFor_ArmForce	Population 16 years and over: Male: 65 to 69 years: In labor force: In Armed Forces
+PopGte16y_Mle_65to69y_InLabrFor_Civ	Population 16 years and over: Male: 65 to 69 years: In labor force: Civilian:
+PopGte16y_Mle_65to69y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 65 to 69 years: In labor force: Civilian: Employed
+PopGte16y_Mle_65to69y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 65 to 69 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_65to69y_NotLabrFor	Population 16 years and over: Male: 65 to 69 years: Not in labor force
+PopGte16y_Mle_70to74y	Population 16 years and over: Male: 70 to 74 years:
+PopGte16y_Mle_70to74y_InLabrFor	Population 16 years and over: Male: 70 to 74 years: In labor force:
+PopGte16y_Mle_70to74y_InLabrFor_ArmForce	Population 16 years and over: Male: 70 to 74 years: In labor force: In Armed Forces
+PopGte16y_Mle_70to74y_InLabrFor_Civ	Population 16 years and over: Male: 70 to 74 years: In labor force: Civilian:
+PopGte16y_Mle_70to74y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 70 to 74 years: In labor force: Civilian: Employed
+PopGte16y_Mle_70to74y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 70 to 74 years: In labor force: Civilian: Unemployed
+PopGte16y_Mle_70to74y_NotLabrFor	Population 16 years and over: Male: 70 to 74 years: Not in labor force
+PopGte16y_Mle_Gte75y	Population 16 years and over: Male: 75 years and over:
+PopGte16y_Mle_Gte75y_InLabrFor	Population 16 years and over: Male: 75 years and over: In labor force:
+PopGte16y_Mle_Gte75y_InLabrFor_ArmForce	Population 16 years and over: Male: 75 years and over: In labor force: In Armed Forces
+PopGte16y_Mle_Gte75y_InLabrFor_Civ	Population 16 years and over: Male: 75 years and over: In labor force: Civilian:
+PopGte16y_Mle_Gte75y_InLabrFor_Civ_Empl	Population 16 years and over: Male: 75 years and over: In labor force: Civilian: Employed
+PopGte16y_Mle_Gte75y_InLabrFor_Civ_Unempl	Population 16 years and over: Male: 75 years and over: In labor force: Civilian: Unemployed
+PopGte16y_Mle_Gte75y_NotLabrFor	Population 16 years and over: Male: 75 years and over: Not in labor force
+PopGte16y_Fem	Population 16 years and over: Female:
+PopGte16y_Fem_16to19y	Population 16 years and over: Female: 16 to 19 years:
+PopGte16y_Fem_16to19y_InLabrFor	Population 16 years and over: Female: 16 to 19 years: In labor force:
+PopGte16y_Fem_16to19y_InLabrFor_ArmForce	Population 16 years and over: Female: 16 to 19 years: In labor force: In Armed Forces
+PopGte16y_Fem_16to19y_InLabrFor_Civ	Population 16 years and over: Female: 16 to 19 years: In labor force: Civilian:
+PopGte16y_Fem_16to19y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 16 to 19 years: In labor force: Civilian: Employed
+PopGte16y_Fem_16to19y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 16 to 19 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_16to19y_NotLabrFor	Population 16 years and over: Female: 16 to 19 years: Not in labor force
+PopGte16y_Fem_20to21y	Population 16 years and over: Female: 20 to 21 years:
+PopGte16y_Fem_20to21y_InLabrFor	Population 16 years and over: Female: 20 to 21 years: In labor force:
+PopGte16y_Fem_20to21y_InLabrFor_ArmForce	Population 16 years and over: Female: 20 to 21 years: In labor force: In Armed Forces
+PopGte16y_Fem_20to21y_InLabrFor_Civ	Population 16 years and over: Female: 20 to 21 years: In labor force: Civilian:
+PopGte16y_Fem_20to21y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 20 to 21 years: In labor force: Civilian: Employed
+PopGte16y_Fem_20to21y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 20 to 21 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_20to21y_NotLabrFor	Population 16 years and over: Female: 20 to 21 years: Not in labor force
+PopGte16y_Fem_22to24y	Population 16 years and over: Female: 22 to 24 years:
+PopGte16y_Fem_22to24y_InLabrFor	Population 16 years and over: Female: 22 to 24 years: In labor force:
+PopGte16y_Fem_22to24y_InLabrFor_ArmForce	Population 16 years and over: Female: 22 to 24 years: In labor force: In Armed Forces
+PopGte16y_Fem_22to24y_InLabrFor_Civ	Population 16 years and over: Female: 22 to 24 years: In labor force: Civilian:
+PopGte16y_Fem_22to24y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 22 to 24 years: In labor force: Civilian: Employed
+PopGte16y_Fem_22to24y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 22 to 24 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_22to24y_NotLabrFor	Population 16 years and over: Female: 22 to 24 years: Not in labor force
+PopGte16y_Fem_25to29y	Population 16 years and over: Female: 25 to 29 years:
+PopGte16y_Fem_25to29y_InLabrFor	Population 16 years and over: Female: 25 to 29 years: In labor force:
+PopGte16y_Fem_25to29y_InLabrFor_ArmForce	Population 16 years and over: Female: 25 to 29 years: In labor force: In Armed Forces
+PopGte16y_Fem_25to29y_InLabrFor_Civ	Population 16 years and over: Female: 25 to 29 years: In labor force: Civilian:
+PopGte16y_Fem_25to29y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 25 to 29 years: In labor force: Civilian: Employed
+PopGte16y_Fem_25to29y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 25 to 29 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_25to29y_NotLabrFor	Population 16 years and over: Female: 25 to 29 years: Not in labor force
+PopGte16y_Fem_30to34y	Population 16 years and over: Female: 30 to 34 years:
+PopGte16y_Fem_30to34y_InLabrFor	Population 16 years and over: Female: 30 to 34 years: In labor force:
+PopGte16y_Fem_30to34y_InLabrFor_ArmForce	Population 16 years and over: Female: 30 to 34 years: In labor force: In Armed Forces
+PopGte16y_Fem_30to34y_InLabrFor_Civ	Population 16 years and over: Female: 30 to 34 years: In labor force: Civilian:
+PopGte16y_Fem_30to34y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 30 to 34 years: In labor force: Civilian: Employed
+PopGte16y_Fem_30to34y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 30 to 34 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_30to34y_NotLabrFor	Population 16 years and over: Female: 30 to 34 years: Not in labor force
+PopGte16y_Fem_35to44y	Population 16 years and over: Female: 35 to 44 years:
+PopGte16y_Fem_35to44y_InLabrFor	Population 16 years and over: Female: 35 to 44 years: In labor force:
+PopGte16y_Fem_35to44y_InLabrFor_ArmForce	Population 16 years and over: Female: 35 to 44 years: In labor force: In Armed Forces
+PopGte16y_Fem_35to44y_InLabrFor_Civ	Population 16 years and over: Female: 35 to 44 years: In labor force: Civilian:
+PopGte16y_Fem_35to44y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 35 to 44 years: In labor force: Civilian: Employed
+PopGte16y_Fem_35to44y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 35 to 44 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_35to44y_NotLabrFor	Population 16 years and over: Female: 35 to 44 years: Not in labor force
+PopGte16y_Fem_45to54y	Population 16 years and over: Female: 45 to 54 years:
+PopGte16y_Fem_45to54y_InLabrFor	Population 16 years and over: Female: 45 to 54 years: In labor force:
+PopGte16y_Fem_45to54y_InLabrFor_ArmForce	Population 16 years and over: Female: 45 to 54 years: In labor force: In Armed Forces
+PopGte16y_Fem_45to54y_InLabrFor_Civ	Population 16 years and over: Female: 45 to 54 years: In labor force: Civilian:
+PopGte16y_Fem_45to54y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 45 to 54 years: In labor force: Civilian: Employed
+PopGte16y_Fem_45to54y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 45 to 54 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_45to54y_NotLabrFor	Population 16 years and over: Female: 45 to 54 years: Not in labor force
+PopGte16y_Fem_55to59y	Population 16 years and over: Female: 55 to 59 years:
+PopGte16y_Fem_55to59y_InLabrFor	Population 16 years and over: Female: 55 to 59 years: In labor force:
+PopGte16y_Fem_55to59y_InLabrFor_ArmForce	Population 16 years and over: Female: 55 to 59 years: In labor force: In Armed Forces
+PopGte16y_Fem_55to59y_InLabrFor_Civ	Population 16 years and over: Female: 55 to 59 years: In labor force: Civilian:
+PopGte16y_Fem_55to59y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 55 to 59 years: In labor force: Civilian: Employed
+PopGte16y_Fem_55to59y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 55 to 59 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_55to59y_NotLabrFor	Population 16 years and over: Female: 55 to 59 years: Not in labor force
+PopGte16y_Fem_60to61y	Population 16 years and over: Female: 60 to 61 years:
+PopGte16y_Fem_60to61y_InLabrFor	Population 16 years and over: Female: 60 to 61 years: In labor force:
+PopGte16y_Fem_60to61y_InLabrFor_ArmForce	Population 16 years and over: Female: 60 to 61 years: In labor force: In Armed Forces
+PopGte16y_Fem_60to61y_InLabrFor_Civ	Population 16 years and over: Female: 60 to 61 years: In labor force: Civilian:
+PopGte16y_Fem_60to61y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 60 to 61 years: In labor force: Civilian: Employed
+PopGte16y_Fem_60to61y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 60 to 61 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_60to61y_NotLabrFor	Population 16 years and over: Female: 60 to 61 years: Not in labor force
+PopGte16y_Fem_62to64y	Population 16 years and over: Female: 62 to 64 years:
+PopGte16y_Fem_62to64y_InLabrFor	Population 16 years and over: Female: 62 to 64 years: In labor force:
+PopGte16y_Fem_62to64y_InLabrFor_ArmForce	Population 16 years and over: Female: 62 to 64 years: In labor force: In Armed Forces
+PopGte16y_Fem_62to64y_InLabrFor_Civ	Population 16 years and over: Female: 62 to 64 years: In labor force: Civilian:
+PopGte16y_Fem_62to64y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 62 to 64 years: In labor force: Civilian: Employed
+PopGte16y_Fem_62to64y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 62 to 64 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_62to64y_NotLabrFor	Population 16 years and over: Female: 62 to 64 years: Not in labor force
+PopGte16y_Fem_65to69y	Population 16 years and over: Female: 65 to 69 years:
+PopGte16y_Fem_65to69y_InLabrFor	Population 16 years and over: Female: 65 to 69 years: In labor force:
+PopGte16y_Fem_65to69y_InLabrFor_ArmForce	Population 16 years and over: Female: 65 to 69 years: In labor force: In Armed Forces
+PopGte16y_Fem_65to69y_InLabrFor_Civ	Population 16 years and over: Female: 65 to 69 years: In labor force: Civilian:
+PopGte16y_Fem_65to69y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 65 to 69 years: In labor force: Civilian: Employed
+PopGte16y_Fem_65to69y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 65 to 69 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_65to69y_NotLabrFor	Population 16 years and over: Female: 65 to 69 years: Not in labor force
+PopGte16y_Fem_70to74y	Population 16 years and over: Female: 70 to 74 years:
+PopGte16y_Fem_70to74y_InLabrFor	Population 16 years and over: Female: 70 to 74 years: In labor force:
+PopGte16y_Fem_70to74y_InLabrFor_ArmForce	Population 16 years and over: Female: 70 to 74 years: In labor force: In Armed Forces
+PopGte16y_Fem_70to74y_InLabrFor_Civ	Population 16 years and over: Female: 70 to 74 years: In labor force: Civilian:
+PopGte16y_Fem_70to74y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 70 to 74 years: In labor force: Civilian: Employed
+PopGte16y_Fem_70to74y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 70 to 74 years: In labor force: Civilian: Unemployed
+PopGte16y_Fem_70to74y_NotLabrFor	Population 16 years and over: Female: 70 to 74 years: Not in labor force
+PopGte16y_Fem_Gte75y	Population 16 years and over: Female: 75 years and over:
+PopGte16y_Fem_Gte75y_InLabrFor	Population 16 years and over: Female: 75 years and over: In labor force:
+PopGte16y_Fem_Gte75y_InLabrFor_ArmForce	Population 16 years and over: Female: 75 years and over: In labor force: In Armed Forces
+PopGte16y_Fem_Gte75y_InLabrFor_Civ	Population 16 years and over: Female: 75 years and over: In labor force: Civilian:
+PopGte16y_Fem_Gte75y_InLabrFor_Civ_Empl	Population 16 years and over: Female: 75 years and over: In labor force: Civilian: Employed
+PopGte16y_Fem_Gte75y_InLabrFor_Civ_Unempl	Population 16 years and over: Female: 75 years and over: In labor force: Civilian: Unemployed
+PopGte16y_Fem_Gte75y_NotLabrFor	Population 16 years and over: Female: 75 years and over: Not in labor force
+Fam_AggFamInc99	Families: Aggregate family income in 1999:
+Fam_NoWorkers	Families: No workers
+Fam_1wrkr	Families: 1 worker
+Fam_2wrkrHusbWife	Families: 2 workers, husband and wife worked
+Fam_2wrkrOth	Families: 2 workers, other
+Fam_Gte3wrkrHusbWife	Families: 3 or more workers, husband and wife worked
+Fam_Gte3wrkrOth	Families: 3 or more workers, other
+Fam_AggFamInc99	Families: Aggregate family income in 1999:
+Fam_MrdCplFam	Families: Married-couple family:
+Fam_MrdCplFam_Hh15to24y	Families: Married-couple family: Householder 15 to 24 years
+Fam_MrdCplFam_Hh25to34y	Families: Married-couple family: Householder 25 to 34 years
+Fam_MrdCplFam_Hh35to44y	Families: Married-couple family: Householder 35 to 44 years
+Fam_MrdCplFam_Hh45to54y	Families: Married-couple family: Householder 45 to 54 years
+Fam_MrdCplFam_Hh55to59y	Families: Married-couple family: Householder 55 to 59 years
+Fam_MrdCplFam_Hh60to64y	Families: Married-couple family: Householder 60 to 64 years
+Fam_MrdCplFam_Hh65to74y	Families: Married-couple family: Householder 65 to 74 years
+Fam_MrdCplFam_HhGte75y	Families: Married-couple family: Householder 75 years and over
+Fam_OthFam	Families: Other family:
+Fam_OthFam_MleHhNoWife	Families: Other family: Male householder, no wife present:
+Fam_OthFam_MleHhNoWife_Hh15to24y	Families: Other family: Male householder, no wife present: Householder 15 to 24 years
+Fam_OthFam_MleHhNoWife_Hh25to34y	Families: Other family: Male householder, no wife present: Householder 25 to 34 years
+Fam_OthFam_MleHhNoWife_Hh35to44y	Families: Other family: Male householder, no wife present: Householder 35 to 44 years
+Fam_OthFam_MleHhNoWife_Hh45to54y	Families: Other family: Male householder, no wife present: Householder 45 to 54 years
+Fam_OthFam_MleHhNoWife_Hh55to59y	Families: Other family: Male householder, no wife present: Householder 55 to 59 years
+Fam_OthFam_MleHhNoWife_Hh60to64y	Families: Other family: Male householder, no wife present: Householder 60 to 64 years
+Fam_OthFam_MleHhNoWife_Hh65to74y	Families: Other family: Male householder, no wife present: Householder 65 to 74 years
+Fam_OthFam_MleHhNoWife_HhGte75y	Families: Other family: Male householder, no wife present: Householder 75 years and over
+Fam_OthFam_FemHhNoHusb	Families: Other family: Female householder, no husband present:
+Fam_OthFam_FemHhNoHusb_Hh15to24y	Families: Other family: Female householder, no husband present: Householder 15 to 24 years
+Fam_OthFam_FemHhNoHusb_Hh25to34y	Families: Other family: Female householder, no husband present: Householder 25 to 34 years
+Fam_OthFam_FemHhNoHusb_Hh35to44y	Families: Other family: Female householder, no husband present: Householder 35 to 44 years
+Fam_OthFam_FemHhNoHusb_Hh45to54y	Families: Other family: Female householder, no husband present: Householder 45 to 54 years
+Fam_OthFam_FemHhNoHusb_Hh55to59y	Families: Other family: Female householder, no husband present: Householder 55 to 59 years
+Fam_OthFam_FemHhNoHusb_Hh60to64y	Families: Other family: Female householder, no husband present: Householder 60 to 64 years
+Fam_OthFam_FemHhNoHusb_Hh65to74y	Families: Other family: Female householder, no husband present: Householder 65 to 74 years
+Fam_OthFam_FemHhNoHusb_HhGte75y	Families: Other family: Female householder, no husband present: Householder 75 years and over

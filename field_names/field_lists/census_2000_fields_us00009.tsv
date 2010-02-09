@@ -1,0 +1,205 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+PopGte16y_NoEarnImp	Population 16 years and over: No earnings imputed
+PopGte16y_UsdVal0	Population 16 years and over: Dollar value of zero imputed
+PopGte16y_Gt0toLt10pctTotEarnInd	Population 16 years and over: More than 0 to less than 10 percent of total earnings for individual imputed
+PopGte16y_10toLt25pctTotIndEarn	Population 16 years and over: 10 to less than 25 percent of total earnings for individual imputed
+PopGte16y_25toLt50pctTotIndEarn	Population 16 years and over: 25 to less than 50 percent of total earnings for individual imputed
+PopGte16y_50toLt100pctTotIndEarn	Population 16 years and over: 50 to less than 100 percent of total earnings for individual imputed
+PopGte16y_100pctTotIndEarn	Population 16 years and over: 100 percent of total earnings for individual imputed
+HH_NoIncImp	Households: No income imputed
+HH_UsdVal0	Households: Dollar value of zero imputed
+HH_Gt0toLt10pctTotIncHH	Households: More than 0 to less than 10 percent of total income for household imputed
+HH_10toLt25pctTotIncHH	Households: 10 to less than 25 percent of total income for household imputed
+HH_25toLt50pctTotIncHH	Households: 25 to less than 50 percent of total income for household imputed
+HH_50toLt100pctTotIncHH	Households: 50 to less than 100 percent of total income for household imputed
+HH_100pctTotIncHH	Households: 100 percent of total income for household imputed
+Fam_NoIncImp	Families: No income imputed
+Fam_UsdVal0	Families: Dollar value of zero imputed
+Fam_Gt0toLt10pctTotIncFam	Families: More than 0 to less than 10 percent of total income for family imputed
+Fam_10toLt25pctTotIncFam	Families: 10 to less than 25 percent of total income for family imputed
+Fam_25toLt50pctTotIncFam	Families: 25 to less than 50 percent of total income for family imputed
+Fam_50toLt100pctTotIncFam	Families: 50 to less than 100 percent of total income for family imputed
+Fam_100pctTotIncFam	Families: 100 percent of total income for family imputed
+NFamHH_NoIncImp	Nonfamily households: No income imputed
+NFamHH_UsdVal0	Nonfamily households: Dollar value of zero imputed
+NFamHH_Gt0toLt10pctTotIncNFamHH	Nonfamily households: More than 0 to less than 10 percent of total income for nonfamily household imputed
+NFamHH_10toLt25pctTotIncNFamHH	Nonfamily households: 10 to less than 25 percent of total income for nonfamily household imputed
+NFamHH_25toLt50pctTotIncNFamHH	Nonfamily households: 25 to less than 50 percent of total income for nonfamily household imputed
+NFamHH_50toLt100pctTotIncNF	Nonfamily households: 50 to less than 100 percent of total income for nonfamily household imputed
+NFamHH_100pctTotIncNFamHH	Nonfamily households: 100 percent of total income for nonfamily household imputed
+PopNotFamPovDet_NoIncImp	Population not in families for whom poverty status is determined: No income imputed
+PopNotFamPovDet_UsdVal0	Population not in families for whom poverty status is determined: Dollar value of zero imputed
+PopNotFamPovDet_Gt0toLt10pctTotIncInd	Population not in families for whom poverty status is determined: More than 0 to less than 10 percent of total income for individual imputed
+PopNotFamPovDet_10toLt25pctTotIncInd	Population not in families for whom poverty status is determined: 10 to less than 25 percent of total income for individual imputed
+PopNotFamPovDet_25toLt50pctTotIncInd	Population not in families for whom poverty status is determined: 25 to less than 50 percent of total income for individual imputed
+PopNotFamPovDet_50toLt100pctTotIncInd	Population not in families for whom poverty status is determined: 50 to less than 100 percent of total income for individual imputed
+PopNotFamPovDet_100pctTotIncInd	Population not in families for whom poverty status is determined: 100 percent of total income for individual imputed
+PopNotFamPovDet_NoIncImp	Population not in families for whom poverty status is determined: No income imputed
+PopNotFamPovDet_UsdVal0	Population not in families for whom poverty status is determined: Dollar value of zero imputed
+PopNotFamPovDet_Gt0toLt10pctTotIncInd	Population not in families for whom poverty status is determined: More than 0 to less than 10 percent of total income for individual imputed
+PopNotFamPovDet_10toLt25pctTotIncInd	Population not in families for whom poverty status is determined: 10 to less than 25 percent of total income for individual imputed
+PopNotFamPovDet_25toLt50pctTotIncInd	Population not in families for whom poverty status is determined: 25 to less than 50 percent of total income for individual imputed
+PopNotFamPovDet_50toLt100pctTotIncInd	Population not in families for whom poverty status is determined: 50 to less than 100 percent of total income for individual imputed
+PopNotFamPovDet_100pctTotIncInd	Population not in families for whom poverty status is determined: 100 percent of total income for individual imputed
+PopFam_NoIncImp	Population in families: No income imputed
+PopFam_UsdVal0	Population in families: Dollar value of zero imputed
+PopFam_Gt0toLt10pctTotIncFam	Population in families: More than 0 to less than 10 percent of total income for family imputed
+PopFam_10toLt25pctTotIncFam	Population in families: 10 to less than 25 percent of total income for family imputed
+PopFam_25toLt50pctTotIncFam	Population in families: 25 to less than 50 percent of total income for family imputed
+PopFam_50toLt100pctTotIncFam	Population in families: 50 to less than 100 percent of total income for family imputed
+PopFam_100pctTotIncFam	Population in families: 100 percent of total income for family imputed
+PopFam_NoIncImp	Population in families: No income imputed
+PopFam_UsdVal0	Population in families: Dollar value of zero imputed
+PopFam_Gt0toLt10pctTotIncFam	Population in families: More than 0 to less than 10 percent of total income for family imputed
+PopFam_10toLt25pctTotIncFam	Population in families: 10 to less than 25 percent of total income for family imputed
+PopFam_25toLt50pctTotIncFam	Population in families: 25 to less than 50 percent of total income for family imputed
+PopFam_50toLt100pctTotIncFam	Population in families: 50 to less than 100 percent of total income for family imputed
+PopFam_100pctTotIncFam	Population in families: 100 percent of total income for family imputed
+WhtAlnPop_Tot	White alone population: Total:
+WhtAlnPop_Mle	White alone population: Male:
+WhtAlnPop_Mle_Lt5y	White alone population: Male: Under 5 years
+WhtAlnPop_Mle_5to9y	White alone population: Male: 5 to 9 years
+WhtAlnPop_Mle_10to14y	White alone population: Male: 10 to 14 years
+WhtAlnPop_Mle_15to17y	White alone population: Male: 15 to 17 years
+WhtAlnPop_Mle_18and19y	White alone population: Male: 18 and 19 years
+WhtAlnPop_Mle_20y	White alone population: Male: 20 years
+WhtAlnPop_Mle_21y	White alone population: Male: 21 years
+WhtAlnPop_Mle_22to24y	White alone population: Male: 22 to 24 years
+WhtAlnPop_Mle_25to29y	White alone population: Male: 25 to 29 years
+WhtAlnPop_Mle_30to34y	White alone population: Male: 30 to 34 years
+WhtAlnPop_Mle_35to39y	White alone population: Male: 35 to 39 years
+WhtAlnPop_Mle_40to44y	White alone population: Male: 40 to 44 years
+WhtAlnPop_Mle_45to49y	White alone population: Male: 45 to 49 years
+WhtAlnPop_Mle_50to54y	White alone population: Male: 50 to 54 years
+WhtAlnPop_Mle_55to59y	White alone population: Male: 55 to 59 years
+WhtAlnPop_Mle_60and61y	White alone population: Male: 60 and 61 years
+WhtAlnPop_Mle_62to64y	White alone population: Male: 62 to 64 years
+WhtAlnPop_Mle_65and66y	White alone population: Male: 65 and 66 years
+WhtAlnPop_Mle_67to69y	White alone population: Male: 67 to 69 years
+WhtAlnPop_Mle_70to74y	White alone population: Male: 70 to 74 years
+WhtAlnPop_Mle_75to79y	White alone population: Male: 75 to 79 years
+WhtAlnPop_Mle_80to84y	White alone population: Male: 80 to 84 years
+WhtAlnPop_Mle_Gte85y	White alone population: Male: 85 years and over
+WhtAlnPop_Fem	White alone population: Female:
+WhtAlnPop_Fem_Lt5y	White alone population: Female: Under 5 years
+WhtAlnPop_Fem_5to9y	White alone population: Female: 5 to 9 years
+WhtAlnPop_Fem_10to14y	White alone population: Female: 10 to 14 years
+WhtAlnPop_Fem_15to17y	White alone population: Female: 15 to 17 years
+WhtAlnPop_Fem_18and19y	White alone population: Female: 18 and 19 years
+WhtAlnPop_Fem_20y	White alone population: Female: 20 years
+WhtAlnPop_Fem_21y	White alone population: Female: 21 years
+WhtAlnPop_Fem_22to24y	White alone population: Female: 22 to 24 years
+WhtAlnPop_Fem_25to29y	White alone population: Female: 25 to 29 years
+WhtAlnPop_Fem_30to34y	White alone population: Female: 30 to 34 years
+WhtAlnPop_Fem_35to39y	White alone population: Female: 35 to 39 years
+WhtAlnPop_Fem_40to44y	White alone population: Female: 40 to 44 years
+WhtAlnPop_Fem_45to49y	White alone population: Female: 45 to 49 years
+WhtAlnPop_Fem_50to54y	White alone population: Female: 50 to 54 years
+WhtAlnPop_Fem_55to59y	White alone population: Female: 55 to 59 years
+WhtAlnPop_Fem_60and61y	White alone population: Female: 60 and 61 years
+WhtAlnPop_Fem_62to64y	White alone population: Female: 62 to 64 years
+WhtAlnPop_Fem_65and66y	White alone population: Female: 65 and 66 years
+WhtAlnPop_Fem_67to69y	White alone population: Female: 67 to 69 years
+WhtAlnPop_Fem_70to74y	White alone population: Female: 70 to 74 years
+WhtAlnPop_Fem_75to79y	White alone population: Female: 75 to 79 years
+WhtAlnPop_Fem_80to84y	White alone population: Female: 80 to 84 years
+WhtAlnPop_Fem_Gte85y	White alone population: Female: 85 years and over
+BlkAfAmPop_Tot	Black or African American alone population: Total:
+BlkAfAmPop_Mle	Black or African American alone population: Male:
+BlkAfAmPop_Mle_Lt5y	Black or African American alone population: Male: Under 5 years
+BlkAfAmPop_Mle_5to9y	Black or African American alone population: Male: 5 to 9 years
+BlkAfAmPop_Mle_10to14y	Black or African American alone population: Male: 10 to 14 years
+BlkAfAmPop_Mle_15to17y	Black or African American alone population: Male: 15 to 17 years
+BlkAfAmPop_Mle_18and19y	Black or African American alone population: Male: 18 and 19 years
+BlkAfAmPop_Mle_20y	Black or African American alone population: Male: 20 years
+BlkAfAmPop_Mle_21y	Black or African American alone population: Male: 21 years
+BlkAfAmPop_Mle_22to24y	Black or African American alone population: Male: 22 to 24 years
+BlkAfAmPop_Mle_25to29y	Black or African American alone population: Male: 25 to 29 years
+BlkAfAmPop_Mle_30to34y	Black or African American alone population: Male: 30 to 34 years
+BlkAfAmPop_Mle_35to39y	Black or African American alone population: Male: 35 to 39 years
+BlkAfAmPop_Mle_40to44y	Black or African American alone population: Male: 40 to 44 years
+BlkAfAmPop_Mle_45to49y	Black or African American alone population: Male: 45 to 49 years
+BlkAfAmPop_Mle_50to54y	Black or African American alone population: Male: 50 to 54 years
+BlkAfAmPop_Mle_55to59y	Black or African American alone population: Male: 55 to 59 years
+BlkAfAmPop_Mle_60and61y	Black or African American alone population: Male: 60 and 61 years
+BlkAfAmPop_Mle_62to64y	Black or African American alone population: Male: 62 to 64 years
+BlkAfAmPop_Mle_65and66y	Black or African American alone population: Male: 65 and 66 years
+BlkAfAmPop_Mle_67to69y	Black or African American alone population: Male: 67 to 69 years
+BlkAfAmPop_Mle_70to74y	Black or African American alone population: Male: 70 to 74 years
+BlkAfAmPop_Mle_75to79y	Black or African American alone population: Male: 75 to 79 years
+BlkAfAmPop_Mle_80to84y	Black or African American alone population: Male: 80 to 84 years
+BlkAfAmPop_Mle_Gte85y	Black or African American alone population: Male: 85 years and over
+BlkAfAmPop_Fem	Black or African American alone population: Female:
+BlkAfAmPop_Fem_Lt5y	Black or African American alone population: Female: Under 5 years
+BlkAfAmPop_Fem_5to9y	Black or African American alone population: Female: 5 to 9 years
+BlkAfAmPop_Fem_10to14y	Black or African American alone population: Female: 10 to 14 years
+BlkAfAmPop_Fem_15to17y	Black or African American alone population: Female: 15 to 17 years
+BlkAfAmPop_Fem_18and19y	Black or African American alone population: Female: 18 and 19 years
+BlkAfAmPop_Fem_20y	Black or African American alone population: Female: 20 years
+BlkAfAmPop_Fem_21y	Black or African American alone population: Female: 21 years
+BlkAfAmPop_Fem_22to24y	Black or African American alone population: Female: 22 to 24 years
+BlkAfAmPop_Fem_25to29y	Black or African American alone population: Female: 25 to 29 years
+BlkAfAmPop_Fem_30to34y	Black or African American alone population: Female: 30 to 34 years
+BlkAfAmPop_Fem_35to39y	Black or African American alone population: Female: 35 to 39 years
+BlkAfAmPop_Fem_40to44y	Black or African American alone population: Female: 40 to 44 years
+BlkAfAmPop_Fem_45to49y	Black or African American alone population: Female: 45 to 49 years
+BlkAfAmPop_Fem_50to54y	Black or African American alone population: Female: 50 to 54 years
+BlkAfAmPop_Fem_55to59y	Black or African American alone population: Female: 55 to 59 years
+BlkAfAmPop_Fem_60and61y	Black or African American alone population: Female: 60 and 61 years
+BlkAfAmPop_Fem_62to64y	Black or African American alone population: Female: 62 to 64 years
+BlkAfAmPop_Fem_65and66y	Black or African American alone population: Female: 65 and 66 years
+BlkAfAmPop_Fem_67to69y	Black or African American alone population: Female: 67 to 69 years
+BlkAfAmPop_Fem_70to74y	Black or African American alone population: Female: 70 to 74 years
+BlkAfAmPop_Fem_75to79y	Black or African American alone population: Female: 75 to 79 years
+BlkAfAmPop_Fem_80to84y	Black or African American alone population: Female: 80 to 84 years
+BlkAfAmPop_Fem_Gte85y	Black or African American alone population: Female: 85 years and over
+AmIndAkNatPop_Tot	American Indian and Alaska Native alone population: Total:
+AmIndAkNatPop_Mle	American Indian and Alaska Native alone population: Male:
+AmIndAkNatPop_Mle_Lt5y	American Indian and Alaska Native alone population: Male: Under 5 years
+AmIndAkNatPop_Mle_5to9y	American Indian and Alaska Native alone population: Male: 5 to 9 years
+AmIndAkNatPop_Mle_10to14y	American Indian and Alaska Native alone population: Male: 10 to 14 years
+AmIndAkNatPop_Mle_15to17y	American Indian and Alaska Native alone population: Male: 15 to 17 years
+AmIndAkNatPop_Mle_18and19y	American Indian and Alaska Native alone population: Male: 18 and 19 years
+AmIndAkNatPop_Mle_20y	American Indian and Alaska Native alone population: Male: 20 years
+AmIndAkNatPop_Mle_21y	American Indian and Alaska Native alone population: Male: 21 years
+AmIndAkNatPop_Mle_22to24y	American Indian and Alaska Native alone population: Male: 22 to 24 years
+AmIndAkNatPop_Mle_25to29y	American Indian and Alaska Native alone population: Male: 25 to 29 years
+AmIndAkNatPop_Mle_30to34y	American Indian and Alaska Native alone population: Male: 30 to 34 years
+AmIndAkNatPop_Mle_35to39y	American Indian and Alaska Native alone population: Male: 35 to 39 years
+AmIndAkNatPop_Mle_40to44y	American Indian and Alaska Native alone population: Male: 40 to 44 years
+AmIndAkNatPop_Mle_45to49y	American Indian and Alaska Native alone population: Male: 45 to 49 years
+AmIndAkNatPop_Mle_50to54y	American Indian and Alaska Native alone population: Male: 50 to 54 years
+AmIndAkNatPop_Mle_55to59y	American Indian and Alaska Native alone population: Male: 55 to 59 years
+AmIndAkNatPop_Mle_60and61y	American Indian and Alaska Native alone population: Male: 60 and 61 years
+AmIndAkNatPop_Mle_62to64y	American Indian and Alaska Native alone population: Male: 62 to 64 years
+AmIndAkNatPop_Mle_65and66y	American Indian and Alaska Native alone population: Male: 65 and 66 years
+AmIndAkNatPop_Mle_67to69y	American Indian and Alaska Native alone population: Male: 67 to 69 years
+AmIndAkNatPop_Mle_70to74y	American Indian and Alaska Native alone population: Male: 70 to 74 years
+AmIndAkNatPop_Mle_75to79y	American Indian and Alaska Native alone population: Male: 75 to 79 years
+AmIndAkNatPop_Mle_80to84y	American Indian and Alaska Native alone population: Male: 80 to 84 years
+AmIndAkNatPop_Mle_Gte85y	American Indian and Alaska Native alone population: Male: 85 years and over
+AmIndAkNatPop_Fem	American Indian and Alaska Native alone population: Female:
+AmIndAkNatPop_Fem_Lt5y	American Indian and Alaska Native alone population: Female: Under 5 years
+AmIndAkNatPop_Fem_5to9y	American Indian and Alaska Native alone population: Female: 5 to 9 years
+AmIndAkNatPop_Fem_10to14y	American Indian and Alaska Native alone population: Female: 10 to 14 years
+AmIndAkNatPop_Fem_15to17y	American Indian and Alaska Native alone population: Female: 15 to 17 years
+AmIndAkNatPop_Fem_18and19y	American Indian and Alaska Native alone population: Female: 18 and 19 years
+AmIndAkNatPop_Fem_20y	American Indian and Alaska Native alone population: Female: 20 years
+AmIndAkNatPop_Fem_21y	American Indian and Alaska Native alone population: Female: 21 years
+AmIndAkNatPop_Fem_22to24y	American Indian and Alaska Native alone population: Female: 22 to 24 years
+AmIndAkNatPop_Fem_25to29y	American Indian and Alaska Native alone population: Female: 25 to 29 years
+AmIndAkNatPop_Fem_30to34y	American Indian and Alaska Native alone population: Female: 30 to 34 years
+AmIndAkNatPop_Fem_35to39y	American Indian and Alaska Native alone population: Female: 35 to 39 years
+AmIndAkNatPop_Fem_40to44y	American Indian and Alaska Native alone population: Female: 40 to 44 years
+AmIndAkNatPop_Fem_45to49y	American Indian and Alaska Native alone population: Female: 45 to 49 years
+AmIndAkNatPop_Fem_50to54y	American Indian and Alaska Native alone population: Female: 50 to 54 years
+AmIndAkNatPop_Fem_55to59y	American Indian and Alaska Native alone population: Female: 55 to 59 years
+AmIndAkNatPop_Fem_60and61y	American Indian and Alaska Native alone population: Female: 60 and 61 years
+AmIndAkNatPop_Fem_62to64y	American Indian and Alaska Native alone population: Female: 62 to 64 years
+AmIndAkNatPop_Fem_65and66y	American Indian and Alaska Native alone population: Female: 65 and 66 years
+AmIndAkNatPop_Fem_67to69y	American Indian and Alaska Native alone population: Female: 67 to 69 years
+AmIndAkNatPop_Fem_70to74y	American Indian and Alaska Native alone population: Female: 70 to 74 years
+AmIndAkNatPop_Fem_75to79y	American Indian and Alaska Native alone population: Female: 75 to 79 years
+AmIndAkNatPop_Fem_80to84y	American Indian and Alaska Native alone population: Female: 80 to 84 years
+AmIndAkNatPop_Fem_Gte85y	American Indian and Alaska Native alone population: Female: 85 years and over

@@ -1,0 +1,108 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+CivNonInstPop18to34y_Tot	cnpopulation 18 to 34 years: Total:
+CivNonInstPop18to34y_Mle	cnpopulation 18 to 34 years: Male:
+CivNonInstPop18to34y_Mle_WDisab	cnpopulation 18 to 34 years: Male: With a disability:
+CivNonInstPop18to34y_Mle_WDisab_ErldSch	cnpopulation 18 to 34 years: Male: With a disability: Enrolled in school:
+CivNonInstPop18to34y_Mle_WDisab_ErldSch_BelColl	cnpopulation 18 to 34 years: Male: With a disability: Enrolled in school: Below college
+CivNonInstPop18to34y_Mle_WDisab_ErldSch_CollGradSchl	cnpopulation 18 to 34 years: Male: With a disability: Enrolled in school: College or graduate school
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school:
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_NotHighSchlGrad	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: Not high school graduate
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_HighSchGradEquiv	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: High school graduate (includes equivalency)
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_SmeCollNoDeg	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: Some college, no degree
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_AssDeg	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: Associate degree
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_BacDeg	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: Bachelor's degree
+CivNonInstPop18to34y_Mle_WDisab_NotEnrldSchl_GradProfDeg	cnpopulation 18 to 34 years: Male: With a disability: Not enrolled in school: Graduate or professional degree
+CivNonInstPop18to34y_Mle_NoDisab	cnpopulation 18 to 34 years: Male: No disability:
+CivNonInstPop18to34y_Mle_NoDisab_ErldSch	cnpopulation 18 to 34 years: Male: No disability: Enrolled in school:
+CivNonInstPop18to34y_Mle_NoDisab_ErldSch_BelColl	cnpopulation 18 to 34 years: Male: No disability: Enrolled in school: Below college
+CivNonInstPop18to34y_Mle_NoDisab_ErldSch_CollGradSchl	cnpopulation 18 to 34 years: Male: No disability: Enrolled in school: College or graduate school
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school:
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_NotHighSchlGrad	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: Not high school graduate
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_HighSchGradEquiv	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: High school graduate (includes equivalency)
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_SmeCollNoDeg	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: Some college, no degree
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_AssDeg	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: Associate degree
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_BacDeg	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: Bachelor's degree
+CivNonInstPop18to34y_Mle_NoDisab_NotEnrldSchl_GradProfDeg	cnpopulation 18 to 34 years: Male: No disability: Not enrolled in school: Graduate or professional degree
+CivNonInstPop18to34y_Fem	cnpopulation 18 to 34 years: Female:
+CivNonInstPop18to34y_Fem_WDisab	cnpopulation 18 to 34 years: Female: With a disability:
+CivNonInstPop18to34y_Fem_WDisab_ErldSch	cnpopulation 18 to 34 years: Female: With a disability: Enrolled in school:
+CivNonInstPop18to34y_Fem_WDisab_ErldSch_BelColl	cnpopulation 18 to 34 years: Female: With a disability: Enrolled in school: Below college
+CivNonInstPop18to34y_Fem_WDisab_ErldSch_CollGradSchl	cnpopulation 18 to 34 years: Female: With a disability: Enrolled in school: College or graduate school
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school:
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_NotHighSchlGrad	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: Not high school graduate
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_HighSchGradEquiv	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: High school graduate (includes equivalency)
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_SmeCollNoDeg	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: Some college, no degree
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_AssDeg	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: Associate degree
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_BacDeg	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: Bachelor's degree
+CivNonInstPop18to34y_Fem_WDisab_NotEnrldSchl_GradProfDeg	cnpopulation 18 to 34 years: Female: With a disability: Not enrolled in school: Graduate or professional degree
+CivNonInstPop18to34y_Fem_NoDisab	cnpopulation 18 to 34 years: Female: No disability:
+CivNonInstPop18to34y_Fem_NoDisab_ErldSch	cnpopulation 18 to 34 years: Female: No disability: Enrolled in school:
+CivNonInstPop18to34y_Fem_NoDisab_ErldSch_BelColl	cnpopulation 18 to 34 years: Female: No disability: Enrolled in school: Below college
+CivNonInstPop18to34y_Fem_NoDisab_ErldSch_CollGradSchl	cnpopulation 18 to 34 years: Female: No disability: Enrolled in school: College or graduate school
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school:
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_NotHighSchlGrad	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: Not high school graduate
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_HighSchGradEquiv	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: High school graduate (includes equivalency)
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_SmeCollNoDeg	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: Some college, no degree
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_AssDeg	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: Associate degree
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_BacDeg	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: Bachelor's degree
+CivNonInstPop18to34y_Fem_NoDisab_NotEnrldSchl_GradProfDeg	cnpopulation 18 to 34 years: Female: No disability: Not enrolled in school: Graduate or professional degree
+CivNonInstPopGte5yPovDet_Tot	cn5population for whom poverty status is determined: Total:
+CivNonInstPopGte5yPovDet_Mle	cn5population for whom poverty status is determined: Male:
+CivNonInstPopGte5yPovDet_Mle_5to15y	cn5population for whom poverty status is determined: Male: 5 to 15 years:
+CivNonInstPopGte5yPovDet_Mle_5to15y_WDisab	cn5population for whom poverty status is determined: Male: 5 to 15 years: With a disability:
+CivNonInstPopGte5yPovDet_Mle_5to15y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 5 to 15 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_5to15y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 5 to 15 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_5to15y_NoDisab	cn5population for whom poverty status is determined: Male: 5 to 15 years: No disability:
+CivNonInstPopGte5yPovDet_Mle_5to15y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 5 to 15 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_5to15y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 5 to 15 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_16to20y	cn5population for whom poverty status is determined: Male: 16 to 20 years:
+CivNonInstPopGte5yPovDet_Mle_16to20y_WDisab	cn5population for whom poverty status is determined: Male: 16 to 20 years: With a disability:
+CivNonInstPopGte5yPovDet_Mle_16to20y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 16 to 20 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_16to20y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 16 to 20 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_16to20y_NoDisab	cn5population for whom poverty status is determined: Male: 16 to 20 years: No disability:
+CivNonInstPopGte5yPovDet_Mle_16to20y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 16 to 20 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_16to20y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 16 to 20 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_21to64y	cn5population for whom poverty status is determined: Male: 21 to 64 years:
+CivNonInstPopGte5yPovDet_Mle_21to64y_WDisab	cn5population for whom poverty status is determined: Male: 21 to 64 years: With a disability:
+CivNonInstPopGte5yPovDet_Mle_21to64y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 21 to 64 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_21to64y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 21 to 64 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_21to64y_NoDisab	cn5population for whom poverty status is determined: Male: 21 to 64 years: No disability:
+CivNonInstPopGte5yPovDet_Mle_21to64y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 21 to 64 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_21to64y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 21 to 64 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_Gte65y	cn5population for whom poverty status is determined: Male: 65 years and over:
+CivNonInstPopGte5yPovDet_Mle_Gte65y_WDisab	cn5population for whom poverty status is determined: Male: 65 years and over: With a disability:
+CivNonInstPopGte5yPovDet_Mle_Gte65y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 65 years and over: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_Gte65y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 65 years and over: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Mle_Gte65y_NoDisab	cn5population for whom poverty status is determined: Male: 65 years and over: No disability:
+CivNonInstPopGte5yPovDet_Mle_Gte65y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Male: 65 years and over: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Mle_Gte65y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Male: 65 years and over: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem	cn5population for whom poverty status is determined: Female:
+CivNonInstPopGte5yPovDet_Fem_5to15y	cn5population for whom poverty status is determined: Female: 5 to 15 years:
+CivNonInstPopGte5yPovDet_Fem_5to15y_WDisab	cn5population for whom poverty status is determined: Female: 5 to 15 years: With a disability:
+CivNonInstPopGte5yPovDet_Fem_5to15y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 5 to 15 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_5to15y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 5 to 15 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_5to15y_NoDisab	cn5population for whom poverty status is determined: Female: 5 to 15 years: No disability:
+CivNonInstPopGte5yPovDet_Fem_5to15y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 5 to 15 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_5to15y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 5 to 15 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_16to20y	cn5population for whom poverty status is determined: Female: 16 to 20 years:
+CivNonInstPopGte5yPovDet_Fem_16to20y_WDisab	cn5population for whom poverty status is determined: Female: 16 to 20 years: With a disability:
+CivNonInstPopGte5yPovDet_Fem_16to20y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 16 to 20 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_16to20y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 16 to 20 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_16to20y_NoDisab	cn5population for whom poverty status is determined: Female: 16 to 20 years: No disability:
+CivNonInstPopGte5yPovDet_Fem_16to20y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 16 to 20 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_16to20y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 16 to 20 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_21to64y	cn5population for whom poverty status is determined: Female: 21 to 64 years:
+CivNonInstPopGte5yPovDet_Fem_21to64y_WDisab	cn5population for whom poverty status is determined: Female: 21 to 64 years: With a disability:
+CivNonInstPopGte5yPovDet_Fem_21to64y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 21 to 64 years: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_21to64y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 21 to 64 years: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_21to64y_NoDisab	cn5population for whom poverty status is determined: Female: 21 to 64 years: No disability:
+CivNonInstPopGte5yPovDet_Fem_21to64y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 21 to 64 years: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_21to64y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 21 to 64 years: No disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_Gte65y	cn5population for whom poverty status is determined: Female: 65 years and over:
+CivNonInstPopGte5yPovDet_Fem_Gte65y_WDisab	cn5population for whom poverty status is determined: Female: 65 years and over: With a disability:
+CivNonInstPopGte5yPovDet_Fem_Gte65y_WDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 65 years and over: With a disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_Gte65y_WDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 65 years and over: With a disability: Income in 1999 at or above poverty level
+CivNonInstPopGte5yPovDet_Fem_Gte65y_NoDisab	cn5population for whom poverty status is determined: Female: 65 years and over: No disability:
+CivNonInstPopGte5yPovDet_Fem_Gte65y_NoDisab_Inc99LtPov	cn5population for whom poverty status is determined: Female: 65 years and over: No disability: Income in 1999 below poverty level
+CivNonInstPopGte5yPovDet_Fem_Gte65y_NoDisab_Inc99GtePov	cn5population for whom poverty status is determined: Female: 65 years and over: No disability: Income in 1999 at or above poverty level

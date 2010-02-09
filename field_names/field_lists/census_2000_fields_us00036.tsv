@@ -1,0 +1,235 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+AsnPopGte18y_Tot	Asian alone population 18 years and over: Total:
+AsnPopGte18y_Mle	Asian alone population 18 years and over: Male:
+AsnPopGte18y_Mle_18to64y	Asian alone population 18 years and over: Male: 18 to 64 years:
+AsnPopGte18y_Mle_18to64y_ArmForce	Asian alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+AsnPopGte18y_Mle_18to64y_Civ	Asian alone population 18 years and over: Male: 18 to 64 years: Civilian:
+AsnPopGte18y_Mle_18to64y_Civ_Vet	Asian alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+AsnPopGte18y_Mle_18to64y_Civ_NonVet	Asian alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+AsnPopGte18y_Mle_Gte65y	Asian alone population 18 years and over: Male: 65 years and over:
+AsnPopGte18y_Mle_Gte65y_ArmForce	Asian alone population 18 years and over: Male: 65 years and over: In Armed Forces
+AsnPopGte18y_Mle_Gte65y_Civ	Asian alone population 18 years and over: Male: 65 years and over: Civilian:
+AsnPopGte18y_Mle_Gte65y_Civ_Vet	Asian alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+AsnPopGte18y_Mle_Gte65y_Civ_NonVet	Asian alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+AsnPopGte18y_Fem	Asian alone population 18 years and over: Female:
+AsnPopGte18y_Fem_18to64y	Asian alone population 18 years and over: Female: 18 to 64 years:
+AsnPopGte18y_Fem_18to64y_ArmForce	Asian alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+AsnPopGte18y_Fem_18to64y_Civ	Asian alone population 18 years and over: Female: 18 to 64 years: Civilian:
+AsnPopGte18y_Fem_18to64y_Civ_Vet	Asian alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+AsnPopGte18y_Fem_18to64y_Civ_NonVet	Asian alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+AsnPopGte18y_Fem_Gte65y	Asian alone population 18 years and over: Female: 65 years and over:
+AsnPopGte18y_Fem_Gte65y_ArmForce	Asian alone population 18 years and over: Female: 65 years and over: In Armed Forces
+AsnPopGte18y_Fem_Gte65y_Civ	Asian alone population 18 years and over: Female: 65 years and over: Civilian:
+AsnPopGte18y_Fem_Gte65y_Civ_Vet	Asian alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+AsnPopGte18y_Fem_Gte65y_Civ_NonVet	Asian alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+NatHiPacIslPopGte18y_Tot	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Total:
+NatHiPacIslPopGte18y_Mle	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male:
+NatHiPacIslPopGte18y_Mle_18to64y	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 18 to 64 years:
+NatHiPacIslPopGte18y_Mle_18to64y_ArmForce	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+NatHiPacIslPopGte18y_Mle_18to64y_Civ	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 18 to 64 years: Civilian:
+NatHiPacIslPopGte18y_Mle_18to64y_Civ_Vet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+NatHiPacIslPopGte18y_Mle_18to64y_Civ_NonVet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+NatHiPacIslPopGte18y_Mle_Gte65y	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 65 years and over:
+NatHiPacIslPopGte18y_Mle_Gte65y_ArmForce	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 65 years and over: In Armed Forces
+NatHiPacIslPopGte18y_Mle_Gte65y_Civ	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 65 years and over: Civilian:
+NatHiPacIslPopGte18y_Mle_Gte65y_Civ_Vet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+NatHiPacIslPopGte18y_Mle_Gte65y_Civ_NonVet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+NatHiPacIslPopGte18y_Fem	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female:
+NatHiPacIslPopGte18y_Fem_18to64y	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 18 to 64 years:
+NatHiPacIslPopGte18y_Fem_18to64y_ArmForce	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+NatHiPacIslPopGte18y_Fem_18to64y_Civ	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 18 to 64 years: Civilian:
+NatHiPacIslPopGte18y_Fem_18to64y_Civ_Vet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+NatHiPacIslPopGte18y_Fem_18to64y_Civ_NonVet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+NatHiPacIslPopGte18y_Fem_Gte65y	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 65 years and over:
+NatHiPacIslPopGte18y_Fem_Gte65y_ArmForce	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 65 years and over: In Armed Forces
+NatHiPacIslPopGte18y_Fem_Gte65y_Civ	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 65 years and over: Civilian:
+NatHiPacIslPopGte18y_Fem_Gte65y_Civ_Vet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+NatHiPacIslPopGte18y_Fem_Gte65y_Civ_NonVet	Native Hawaiian and Other Pacific Islander alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+OthRcePopGte18y_Tot	Some other race alone population 18 years and over: Total:
+OthRcePopGte18y_Mle	Some other race alone population 18 years and over: Male:
+OthRcePopGte18y_Mle_18to64y	Some other race alone population 18 years and over: Male: 18 to 64 years:
+OthRcePopGte18y_Mle_18to64y_ArmForce	Some other race alone population 18 years and over: Male: 18 to 64 years: In Armed Forces
+OthRcePopGte18y_Mle_18to64y_Civ	Some other race alone population 18 years and over: Male: 18 to 64 years: Civilian:
+OthRcePopGte18y_Mle_18to64y_Civ_Vet	Some other race alone population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+OthRcePopGte18y_Mle_18to64y_Civ_NonVet	Some other race alone population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+OthRcePopGte18y_Mle_Gte65y	Some other race alone population 18 years and over: Male: 65 years and over:
+OthRcePopGte18y_Mle_Gte65y_ArmForce	Some other race alone population 18 years and over: Male: 65 years and over: In Armed Forces
+OthRcePopGte18y_Mle_Gte65y_Civ	Some other race alone population 18 years and over: Male: 65 years and over: Civilian:
+OthRcePopGte18y_Mle_Gte65y_Civ_Vet	Some other race alone population 18 years and over: Male: 65 years and over: Civilian: Veteran
+OthRcePopGte18y_Mle_Gte65y_Civ_NonVet	Some other race alone population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+OthRcePopGte18y_Fem	Some other race alone population 18 years and over: Female:
+OthRcePopGte18y_Fem_18to64y	Some other race alone population 18 years and over: Female: 18 to 64 years:
+OthRcePopGte18y_Fem_18to64y_ArmForce	Some other race alone population 18 years and over: Female: 18 to 64 years: In Armed Forces
+OthRcePopGte18y_Fem_18to64y_Civ	Some other race alone population 18 years and over: Female: 18 to 64 years: Civilian:
+OthRcePopGte18y_Fem_18to64y_Civ_Vet	Some other race alone population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+OthRcePopGte18y_Fem_18to64y_Civ_NonVet	Some other race alone population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+OthRcePopGte18y_Fem_Gte65y	Some other race alone population 18 years and over: Female: 65 years and over:
+OthRcePopGte18y_Fem_Gte65y_ArmForce	Some other race alone population 18 years and over: Female: 65 years and over: In Armed Forces
+OthRcePopGte18y_Fem_Gte65y_Civ	Some other race alone population 18 years and over: Female: 65 years and over: Civilian:
+OthRcePopGte18y_Fem_Gte65y_Civ_Vet	Some other race alone population 18 years and over: Female: 65 years and over: Civilian: Veteran
+OthRcePopGte18y_Fem_Gte65y_Civ_NonVet	Some other race alone population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+Gte2RcePopGte18y_Tot	Two or more races population 18 years and over: Total:
+Gte2RcePopGte18y_Mle	Two or more races population 18 years and over: Male:
+Gte2RcePopGte18y_Mle_18to64y	Two or more races population 18 years and over: Male: 18 to 64 years:
+Gte2RcePopGte18y_Mle_18to64y_ArmForce	Two or more races population 18 years and over: Male: 18 to 64 years: In Armed Forces
+Gte2RcePopGte18y_Mle_18to64y_Civ	Two or more races population 18 years and over: Male: 18 to 64 years: Civilian:
+Gte2RcePopGte18y_Mle_18to64y_Civ_Vet	Two or more races population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+Gte2RcePopGte18y_Mle_18to64y_Civ_NonVet	Two or more races population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+Gte2RcePopGte18y_Mle_Gte65y	Two or more races population 18 years and over: Male: 65 years and over:
+Gte2RcePopGte18y_Mle_Gte65y_ArmForce	Two or more races population 18 years and over: Male: 65 years and over: In Armed Forces
+Gte2RcePopGte18y_Mle_Gte65y_Civ	Two or more races population 18 years and over: Male: 65 years and over: Civilian:
+Gte2RcePopGte18y_Mle_Gte65y_Civ_Vet	Two or more races population 18 years and over: Male: 65 years and over: Civilian: Veteran
+Gte2RcePopGte18y_Mle_Gte65y_Civ_NonVet	Two or more races population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+Gte2RcePopGte18y_Fem	Two or more races population 18 years and over: Female:
+Gte2RcePopGte18y_Fem_18to64y	Two or more races population 18 years and over: Female: 18 to 64 years:
+Gte2RcePopGte18y_Fem_18to64y_ArmForce	Two or more races population 18 years and over: Female: 18 to 64 years: In Armed Forces
+Gte2RcePopGte18y_Fem_18to64y_Civ	Two or more races population 18 years and over: Female: 18 to 64 years: Civilian:
+Gte2RcePopGte18y_Fem_18to64y_Civ_Vet	Two or more races population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+Gte2RcePopGte18y_Fem_18to64y_Civ_NonVet	Two or more races population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+Gte2RcePopGte18y_Fem_Gte65y	Two or more races population 18 years and over: Female: 65 years and over:
+Gte2RcePopGte18y_Fem_Gte65y_ArmForce	Two or more races population 18 years and over: Female: 65 years and over: In Armed Forces
+Gte2RcePopGte18y_Fem_Gte65y_Civ	Two or more races population 18 years and over: Female: 65 years and over: Civilian:
+Gte2RcePopGte18y_Fem_Gte65y_Civ_Vet	Two or more races population 18 years and over: Female: 65 years and over: Civilian: Veteran
+Gte2RcePopGte18y_Fem_Gte65y_Civ_NonVet	Two or more races population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+HispPopGte18y_Tot	Hispanic or Latino population 18 years and over: Total:
+HispPopGte18y_Mle	Hispanic or Latino population 18 years and over: Male:
+HispPopGte18y_Mle_18to64y	Hispanic or Latino population 18 years and over: Male: 18 to 64 years:
+HispPopGte18y_Mle_18to64y_ArmForce	Hispanic or Latino population 18 years and over: Male: 18 to 64 years: In Armed Forces
+HispPopGte18y_Mle_18to64y_Civ	Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian:
+HispPopGte18y_Mle_18to64y_Civ_Vet	Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+HispPopGte18y_Mle_18to64y_Civ_NonVet	Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+HispPopGte18y_Mle_Gte65y	Hispanic or Latino population 18 years and over: Male: 65 years and over:
+HispPopGte18y_Mle_Gte65y_ArmForce	Hispanic or Latino population 18 years and over: Male: 65 years and over: In Armed Forces
+HispPopGte18y_Mle_Gte65y_Civ	Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian:
+HispPopGte18y_Mle_Gte65y_Civ_Vet	Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian: Veteran
+HispPopGte18y_Mle_Gte65y_Civ_NonVet	Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+HispPopGte18y_Fem	Hispanic or Latino population 18 years and over: Female:
+HispPopGte18y_Fem_18to64y	Hispanic or Latino population 18 years and over: Female: 18 to 64 years:
+HispPopGte18y_Fem_18to64y_ArmForce	Hispanic or Latino population 18 years and over: Female: 18 to 64 years: In Armed Forces
+HispPopGte18y_Fem_18to64y_Civ	Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian:
+HispPopGte18y_Fem_18to64y_Civ_Vet	Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+HispPopGte18y_Fem_18to64y_Civ_NonVet	Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+HispPopGte18y_Fem_Gte65y	Hispanic or Latino population 18 years and over: Female: 65 years and over:
+HispPopGte18y_Fem_Gte65y_ArmForce	Hispanic or Latino population 18 years and over: Female: 65 years and over: In Armed Forces
+HispPopGte18y_Fem_Gte65y_Civ	Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian:
+HispPopGte18y_Fem_Gte65y_Civ_Vet	Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian: Veteran
+HispPopGte18y_Fem_Gte65y_Civ_NonVet	Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+WhtNotHispPopGte18y_Tot	White alone, not Hispanic or Latino population 18 years and over: Total:
+WhtNotHispPopGte18y_Mle	White alone, not Hispanic or Latino population 18 years and over: Male:
+WhtNotHispPopGte18y_Mle_18to64y	White alone, not Hispanic or Latino population 18 years and over: Male: 18 to 64 years:
+WhtNotHispPopGte18y_Mle_18to64y_ArmForce	White alone, not Hispanic or Latino population 18 years and over: Male: 18 to 64 years: In Armed Forces
+WhtNotHispPopGte18y_Mle_18to64y_Civ	White alone, not Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian:
+WhtNotHispPopGte18y_Mle_18to64y_Civ_Vet	White alone, not Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian: Veteran
+WhtNotHispPopGte18y_Mle_18to64y_Civ_NonVet	White alone, not Hispanic or Latino population 18 years and over: Male: 18 to 64 years: Civilian: Nonveteran
+WhtNotHispPopGte18y_Mle_Gte65y	White alone, not Hispanic or Latino population 18 years and over: Male: 65 years and over:
+WhtNotHispPopGte18y_Mle_Gte65y_ArmForce	White alone, not Hispanic or Latino population 18 years and over: Male: 65 years and over: In Armed Forces
+WhtNotHispPopGte18y_Mle_Gte65y_Civ	White alone, not Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian:
+WhtNotHispPopGte18y_Mle_Gte65y_Civ_Vet	White alone, not Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian: Veteran
+WhtNotHispPopGte18y_Mle_Gte65y_Civ_NonVet	White alone, not Hispanic or Latino population 18 years and over: Male: 65 years and over: Civilian: Nonveteran
+WhtNotHispPopGte18y_Fem	White alone, not Hispanic or Latino population 18 years and over: Female:
+WhtNotHispPopGte18y_Fem_18to64y	White alone, not Hispanic or Latino population 18 years and over: Female: 18 to 64 years:
+WhtNotHispPopGte18y_Fem_18to64y_ArmForce	White alone, not Hispanic or Latino population 18 years and over: Female: 18 to 64 years: In Armed Forces
+WhtNotHispPopGte18y_Fem_18to64y_Civ	White alone, not Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian:
+WhtNotHispPopGte18y_Fem_18to64y_Civ_Vet	White alone, not Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian: Veteran
+WhtNotHispPopGte18y_Fem_18to64y_Civ_NonVet	White alone, not Hispanic or Latino population 18 years and over: Female: 18 to 64 years: Civilian: Nonveteran
+WhtNotHispPopGte18y_Fem_Gte65y	White alone, not Hispanic or Latino population 18 years and over: Female: 65 years and over:
+WhtNotHispPopGte18y_Fem_Gte65y_ArmForce	White alone, not Hispanic or Latino population 18 years and over: Female: 65 years and over: In Armed Forces
+WhtNotHispPopGte18y_Fem_Gte65y_Civ	White alone, not Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian:
+WhtNotHispPopGte18y_Fem_Gte65y_Civ_Vet	White alone, not Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian: Veteran
+WhtNotHispPopGte18y_Fem_Gte65y_Civ_NonVet	White alone, not Hispanic or Latino population 18 years and over: Female: 65 years and over: Civilian: Nonveteran
+TotDisabCNIWhtPopGte5y_TotDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied:
+TotDisabCNIWhtPopGte5y_TotDisabPpl5to15y	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years:
+TotDisabCNIWhtPopGte5y_TotDisabPpl5to15y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl5to15y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl5to15y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl5to15y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years:
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+TotDisabCNIWhtPopGte5y_TotDisabPpl16to64y_EmplDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over:
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+TotDisabCNIWhtPopGte5y_TotDisabPplGte65y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized White alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied:
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl5to15y	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years:
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl5to15y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl5to15y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl5to15y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl5to15y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years:
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPpl16to64y_EmplDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over:
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+TotDisabCNIBlkAfAmPopGte5y_TotDisabPplGte65y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Black or African American alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied:
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl5to15y	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years:
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl5to15y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl5to15y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl5to15y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl5to15y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years:
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPpl16to64y_EmplDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over:
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+TotDisabCNIAmIndAkNatPopGte5y_TotDisabPplGte65y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized American Indian and Alaska Native alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability
+TotDisabCNIAsnPopGte5y_TotDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied:
+TotDisabCNIAsnPopGte5y_TotDisabPpl5to15y	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years:
+TotDisabCNIAsnPopGte5y_TotDisabPpl5to15y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl5to15y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl5to15y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl5to15y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years:
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+TotDisabCNIAsnPopGte5y_TotDisabPpl16to64y_EmplDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over:
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+TotDisabCNIAsnPopGte5y_TotDisabPplGte65y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Asian alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied:
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl5to15y	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years:
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl5to15y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Sensory disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl5to15y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Physical disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl5to15y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Mental disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl5to15y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 5 to 15 years: Self-care disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years:
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Sensory disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Physical disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Mental disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Self-care disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Go-outside-home disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPpl16to64y_EmplDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 16 to 64 years: Employment disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over:
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y_SensDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Sensory disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y_PhysDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Physical disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y_MentDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Mental disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y_SelfCareDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Self-care disability
+TotDisabCNINatHiPacIslPopGte5y_TotDisabPplGte65y_GoOutDisab	Total disabilities tallied for the civilian noninstitutionalized Native Hawaiian and Other Pacific Islander alone population 5 years and over with disabilities: Total disabilities tallied for people 65 years and over: Go-outside-home disability

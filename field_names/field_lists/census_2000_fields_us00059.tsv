@@ -1,0 +1,252 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_NoVhclAvail	Occupied housing units: Owner occupied: No vehicle available:
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh15to24y	Occupied housing units: Owner occupied: No vehicle available: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh25to34y	Occupied housing units: Owner occupied: No vehicle available: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh35to44y	Occupied housing units: Owner occupied: No vehicle available: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh45to54y	Occupied housing units: Owner occupied: No vehicle available: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh55to64y	Occupied housing units: Owner occupied: No vehicle available: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_Hh65to74y	Occupied housing units: Owner occupied: No vehicle available: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_NoVhclAvail_HhGte75y	Occupied housing units: Owner occupied: No vehicle available: Householder 75 years and over
+OcpHsUnt_OwnerOcp_Gte1VhclAvail	Occupied housing units: Owner occupied: 1 or more vehicles available:
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh15to24y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh25to34y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh35to44y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh45to54y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh55to64y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_Hh65to74y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_Gte1VhclAvail_HhGte75y	Occupied housing units: Owner occupied: 1 or more vehicles available: Householder 75 years and over
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_NoVhclAvail	Occupied housing units: Renter occupied: No vehicle available:
+OcpHsUnt_RentOcp_NoVhclAvail_Hh15to24y	Occupied housing units: Renter occupied: No vehicle available: Householder 15 to 24 years
+OcpHsUnt_RentOcp_NoVhclAvail_Hh25to34y	Occupied housing units: Renter occupied: No vehicle available: Householder 25 to 34 years
+OcpHsUnt_RentOcp_NoVhclAvail_Hh35to44y	Occupied housing units: Renter occupied: No vehicle available: Householder 35 to 44 years
+OcpHsUnt_RentOcp_NoVhclAvail_Hh45to54y	Occupied housing units: Renter occupied: No vehicle available: Householder 45 to 54 years
+OcpHsUnt_RentOcp_NoVhclAvail_Hh55to64y	Occupied housing units: Renter occupied: No vehicle available: Householder 55 to 64 years
+OcpHsUnt_RentOcp_NoVhclAvail_Hh65to74y	Occupied housing units: Renter occupied: No vehicle available: Householder 65 to 74 years
+OcpHsUnt_RentOcp_NoVhclAvail_HhGte75y	Occupied housing units: Renter occupied: No vehicle available: Householder 75 years and over
+OcpHsUnt_RentOcp_Gte1VhclAvail	Occupied housing units: Renter occupied: 1 or more vehicles available:
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh15to24y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 15 to 24 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh25to34y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 25 to 34 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh35to44y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 35 to 44 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh45to54y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 45 to 54 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh55to64y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 55 to 64 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_Hh65to74y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 65 to 74 years
+OcpHsUnt_RentOcp_Gte1VhclAvail_HhGte75y	Occupied housing units: Renter occupied: 1 or more vehicles available: Householder 75 years and over
+OcpHsUnt_AggNumbVhclAvail	Occupied housing units: Aggregate number of vehicles available:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied
+HsUnt_Tot	Housing units: Total:
+HsUnt_CompPlmbFac	Housing units: Complete plumbing facilities
+HsUnt_LackCompPlumbFac	Housing units: Lacking complete plumbing facilities
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_CompPlmbFac	Occupied housing units: Owner occupied: Complete plumbing facilities
+OcpHsUnt_OwnerOcp_LackCompPlumbFac	Occupied housing units: Owner occupied: Lacking complete plumbing facilities
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_CompPlmbFac	Occupied housing units: Renter occupied: Complete plumbing facilities
+OcpHsUnt_RentOcp_LackCompPlumbFac	Occupied housing units: Renter occupied: Lacking complete plumbing facilities
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_CompPlmbFac	Occupied housing units: Complete plumbing facilities:
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room:
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt99toMar2000	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1999 to March 2000
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt95to98	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1995 to 1998
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt90to94	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1990 to 1994
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt80to89	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1980 to 1989
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt70to79	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1970 to 1979
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt60to69	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1960 to 1969
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt50to59	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1950 to 1959
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt40to49	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1940 to 1949
+OcpHsUnt_CompPlmbFac_Lte1OcpPrRm_Blt39Erlr	Occupied housing units: Complete plumbing facilities: 1.00 or less occupants per room: Built 1939 or earlier
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room:
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt99toMar2000	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1999 to March 2000
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt95to98	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1995 to 1998
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt90to94	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1990 to 1994
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt80to89	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1980 to 1989
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt70to79	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1970 to 1979
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt60to69	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1960 to 1969
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt50to59	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1950 to 1959
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt40to49	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1940 to 1949
+OcpHsUnt_CompPlmbFac_Gte1.01OcpPrRm_Blt39Erlr	Occupied housing units: Complete plumbing facilities: 1.01 or more occupants per room: Built 1939 or earlier
+OcpHsUnt_LackCompPlumbFac	Occupied housing units: Lacking complete plumbing facilities:
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room:
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt99toMar2000	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1999 to March 2000
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt95to98	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1995 to 1998
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt90to94	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1990 to 1994
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt80to89	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1980 to 1989
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt70to79	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1970 to 1979
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt60to69	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1960 to 1969
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt50to59	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1950 to 1959
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt40to49	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1940 to 1949
+OcpHsUnt_LackCompPlumbFac_Lte1OcpPrRm_Blt39Erlr	Occupied housing units: Lacking complete plumbing facilities: 1.00 or less occupants per room: Built 1939 or earlier
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room:
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt99toMar2000	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1999 to March 2000
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt95to98	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1995 to 1998
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt90to94	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1990 to 1994
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt80to89	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1980 to 1989
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt70to79	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1970 to 1979
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt60to69	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1960 to 1969
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt50to59	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1950 to 1959
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt40to49	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1940 to 1949
+OcpHsUnt_LackCompPlumbFac_Gte1.01OcpPrRm_Blt39Erlr	Occupied housing units: Lacking complete plumbing facilities: 1.01 or more occupants per room: Built 1939 or earlier
+HsUnt_Tot	Housing units: Total:
+HsUnt_CompKitchFac	Housing units: Complete kitchen facilities
+HsUnt_LackCompKitchFac	Housing units: Lacking complete kitchen facilities
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_CompKitchFac	Occupied housing units: Owner occupied: Complete kitchen facilities
+OcpHsUnt_OwnerOcp_LackCompKitchFac	Occupied housing units: Owner occupied: Lacking complete kitchen facilities
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_CompKitchFac	Occupied housing units: Renter occupied: Complete kitchen facilities
+OcpHsUnt_RentOcp_LackCompKitchFac	Occupied housing units: Renter occupied: Lacking complete kitchen facilities
+RentOcpHsUntPayCash_Tot	Specified renter-occupied housing units paying cash rent: Total:
+RentOcpHsUntPayCash_CompKitchFac	Specified renter-occupied housing units paying cash rent: Complete kitchen facilities:
+RentOcpHsUntPayCash_CompKitchFac_MealInclRent	Specified renter-occupied housing units paying cash rent: Complete kitchen facilities: Meals included in rent
+RentOcpHsUntPayCash_CompKitchFac_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Complete kitchen facilities: No meals included in rent
+RentOcpHsUntPayCash_LackCompKitchFac	Specified renter-occupied housing units paying cash rent: Lacking complete kitchen facilities:
+RentOcpHsUntPayCash_LackCompKitchFac_MealInclRent	Specified renter-occupied housing units paying cash rent: Lacking complete kitchen facilities: Meals included in rent
+RentOcpHsUntPayCash_LackCompKitchFac_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Lacking complete kitchen facilities: No meals included in rent
+RentOcpHsUntPayCash_Tot	Specified renter-occupied housing units paying cash rent: Total:
+RentOcpHsUntPayCash_Hh15to54y	Specified renter-occupied housing units paying cash rent: Householder 15 to 54 years:
+RentOcpHsUntPayCash_Hh15to54y_MealInclRent	Specified renter-occupied housing units paying cash rent: Householder 15 to 54 years: Meals included in rent
+RentOcpHsUntPayCash_Hh15to54y_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Householder 15 to 54 years: No meals included in rent
+RentOcpHsUntPayCash_Hh55to64y	Specified renter-occupied housing units paying cash rent: Householder 55 to 64 years:
+RentOcpHsUntPayCash_Hh55to64y_MealInclRent	Specified renter-occupied housing units paying cash rent: Householder 55 to 64 years: Meals included in rent
+RentOcpHsUntPayCash_Hh55to64y_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Householder 55 to 64 years: No meals included in rent
+RentOcpHsUntPayCash_Hh65to74y	Specified renter-occupied housing units paying cash rent: Householder 65 to 74 years:
+RentOcpHsUntPayCash_Hh65to74y_MealInclRent	Specified renter-occupied housing units paying cash rent: Householder 65 to 74 years: Meals included in rent
+RentOcpHsUntPayCash_Hh65to74y_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Householder 65 to 74 years: No meals included in rent
+RentOcpHsUntPayCash_HhGte75y	Specified renter-occupied housing units paying cash rent: Householder 75 years and over:
+RentOcpHsUntPayCash_HhGte75y_MealInclRent	Specified renter-occupied housing units paying cash rent: Householder 75 years and over: Meals included in rent
+RentOcpHsUntPayCash_HhGte75y_NoMealInclRent	Specified renter-occupied housing units paying cash rent: Householder 75 years and over: No meals included in rent
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_WCashRent	Specified renter-occupied housing units: With cash rent:
+SpecRentOcpHsUnt_WCashRent_Lt$100	Specified renter-occupied housing units: With cash rent: Less than $100
+SpecRentOcpHsUnt_WCashRent_Usd100to149	Specified renter-occupied housing units: With cash rent: $100 to $149
+SpecRentOcpHsUnt_WCashRent_Usd150to199	Specified renter-occupied housing units: With cash rent: $150 to $199
+SpecRentOcpHsUnt_WCashRent_Usd200to249	Specified renter-occupied housing units: With cash rent: $200 to $249
+SpecRentOcpHsUnt_WCashRent_Usd250to299	Specified renter-occupied housing units: With cash rent: $250 to $299
+SpecRentOcpHsUnt_WCashRent_Usd300to349	Specified renter-occupied housing units: With cash rent: $300 to $349
+SpecRentOcpHsUnt_WCashRent_Usd350to399	Specified renter-occupied housing units: With cash rent: $350 to $399
+SpecRentOcpHsUnt_WCashRent_Usd400to449	Specified renter-occupied housing units: With cash rent: $400 to $449
+SpecRentOcpHsUnt_WCashRent_Usd450to499	Specified renter-occupied housing units: With cash rent: $450 to $499
+SpecRentOcpHsUnt_WCashRent_Usd500to549	Specified renter-occupied housing units: With cash rent: $500 to $549
+SpecRentOcpHsUnt_WCashRent_Usd550to599	Specified renter-occupied housing units: With cash rent: $550 to $599
+SpecRentOcpHsUnt_WCashRent_Usd600to649	Specified renter-occupied housing units: With cash rent: $600 to $649
+SpecRentOcpHsUnt_WCashRent_Usd650to699	Specified renter-occupied housing units: With cash rent: $650 to $699
+SpecRentOcpHsUnt_WCashRent_Usd700to749	Specified renter-occupied housing units: With cash rent: $700 to $749
+SpecRentOcpHsUnt_WCashRent_Usd750to799	Specified renter-occupied housing units: With cash rent: $750 to $799
+SpecRentOcpHsUnt_WCashRent_Usd800to899	Specified renter-occupied housing units: With cash rent: $800 to $899
+SpecRentOcpHsUnt_WCashRent_Usd900to999	Specified renter-occupied housing units: With cash rent: $900 to $999
+SpecRentOcpHsUnt_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units: With cash rent: $1,000 to $1,249
+SpecRentOcpHsUnt_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units: With cash rent: $1,250 to $1,499
+SpecRentOcpHsUnt_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units: With cash rent: $1,500 to $1,999
+SpecRentOcpHsUnt_WCashRent_Usd2korM	Specified renter-occupied housing units: With cash rent: $2,000 or more
+SpecRentOcpHsUnt_NoCashRent	Specified renter-occupied housing units: No cash rent
+RentOcpHsUntPayCash_LowContRentQuart	Specified renter-occupied housing units paying cash rent: Lower contract rent quartile
+RentOcpHsUntPayCash_MedContRent	Specified renter-occupied housing units paying cash rent: Median contract rent
+RentOcpHsUntPayCash_UpperContRentQuart	Specified renter-occupied housing units paying cash rent: Upper contract rent quartile
+RentOcpHsUntPayCash_AggContRent	Specified renter-occupied housing units paying cash rent: Aggregate contract rent
+SpecVacForRentHsUnt_Tot	Specified vacant-for-rent housing units: Total:
+SpecVacForRentHsUnt_Lt$100	Specified vacant-for-rent housing units: Less than $100
+SpecVacForRentHsUnt_Usd100to149	Specified vacant-for-rent housing units: $100 to $149
+SpecVacForRentHsUnt_Usd150to199	Specified vacant-for-rent housing units: $150 to $199
+SpecVacForRentHsUnt_Usd200to249	Specified vacant-for-rent housing units: $200 to $249
+SpecVacForRentHsUnt_Usd250to299	Specified vacant-for-rent housing units: $250 to $299
+SpecVacForRentHsUnt_Usd300to349	Specified vacant-for-rent housing units: $300 to $349
+SpecVacForRentHsUnt_Usd350to399	Specified vacant-for-rent housing units: $350 to $399
+SpecVacForRentHsUnt_Usd400to449	Specified vacant-for-rent housing units: $400 to $449
+SpecVacForRentHsUnt_Usd450to499	Specified vacant-for-rent housing units: $450 to $499
+SpecVacForRentHsUnt_Usd500to549	Specified vacant-for-rent housing units: $500 to $549
+SpecVacForRentHsUnt_Usd550to599	Specified vacant-for-rent housing units: $550 to $599
+SpecVacForRentHsUnt_Usd600to649	Specified vacant-for-rent housing units: $600 to $649
+SpecVacForRentHsUnt_Usd650to699	Specified vacant-for-rent housing units: $650 to $699
+SpecVacForRentHsUnt_Usd700to749	Specified vacant-for-rent housing units: $700 to $749
+SpecVacForRentHsUnt_Usd750to799	Specified vacant-for-rent housing units: $750 to $799
+SpecVacForRentHsUnt_Usd800to899	Specified vacant-for-rent housing units: $800 to $899
+SpecVacForRentHsUnt_Usd900to999	Specified vacant-for-rent housing units: $900 to $999
+SpecVacForRentHsUnt_Usd1kto1.25k	Specified vacant-for-rent housing units: $1,000 to $1,249
+SpecVacForRentHsUnt_Usd1.25kto1.5k	Specified vacant-for-rent housing units: $1,250 to $1,499
+SpecVacForRentHsUnt_Usd1.5kto2k	Specified vacant-for-rent housing units: $1,500 to $1,999
+SpecVacForRentHsUnt_Usd2korM	Specified vacant-for-rent housing units: $2,000 or more
+SpecVacForRentHsUnt_MedRentAskd	Specified vacant-for-rent housing units: Median rent asked
+SpecVacForRentHsUnt_AggRntAskd	Specified vacant-for-rent housing units: Aggregate rent asked
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_WCashRent	Specified renter-occupied housing units: With cash rent:
+SpecRentOcpHsUnt_WCashRent_Lt$100	Specified renter-occupied housing units: With cash rent: Less than $100
+SpecRentOcpHsUnt_WCashRent_Usd100to149	Specified renter-occupied housing units: With cash rent: $100 to $149
+SpecRentOcpHsUnt_WCashRent_Usd150to199	Specified renter-occupied housing units: With cash rent: $150 to $199
+SpecRentOcpHsUnt_WCashRent_Usd200to249	Specified renter-occupied housing units: With cash rent: $200 to $249
+SpecRentOcpHsUnt_WCashRent_Usd250to299	Specified renter-occupied housing units: With cash rent: $250 to $299
+SpecRentOcpHsUnt_WCashRent_Usd300to349	Specified renter-occupied housing units: With cash rent: $300 to $349
+SpecRentOcpHsUnt_WCashRent_Usd350to399	Specified renter-occupied housing units: With cash rent: $350 to $399
+SpecRentOcpHsUnt_WCashRent_Usd400to449	Specified renter-occupied housing units: With cash rent: $400 to $449
+SpecRentOcpHsUnt_WCashRent_Usd450to499	Specified renter-occupied housing units: With cash rent: $450 to $499
+SpecRentOcpHsUnt_WCashRent_Usd500to549	Specified renter-occupied housing units: With cash rent: $500 to $549
+SpecRentOcpHsUnt_WCashRent_Usd550to599	Specified renter-occupied housing units: With cash rent: $550 to $599
+SpecRentOcpHsUnt_WCashRent_Usd600to649	Specified renter-occupied housing units: With cash rent: $600 to $649
+SpecRentOcpHsUnt_WCashRent_Usd650to699	Specified renter-occupied housing units: With cash rent: $650 to $699
+SpecRentOcpHsUnt_WCashRent_Usd700to749	Specified renter-occupied housing units: With cash rent: $700 to $749
+SpecRentOcpHsUnt_WCashRent_Usd750to799	Specified renter-occupied housing units: With cash rent: $750 to $799
+SpecRentOcpHsUnt_WCashRent_Usd800to899	Specified renter-occupied housing units: With cash rent: $800 to $899
+SpecRentOcpHsUnt_WCashRent_Usd900to999	Specified renter-occupied housing units: With cash rent: $900 to $999
+SpecRentOcpHsUnt_WCashRent_Usd1kto1.25k	Specified renter-occupied housing units: With cash rent: $1,000 to $1,249
+SpecRentOcpHsUnt_WCashRent_Usd1.25kto1.5k	Specified renter-occupied housing units: With cash rent: $1,250 to $1,499
+SpecRentOcpHsUnt_WCashRent_Usd1.5kto2k	Specified renter-occupied housing units: With cash rent: $1,500 to $1,999
+SpecRentOcpHsUnt_WCashRent_Usd2korM	Specified renter-occupied housing units: With cash rent: $2,000 or more
+SpecRentOcpHsUnt_NoCashRent	Specified renter-occupied housing units: No cash rent
+RentOcpHsUntPayCash_MedGrssRent	Specified renter-occupied housing units paying cash rent: Median gross rent
+RentOcpHsUntPayCash_AggGrsRent	Specified renter-occupied housing units paying cash rent: Aggregate gross rent
+RentOcpHsUntPayCash_AggGrsRent	Specified renter-occupied housing units paying cash rent: Aggregate gross rent
+RentOcpHsUntPayCash_MealInclRent	Specified renter-occupied housing units paying cash rent: Meals included in rent
+RentOcpHsUntPayCash_NoMealInclRent	Specified renter-occupied housing units paying cash rent: No meals included in rent
+RentOcpHsUntPayCash_AggGrsRent	Specified renter-occupied housing units paying cash rent: Aggregate gross rent
+RentOcpHsUntPayCash_1DtchdorAtchd	Specified renter-occupied housing units paying cash rent: 1, detached or attached
+RentOcpHsUntPayCash_2to4	Specified renter-occupied housing units paying cash rent: 2 to 4
+RentOcpHsUntPayCash_5to19	Specified renter-occupied housing units paying cash rent: 5 to 19
+RentOcpHsUntPayCash_20to49	Specified renter-occupied housing units paying cash rent: 20 to 49
+RentOcpHsUntPayCash_Gte50	Specified renter-occupied housing units paying cash rent: 50 or more
+RentOcpHsUntPayCash_MobHome	Specified renter-occupied housing units paying cash rent: Mobile home
+RentOcpHsUntPayCash_BoatRVvan	Specified renter-occupied housing units paying cash rent: Boat, RV, van, etc.
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_NoBedrm	Specified renter-occupied housing units: No bedroom:
+SpecRentOcpHsUnt_NoBedrm_WCashRent	Specified renter-occupied housing units: No bedroom: With cash rent:
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Lt$200	Specified renter-occupied housing units: No bedroom: With cash rent: Less than $200
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Usd200to299	Specified renter-occupied housing units: No bedroom: With cash rent: $200 to $299
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Usd300to499	Specified renter-occupied housing units: No bedroom: With cash rent: $300 to $499
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Usd500to749	Specified renter-occupied housing units: No bedroom: With cash rent: $500 to $749
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Usd750to999	Specified renter-occupied housing units: No bedroom: With cash rent: $750 to $999
+SpecRentOcpHsUnt_NoBedrm_WCashRent_Usd1korM	Specified renter-occupied housing units: No bedroom: With cash rent: $1,000 or more
+SpecRentOcpHsUnt_NoBedrm_NoCashRent	Specified renter-occupied housing units: No bedroom: No cash rent
+SpecRentOcpHsUnt_1Bedrm	Specified renter-occupied housing units: 1 bedroom:
+SpecRentOcpHsUnt_1Bedrm_WCashRent	Specified renter-occupied housing units: 1 bedroom: With cash rent:
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Lt$200	Specified renter-occupied housing units: 1 bedroom: With cash rent: Less than $200
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Usd200to299	Specified renter-occupied housing units: 1 bedroom: With cash rent: $200 to $299
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Usd300to499	Specified renter-occupied housing units: 1 bedroom: With cash rent: $300 to $499
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Usd500to749	Specified renter-occupied housing units: 1 bedroom: With cash rent: $500 to $749
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Usd750to999	Specified renter-occupied housing units: 1 bedroom: With cash rent: $750 to $999
+SpecRentOcpHsUnt_1Bedrm_WCashRent_Usd1korM	Specified renter-occupied housing units: 1 bedroom: With cash rent: $1,000 or more
+SpecRentOcpHsUnt_1Bedrm_NoCashRent	Specified renter-occupied housing units: 1 bedroom: No cash rent
+SpecRentOcpHsUnt_2Bedrm	Specified renter-occupied housing units: 2 bedrooms:
+SpecRentOcpHsUnt_2Bedrm_WCashRent	Specified renter-occupied housing units: 2 bedrooms: With cash rent:
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Lt$200	Specified renter-occupied housing units: 2 bedrooms: With cash rent: Less than $200
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Usd200to299	Specified renter-occupied housing units: 2 bedrooms: With cash rent: $200 to $299
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Usd300to499	Specified renter-occupied housing units: 2 bedrooms: With cash rent: $300 to $499
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Usd500to749	Specified renter-occupied housing units: 2 bedrooms: With cash rent: $500 to $749
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Usd750to999	Specified renter-occupied housing units: 2 bedrooms: With cash rent: $750 to $999
+SpecRentOcpHsUnt_2Bedrm_WCashRent_Usd1korM	Specified renter-occupied housing units: 2 bedrooms: With cash rent: $1,000 or more
+SpecRentOcpHsUnt_2Bedrm_NoCashRent	Specified renter-occupied housing units: 2 bedrooms: No cash rent
+SpecRentOcpHsUnt_Gte3Bedrm	Specified renter-occupied housing units: 3 or more bedrooms:
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent:
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Lt$200	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: Less than $200
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Usd200to299	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: $200 to $299
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Usd300to499	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: $300 to $499
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Usd500to749	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: $500 to $749
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Usd750to999	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: $750 to $999
+SpecRentOcpHsUnt_Gte3Bedrm_WCashRent_Usd1korM	Specified renter-occupied housing units: 3 or more bedrooms: With cash rent: $1,000 or more
+SpecRentOcpHsUnt_Gte3Bedrm_NoCashRent	Specified renter-occupied housing units: 3 or more bedrooms: No cash rent
+SpecRentOcpHsUnt_Tot	Specified renter-occupied housing units: Total:
+SpecRentOcpHsUnt_PayExtGte1Util	Specified renter-occupied housing units: Pay extra for one or more utilities
+SpecRentOcpHsUnt_NoExtPayUtil	Specified renter-occupied housing units: No extra payment for any utilities

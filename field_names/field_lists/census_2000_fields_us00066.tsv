@@ -1,0 +1,250 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Blt99toMar2000	Occupied housing units: Owner occupied: Built 1999 to March 2000:
+OcpHsUnt_OwnerOcp_Blt99toMar2000_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1999 to March 2000: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt99toMar2000_2to4	Occupied housing units: Owner occupied: Built 1999 to March 2000: 2 to 4
+OcpHsUnt_OwnerOcp_Blt99toMar2000_5to19	Occupied housing units: Owner occupied: Built 1999 to March 2000: 5 to 19
+OcpHsUnt_OwnerOcp_Blt99toMar2000_20to49	Occupied housing units: Owner occupied: Built 1999 to March 2000: 20 to 49
+OcpHsUnt_OwnerOcp_Blt99toMar2000_Gte50	Occupied housing units: Owner occupied: Built 1999 to March 2000: 50 or more
+OcpHsUnt_OwnerOcp_Blt99toMar2000_MobHome	Occupied housing units: Owner occupied: Built 1999 to March 2000: Mobile home
+OcpHsUnt_OwnerOcp_Blt99toMar2000_BoatRVvan	Occupied housing units: Owner occupied: Built 1999 to March 2000: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt95to98	Occupied housing units: Owner occupied: Built 1995 to 1998:
+OcpHsUnt_OwnerOcp_Blt95to98_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1995 to 1998: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt95to98_2to4	Occupied housing units: Owner occupied: Built 1995 to 1998: 2 to 4
+OcpHsUnt_OwnerOcp_Blt95to98_5to19	Occupied housing units: Owner occupied: Built 1995 to 1998: 5 to 19
+OcpHsUnt_OwnerOcp_Blt95to98_20to49	Occupied housing units: Owner occupied: Built 1995 to 1998: 20 to 49
+OcpHsUnt_OwnerOcp_Blt95to98_Gte50	Occupied housing units: Owner occupied: Built 1995 to 1998: 50 or more
+OcpHsUnt_OwnerOcp_Blt95to98_MobHome	Occupied housing units: Owner occupied: Built 1995 to 1998: Mobile home
+OcpHsUnt_OwnerOcp_Blt95to98_BoatRVvan	Occupied housing units: Owner occupied: Built 1995 to 1998: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt90to94	Occupied housing units: Owner occupied: Built 1990 to 1994:
+OcpHsUnt_OwnerOcp_Blt90to94_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1990 to 1994: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt90to94_2to4	Occupied housing units: Owner occupied: Built 1990 to 1994: 2 to 4
+OcpHsUnt_OwnerOcp_Blt90to94_5to19	Occupied housing units: Owner occupied: Built 1990 to 1994: 5 to 19
+OcpHsUnt_OwnerOcp_Blt90to94_20to49	Occupied housing units: Owner occupied: Built 1990 to 1994: 20 to 49
+OcpHsUnt_OwnerOcp_Blt90to94_Gte50	Occupied housing units: Owner occupied: Built 1990 to 1994: 50 or more
+OcpHsUnt_OwnerOcp_Blt90to94_MobHome	Occupied housing units: Owner occupied: Built 1990 to 1994: Mobile home
+OcpHsUnt_OwnerOcp_Blt90to94_BoatRVvan	Occupied housing units: Owner occupied: Built 1990 to 1994: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt80to89	Occupied housing units: Owner occupied: Built 1980 to 1989:
+OcpHsUnt_OwnerOcp_Blt80to89_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1980 to 1989: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt80to89_2to4	Occupied housing units: Owner occupied: Built 1980 to 1989: 2 to 4
+OcpHsUnt_OwnerOcp_Blt80to89_5to19	Occupied housing units: Owner occupied: Built 1980 to 1989: 5 to 19
+OcpHsUnt_OwnerOcp_Blt80to89_20to49	Occupied housing units: Owner occupied: Built 1980 to 1989: 20 to 49
+OcpHsUnt_OwnerOcp_Blt80to89_Gte50	Occupied housing units: Owner occupied: Built 1980 to 1989: 50 or more
+OcpHsUnt_OwnerOcp_Blt80to89_MobHome	Occupied housing units: Owner occupied: Built 1980 to 1989: Mobile home
+OcpHsUnt_OwnerOcp_Blt80to89_BoatRVvan	Occupied housing units: Owner occupied: Built 1980 to 1989: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt70to79	Occupied housing units: Owner occupied: Built 1970 to 1979:
+OcpHsUnt_OwnerOcp_Blt70to79_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1970 to 1979: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt70to79_2to4	Occupied housing units: Owner occupied: Built 1970 to 1979: 2 to 4
+OcpHsUnt_OwnerOcp_Blt70to79_5to19	Occupied housing units: Owner occupied: Built 1970 to 1979: 5 to 19
+OcpHsUnt_OwnerOcp_Blt70to79_20to49	Occupied housing units: Owner occupied: Built 1970 to 1979: 20 to 49
+OcpHsUnt_OwnerOcp_Blt70to79_Gte50	Occupied housing units: Owner occupied: Built 1970 to 1979: 50 or more
+OcpHsUnt_OwnerOcp_Blt70to79_MobHome	Occupied housing units: Owner occupied: Built 1970 to 1979: Mobile home
+OcpHsUnt_OwnerOcp_Blt70to79_BoatRVvan	Occupied housing units: Owner occupied: Built 1970 to 1979: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt60to69	Occupied housing units: Owner occupied: Built 1960 to 1969:
+OcpHsUnt_OwnerOcp_Blt60to69_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1960 to 1969: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt60to69_2to4	Occupied housing units: Owner occupied: Built 1960 to 1969: 2 to 4
+OcpHsUnt_OwnerOcp_Blt60to69_5to19	Occupied housing units: Owner occupied: Built 1960 to 1969: 5 to 19
+OcpHsUnt_OwnerOcp_Blt60to69_20to49	Occupied housing units: Owner occupied: Built 1960 to 1969: 20 to 49
+OcpHsUnt_OwnerOcp_Blt60to69_Gte50	Occupied housing units: Owner occupied: Built 1960 to 1969: 50 or more
+OcpHsUnt_OwnerOcp_Blt60to69_MobHome	Occupied housing units: Owner occupied: Built 1960 to 1969: Mobile home
+OcpHsUnt_OwnerOcp_Blt60to69_BoatRVvan	Occupied housing units: Owner occupied: Built 1960 to 1969: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt50to59	Occupied housing units: Owner occupied: Built 1950 to 1959:
+OcpHsUnt_OwnerOcp_Blt50to59_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1950 to 1959: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt50to59_2to4	Occupied housing units: Owner occupied: Built 1950 to 1959: 2 to 4
+OcpHsUnt_OwnerOcp_Blt50to59_5to19	Occupied housing units: Owner occupied: Built 1950 to 1959: 5 to 19
+OcpHsUnt_OwnerOcp_Blt50to59_20to49	Occupied housing units: Owner occupied: Built 1950 to 1959: 20 to 49
+OcpHsUnt_OwnerOcp_Blt50to59_Gte50	Occupied housing units: Owner occupied: Built 1950 to 1959: 50 or more
+OcpHsUnt_OwnerOcp_Blt50to59_MobHome	Occupied housing units: Owner occupied: Built 1950 to 1959: Mobile home
+OcpHsUnt_OwnerOcp_Blt50to59_BoatRVvan	Occupied housing units: Owner occupied: Built 1950 to 1959: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt40to49	Occupied housing units: Owner occupied: Built 1940 to 1949:
+OcpHsUnt_OwnerOcp_Blt40to49_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1940 to 1949: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt40to49_2to4	Occupied housing units: Owner occupied: Built 1940 to 1949: 2 to 4
+OcpHsUnt_OwnerOcp_Blt40to49_5to19	Occupied housing units: Owner occupied: Built 1940 to 1949: 5 to 19
+OcpHsUnt_OwnerOcp_Blt40to49_20to49	Occupied housing units: Owner occupied: Built 1940 to 1949: 20 to 49
+OcpHsUnt_OwnerOcp_Blt40to49_Gte50	Occupied housing units: Owner occupied: Built 1940 to 1949: 50 or more
+OcpHsUnt_OwnerOcp_Blt40to49_MobHome	Occupied housing units: Owner occupied: Built 1940 to 1949: Mobile home
+OcpHsUnt_OwnerOcp_Blt40to49_BoatRVvan	Occupied housing units: Owner occupied: Built 1940 to 1949: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Blt39Erlr	Occupied housing units: Owner occupied: Built 1939 or earlier:
+OcpHsUnt_OwnerOcp_Blt39Erlr_1DtchdorAtchd	Occupied housing units: Owner occupied: Built 1939 or earlier: 1, detached or attached
+OcpHsUnt_OwnerOcp_Blt39Erlr_2to4	Occupied housing units: Owner occupied: Built 1939 or earlier: 2 to 4
+OcpHsUnt_OwnerOcp_Blt39Erlr_5to19	Occupied housing units: Owner occupied: Built 1939 or earlier: 5 to 19
+OcpHsUnt_OwnerOcp_Blt39Erlr_20to49	Occupied housing units: Owner occupied: Built 1939 or earlier: 20 to 49
+OcpHsUnt_OwnerOcp_Blt39Erlr_Gte50	Occupied housing units: Owner occupied: Built 1939 or earlier: 50 or more
+OcpHsUnt_OwnerOcp_Blt39Erlr_MobHome	Occupied housing units: Owner occupied: Built 1939 or earlier: Mobile home
+OcpHsUnt_OwnerOcp_Blt39Erlr_BoatRVvan	Occupied housing units: Owner occupied: Built 1939 or earlier: Boat, RV, van, etc.
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Blt99toMar2000	Occupied housing units: Renter occupied: Built 1999 to March 2000:
+OcpHsUnt_RentOcp_Blt99toMar2000_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1999 to March 2000: 1, detached or attached
+OcpHsUnt_RentOcp_Blt99toMar2000_2to4	Occupied housing units: Renter occupied: Built 1999 to March 2000: 2 to 4
+OcpHsUnt_RentOcp_Blt99toMar2000_5to19	Occupied housing units: Renter occupied: Built 1999 to March 2000: 5 to 19
+OcpHsUnt_RentOcp_Blt99toMar2000_20to49	Occupied housing units: Renter occupied: Built 1999 to March 2000: 20 to 49
+OcpHsUnt_RentOcp_Blt99toMar2000_Gte50	Occupied housing units: Renter occupied: Built 1999 to March 2000: 50 or more
+OcpHsUnt_RentOcp_Blt99toMar2000_MobHome	Occupied housing units: Renter occupied: Built 1999 to March 2000: Mobile home
+OcpHsUnt_RentOcp_Blt99toMar2000_BoatRVvan	Occupied housing units: Renter occupied: Built 1999 to March 2000: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt95to98	Occupied housing units: Renter occupied: Built 1995 to 1998:
+OcpHsUnt_RentOcp_Blt95to98_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1995 to 1998: 1, detached or attached
+OcpHsUnt_RentOcp_Blt95to98_2to4	Occupied housing units: Renter occupied: Built 1995 to 1998: 2 to 4
+OcpHsUnt_RentOcp_Blt95to98_5to19	Occupied housing units: Renter occupied: Built 1995 to 1998: 5 to 19
+OcpHsUnt_RentOcp_Blt95to98_20to49	Occupied housing units: Renter occupied: Built 1995 to 1998: 20 to 49
+OcpHsUnt_RentOcp_Blt95to98_Gte50	Occupied housing units: Renter occupied: Built 1995 to 1998: 50 or more
+OcpHsUnt_RentOcp_Blt95to98_MobHome	Occupied housing units: Renter occupied: Built 1995 to 1998: Mobile home
+OcpHsUnt_RentOcp_Blt95to98_BoatRVvan	Occupied housing units: Renter occupied: Built 1995 to 1998: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt90to94	Occupied housing units: Renter occupied: Built 1990 to 1994:
+OcpHsUnt_RentOcp_Blt90to94_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1990 to 1994: 1, detached or attached
+OcpHsUnt_RentOcp_Blt90to94_2to4	Occupied housing units: Renter occupied: Built 1990 to 1994: 2 to 4
+OcpHsUnt_RentOcp_Blt90to94_5to19	Occupied housing units: Renter occupied: Built 1990 to 1994: 5 to 19
+OcpHsUnt_RentOcp_Blt90to94_20to49	Occupied housing units: Renter occupied: Built 1990 to 1994: 20 to 49
+OcpHsUnt_RentOcp_Blt90to94_Gte50	Occupied housing units: Renter occupied: Built 1990 to 1994: 50 or more
+OcpHsUnt_RentOcp_Blt90to94_MobHome	Occupied housing units: Renter occupied: Built 1990 to 1994: Mobile home
+OcpHsUnt_RentOcp_Blt90to94_BoatRVvan	Occupied housing units: Renter occupied: Built 1990 to 1994: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt80to89	Occupied housing units: Renter occupied: Built 1980 to 1989:
+OcpHsUnt_RentOcp_Blt80to89_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1980 to 1989: 1, detached or attached
+OcpHsUnt_RentOcp_Blt80to89_2to4	Occupied housing units: Renter occupied: Built 1980 to 1989: 2 to 4
+OcpHsUnt_RentOcp_Blt80to89_5to19	Occupied housing units: Renter occupied: Built 1980 to 1989: 5 to 19
+OcpHsUnt_RentOcp_Blt80to89_20to49	Occupied housing units: Renter occupied: Built 1980 to 1989: 20 to 49
+OcpHsUnt_RentOcp_Blt80to89_Gte50	Occupied housing units: Renter occupied: Built 1980 to 1989: 50 or more
+OcpHsUnt_RentOcp_Blt80to89_MobHome	Occupied housing units: Renter occupied: Built 1980 to 1989: Mobile home
+OcpHsUnt_RentOcp_Blt80to89_BoatRVvan	Occupied housing units: Renter occupied: Built 1980 to 1989: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt70to79	Occupied housing units: Renter occupied: Built 1970 to 1979:
+OcpHsUnt_RentOcp_Blt70to79_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1970 to 1979: 1, detached or attached
+OcpHsUnt_RentOcp_Blt70to79_2to4	Occupied housing units: Renter occupied: Built 1970 to 1979: 2 to 4
+OcpHsUnt_RentOcp_Blt70to79_5to19	Occupied housing units: Renter occupied: Built 1970 to 1979: 5 to 19
+OcpHsUnt_RentOcp_Blt70to79_20to49	Occupied housing units: Renter occupied: Built 1970 to 1979: 20 to 49
+OcpHsUnt_RentOcp_Blt70to79_Gte50	Occupied housing units: Renter occupied: Built 1970 to 1979: 50 or more
+OcpHsUnt_RentOcp_Blt70to79_MobHome	Occupied housing units: Renter occupied: Built 1970 to 1979: Mobile home
+OcpHsUnt_RentOcp_Blt70to79_BoatRVvan	Occupied housing units: Renter occupied: Built 1970 to 1979: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt60to69	Occupied housing units: Renter occupied: Built 1960 to 1969:
+OcpHsUnt_RentOcp_Blt60to69_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1960 to 1969: 1, detached or attached
+OcpHsUnt_RentOcp_Blt60to69_2to4	Occupied housing units: Renter occupied: Built 1960 to 1969: 2 to 4
+OcpHsUnt_RentOcp_Blt60to69_5to19	Occupied housing units: Renter occupied: Built 1960 to 1969: 5 to 19
+OcpHsUnt_RentOcp_Blt60to69_20to49	Occupied housing units: Renter occupied: Built 1960 to 1969: 20 to 49
+OcpHsUnt_RentOcp_Blt60to69_Gte50	Occupied housing units: Renter occupied: Built 1960 to 1969: 50 or more
+OcpHsUnt_RentOcp_Blt60to69_MobHome	Occupied housing units: Renter occupied: Built 1960 to 1969: Mobile home
+OcpHsUnt_RentOcp_Blt60to69_BoatRVvan	Occupied housing units: Renter occupied: Built 1960 to 1969: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt50to59	Occupied housing units: Renter occupied: Built 1950 to 1959:
+OcpHsUnt_RentOcp_Blt50to59_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1950 to 1959: 1, detached or attached
+OcpHsUnt_RentOcp_Blt50to59_2to4	Occupied housing units: Renter occupied: Built 1950 to 1959: 2 to 4
+OcpHsUnt_RentOcp_Blt50to59_5to19	Occupied housing units: Renter occupied: Built 1950 to 1959: 5 to 19
+OcpHsUnt_RentOcp_Blt50to59_20to49	Occupied housing units: Renter occupied: Built 1950 to 1959: 20 to 49
+OcpHsUnt_RentOcp_Blt50to59_Gte50	Occupied housing units: Renter occupied: Built 1950 to 1959: 50 or more
+OcpHsUnt_RentOcp_Blt50to59_MobHome	Occupied housing units: Renter occupied: Built 1950 to 1959: Mobile home
+OcpHsUnt_RentOcp_Blt50to59_BoatRVvan	Occupied housing units: Renter occupied: Built 1950 to 1959: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt40to49	Occupied housing units: Renter occupied: Built 1940 to 1949:
+OcpHsUnt_RentOcp_Blt40to49_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1940 to 1949: 1, detached or attached
+OcpHsUnt_RentOcp_Blt40to49_2to4	Occupied housing units: Renter occupied: Built 1940 to 1949: 2 to 4
+OcpHsUnt_RentOcp_Blt40to49_5to19	Occupied housing units: Renter occupied: Built 1940 to 1949: 5 to 19
+OcpHsUnt_RentOcp_Blt40to49_20to49	Occupied housing units: Renter occupied: Built 1940 to 1949: 20 to 49
+OcpHsUnt_RentOcp_Blt40to49_Gte50	Occupied housing units: Renter occupied: Built 1940 to 1949: 50 or more
+OcpHsUnt_RentOcp_Blt40to49_MobHome	Occupied housing units: Renter occupied: Built 1940 to 1949: Mobile home
+OcpHsUnt_RentOcp_Blt40to49_BoatRVvan	Occupied housing units: Renter occupied: Built 1940 to 1949: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Blt39Erlr	Occupied housing units: Renter occupied: Built 1939 or earlier:
+OcpHsUnt_RentOcp_Blt39Erlr_1DtchdorAtchd	Occupied housing units: Renter occupied: Built 1939 or earlier: 1, detached or attached
+OcpHsUnt_RentOcp_Blt39Erlr_2to4	Occupied housing units: Renter occupied: Built 1939 or earlier: 2 to 4
+OcpHsUnt_RentOcp_Blt39Erlr_5to19	Occupied housing units: Renter occupied: Built 1939 or earlier: 5 to 19
+OcpHsUnt_RentOcp_Blt39Erlr_20to49	Occupied housing units: Renter occupied: Built 1939 or earlier: 20 to 49
+OcpHsUnt_RentOcp_Blt39Erlr_Gte50	Occupied housing units: Renter occupied: Built 1939 or earlier: 50 or more
+OcpHsUnt_RentOcp_Blt39Erlr_MobHome	Occupied housing units: Renter occupied: Built 1939 or earlier: Mobile home
+OcpHsUnt_RentOcp_Blt39Erlr_BoatRVvan	Occupied housing units: Renter occupied: Built 1939 or earlier: Boat, RV, van, etc.
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_Hh15to24y	Occupied housing units: Owner occupied: Householder 15 to 24 years:
+OcpHsUnt_OwnerOcp_Hh15to24y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh15to24y_Mvd95to98	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh15to24y_Mvd90to94	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh15to24y_Mvd80to89	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh15to24y_Mvd70to79	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh15to24y_MvdLte69	Occupied housing units: Owner occupied: Householder 15 to 24 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh25to34y	Occupied housing units: Owner occupied: Householder 25 to 34 years:
+OcpHsUnt_OwnerOcp_Hh25to34y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh25to34y_Mvd95to98	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh25to34y_Mvd90to94	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh25to34y_Mvd80to89	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh25to34y_Mvd70to79	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh25to34y_MvdLte69	Occupied housing units: Owner occupied: Householder 25 to 34 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh35to44y	Occupied housing units: Owner occupied: Householder 35 to 44 years:
+OcpHsUnt_OwnerOcp_Hh35to44y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh35to44y_Mvd95to98	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh35to44y_Mvd90to94	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh35to44y_Mvd80to89	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh35to44y_Mvd70to79	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh35to44y_MvdLte69	Occupied housing units: Owner occupied: Householder 35 to 44 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh45to54y	Occupied housing units: Owner occupied: Householder 45 to 54 years:
+OcpHsUnt_OwnerOcp_Hh45to54y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh45to54y_Mvd95to98	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh45to54y_Mvd90to94	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh45to54y_Mvd80to89	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh45to54y_Mvd70to79	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh45to54y_MvdLte69	Occupied housing units: Owner occupied: Householder 45 to 54 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh55to64y	Occupied housing units: Owner occupied: Householder 55 to 64 years:
+OcpHsUnt_OwnerOcp_Hh55to64y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh55to64y_Mvd95to98	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh55to64y_Mvd90to94	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh55to64y_Mvd80to89	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh55to64y_Mvd70to79	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh55to64y_MvdLte69	Occupied housing units: Owner occupied: Householder 55 to 64 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_Hh65to74y	Occupied housing units: Owner occupied: Householder 65 to 74 years:
+OcpHsUnt_OwnerOcp_Hh65to74y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_Hh65to74y_Mvd95to98	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_Hh65to74y_Mvd90to94	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_Hh65to74y_Mvd80to89	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_Hh65to74y_Mvd70to79	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_Hh65to74y_MvdLte69	Occupied housing units: Owner occupied: Householder 65 to 74 years: Moved in 1969 or earlier
+OcpHsUnt_OwnerOcp_HhGte75y	Occupied housing units: Owner occupied: Householder 75 years and over:
+OcpHsUnt_OwnerOcp_HhGte75y_Mvd99toMar2000	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1999 to March 2000
+OcpHsUnt_OwnerOcp_HhGte75y_Mvd95to98	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1995 to 1998
+OcpHsUnt_OwnerOcp_HhGte75y_Mvd90to94	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1990 to 1994
+OcpHsUnt_OwnerOcp_HhGte75y_Mvd80to89	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1980 to 1989
+OcpHsUnt_OwnerOcp_HhGte75y_Mvd70to79	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1970 to 1979
+OcpHsUnt_OwnerOcp_HhGte75y_MvdLte69	Occupied housing units: Owner occupied: Householder 75 years and over: Moved in 1969 or earlier
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_Hh15to24y	Occupied housing units: Renter occupied: Householder 15 to 24 years:
+OcpHsUnt_RentOcp_Hh15to24y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh15to24y_Mvd95to98	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh15to24y_Mvd90to94	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh15to24y_Mvd80to89	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh15to24y_Mvd70to79	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh15to24y_MvdLte69	Occupied housing units: Renter occupied: Householder 15 to 24 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh25to34y	Occupied housing units: Renter occupied: Householder 25 to 34 years:
+OcpHsUnt_RentOcp_Hh25to34y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh25to34y_Mvd95to98	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh25to34y_Mvd90to94	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh25to34y_Mvd80to89	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh25to34y_Mvd70to79	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh25to34y_MvdLte69	Occupied housing units: Renter occupied: Householder 25 to 34 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh35to44y	Occupied housing units: Renter occupied: Householder 35 to 44 years:
+OcpHsUnt_RentOcp_Hh35to44y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh35to44y_Mvd95to98	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh35to44y_Mvd90to94	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh35to44y_Mvd80to89	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh35to44y_Mvd70to79	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh35to44y_MvdLte69	Occupied housing units: Renter occupied: Householder 35 to 44 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh45to54y	Occupied housing units: Renter occupied: Householder 45 to 54 years:
+OcpHsUnt_RentOcp_Hh45to54y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh45to54y_Mvd95to98	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh45to54y_Mvd90to94	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh45to54y_Mvd80to89	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh45to54y_Mvd70to79	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh45to54y_MvdLte69	Occupied housing units: Renter occupied: Householder 45 to 54 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh55to64y	Occupied housing units: Renter occupied: Householder 55 to 64 years:
+OcpHsUnt_RentOcp_Hh55to64y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh55to64y_Mvd95to98	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh55to64y_Mvd90to94	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh55to64y_Mvd80to89	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh55to64y_Mvd70to79	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh55to64y_MvdLte69	Occupied housing units: Renter occupied: Householder 55 to 64 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_Hh65to74y	Occupied housing units: Renter occupied: Householder 65 to 74 years:
+OcpHsUnt_RentOcp_Hh65to74y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_Hh65to74y_Mvd95to98	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_Hh65to74y_Mvd90to94	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_Hh65to74y_Mvd80to89	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_Hh65to74y_Mvd70to79	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_Hh65to74y_MvdLte69	Occupied housing units: Renter occupied: Householder 65 to 74 years: Moved in 1969 or earlier
+OcpHsUnt_RentOcp_HhGte75y	Occupied housing units: Renter occupied: Householder 75 years and over:
+OcpHsUnt_RentOcp_HhGte75y_Mvd99toMar2000	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1999 to March 2000
+OcpHsUnt_RentOcp_HhGte75y_Mvd95to98	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1995 to 1998
+OcpHsUnt_RentOcp_HhGte75y_Mvd90to94	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1990 to 1994
+OcpHsUnt_RentOcp_HhGte75y_Mvd80to89	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1980 to 1989
+OcpHsUnt_RentOcp_HhGte75y_Mvd70to79	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1970 to 1979
+OcpHsUnt_RentOcp_HhGte75y_MvdLte69	Occupied housing units: Renter occupied: Householder 75 years and over: Moved in 1969 or earlier

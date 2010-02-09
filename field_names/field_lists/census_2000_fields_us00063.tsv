@@ -1,0 +1,173 @@
+ZipCode	Zip Code
+LogRecNum	Logical Record Number
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_FamHH	Occupied housing units: Owner occupied: Family households:
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam	Occupied housing units: Owner occupied: Family households: Married-couple family:
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam_WOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Married-couple family: With own children under 18 years:
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam_WOwnChldLt18y_Lt6yOnly	Occupied housing units: Owner occupied: Family households: Married-couple family: With own children under 18 years: Under 6 years only
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam_WOwnChldLt18y_Lt6and6to17y	Occupied housing units: Owner occupied: Family households: Married-couple family: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam_WOwnChldLt18y_6to17yOnly	Occupied housing units: Owner occupied: Family households: Married-couple family: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_OwnerOcp_FamHH_MrdCplFam_NoOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Married-couple family: No own children under 18 years
+OcpHsUnt_OwnerOcp_FamHH_OthFam	Occupied housing units: Owner occupied: Family households: Other family:
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present:
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years:
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6y_253	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: Under 6 years only
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6a_254	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_6to1_255	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_OwnerOcp_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Other family: Male householder, no wife present: No own children under 18 years
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present:
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years:
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6y_256	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: Under 6 years only
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6a_257	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_6to1_258	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_OwnerOcp_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Occupied housing units: Owner occupied: Family households: Other family: Female householder, no husband present: No own children under 18 years
+OcpHsUnt_OwnerOcp_NFamHH	Occupied housing units: Owner occupied: Nonfamily households:
+OcpHsUnt_OwnerOcp_NFamHH_HhLiviAln	Occupied housing units: Owner occupied: Nonfamily households: Householder living alone:
+OcpHsUnt_OwnerOcp_NFamHH_HhLiviAln_MleHh	Occupied housing units: Owner occupied: Nonfamily households: Householder living alone: Male householder
+OcpHsUnt_OwnerOcp_NFamHH_HhLiviAln_FemHh	Occupied housing units: Owner occupied: Nonfamily households: Householder living alone: Female householder
+OcpHsUnt_OwnerOcp_NFamHH_HhNotLiv	Occupied housing units: Owner occupied: Nonfamily households: Householder not living alone
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_FamHH	Occupied housing units: Renter occupied: Family households:
+OcpHsUnt_RentOcp_FamHH_MrdCplFam	Occupied housing units: Renter occupied: Family households: Married-couple family:
+OcpHsUnt_RentOcp_FamHH_MrdCplFam_WOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Married-couple family: With own children under 18 years:
+OcpHsUnt_RentOcp_FamHH_MrdCplFam_WOwnChldLt18y_Lt6yOnly	Occupied housing units: Renter occupied: Family households: Married-couple family: With own children under 18 years: Under 6 years only
+OcpHsUnt_RentOcp_FamHH_MrdCplFam_WOwnChldLt18y_Lt6and6to17y	Occupied housing units: Renter occupied: Family households: Married-couple family: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_RentOcp_FamHH_MrdCplFam_WOwnChldLt18y_6to17yOnly	Occupied housing units: Renter occupied: Family households: Married-couple family: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_RentOcp_FamHH_MrdCplFam_NoOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Married-couple family: No own children under 18 years
+OcpHsUnt_RentOcp_FamHH_OthFam	Occupied housing units: Renter occupied: Family households: Other family:
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present:
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years:
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6yOnly	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: Under 6 years only
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_Lt6an_259	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife_WOwnChldLt18y_6to17_260	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_RentOcp_FamHH_OthFam_MleHhNoWife_NoOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Other family: Male householder, no wife present: No own children under 18 years
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present:
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years:
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6yOnly	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: Under 6 years only
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_Lt6an_261	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: Under 6 and 6 to 17 years
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb_WOwnChldLt18y_6to17_262	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present: With own children under 18 years: 6 to 17 years only
+OcpHsUnt_RentOcp_FamHH_OthFam_FemHhNoHusb_NoOwnChldLt18y	Occupied housing units: Renter occupied: Family households: Other family: Female householder, no husband present: No own children under 18 years
+OcpHsUnt_RentOcp_NFamHH	Occupied housing units: Renter occupied: Nonfamily households:
+OcpHsUnt_RentOcp_NFamHH_HhLiviAln	Occupied housing units: Renter occupied: Nonfamily households: Householder living alone:
+OcpHsUnt_RentOcp_NFamHH_HhLiviAln_MleHh	Occupied housing units: Renter occupied: Nonfamily households: Householder living alone: Male householder
+OcpHsUnt_RentOcp_NFamHH_HhLiviAln_FemHh	Occupied housing units: Renter occupied: Nonfamily households: Householder living alone: Female householder
+OcpHsUnt_RentOcp_NFamHH_HhNotLiv	Occupied housing units: Renter occupied: Nonfamily households: Householder not living alone
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_1pHH	Occupied housing units: Owner occupied: 1-person household:
+OcpHsUnt_OwnerOcp_1pHH_Hh15to24y	Occupied housing units: Owner occupied: 1-person household: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_1pHH_Hh25to34y	Occupied housing units: Owner occupied: 1-person household: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_1pHH_Hh35to44y	Occupied housing units: Owner occupied: 1-person household: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_1pHH_Hh45to54y	Occupied housing units: Owner occupied: 1-person household: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_1pHH_Hh55to64y	Occupied housing units: Owner occupied: 1-person household: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_1pHH_Hh65to74y	Occupied housing units: Owner occupied: 1-person household: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_1pHH_HhGte75y	Occupied housing units: Owner occupied: 1-person household: Householder 75 years and over
+OcpHsUnt_OwnerOcp_Gte2pHH	Occupied housing units: Owner occupied: 2-or-more person household:
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh15to24y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 15 to 24 years
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh25to34y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 25 to 34 years
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh35to44y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 35 to 44 years
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh45to54y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 45 to 54 years
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh55to64y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 55 to 64 years
+OcpHsUnt_OwnerOcp_Gte2pHH_Hh65to74y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 65 to 74 years
+OcpHsUnt_OwnerOcp_Gte2pHH_HhGte75y	Occupied housing units: Owner occupied: 2-or-more person household: Householder 75 years and over
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_1pHH	Occupied housing units: Renter occupied: 1-person household:
+OcpHsUnt_RentOcp_1pHH_Hh15to24y	Occupied housing units: Renter occupied: 1-person household: Householder 15 to 24 years
+OcpHsUnt_RentOcp_1pHH_Hh25to34y	Occupied housing units: Renter occupied: 1-person household: Householder 25 to 34 years
+OcpHsUnt_RentOcp_1pHH_Hh35to44y	Occupied housing units: Renter occupied: 1-person household: Householder 35 to 44 years
+OcpHsUnt_RentOcp_1pHH_Hh45to54y	Occupied housing units: Renter occupied: 1-person household: Householder 45 to 54 years
+OcpHsUnt_RentOcp_1pHH_Hh55to64y	Occupied housing units: Renter occupied: 1-person household: Householder 55 to 64 years
+OcpHsUnt_RentOcp_1pHH_Hh65to74y	Occupied housing units: Renter occupied: 1-person household: Householder 65 to 74 years
+OcpHsUnt_RentOcp_1pHH_HhGte75y	Occupied housing units: Renter occupied: 1-person household: Householder 75 years and over
+OcpHsUnt_RentOcp_Gte2pHH	Occupied housing units: Renter occupied: 2-or-more person household:
+OcpHsUnt_RentOcp_Gte2pHH_Hh15to24y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 15 to 24 years
+OcpHsUnt_RentOcp_Gte2pHH_Hh25to34y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 25 to 34 years
+OcpHsUnt_RentOcp_Gte2pHH_Hh35to44y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 35 to 44 years
+OcpHsUnt_RentOcp_Gte2pHH_Hh45to54y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 45 to 54 years
+OcpHsUnt_RentOcp_Gte2pHH_Hh55to64y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 55 to 64 years
+OcpHsUnt_RentOcp_Gte2pHH_Hh65to74y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 65 to 74 years
+OcpHsUnt_RentOcp_Gte2pHH_HhGte75y	Occupied housing units: Renter occupied: 2-or-more person household: Householder 75 years and over
+OcpHsUnt_Tot	Occupied housing units: Total:
+OcpHsUnt_OwnerOcp	Occupied housing units: Owner occupied:
+OcpHsUnt_OwnerOcp_1pHH	Occupied housing units: Owner occupied: 1-person household:
+OcpHsUnt_OwnerOcp_1pHH_1DtchdorAtchd	Occupied housing units: Owner occupied: 1-person household: 1, detached or attached
+OcpHsUnt_OwnerOcp_1pHH_2to4	Occupied housing units: Owner occupied: 1-person household: 2 to 4
+OcpHsUnt_OwnerOcp_1pHH_5to19	Occupied housing units: Owner occupied: 1-person household: 5 to 19
+OcpHsUnt_OwnerOcp_1pHH_20to49	Occupied housing units: Owner occupied: 1-person household: 20 to 49
+OcpHsUnt_OwnerOcp_1pHH_Gte50	Occupied housing units: Owner occupied: 1-person household: 50 or more
+OcpHsUnt_OwnerOcp_1pHH_MobHome	Occupied housing units: Owner occupied: 1-person household: Mobile home
+OcpHsUnt_OwnerOcp_1pHH_BoatRVvan	Occupied housing units: Owner occupied: 1-person household: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_2pHH	Occupied housing units: Owner occupied: 2-person household:
+OcpHsUnt_OwnerOcp_2pHH_1DtchdorAtchd	Occupied housing units: Owner occupied: 2-person household: 1, detached or attached
+OcpHsUnt_OwnerOcp_2pHH_2to4	Occupied housing units: Owner occupied: 2-person household: 2 to 4
+OcpHsUnt_OwnerOcp_2pHH_5to19	Occupied housing units: Owner occupied: 2-person household: 5 to 19
+OcpHsUnt_OwnerOcp_2pHH_20to49	Occupied housing units: Owner occupied: 2-person household: 20 to 49
+OcpHsUnt_OwnerOcp_2pHH_Gte50	Occupied housing units: Owner occupied: 2-person household: 50 or more
+OcpHsUnt_OwnerOcp_2pHH_MobHome	Occupied housing units: Owner occupied: 2-person household: Mobile home
+OcpHsUnt_OwnerOcp_2pHH_BoatRVvan	Occupied housing units: Owner occupied: 2-person household: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_3pHH	Occupied housing units: Owner occupied: 3-person household:
+OcpHsUnt_OwnerOcp_3pHH_1DtchdorAtchd	Occupied housing units: Owner occupied: 3-person household: 1, detached or attached
+OcpHsUnt_OwnerOcp_3pHH_2to4	Occupied housing units: Owner occupied: 3-person household: 2 to 4
+OcpHsUnt_OwnerOcp_3pHH_5to19	Occupied housing units: Owner occupied: 3-person household: 5 to 19
+OcpHsUnt_OwnerOcp_3pHH_20to49	Occupied housing units: Owner occupied: 3-person household: 20 to 49
+OcpHsUnt_OwnerOcp_3pHH_Gte50	Occupied housing units: Owner occupied: 3-person household: 50 or more
+OcpHsUnt_OwnerOcp_3pHH_MobHome	Occupied housing units: Owner occupied: 3-person household: Mobile home
+OcpHsUnt_OwnerOcp_3pHH_BoatRVvan	Occupied housing units: Owner occupied: 3-person household: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_4pHH	Occupied housing units: Owner occupied: 4-person household:
+OcpHsUnt_OwnerOcp_4pHH_1DtchdorAtchd	Occupied housing units: Owner occupied: 4-person household: 1, detached or attached
+OcpHsUnt_OwnerOcp_4pHH_2to4	Occupied housing units: Owner occupied: 4-person household: 2 to 4
+OcpHsUnt_OwnerOcp_4pHH_5to19	Occupied housing units: Owner occupied: 4-person household: 5 to 19
+OcpHsUnt_OwnerOcp_4pHH_20to49	Occupied housing units: Owner occupied: 4-person household: 20 to 49
+OcpHsUnt_OwnerOcp_4pHH_Gte50	Occupied housing units: Owner occupied: 4-person household: 50 or more
+OcpHsUnt_OwnerOcp_4pHH_MobHome	Occupied housing units: Owner occupied: 4-person household: Mobile home
+OcpHsUnt_OwnerOcp_4pHH_BoatRVvan	Occupied housing units: Owner occupied: 4-person household: Boat, RV, van, etc.
+OcpHsUnt_OwnerOcp_Gte5pHH	Occupied housing units: Owner occupied: 5-or-more person household:
+OcpHsUnt_OwnerOcp_Gte5pHH_1DtchdorAtchd	Occupied housing units: Owner occupied: 5-or-more person household: 1, detached or attached
+OcpHsUnt_OwnerOcp_Gte5pHH_2to4	Occupied housing units: Owner occupied: 5-or-more person household: 2 to 4
+OcpHsUnt_OwnerOcp_Gte5pHH_5to19	Occupied housing units: Owner occupied: 5-or-more person household: 5 to 19
+OcpHsUnt_OwnerOcp_Gte5pHH_20to49	Occupied housing units: Owner occupied: 5-or-more person household: 20 to 49
+OcpHsUnt_OwnerOcp_Gte5pHH_Gte50	Occupied housing units: Owner occupied: 5-or-more person household: 50 or more
+OcpHsUnt_OwnerOcp_Gte5pHH_MobHome	Occupied housing units: Owner occupied: 5-or-more person household: Mobile home
+OcpHsUnt_OwnerOcp_Gte5pHH_BoatRVvan	Occupied housing units: Owner occupied: 5-or-more person household: Boat, RV, van, etc.
+OcpHsUnt_RentOcp	Occupied housing units: Renter occupied:
+OcpHsUnt_RentOcp_1pHH	Occupied housing units: Renter occupied: 1-person household:
+OcpHsUnt_RentOcp_1pHH_1DtchdorAtchd	Occupied housing units: Renter occupied: 1-person household: 1, detached or attached
+OcpHsUnt_RentOcp_1pHH_2to4	Occupied housing units: Renter occupied: 1-person household: 2 to 4
+OcpHsUnt_RentOcp_1pHH_5to19	Occupied housing units: Renter occupied: 1-person household: 5 to 19
+OcpHsUnt_RentOcp_1pHH_20to49	Occupied housing units: Renter occupied: 1-person household: 20 to 49
+OcpHsUnt_RentOcp_1pHH_Gte50	Occupied housing units: Renter occupied: 1-person household: 50 or more
+OcpHsUnt_RentOcp_1pHH_MobHome	Occupied housing units: Renter occupied: 1-person household: Mobile home
+OcpHsUnt_RentOcp_1pHH_BoatRVvan	Occupied housing units: Renter occupied: 1-person household: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_2pHH	Occupied housing units: Renter occupied: 2-person household:
+OcpHsUnt_RentOcp_2pHH_1DtchdorAtchd	Occupied housing units: Renter occupied: 2-person household: 1, detached or attached
+OcpHsUnt_RentOcp_2pHH_2to4	Occupied housing units: Renter occupied: 2-person household: 2 to 4
+OcpHsUnt_RentOcp_2pHH_5to19	Occupied housing units: Renter occupied: 2-person household: 5 to 19
+OcpHsUnt_RentOcp_2pHH_20to49	Occupied housing units: Renter occupied: 2-person household: 20 to 49
+OcpHsUnt_RentOcp_2pHH_Gte50	Occupied housing units: Renter occupied: 2-person household: 50 or more
+OcpHsUnt_RentOcp_2pHH_MobHome	Occupied housing units: Renter occupied: 2-person household: Mobile home
+OcpHsUnt_RentOcp_2pHH_BoatRVvan	Occupied housing units: Renter occupied: 2-person household: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_3pHH	Occupied housing units: Renter occupied: 3-person household:
+OcpHsUnt_RentOcp_3pHH_1DtchdorAtchd	Occupied housing units: Renter occupied: 3-person household: 1, detached or attached
+OcpHsUnt_RentOcp_3pHH_2to4	Occupied housing units: Renter occupied: 3-person household: 2 to 4
+OcpHsUnt_RentOcp_3pHH_5to19	Occupied housing units: Renter occupied: 3-person household: 5 to 19
+OcpHsUnt_RentOcp_3pHH_20to49	Occupied housing units: Renter occupied: 3-person household: 20 to 49
+OcpHsUnt_RentOcp_3pHH_Gte50	Occupied housing units: Renter occupied: 3-person household: 50 or more
+OcpHsUnt_RentOcp_3pHH_MobHome	Occupied housing units: Renter occupied: 3-person household: Mobile home
+OcpHsUnt_RentOcp_3pHH_BoatRVvan	Occupied housing units: Renter occupied: 3-person household: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_4pHH	Occupied housing units: Renter occupied: 4-person household:
+OcpHsUnt_RentOcp_4pHH_1DtchdorAtchd	Occupied housing units: Renter occupied: 4-person household: 1, detached or attached
+OcpHsUnt_RentOcp_4pHH_2to4	Occupied housing units: Renter occupied: 4-person household: 2 to 4
+OcpHsUnt_RentOcp_4pHH_5to19	Occupied housing units: Renter occupied: 4-person household: 5 to 19
+OcpHsUnt_RentOcp_4pHH_20to49	Occupied housing units: Renter occupied: 4-person household: 20 to 49
+OcpHsUnt_RentOcp_4pHH_Gte50	Occupied housing units: Renter occupied: 4-person household: 50 or more
+OcpHsUnt_RentOcp_4pHH_MobHome	Occupied housing units: Renter occupied: 4-person household: Mobile home
+OcpHsUnt_RentOcp_4pHH_BoatRVvan	Occupied housing units: Renter occupied: 4-person household: Boat, RV, van, etc.
+OcpHsUnt_RentOcp_Gte5pHH	Occupied housing units: Renter occupied: 5-or-more person household:
+OcpHsUnt_RentOcp_Gte5pHH_1DtchdorAtchd	Occupied housing units: Renter occupied: 5-or-more person household: 1, detached or attached
+OcpHsUnt_RentOcp_Gte5pHH_2to4	Occupied housing units: Renter occupied: 5-or-more person household: 2 to 4
+OcpHsUnt_RentOcp_Gte5pHH_5to19	Occupied housing units: Renter occupied: 5-or-more person household: 5 to 19
+OcpHsUnt_RentOcp_Gte5pHH_20to49	Occupied housing units: Renter occupied: 5-or-more person household: 20 to 49
+OcpHsUnt_RentOcp_Gte5pHH_Gte50	Occupied housing units: Renter occupied: 5-or-more person household: 50 or more
+OcpHsUnt_RentOcp_Gte5pHH_MobHome	Occupied housing units: Renter occupied: 5-or-more person household: Mobile home
+OcpHsUnt_RentOcp_Gte5pHH_BoatRVvan	Occupied housing units: Renter occupied: 5-or-more person household: Boat, RV, van, etc.
