@@ -3,6 +3,7 @@ require 'yaml'
 
 titles = 'package_titles.txt'
 field_path = './field_lists/'
+# temp_path = '/data/IPCensus/fields/'
 # data_path = '/Users/doncarlo/data/IPCensus/'
 data_path = '/data/IPCensus/'
 
@@ -86,6 +87,7 @@ This product includes GeoLite data created by MaxMind, available from http://max
     'license'=>'Open Database License (ODbL)',
     'owner'=>'MonkeywrenchConsultancy',
     'files_for_upload'=>[
+      "README-infochimps",
       "fields_ancestry.tsv", 
       "fields_countries.tsv", 
       "fields_long_names.tsv", 
@@ -131,20 +133,22 @@ puts collection.to_yaml
 
 Dir.foreach(field_path) do |filename|
   if filename =~ /census_2000_fields_us000\d\d\.tsv/
+    current_yaml = []
     current_yaml = base_yaml.dup
     current_yaml[0]['dataset']['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
     current_yaml[0]['dataset']['payloads'][0]['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
     current_yaml[0]['dataset']['payloads'][0]['description'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][1]
+    current_yaml[0]['dataset']['payloads'][0]['schema_fields'] = []
     File.open(field_path + "census_2000_fields_us000" + filename[24..25] + ".tsv").each do |line|
       line.chomp!
       row = line.dup.split("\t")
       warn "Long title: #{row[1].length}\t#{row[1]}" if row[1].length > 255
       current_yaml[0]['dataset']['payloads'][0]['schema_fields'] += [{'handle'=>row[0],'title'=>row[1]}]
     end
+    current_yaml[0]['dataset']['payloads'][0]['files_for_upload'][7..-1] = nil
     current_yaml[0]['dataset']['payloads'][0]['files_for_upload'] += ["census_2000_sf3_zip_us000" + filename[24..25] + ".tsv"]
     # yaml_file = File.open(data_path + "census_2000_sf3_zip_us000" + filename[24..25] + ".yaml", "w")
     # yaml_file << current_yaml.to_yaml
   end
+  # puts current_yaml.to_yaml
 end
-
-puts current_yaml.to_yaml
