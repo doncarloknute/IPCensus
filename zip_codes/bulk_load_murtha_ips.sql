@@ -1,0 +1,83 @@
+-- --
+-- -- Table to hold original data from murtha and our census data
+-- --
+-- DROP TABLE IF EXISTS `ip_log_murtha`;
+-- CREATE          TABLE  `ip_log_murtha` (
+--   `id`               INT            unsigned NOT NULL AUTO_INCREMENT,
+--   `ip_address`       int(10)        unsigned NOT NULL,
+--   `ip_address_12`    SMALLINT       unsigned NOT NULL,
+--   `clicks`           TINYINT        unsigned NOT NULL,
+--   `orig_state`       VARCHAR(9)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `orig_city`        VARCHAR(25)    CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `orig_postal_code` VARCHAR(5)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   
+--   `location_id`      int(11)         NOT NULL,
+-- 
+--   `country_code`     varchar(50)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `region_code`      varchar(50)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `city`             varchar(50)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `postal_code`      varchar(50)     CHARACTER SET `ascii` COLLATE `ascii_general_ci` default NULL,
+--   `latitude`         float           default NULL,                                                 
+--   `longitude`        float           default NULL,                                                 
+--   `metro_code`       int(11)         default NULL,                                                 
+--   `area_code`        int(11)         default NULL,                                                 
+--   
+--   INDEX       ip_address_12 (ip_address_12),
+--   INDEX  (`ip_address`),
+--   PRIMARY KEY (`id`)
+-- ) ENGINE=MYISAM DEFAULT CHARSET=utf8
+-- ;
+
+-- --
+-- -- Bulk Load from parsed .tsv
+-- --
+-- 
+-- TRUNCATE TABLE ip_log_murtha;
+-- ALTER TABLE ip_log_murtha DISABLE KEYS;
+-- LOAD DATA INFILE '/Users/flip/ics/projects/IPCensus/log_ips/from_murtha-parsed.tsv' 
+--    INTO TABLE ip_log_murtha
+--    FIELDS TERMINATED BY "\t" 
+--    (ip_address, ip_address_12, clicks, orig_state, orig_city, orig_postal_code)
+-- ;
+-- SELECT COUNT(*), NOW(), 'ip_log_murtha', 'done load, enabling indexes' FROM ip_log_murtha ;
+-- ALTER TABLE ip_log_murtha ENABLE KEYS;
+-- SELECT COUNT(*), NOW(), 'ip_log_murtha', 'done import' FROM ip_log_murtha ;
+
+-- --
+-- -- Join on ip_blocks table to get location_id.
+-- --
+-- -- We're using the /20 (top 12 bits) because MySQL refuses to use the index on
+-- -- ip_blocks, which is kinda sucky of it to not do.
+-- -- 
+-- -- EXPLAIN SELECT * FROM ip_log_murtha lgm, ip_blocks b
+-- UPDATE ip_log_murtha lgm, ip_blocks b SET lgm.location_id = b.location_id
+--   WHERE (lgm.ip_address BETWEEN b.start_ip AND b.end_ip) AND (lgm.ip_address_12 = b.start_ip_12)
+-- ;
+-- SELECT 'ip_log_murtha', 'fast-ish ip resolution done', COUNT(*), NOW() FROM ip_log_murtha ;
+-- UPDATE
+--   ip_log_murtha lgm, ip_blocks b
+--   SET lgm.location_id = b.location_id
+--   WHERE (lgm.ip_address BETWEEN b.start_ip AND b.end_ip) AND (lgm.location_id = 0)
+-- ;
+-- SELECT 'ip_log_murtha', 'all ip resolution done', COUNT(*), NOW() FROM ip_log_murtha ;
+
+-- --
+-- -- Take location from locations table
+-- --
+-- UPDATE
+--  ip_log_murtha lgm, locations l
+--   SET
+--     lgm.country_code 	= l.country_code,
+--     lgm.region_code 	= l.region_code,
+--     lgm.city     	= l.city,
+--     lgm.postal_code 	= l.postal_code,
+--     lgm.latitude 	= l.latitude,
+--     lgm.longitude 	= l.longitude,
+--     lgm.metro_code 	= l.metro_code,
+--     lgm.area_code       = l.area_code
+--   WHERE lgm.location_id = l.id
+--     ;
+-- 
+-- SELECT 'ip_log_murtha', 'created table, updated location', COUNT(*), NOW() FROM ip_log_murtha ;
+
+SELECT INTO OUTFILE '/Users/flip/ics/projects/IPCensus/log_ips/from_murtha-parsed.tsv' 

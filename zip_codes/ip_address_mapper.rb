@@ -4,10 +4,11 @@ require 'dm-core'
 require 'dm-types'
 require 'configliere'
 require 'digest/md5'
-Settings.use :config_file, :define
+Settings.use :config_file, :define, :commandline
 Settings.read 'ip_census.yaml'  # ~/.configliere/ip_census.yaml
-Settings.define :db_uri,  :description => "Base URI for database -- eg mysql://USERNAME:PASSWORD@localhost:9999"
-Settings.define :db_name, :description => "Database name to use"
+Settings.define :db_uri,  :description => "Base URI for database -- eg mysql://USERNAME:PASSWORD@localhost:9999", :required => true
+Settings.define :db_name, :description => "Database name to use", :required => true
+Settings.resolve!
 
 geoip_path = '../geoip_ripd/'
 ip_log_path = '../log_ips/'
