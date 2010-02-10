@@ -80,4 +80,7 @@
 -- 
 -- SELECT 'ip_log_murtha', 'created table, updated location', COUNT(*), NOW() FROM ip_log_murtha ;
 
-SELECT INTO OUTFILE '/Users/flip/ics/projects/IPCensus/log_ips/from_murtha-parsed.tsv' 
+SELECT * FROM ip_log_murtha
+   INTO OUTFILE '/Users/flip/ics/projects/IPCensus/log_ips/from_murtha-resolved.tsv' 
+    FIELDS TERMINATED BY "\t" ENCLOSED BY "" ESCAPED BY ""
+    ;
