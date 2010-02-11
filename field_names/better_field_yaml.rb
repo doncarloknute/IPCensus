@@ -1,7 +1,8 @@
 #!/usr/bin/env ruby
 require 'yaml'
 
-titles = 'package_titles.txt'
+# titles = 'package_titles.txt'
+titles = 'titles_prices.tsv'
 field_path = './field_lists/'
 # temp_path = '/data/IPCensus/fields/'
 # data_path = '/Users/doncarlo/data/IPCensus/'
@@ -13,10 +14,14 @@ File.open(titles).each do |line|
   line.chomp!
   row = line.dup.split("\t")
   package_filename = row[0].rstrip
-  package_title = row[1].rstrip
-  package_description = row[2].rstrip
-  puts row[0] if row[2] == nil
-  title_hash[package_filename] = [package_title, package_description] 
+  package_price = row[2].rstrip.to_i
+  dataset_title = row[3].rstrip
+  warn 'Long title: #{dataset_title}' if dataset_title.length > 100
+  package_title = dataset_title[41..-1]
+  warn 'Long title: #{package_title}' if package_title.length > 100
+  package_description = row[4].rstrip
+  title_hash[package_filename] = [dataset_title, package_title, package_description, package_price]
+  # p title_hash[package_filename] 
 end
 
 
@@ -80,6 +85,7 @@ This product includes GeoLite data created by MaxMind, available from http://max
       ]
     }],
     'title'=>'',
+    'price'=>'',
     'fmt'=>'tsv',
     'protected'=>'true',
     'records_count'=> 32038 + 1356836, # lines in each census data file + lines in the IP to zip code file
@@ -137,8 +143,9 @@ Dir.foreach(field_path) do |filename|
     current_yaml = base_yaml.dup
     warn "Long title: #{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0].length}\t#{title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]}" if title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0].length > 100
     current_yaml[0]['dataset']['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
-    current_yaml[0]['dataset']['payloads'][0]['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][0]
-    current_yaml[0]['dataset']['payloads'][0]['description'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][1]
+    current_yaml[0]['dataset']['payloads'][0]['title'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][1]
+    current_yaml[0]['dataset']['payloads'][0]['description'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][2]
+    current_yaml[0]['dataset']['payloads'][0]['price'] = title_hash['census_2000_sf3_zip_us000' + filename[24..25]][3] * 100
     current_yaml[0]['dataset']['payloads'][0]['schema_fields'] = []
     File.open(field_path + "census_2000_fields_us000" + filename[24..25] + ".tsv").each do |line|
       line.chomp!
