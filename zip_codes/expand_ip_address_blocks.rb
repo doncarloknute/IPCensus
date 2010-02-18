@@ -5,9 +5,9 @@ require 'wukong'
 module IpCensus
   class IpBlocksMapper < Wukong::Streamer::RecordStreamer
 
-    def recordize line
-      line.gsub(/\"/, '').split(",", 3)
-    end
+#    def recordize line
+#      line.gsub(/\"/, '').split(",", 3)
+#    end
 
 
 
@@ -22,7 +22,7 @@ module IpCensus
 
     # Use the regex to break line into fields
     # Emit each record as flat line
-    def process start_ip, end_ip, location_id
+    def process start_ip, end_ip, old_dotted_start, old_dotted_end, *fields
       start_ip = start_ip.to_i
       end_ip   = end_ip.to_i
       start_ip_16 = start_ip >> 16
@@ -34,9 +34,9 @@ module IpCensus
           sub_start_ip,
           sub_end_ip,
           sub_block,
-          location_id,
           packed_ip_to_dotted_ip(sub_start_ip),
-          packed_ip_to_dotted_ip(sub_end_ip)
+          packed_ip_to_dotted_ip(sub_end_ip),
+          *fields
         ]
       end
     end
